@@ -1,0 +1,23 @@
+Printing
+PR 110/1
+PR 110/2
+PR 110/3
+PR 110/4
+CR 120/4
+CR 120/1
+CR 120/2
+CR 120/3
+CC 125/3
+CC 125/2
+CC 125/1
+CC 125/4
+SR 130/3
+SR 130/2
+SR 130/4
+SR 130/1
+SR 130/5
+FR 100/1 QualityOfBathymetricData  QualityOfBathymetricData:{  categoryOfTemporalVariation=5, dataAssessment=1, featuresDetected:{  leastDepthOfDetectedFeaturesMeasured=0, significantFeaturesDetected=0, }, fullSeafloorCoverageAchieved=0, horizontalPositionUncertainty:{  uncertaintyFixed=500, }, verticalUncertainty:{  uncertaintyFixed=2, uncertaintyVariableFactor=0.05, }, },
+FR 100/2 NavigationalSystemOfMarks  NavigationalSystemOfMarks:{  marksNavigationalSystemOf=2, },
+FR 100/3 DataCoverage  DataCoverage:{  maximumDisplayScale=90000, minimumDisplayScale=180000, },
+FR 100/4 LandArea 
+FR 100/5 DepthArea  DepthArea:{  depthRangeMinimumValue=-5, depthRangeMaximumValue=0, },

@@ -1,0 +1,1348 @@
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Printing
+IR 150/1 NauticalInformation NauticalInformation:{  information:{  text=Micklefirth Port Limit, }, },
+IR 150/2 NauticalInformation NauticalInformation:{  information:{  text=Use of Hood Island Firing Range is indicated by a display of red flags or red lights. See Byelaws, Practise and Exercise Areas(PEXA) Charts and Annual Notice to Mariners No 5., }, },
+IR 150/3 NauticalInformation NauticalInformation:{  information:{  text=Target, }, },
+IR 150/4 SpatialQuality SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+IR 150/5 SpatialQuality SpatialQuality:{  qualityOfHorizontalMeasurement=4, },
+IR 150/6 SpatialQuality SpatialQuality:{  qualityOfHorizontalMeasurement=5, },
+PR 110/106
+PR 110/157
+PR 110/158
+PR 110/159(150/6) SpatialQuality:{  qualityOfHorizontalMeasurement=5, },
+PR 110/107
+PR 110/108
+PR 110/109
+PR 110/110
+PR 110/111
+PR 110/112
+PR 110/113
+PR 110/114
+PR 110/115
+PR 110/116
+PR 110/186
+PR 110/117
+PR 110/118
+PR 110/119
+PR 110/120
+PR 110/121
+PR 110/122
+PR 110/123
+PR 110/124
+PR 110/125
+PR 110/126
+PR 110/127
+PR 110/128
+PR 110/129
+PR 110/130
+PR 110/131(150/5) SpatialQuality:{  qualityOfHorizontalMeasurement=4, },
+PR 110/132
+PR 110/133
+PR 110/134
+PR 110/135
+PR 110/136
+PR 110/137
+PR 110/138
+PR 110/139
+PR 110/140
+PR 110/141
+PR 110/142
+PR 110/143
+PR 110/144
+PR 110/145
+PR 110/146
+PR 110/147
+PR 110/148
+PR 110/149
+PR 110/150
+PR 110/151
+PR 110/152
+PR 110/153
+PR 110/154
+PR 110/155
+PR 110/156
+PR 110/365
+PR 110/366
+PR 110/362
+PR 110/363
+PR 110/364
+PR 110/367
+PR 110/194
+PR 110/195
+PR 110/196
+PR 110/197
+PR 110/1
+PR 110/2
+PR 110/3
+PR 110/4
+PR 110/5
+PR 110/6
+PR 110/7
+PR 110/8
+PR 110/9
+PR 110/10
+PR 110/11
+PR 110/12
+PR 110/13
+PR 110/14
+PR 110/15
+PR 110/16
+PR 110/17
+PR 110/18
+PR 110/19
+PR 110/20
+PR 110/21
+PR 110/22
+PR 110/23
+PR 110/24
+PR 110/25
+PR 110/26
+PR 110/27
+PR 110/28
+PR 110/29
+PR 110/30
+PR 110/31
+PR 110/32
+PR 110/33
+PR 110/34
+PR 110/35
+PR 110/36
+PR 110/37
+PR 110/38
+PR 110/39
+PR 110/40
+PR 110/41
+PR 110/42
+PR 110/43
+PR 110/44
+PR 110/45
+PR 110/46
+PR 110/47
+PR 110/48
+PR 110/49
+PR 110/50
+PR 110/51
+PR 110/52
+PR 110/53
+PR 110/54
+PR 110/55
+PR 110/56
+PR 110/57
+PR 110/58
+PR 110/59
+PR 110/60
+PR 110/61
+PR 110/62
+PR 110/63
+PR 110/64
+PR 110/65
+PR 110/66
+PR 110/67
+PR 110/68
+PR 110/69
+PR 110/70
+PR 110/71
+PR 110/72
+PR 110/73
+PR 110/74
+PR 110/75
+PR 110/76
+PR 110/77
+PR 110/78
+PR 110/79
+PR 110/80
+PR 110/81
+PR 110/82
+PR 110/83
+PR 110/84
+PR 110/85
+PR 110/86
+PR 110/87
+PR 110/88
+PR 110/89
+PR 110/90
+PR 110/91
+PR 110/92
+PR 110/93
+PR 110/94
+PR 110/95
+PR 110/96
+PR 110/97
+PR 110/98
+PR 110/99
+PR 110/100
+PR 110/101
+PR 110/102
+PR 110/103
+PR 110/104
+PR 110/105
+PR 110/160
+PR 110/161
+PR 110/162
+PR 110/163
+PR 110/164
+PR 110/165
+PR 110/166
+PR 110/167
+PR 110/168
+PR 110/169
+PR 110/170
+PR 110/171
+PR 110/172
+PR 110/173
+PR 110/174
+PR 110/175
+PR 110/176
+PR 110/177
+PR 110/178
+PR 110/179
+PR 110/180
+PR 110/181
+PR 110/182
+PR 110/183
+PR 110/184
+PR 110/185
+PR 110/187
+PR 110/188
+PR 110/189
+PR 110/190
+PR 110/191
+PR 110/192
+PR 110/193
+PR 110/198
+PR 110/199
+PR 110/200
+PR 110/201
+PR 110/202
+PR 110/203
+PR 110/204
+PR 110/205
+PR 110/206
+PR 110/207
+PR 110/208
+PR 110/209
+PR 110/210
+PR 110/211
+PR 110/212
+PR 110/213
+PR 110/214
+PR 110/215
+PR 110/216
+PR 110/217
+PR 110/218
+PR 110/219
+PR 110/220
+PR 110/221
+PR 110/222
+PR 110/223
+PR 110/224
+PR 110/225
+PR 110/226
+PR 110/227
+PR 110/228
+PR 110/229
+PR 110/230
+PR 110/231
+PR 110/232
+PR 110/233
+PR 110/234
+PR 110/235
+PR 110/236
+PR 110/237
+PR 110/238
+PR 110/239
+PR 110/240
+PR 110/241
+PR 110/242
+PR 110/243
+PR 110/244
+PR 110/245
+PR 110/246
+PR 110/247
+PR 110/248
+PR 110/249
+PR 110/250
+PR 110/251
+PR 110/252
+PR 110/253
+PR 110/254
+PR 110/255
+PR 110/256
+PR 110/257
+PR 110/258
+PR 110/259
+PR 110/260
+PR 110/261
+PR 110/262
+PR 110/263
+PR 110/264
+PR 110/265
+PR 110/266
+PR 110/267
+PR 110/268
+PR 110/269
+PR 110/270
+PR 110/271
+PR 110/272
+PR 110/273
+PR 110/274
+PR 110/275
+PR 110/276
+PR 110/277
+PR 110/278
+PR 110/279
+PR 110/280
+PR 110/281
+PR 110/282
+PR 110/283
+PR 110/284
+PR 110/285
+PR 110/286
+PR 110/287
+PR 110/288
+PR 110/289
+PR 110/290
+PR 110/291
+PR 110/292
+PR 110/293
+PR 110/294
+PR 110/295
+PR 110/296
+PR 110/297
+PR 110/298
+PR 110/299
+PR 110/300
+PR 110/301
+PR 110/302
+PR 110/303
+PR 110/304
+PR 110/305
+PR 110/306
+PR 110/307
+PR 110/308
+PR 110/309
+PR 110/310
+PR 110/311
+PR 110/312
+PR 110/313
+PR 110/314
+PR 110/315
+PR 110/316
+PR 110/317
+PR 110/318
+PR 110/319
+PR 110/320
+PR 110/321
+PR 110/322
+PR 110/323
+PR 110/324
+PR 110/325
+PR 110/326
+PR 110/327
+PR 110/328
+PR 110/329
+PR 110/330
+PR 110/331
+PR 110/332
+PR 110/333
+PR 110/334
+PR 110/335
+PR 110/336
+PR 110/337
+PR 110/338
+PR 110/339
+PR 110/340
+PR 110/341
+PR 110/342
+PR 110/343
+PR 110/344
+PR 110/345
+PR 110/346
+PR 110/347
+PR 110/348
+PR 110/349
+PR 110/350
+PR 110/351
+PR 110/352
+PR 110/353
+PR 110/354
+PR 110/355
+PR 110/356
+PR 110/357
+PR 110/358
+PR 110/359
+PR 110/360
+PR 110/361
+CR 120/83
+CR 120/176(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/241(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/276
+CR 120/365
+CR 120/87(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/117
+CR 120/47
+CR 120/225(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/51
+CR 120/228(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/269
+CR 120/362
+CR 120/55
+CR 120/232(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/59
+CR 120/109
+CR 120/63
+CR 120/67
+CR 120/71
+CR 120/273(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/315(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/75
+CR 120/113
+CR 120/172(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/239
+CR 120/79
+CR 120/366
+CR 120/280(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/368
+CR 120/121
+CR 120/247
+CR 120/371
+CR 120/92(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/322
+CR 120/352
+CR 120/324
+CR 120/326
+CR 120/95
+CR 120/125
+CR 120/183(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/98
+CR 120/187
+CR 120/192
+CR 120/250(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/128
+CR 120/251
+CR 120/284
+CR 120/196
+CR 120/375
+CR 120/289
+CR 120/255(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/295
+CR 120/130
+CR 120/199(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/134(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/258
+CR 120/299
+CR 120/137(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/205(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/138(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/141(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/145(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/149(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/154(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/335
+CR 120/379
+CR 120/104(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/158(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/262
+CR 120/339
+CR 120/108
+CR 120/160
+CR 120/3
+CR 120/211(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/341
+CR 120/7
+CR 120/304
+CR 120/11
+CR 120/357
+CR 120/15
+CR 120/164(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/305
+CR 120/358
+CR 120/19
+CR 120/23
+CR 120/27
+CR 120/214(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/346
+CR 120/31
+CR 120/309
+CR 120/35
+CR 120/39
+CR 120/43
+CR 120/169
+CR 120/221(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/84
+CR 120/88(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/177
+CR 120/242(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/277
+CR 120/316
+CR 120/48
+CR 120/52
+CR 120/229(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/56
+CR 120/233(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/270(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/60
+CR 120/64(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/110
+CR 120/68
+CR 120/72
+CR 120/274(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/76
+CR 120/240
+CR 120/80
+CR 120/114
+CR 120/173(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/118
+CR 120/318
+CR 120/244
+CR 120/281
+CR 120/122
+CR 120/93(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/180(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/184(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/99
+CR 120/282(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/189
+CR 120/193(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/373
+CR 120/197
+CR 120/252(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/286
+CR 120/290
+CR 120/129(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/293
+CR 120/256(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/296
+CR 120/131
+CR 120/200(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/328
+CR 120/135(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/330
+CR 120/203
+CR 120/300
+CR 120/332
+CR 120/355
+CR 120/259(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/139(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/206(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/142(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/207
+CR 120/146(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/150(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/261
+CR 120/151(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/155(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/336
+CR 120/380
+CR 120/105(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/263(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/4
+CR 120/161(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/303
+CR 120/342
+CR 120/8
+CR 120/212(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/356
+CR 120/12
+CR 120/265(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/16
+CR 120/165(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/20
+CR 120/24
+CR 120/343
+CR 120/28(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/215(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/306
+CR 120/347
+CR 120/32
+CR 120/310
+CR 120/350
+CR 120/36
+CR 120/40
+CR 120/218(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/311
+CR 120/44
+CR 120/170
+CR 120/222(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/85
+CR 120/115
+CR 120/89(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/49
+CR 120/226(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/53
+CR 120/230(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/363
+CR 120/57
+CR 120/234(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/61
+CR 120/271
+CR 120/65(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/69
+CR 120/111
+CR 120/73
+CR 120/77
+CR 120/237
+CR 120/81
+CR 120/174(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/364
+CR 120/178
+CR 120/243(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/278(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/119
+CR 120/382
+CR 120/367
+CR 120/245
+CR 120/369
+CR 120/320
+CR 120/370
+CR 120/94
+CR 120/123
+CR 120/321
+CR 120/323
+CR 120/181(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/248(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/325
+CR 120/96
+CR 120/185
+CR 120/100
+CR 120/126
+CR 120/190(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/194
+CR 120/374
+CR 120/253(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/287
+CR 120/291
+CR 120/257
+CR 120/132
+CR 120/201
+CR 120/136(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/260(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/140(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/143(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/301
+CR 120/147(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/208
+CR 120/152(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/377
+CR 120/102(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/156(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/337
+CR 120/381
+CR 120/106
+CR 120/159
+CR 120/1
+CR 120/210(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/264(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/5
+CR 120/9
+CR 120/162
+CR 120/13
+CR 120/213(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/17
+CR 120/266(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/21
+CR 120/166(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/25
+CR 120/344
+CR 120/29
+CR 120/307
+CR 120/348
+CR 120/33
+CR 120/216(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/37
+CR 120/41
+CR 120/167
+CR 120/219(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/312
+CR 120/360
+CR 120/45
+CR 120/223(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/267(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/361
+CR 120/86
+CR 120/116
+CR 120/90(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/317
+CR 120/50
+CR 120/227(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/54
+CR 120/231(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/314
+CR 120/58
+CR 120/235(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/62
+CR 120/66(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/272
+CR 120/70
+CR 120/236(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/74
+CR 120/112
+CR 120/78
+CR 120/238
+CR 120/275(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/82
+CR 120/175(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/279
+CR 120/319
+CR 120/120
+CR 120/246
+CR 120/179(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/91
+CR 120/351
+CR 120/124
+CR 120/182
+CR 120/97
+CR 120/186
+CR 120/101
+CR 120/188
+CR 120/191
+CR 120/249(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/127
+CR 120/283
+CR 120/195
+CR 120/372
+CR 120/285
+CR 120/288
+CR 120/254(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/292
+CR 120/376
+CR 120/294
+CR 120/198(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/297
+CR 120/133
+CR 120/327
+CR 120/353
+CR 120/329
+CR 120/202(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/298
+CR 120/331
+CR 120/354
+CR 120/333
+CR 120/204(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/144(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/148(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/302
+CR 120/153(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/334
+CR 120/378
+CR 120/103(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/157(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/209(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/338
+CR 120/107
+CR 120/2
+CR 120/340
+CR 120/6
+CR 120/10
+CR 120/14
+CR 120/163(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/18
+CR 120/359
+CR 120/22
+CR 120/26
+CR 120/345
+CR 120/30
+CR 120/308
+CR 120/349
+CR 120/34
+CR 120/217(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/38
+CR 120/42
+CR 120/168
+CR 120/220(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/313
+CR 120/46
+CR 120/171
+CR 120/224(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/268(150/4) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CC 125/6
+CC 125/62
+CC 125/46
+CC 125/59
+CC 125/60
+CC 125/14
+CC 125/1
+CC 125/31
+CC 125/63
+CC 125/64
+CC 125/107
+CC 125/77
+CC 125/79
+CC 125/2
+CC 125/18
+CC 125/19
+CC 125/101
+CC 125/8
+CC 125/50
+CC 125/9
+CC 125/41
+CC 125/11
+CC 125/72
+CC 125/52
+CC 125/42
+CC 125/43
+CC 125/12
+CC 125/75
+CC 125/86
+CC 125/88
+CC 125/56
+CC 125/89
+CC 125/27
+CC 125/57
+CC 125/58
+CC 125/15
+CC 125/7
+CC 125/105
+CC 125/93
+CC 125/33
+CC 125/34
+CC 125/95
+CC 125/78
+CC 125/67
+CC 125/96
+CC 125/3
+CC 125/17
+CC 125/36
+CC 125/37
+CC 125/109
+CC 125/38
+CC 125/81
+CC 125/100
+CC 125/70
+CC 125/71
+CC 125/23
+CC 125/73
+CC 125/102
+CC 125/54
+CC 125/55
+CC 125/26
+CC 125/44
+CC 125/90
+CC 125/28
+CC 125/92
+CC 125/29
+CC 125/47
+CC 125/61
+CC 125/32
+CC 125/106
+CC 125/65
+CC 125/66
+CC 125/48
+CC 125/97
+CC 125/49
+CC 125/68
+CC 125/20
+CC 125/82
+CC 125/40
+CC 125/21
+CC 125/10
+CC 125/83
+CC 125/51
+CC 125/84
+CC 125/53
+CC 125/24
+CC 125/103
+CC 125/5
+CC 125/13
+CC 125/76
+CC 125/45
+CC 125/94
+CC 125/30
+CC 125/16
+CC 125/35
+CC 125/80
+CC 125/98
+CC 125/108
+CC 125/69
+CC 125/99
+CC 125/39
+CC 125/22
+CC 125/85
+CC 125/4
+CC 125/74
+CC 125/25
+CC 125/104
+CC 125/87
+CC 125/91
+SR 130/5
+SR 130/45
+SR 130/41
+SR 130/43
+SR 130/22
+SR 130/11
+SR 130/1
+SR 130/23
+SR 130/46
+SR 130/78
+SR 130/47
+SR 130/90
+SR 130/60
+SR 130/62
+SR 130/13
+SR 130/14
+SR 130/52
+SR 130/85
+SR 130/6
+SR 130/32
+SR 130/29
+SR 130/7
+SR 130/55
+SR 130/35
+SR 130/57
+SR 130/8
+SR 130/58
+SR 130/70
+SR 130/38
+SR 130/71
+SR 130/19
+SR 130/39
+SR 130/40
+SR 130/42
+SR 130/89
+SR 130/76
+SR 130/25
+SR 130/79
+SR 130/61
+SR 130/50
+SR 130/80
+SR 130/2
+SR 130/12
+SR 130/27
+SR 130/92
+SR 130/28
+SR 130/64
+SR 130/84
+SR 130/53
+SR 130/54
+SR 130/33
+SR 130/56
+SR 130/86
+SR 130/37
+SR 130/17
+SR 130/9
+SR 130/18
+SR 130/72
+SR 130/20
+SR 130/75
+SR 130/44
+SR 130/24
+SR 130/48
+SR 130/49
+SR 130/81
+SR 130/31
+SR 130/65
+SR 130/67
+SR 130/34
+SR 130/68
+SR 130/36
+SR 130/16
+SR 130/30
+SR 130/87
+SR 130/4
+SR 130/10
+SR 130/59
+SR 130/73
+SR 130/77
+SR 130/21
+SR 130/26
+SR 130/63
+SR 130/82
+SR 130/91
+SR 130/51
+SR 130/83
+SR 130/66
+SR 130/15
+SR 130/69
+SR 130/3
+SR 130/88
+SR 130/74
+FR 100/1 QualityOfBathymetricData  QualityOfBathymetricData:{  categoryOfTemporalVariation=5, dataAssessment=1, featuresDetected:{  leastDepthOfDetectedFeaturesMeasured=0, significantFeaturesDetected=0, }, fullSeafloorCoverageAchieved=0, horizontalPositionUncertainty:{  uncertaintyFixed=50, }, verticalUncertainty:{  uncertaintyFixed=1, uncertaintyVariableFactor=0.02, }, },
+FR 100/2 LocalDirectionOfBuoyage  LocalDirectionOfBuoyage:{  orientationValue=300, },
+FR 100/3 NavigationalSystemOfMarks  NavigationalSystemOfMarks:{  marksNavigationalSystemOf=1, },
+FR 100/4 LocalDirectionOfBuoyage  LocalDirectionOfBuoyage:{  orientationValue=270, },
+FR 100/5 DataCoverage  DataCoverage:{  maximumDisplayScale=22000, minimumDisplayScale=45000, },
+FR 100/6 BuoySpecialPurposeGeneral  BuoySpecialPurposeGeneral:{  buoyShape=1, categoryOfSpecialPurposeMark=1, colour=6, },
+FR 100/7 Landmark  Landmark:{  categoryOfLandmark=5, visuallyConspicuous=2, },
+FR 100/8 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=4, }, },
+FR 100/9 LandElevation  LandElevation:{  elevation=60, },
+FR 100/10 BeaconSpecialPurposeGeneral  BeaconSpecialPurposeGeneral:{  beaconShape, categoryOfSpecialPurposeMark=2, colour, },
+FR 100/11 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, },
+FR 100/12 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, },
+FR 100/13 BuoySpecialPurposeGeneral  BuoySpecialPurposeGeneral:{  buoyShape=3, categoryOfSpecialPurposeMark=2, colour=6, topmark:{  colour=6, topmarkDaymarkShape=7, }, },
+FR 100/14 BeaconSpecialPurposeGeneral  BeaconSpecialPurposeGeneral:{  beaconShape, categoryOfSpecialPurposeMark=2, colour, },
+FR 100/15 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, },
+FR 100/16 BuoySpecialPurposeGeneral  BuoySpecialPurposeGeneral:{  buoyShape=1, categoryOfSpecialPurposeMark=1, colour=6, topmark:{  colour=6, topmarkDaymarkShape=7, }, },
+FR 100/17 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, },
+FR 100/18 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=5, }, waterLevelEffect=4, },
+FR 100/19 RadioStation  RadioStation:{  categoryOfRadioStation=5, featureName:{  name=Rossett, }, },
+FR 100/20 Pile  Pile:{  categoryOfPile=3, visuallyConspicuous=2, },
+FR 100/21 CoastguardStation 
+FR 100/22 UnderwaterAwashRock  UnderwaterAwashRock:{  valueOfSounding=-0.1, waterLevelEffect=4, },
+FR 100/23 LandElevation  LandElevation:{  elevation=2, },
+FR 100/24 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=4, }, },
+FR 100/25 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=5, }, waterLevelEffect=4, },
+FR 100/26 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, },
+FR 100/27 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=1, }, surfaceCharacteristics:{  natureOfSurface=4, }, },
+FR 100/28 LightAllAround  LightAllAround:{  colour=4, rhythmOfLight:{  lightCharacteristic=5, signalGroup=(3), signalPeriod=5, }, },
+FR 100/29 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, },
+FR 100/30 BeaconSpecialPurposeGeneral  BeaconSpecialPurposeGeneral:{  beaconShape, categoryOfSpecialPurposeMark=1, colour=6, topmark:{  colour=6, topmarkDaymarkShape=7, }, },
+FR 100/31 LightAllAround  LightAllAround:{  categoryOfLight=5, colour=1, rhythmOfLight:{  lightCharacteristic=2, signalGroup=(1), signalPeriod=5, }, },
+FR 100/32 BeaconSpecialPurposeGeneral  BeaconSpecialPurposeGeneral:{  beaconShape, categoryOfSpecialPurposeMark=6, colour, },
+FR 100/33 LightAllAround  LightAllAround:{  colour=6, rhythmOfLight:{  lightCharacteristic=2, signalGroup=(1), signalPeriod=3, }, },
+FR 100/34 FogSignal  FogSignal:{  categoryOfFogSignal=3, signalGroup=(1), },
+FR 100/35 Building  Building:{  function=28, visuallyConspicuous=2, },
+FR 100/36 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=4, },
+FR 100/37 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=4, },
+FR 100/38 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=3, },
+FR 100/39 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=3, },
+FR 100/40 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=4, },
+FR 100/41 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=4, },
+FR 100/42 UnderwaterAwashRock  UnderwaterAwashRock:{  valueOfSounding=20.5, waterLevelEffect=3, },
+FR 100/43 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=4, }, },
+FR 100/44 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=4, }, },
+FR 100/45 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=3, },
+FR 100/46 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, waterLevelEffect=3, },
+FR 100/47 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=4, }, surfaceCharacteristics:{  natureOfSurface=9, }, },
+FR 100/48 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=4, },
+FR 100/49 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=5, },
+FR 100/50 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=3, },
+FR 100/51 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=4, },
+FR 100/52 LandElevation  LandElevation:{  elevation=1.8, },
+FR 100/53 LandArea 
+FR 100/54 LandElevation  LandElevation:{  elevation=86, },
+FR 100/55 BeaconSpecialPurposeGeneral  BeaconSpecialPurposeGeneral:{  beaconShape, categoryOfSpecialPurposeMark=2, colour, },
+FR 100/56 BeaconSpecialPurposeGeneral  BeaconSpecialPurposeGeneral:{  beaconShape, categoryOfSpecialPurposeMark=16, colour=3, colour=1, colourPattern=2, topmark:{  colour=3, topmarkDaymarkShape=5, }, },
+FR 100/57 BeaconSpecialPurposeGeneral  BeaconSpecialPurposeGeneral:{  beaconShape, categoryOfSpecialPurposeMark=2, colour, },
+FR 100/58 BeaconSpecialPurposeGeneral  BeaconSpecialPurposeGeneral:{  beaconShape, categoryOfSpecialPurposeMark=16, colour=3, colour=1, colourPattern=2, topmark:{  colour=3, topmarkDaymarkShape=5, }, },
+FR 100/59 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=3, },
+FR 100/60 Wreck  Wreck:{  categoryOfWreck=2, qualityOfVerticalMeasurement=7, valueOfSounding=15, waterLevelEffect=3, },
+FR 100/61 Wreck  Wreck:{  categoryOfWreck=5, waterLevelEffect=1, },
+FR 100/62 SlopeTopline  SlopeTopline:{  categoryOfSlope=6, },
+FR 100/63 LandElevation  LandElevation:{  elevation=30, },
+FR 100/64 LandElevation  LandElevation:{  elevation=50, },
+FR 100/65 LandElevation  LandElevation:{  elevation=20, },
+FR 100/66 Road  Road:{  categoryOfRoad=4, },
+FR 100/67 SlopeTopline  SlopeTopline:{  categoryOfSlope=6, },
+FR 100/68 Road  Road:{  categoryOfRoad=3, },
+FR 100/69 LandElevation  LandElevation:{  elevation=20, },
+FR 100/70 SlopeTopline  SlopeTopline:{  categoryOfSlope=6, },
+FR 100/71 LandElevation  LandElevation:{  elevation=30, },
+FR 100/72 LandElevation  LandElevation:{  elevation=40, },
+FR 100/73 LandElevation  LandElevation:{  elevation=30, },
+FR 100/74 LandElevation  LandElevation:{  elevation=20, },
+FR 100/75 LandElevation  LandElevation:{  elevation=60, },
+FR 100/76 BeaconCardinal  BeaconCardinal:{  beaconShape, categoryOfCardinalMark=3, colour=6, colour=2, colourPattern=1, topmark:{  colour=2, topmarkDaymarkShape=14, }, },
+FR 100/77 NavigationLine  NavigationLine:{  categoryOfNavigationLine=3, orientation:{  orientationValue=343, }, },
+FR 100/78 RecommendedTrack  RecommendedTrack:{  categoryOfRecommendedTrack=2, orientationValue=343, trafficFlow=4, },
+FR 100/79 LandElevation  LandElevation:{  elevation=10, },
+FR 100/80 SlopeTopline  SlopeTopline:{  categoryOfSlope=6, },
+FR 100/81 LandElevation  LandElevation:{  elevation=10, },
+FR 100/82 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=4, },
+FR 100/83 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=4, },
+FR 100/84 Wreck  Wreck:{  categoryOfWreck=5, waterLevelEffect=1, },(150/3) NauticalInformation:{  information:{  text=Target, }, },
+FR 100/85 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=4, },
+FR 100/86 DepthArea  DepthArea:{  depthRangeMinimumValue=-5, depthRangeMaximumValue=0, },
+FR 100/87 LandElevation  LandElevation:{  elevation=10, },
+FR 100/88 CableSubmarine  CableSubmarine:{  status=4, },
+FR 100/89 DepthContour  DepthContour:{  valueOfDepthContour=5, },
+FR 100/90 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/91 DepthContour  DepthContour:{  valueOfDepthContour=5, },
+FR 100/92 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, waterLevelEffect=4, },
+FR 100/93 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, waterLevelEffect=4, },
+FR 100/94 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, waterLevelEffect=4, },
+FR 100/95 LandElevation  LandElevation:{  elevation=40, },
+FR 100/96 DepthContour  DepthContour:{  valueOfDepthContour=2, },
+FR 100/97 DepthContour  DepthContour:{  valueOfDepthContour=10, },
+FR 100/98 Coastline 
+FR 100/99 HarbourAreaAdministrative (150/1) NauticalInformation:{  information:{  text=Micklefirth Port Limit, }, },
+FR 100/100 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/101 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/102 LandElevation  LandElevation:{  elevation=40, },
+FR 100/103 LandElevation  LandElevation:{  elevation=30, },
+FR 100/104 Coastline 
+FR 100/105 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/106 DepthContour  DepthContour:{  valueOfDepthContour=20, },
+FR 100/107 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/108 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/109 DepthContour  DepthContour:{  valueOfDepthContour=5, },
+FR 100/110 DepthArea  DepthArea:{  depthRangeMinimumValue=5, depthRangeMaximumValue=10, },
+FR 100/111 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/112 ShorelineConstruction  ShorelineConstruction:{  categoryOfShorelineConstruction=1, waterLevelEffect=2, },
+FR 100/113 Coastline  Coastline:{  visuallyConspicuous=2, },
+FR 100/114 DepthContour  DepthContour:{  valueOfDepthContour=5, },
+FR 100/115 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/116 DepthContour  DepthContour:{  valueOfDepthContour=10, },
+FR 100/117 LandElevation  LandElevation:{  elevation=20, },
+FR 100/118 DepthContour  DepthContour:{  valueOfDepthContour=5, },
+FR 100/119 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=7, }, waterLevelEffect=4, },
+FR 100/120 DepthContour  DepthContour:{  valueOfDepthContour=10, },
+FR 100/121 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/122 Fairway 
+FR 100/123 LandElevation  LandElevation:{  elevation=20, },
+FR 100/124 Coastline  Coastline:{  categoryOfCoastline=1, radarConspicuous=1, },
+FR 100/125 DepthContour  DepthContour:{  valueOfDepthContour=10, },
+FR 100/126 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=6, }, waterLevelEffect=4, },
+FR 100/127 DepthArea  DepthArea:{  depthRangeMinimumValue=10, depthRangeMaximumValue=20, },
+FR 100/128 DepthContour  DepthContour:{  valueOfDepthContour=10, },
+FR 100/129 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/130 LandArea  LandArea:{  featureName:{  name=Corund Cape, }, },
+FR 100/131 DepthArea  DepthArea:{  depthRangeMinimumValue=20, depthRangeMaximumValue=30, },
+FR 100/132 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, waterLevelEffect=4, },
+FR 100/133 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, waterLevelEffect=4, },
+FR 100/134 Obstruction  Obstruction:{  categoryOfObstruction=6, qualityOfVerticalMeasurement=2, waterLevelEffect=3, },
+FR 100/135 DepthContour  DepthContour:{  valueOfDepthContour=2, },
+FR 100/136 DepthContour  DepthContour:{  valueOfDepthContour=5, },
+FR 100/137 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/138 LandRegion  LandRegion:{  featureName:{  name=Clown Point, }, },
+FR 100/139 CableSubmarine  CableSubmarine:{  categoryOfCable=1, },
+FR 100/140 DepthArea  DepthArea:{  depthRangeMinimumValue=30, depthRangeMaximumValue=50, },
+FR 100/141 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/142 DepthContour  DepthContour:{  valueOfDepthContour=2, },
+FR 100/143 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=8, }, waterLevelEffect=4, },
+FR 100/144 DepthContour  DepthContour:{  valueOfDepthContour=10, },
+FR 100/145 RestrictedAreaNavigational  RestrictedAreaNavigational:{  restriction=1, restriction=3, },
+FR 100/146 RestrictedAreaRegulatory  RestrictedAreaRegulatory:{  restriction=1, restriction=3, },
+FR 100/147 DepthContour  DepthContour:{  valueOfDepthContour=2, },
+FR 100/148 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/149 DepthContour  DepthContour:{  valueOfDepthContour=5, },
+FR 100/150 LandElevation  LandElevation:{  elevation=10, },
+FR 100/151 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, waterLevelEffect=4, },
+FR 100/152 Coastline  Coastline:{  categoryOfCoastline=1, radarConspicuous=1, },
+FR 100/153 LandElevation  LandElevation:{  elevation=80, },
+FR 100/154 DepthContour  DepthContour:{  valueOfDepthContour=2, },
+FR 100/155 DepthContour  DepthContour:{  valueOfDepthContour=5, },
+FR 100/156 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/157 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/158 Coastline 
+FR 100/159 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, waterLevelEffect=4, },
+FR 100/160 DepthContour  DepthContour:{  valueOfDepthContour=20, },
+FR 100/161 LandElevation  LandElevation:{  elevation=40, },
+FR 100/162 DepthContour  DepthContour:{  valueOfDepthContour=5, },
+FR 100/163 DepthContour  DepthContour:{  valueOfDepthContour=2, },
+FR 100/164 DepthContour  DepthContour:{  valueOfDepthContour=30, },
+FR 100/165 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/166 DepthContour  DepthContour:{  valueOfDepthContour=5, },
+FR 100/167 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/168 DepthContour  DepthContour:{  valueOfDepthContour=10, },
+FR 100/169 LandElevation  LandElevation:{  elevation=30, },
+FR 100/170 DepthContour  DepthContour:{  valueOfDepthContour=2, },
+FR 100/171 LandElevation  LandElevation:{  elevation=70, },
+FR 100/172 LandElevation  LandElevation:{  elevation=20, },
+FR 100/173 DepthContour  DepthContour:{  valueOfDepthContour=2, },
+FR 100/174 DepthContour  DepthContour:{  valueOfDepthContour=20, },
+FR 100/175 DepthContour  DepthContour:{  valueOfDepthContour=2, },
+FR 100/176 LandElevation  LandElevation:{  elevation=20, },
+FR 100/177 LandElevation  LandElevation:{  elevation=60, },
+FR 100/178 DepthContour  DepthContour:{  valueOfDepthContour=10, },
+FR 100/179 LandElevation  LandElevation:{  elevation=50, },
+FR 100/180 DepthContour  DepthContour:{  valueOfDepthContour=5, },
+FR 100/181 LandElevation  LandElevation:{  elevation=30, },
+FR 100/182 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/183 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/184 DepthContour  DepthContour:{  valueOfDepthContour=10, },
+FR 100/185 DepthContour  DepthContour:{  valueOfDepthContour=5, },
+FR 100/186 DepthContour  DepthContour:{  valueOfDepthContour=5, },
+FR 100/187 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/188 NavigationLine  NavigationLine:{  categoryOfNavigationLine=3, orientation:{  orientationValue=30, }, },
+FR 100/189 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=2, },
+FR 100/190 Obstruction  Obstruction:{  categoryOfObstruction=6, qualityOfVerticalMeasurement=2, waterLevelEffect=3, },
+FR 100/191 LandArea 
+FR 100/192 Coastline  Coastline:{  natureOfSurface=5, },
+FR 100/193 Obstruction  Obstruction:{  categoryOfObstruction=6, qualityOfVerticalMeasurement=2, waterLevelEffect=3, },
+FR 100/194 LandArea  LandArea:{  featureName:{  name=Greatrigg Island, }, featureName:{  name=Grösstrig Inseln, }, },
+FR 100/195 DepthArea  DepthArea:{  depthRangeMinimumValue=5, depthRangeMaximumValue=10, },
+FR 100/196 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=2, },
+FR 100/197 Coastline  Coastline:{  categoryOfCoastline=1, radarConspicuous=1, },
+FR 100/198 DepthArea  DepthArea:{  depthRangeMinimumValue=5, depthRangeMaximumValue=10, },
+FR 100/199 DepthContour  DepthContour:{  valueOfDepthContour=0, },
+FR 100/200 Obstruction  Obstruction:{  categoryOfObstruction=6, qualityOfVerticalMeasurement=2, waterLevelEffect=3, },
+FR 100/201 Obstruction  Obstruction:{  categoryOfObstruction=6, qualityOfVerticalMeasurement=2, waterLevelEffect=3, },
+FR 100/202 SeaAreaNamedWaterArea  SeaAreaNamedWaterArea:{  featureName:{  name=MICKLEFIRTH CHANNEL, }, },
+FR 100/203 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/204 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/205 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, waterLevelEffect=4, },
+FR 100/206 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/207 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/208 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=2, },
+FR 100/209 DepthArea  DepthArea:{  depthRangeMinimumValue=5, depthRangeMaximumValue=10, },
+FR 100/210 Vegetation  Vegetation:{  categoryOfVegetation=6, height=96, },
+FR 100/211 DepthArea  DepthArea:{  depthRangeMinimumValue=5, depthRangeMaximumValue=10, },
+FR 100/212 DepthArea  DepthArea:{  depthRangeMinimumValue=-5, depthRangeMaximumValue=0, },
+FR 100/213 DepthArea  DepthArea:{  depthRangeMinimumValue=-5, depthRangeMaximumValue=0, },
+FR 100/214 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/215 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=2, },
+FR 100/216 DepthArea  DepthArea:{  depthRangeMinimumValue=5, depthRangeMaximumValue=10, },
+FR 100/217 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/218 DepthContour  DepthContour:{  valueOfDepthContour=10, },
+FR 100/219 DepthArea  DepthArea:{  depthRangeMinimumValue=-5, depthRangeMaximumValue=0, },
+FR 100/220 SeaAreaNamedWaterArea  SeaAreaNamedWaterArea:{  featureName:{  name=Rossett Sound, }, },
+FR 100/221 SeaAreaNamedWaterArea  SeaAreaNamedWaterArea:{  featureName:{  name=Kestawick Roads, }, },
+FR 100/222 MagneticVariation  MagneticVariation:{  referenceYearForMagneticVariation=1996, valueOfAnnualChangeInMagneticVariation=-7, valueOfMagneticVariation=-34.92, },
+FR 100/223 MilitaryPracticeArea  MilitaryPracticeArea:{  categoryOfMilitaryPracticeArea=4, },(150/2) NauticalInformation:{  information:{  text=Use of Hood Island Firing Range is indicated by a display of red flags or red lights. See Byelaws, Practise and Exercise Areas(PEXA) Charts and Annual Notice to Mariners No 5., }, },
+FR 100/224 DepthArea  DepthArea:{  depthRangeMinimumValue=-5, depthRangeMaximumValue=0, },
+FR 100/225 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, waterLevelEffect=4, },
+FR 100/226 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=2, },
+FR 100/227 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/228 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, waterLevelEffect=4, },
+FR 100/229 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=2, },
+FR 100/230 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=2, },
+FR 100/231 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/232 DepthArea  DepthArea:{  depthRangeMinimumValue=10, depthRangeMaximumValue=20, },
+FR 100/233 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/234 DepthArea  DepthArea:{  depthRangeMinimumValue=5, depthRangeMaximumValue=10, },
+FR 100/235 DepthArea  DepthArea:{  depthRangeMinimumValue=-5, depthRangeMaximumValue=0, },
+FR 100/236 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/237 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=2, },
+FR 100/238 DepthArea  DepthArea:{  depthRangeMinimumValue=5, depthRangeMaximumValue=10, },
+FR 100/239 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=2, },
+FR 100/240 DepthArea  DepthArea:{  depthRangeMinimumValue=-5, depthRangeMaximumValue=0, },
+FR 100/241 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=2, },
+FR 100/242 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/243 DepthArea  DepthArea:{  depthRangeMinimumValue=5, depthRangeMaximumValue=10, },
+FR 100/244 DepthArea  DepthArea:{  depthRangeMinimumValue=10, depthRangeMaximumValue=20, },
+FR 100/245 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/246 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/247 DepthArea  DepthArea:{  depthRangeMinimumValue=2, depthRangeMaximumValue=5, },
+FR 100/248 DepthArea  DepthArea:{  depthRangeMinimumValue=-5, depthRangeMaximumValue=0, },
+FR 100/249 DepthArea  DepthArea:{  depthRangeMinimumValue=20, depthRangeMaximumValue=30, },
+FR 100/250 BuiltUpArea  BuiltUpArea:{  categoryOfBuiltUpArea=1, },
+FR 100/251 AdministrationArea  AdministrationArea:{  jurisdiction=2, nationality=GB, },
+FR 100/252 UnderwaterAwashRock  UnderwaterAwashRock:{  valueOfSounding=8.8, waterLevelEffect=3, },
+FR 100/253 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=4, },
+FR 100/254 UnderwaterAwashRock  UnderwaterAwashRock:{  qualityOfVerticalMeasurement=2, valueOfSounding, waterLevelEffect=4, },
+FR 100/255 UnderwaterAwashRock  UnderwaterAwashRock:{  valueOfSounding=7.1, waterLevelEffect=3, },
+FR 100/256 LightSectored  LightSectored:{  sectorCharacteristics:{  lightCharacteristic=7, lightSector:{  colour=3, directionalCharacter:{  orientation:{  orientationValue, }, }, sectorLimit:{  sectorLimitOne:{  sectorBearing=327, }, sectorLimitTwo:{  sectorBearing=13.5, }, }, valueOfNominalRange=4, }, lightSector:{  colour=1, directionalCharacter:{  orientation:{  orientationValue, }, }, sectorLimit:{  sectorLimitOne:{  sectorBearing=325, }, sectorLimitTwo:{  sectorBearing=327, }, }, }, lightSector:{  colour=4, directionalCharacter:{  orientation:{  orientationValue, }, }, sectorLimit:{  sectorLimitOne:{  sectorBearing=301.5, }, sectorLimitTwo:{  sectorBearing=325, }, }, }, signalGroup=(1), signalPeriod=8, }, },
+FR 100/257 LightSectored  LightSectored:{  height=18, sectorCharacteristics:{  lightCharacteristic=8, lightSector:{  colour=3, sectorLimit:{  sectorLimitOne:{  sectorBearing=283, }, sectorLimitTwo:{  sectorBearing=54, }, }, valueOfNominalRange=10, }, lightSector:{  colour=1, sectorLimit:{  sectorLimitOne:{  sectorBearing=136, }, sectorLimitTwo:{  sectorBearing=283, }, }, }, signalGroup=(1), signalPeriod=10, }, },
+FR 100/258 ShorelineConstruction  ShorelineConstruction:{  waterLevelEffect=2, },
+FR 100/259 ShorelineConstruction  ShorelineConstruction:{  categoryOfShorelineConstruction=8, natureOfConstruction=3, waterLevelEffect=4, },
+FR 100/260 LandArea  LandArea:{  featureName:{  name=Rossett Island, }, featureName:{  name=Rössett Inseln, }, },
+FR 100/261 DepthArea  DepthArea:{  depthRangeMinimumValue=-5, depthRangeMaximumValue=0, },
+FR 100/262 Sounding  Sounding:{  qualityOfVerticalMeasurement=1, scaleMinimum=40000, },
+FR 100/263 BuoyLateral  BuoyLateral:{  buoyShape=4, categoryOfLateralMark=2, colour=4, topmark:{  colour=4, topmarkDaymarkShape=1, }, },
+FR 100/264 Landmark  Landmark:{  categoryOfLandmark=10, colour=7, featureName:{  name=Corund Cape, }, function=33, visuallyConspicuous=2, },
+FR 100/265 BuoySpecialPurposeGeneral  BuoySpecialPurposeGeneral:{  buoyShape=1, categoryOfSpecialPurposeMark=1, colour=6, },
+FR 100/266 RangeSystem 
+FR 100/267 RangeSystem 

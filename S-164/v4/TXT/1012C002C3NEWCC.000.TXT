@@ -1,0 +1,11 @@
+Printing
+PR 110/1
+CR 120/1
+SR 130/2
+SR 130/3
+SR 130/4
+SR 130/1
+FR 100/1 NavigationalSystemOfMarks  NavigationalSystemOfMarks:{  marksNavigationalSystemOf=9, },
+FR 100/2 QualityOfBathymetricData  QualityOfBathymetricData:{  categoryOfTemporalVariation=6, dataAssessment=3, featuresDetected:{  leastDepthOfDetectedFeaturesMeasured=0, significantFeaturesDetected=0, }, fullSeafloorCoverageAchieved=0, horizontalPositionUncertainty:{  uncertaintyFixed, }, verticalUncertainty:{  uncertaintyFixed, }, },
+FR 100/3 DataCoverage  DataCoverage:{  maximumDisplayScale=90000, minimumDisplayScale=180000, },
+FR 100/4 LandArea 

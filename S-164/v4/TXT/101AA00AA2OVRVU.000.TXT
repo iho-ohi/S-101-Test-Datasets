@@ -1,0 +1,269 @@
+Expanding INAS
+Printing
+IR 150/1 NauticalInformation NauticalInformation:{  information:{  text=Caution area, }, },
+PR 110/57
+PR 110/58
+PR 110/59
+PR 110/60
+PR 110/61
+PR 110/62
+PR 110/5
+PR 110/6
+PR 110/7
+PR 110/8
+PR 110/9
+PR 110/10
+PR 110/1
+PR 110/2
+PR 110/3
+PR 110/4
+PR 110/11
+PR 110/12
+PR 110/13
+PR 110/14
+PR 110/15
+PR 110/16
+PR 110/17
+PR 110/18
+PR 110/19
+PR 110/20
+PR 110/21
+PR 110/22
+PR 110/23
+PR 110/24
+PR 110/25
+PR 110/26
+PR 110/27
+PR 110/28
+PR 110/29
+PR 110/30
+PR 110/31
+PR 110/32
+PR 110/33
+PR 110/34
+PR 110/35
+PR 110/36
+PR 110/37
+PR 110/38
+PR 110/39
+PR 110/40
+PR 110/41
+PR 110/42
+PR 110/43
+PR 110/44
+PR 110/45
+PR 110/46
+PR 110/47
+PR 110/48
+PR 110/49
+PR 110/50
+PR 110/51
+PR 110/52
+PR 110/53
+PR 110/54
+PR 110/55
+PR 110/56
+CR 120/18
+CR 120/22
+CR 120/26
+CR 120/30
+CR 120/34
+CR 120/38
+CR 120/41
+CR 120/45
+CR 120/49
+CR 120/53
+CR 120/57
+CR 120/2
+CR 120/59
+CR 120/6
+CR 120/10
+CR 120/14
+CR 120/15
+CR 120/19
+CR 120/23
+CR 120/27
+CR 120/31
+CR 120/35
+CR 120/42
+CR 120/46
+CR 120/50
+CR 120/54
+CR 120/3
+CR 120/60
+CR 120/7
+CR 120/11
+CR 120/16
+CR 120/20
+CR 120/24
+CR 120/28
+CR 120/32
+CR 120/36
+CR 120/39
+CR 120/43
+CR 120/47
+CR 120/51
+CR 120/55
+CR 120/4
+CR 120/61
+CR 120/8
+CR 120/12
+CR 120/29
+CR 120/17
+CR 120/21
+CR 120/25
+CR 120/33
+CR 120/37
+CR 120/40
+CR 120/44
+CR 120/48
+CR 120/52
+CR 120/56
+CR 120/1
+CR 120/58
+CR 120/5
+CR 120/62
+CR 120/63
+CR 120/9
+CR 120/13
+CC 125/25
+CC 125/4
+CC 125/20
+CC 125/5
+CC 125/8
+CC 125/13
+CC 125/19
+CC 125/22
+CC 125/10
+CC 125/15
+CC 125/16
+CC 125/18
+CC 125/21
+CC 125/23
+CC 125/9
+CC 125/11
+CC 125/6
+CC 125/24
+CC 125/7
+CC 125/12
+CC 125/1
+CC 125/2
+CC 125/3
+CC 125/14
+CC 125/17
+SR 130/40
+SR 130/4
+SR 130/38
+SR 130/7
+SR 130/14
+SR 130/18
+SR 130/22
+SR 130/26
+SR 130/28
+SR 130/37
+SR 130/41
+SR 130/5
+SR 130/10
+SR 130/15
+SR 130/19
+SR 130/23
+SR 130/27
+SR 130/29
+SR 130/33
+SR 130/34
+SR 130/36
+SR 130/42
+SR 130/6
+SR 130/8
+SR 130/11
+SR 130/12
+SR 130/16
+SR 130/20
+SR 130/24
+SR 130/30
+SR 130/39
+SR 130/9
+SR 130/13
+SR 130/17
+SR 130/21
+SR 130/25
+SR 130/1
+SR 130/2
+SR 130/3
+SR 130/31
+SR 130/32
+SR 130/35
+FR 100/1 QualityOfBathymetricData  QualityOfBathymetricData:{  categoryOfTemporalVariation=5, dataAssessment=1, featuresDetected:{  leastDepthOfDetectedFeaturesMeasured=0, significantFeaturesDetected=0, }, fullSeafloorCoverageAchieved=0, horizontalPositionUncertainty:{  uncertaintyFixed=50, }, verticalUncertainty:{  uncertaintyFixed=1, uncertaintyVariableFactor=0.02, }, },
+FR 100/2 NavigationalSystemOfMarks  NavigationalSystemOfMarks:{  marksNavigationalSystemOf=9, },
+FR 100/3 DataCoverage  DataCoverage:{  maximumDisplayScale=350000, minimumDisplayScale=700000, },
+FR 100/4 Obstruction  Obstruction:{  expositionOfSounding=1, valueOfSounding=3, waterLevelEffect=3, },
+FR 100/5 Obstruction  Obstruction:{  expositionOfSounding=1, waterLevelEffect=3, },
+FR 100/6 Obstruction  Obstruction:{  expositionOfSounding=1, waterLevelEffect=3, },
+FR 100/7 BuoySpecialPurposeGeneral  BuoySpecialPurposeGeneral:{  buoyShape=7, categoryOfSpecialPurposeMark=9, colour=6, },
+FR 100/8 Wreck  Wreck:{  waterLevelEffect=3, },
+FR 100/9 BeaconLateral  BeaconLateral:{  beaconShape=5, categoryOfLateralMark=1, colour=4, natureOfConstruction=11, },
+FR 100/10 DepthContour  DepthContour:{  valueOfDepthContour=30, },
+FR 100/11 LandArea  LandArea:{  featureName:{  name=Second Istmus, }, },
+FR 100/12 DepthContour  DepthContour:{  valueOfDepthContour=30, },
+FR 100/13 Coastline 
+FR 100/14 Coastline 
+FR 100/15 Coastline 
+FR 100/16 LandArea  LandArea:{  featureName:{  name=The Istmus, }, },
+FR 100/17 Coastline 
+FR 100/18 Coastline 
+FR 100/19 DepthContour  DepthContour:{  valueOfDepthContour=30, },
+FR 100/20 DepthContour  DepthContour:{  valueOfDepthContour=10, },
+FR 100/21 DepthContour  DepthContour:{  valueOfDepthContour=50, },
+FR 100/22 DepthContour  DepthContour:{  valueOfDepthContour=20, },
+FR 100/23 DepthContour  DepthContour:{  valueOfDepthContour=5, },
+FR 100/24 DepthContour  DepthContour:{  valueOfDepthContour=20, },
+FR 100/25 DepthContour  DepthContour:{  valueOfDepthContour=10, },
+FR 100/26 DepthContour  DepthContour:{  valueOfDepthContour=5, },
+FR 100/27 AnchorageArea 
+FR 100/28 SeaplaneLandingArea 
+FR 100/29 InshoreTrafficZone 
+FR 100/30 DredgedArea  DredgedArea:{  depthRangeMinimumValue=12, },
+FR 100/31 DredgedArea  DredgedArea:{  depthRangeMinimumValue=5, },
+FR 100/32 MarineFarmCulture  MarineFarmCulture:{  valueOfSounding=5, waterLevelEffect=3, },
+FR 100/33 DredgedArea  DredgedArea:{  depthRangeMinimumValue=42, },
+FR 100/34 LandArea  LandArea:{  featureName:{  name=Rectangular Island, }, },
+FR 100/35 UnsurveyedArea 
+FR 100/36 UnsurveyedArea 
+FR 100/37 UnsurveyedArea 
+FR 100/38 Obstruction  Obstruction:{  expositionOfSounding=2, waterLevelEffect, },
+FR 100/39 Obstruction  Obstruction:{  expositionOfSounding=2, waterLevelEffect=3, },
+FR 100/40 Obstruction  Obstruction:{  valueOfSounding=0, waterLevelEffect=5, },
+FR 100/41 Obstruction  Obstruction:{  expositionOfSounding=3, waterLevelEffect=3, },
+FR 100/42 Obstruction  Obstruction:{  valueOfSounding=0, waterLevelEffect=5, },
+FR 100/43 Wreck  Wreck:{  valueOfSounding=4, waterLevelEffect=3, },
+FR 100/44 Wreck  Wreck:{  waterLevelEffect=4, },
+FR 100/45 FishingFacility  FishingFacility:{  categoryOfFishingFacility=4, },
+FR 100/46 PylonBridgeSupport  PylonBridgeSupport:{  categoryOfPylon=4, },
+FR 100/47 LandArea 
+FR 100/48 LandArea 
+FR 100/49 SpanFixed 
+FR 100/50 LandArea 
+FR 100/51 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=5, },
+FR 100/52 IceArea  IceArea:{  categoryOfIce=8, },
+FR 100/53 OffshorePlatform  OffshorePlatform:{  categoryOfOffshorePlatform=7, featureName:{  name=42, }, },
+FR 100/54 MooringWarpingFacility  MooringWarpingFacility:{  categoryOfMooringWarpingFacility=1, },
+FR 100/55 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=5, },
+FR 100/56 DepthArea  DepthArea:{  depthRangeMinimumValue=10, depthRangeMaximumValue=30, },
+FR 100/57 DepthArea  DepthArea:{  depthRangeMinimumValue=10, depthRangeMaximumValue=20, },
+FR 100/58 DepthArea  DepthArea:{  depthRangeMinimumValue=30, depthRangeMaximumValue=50, },
+FR 100/59 DepthArea  DepthArea:{  depthRangeMinimumValue=20, depthRangeMaximumValue=30, },
+FR 100/60 DepthArea  DepthArea:{  depthRangeMinimumValue=5, depthRangeMaximumValue=10, },
+FR 100/61 DepthArea  DepthArea:{  depthRangeMinimumValue=5, depthRangeMaximumValue=10, },
+FR 100/62 DepthArea  DepthArea:{  depthRangeMinimumValue=50, depthRangeMaximumValue=100, },
+FR 100/63 DepthArea  DepthArea:{  depthRangeMinimumValue=10, depthRangeMaximumValue=20, },
+FR 100/64 UnsurveyedArea 
+FR 100/65 LandArea 
+FR 100/66 CautionArea (150/1) NauticalInformation:{  information:{  text=Caution area, }, },
+FR 100/67 DepthContour  DepthContour:{  valueOfDepthContour=30, },
+FR 100/68 UnderwaterAwashRock  UnderwaterAwashRock:{  valueOfSounding, waterLevelEffect=3, },
+FR 100/69 UnderwaterAwashRock  UnderwaterAwashRock:{  expositionOfSounding=1, valueOfSounding, waterLevelEffect=3, },
+FR 100/70 UnderwaterAwashRock  UnderwaterAwashRock:{  valueOfSounding=0, waterLevelEffect=5, },
+FR 100/71 VirtualAISAidToNavigation  VirtualAISAidToNavigation:{  virtualAISAidToNavigationType=1, },
+FR 100/72 VirtualAISAidToNavigation  VirtualAISAidToNavigation:{  virtualAISAidToNavigationType=12, },
+FR 100/73 Sounding 
+FR 100/74 Bridge  Bridge:{  categoryOfBridge=1, },

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:./S101_XC_1_0.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<S101_ExchangeCatalogue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:S100XC="http://www.iho.int/s100/xc" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gss="http://www.isotc211.org/2005/gss" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <S100XC:identifier>
+    <S100XC:identifier>101GB00GB5X01NE</S100XC:identifier>
+    <S100XC:editionNumber>1</S100XC:editionNumber>
+    <S100XC:date>2020-06-23</S100XC:date>
+  </S100XC:identifier>
+  <S100XC:contact>
+    <S100XC:organization>IHO</S100XC:organization>
+  </S100XC:contact>
+  <S100XC:productSpecification>
+    <S100XC:name>S-101</S100XC:name>
+    <S100XC:version>1.0</S100XC:version>
+    <S100XC:date>2018-12-01</S100XC:date>
+  </S100XC:productSpecification>
+  <S100XC:metadataLanguage>English</S100XC:metadataLanguage>
+  <S100XC:exchangeCatalogueName>CATALOG.XML</S100XC:exchangeCatalogueName>
+  <S100XC:exchangeCatalogueDescription>S101</S100XC:exchangeCatalogueDescription>
+  <S100XC:sourceMedia>GB5X01NE</S100XC:sourceMedia>
+  <S100XC:replacedData>false</S100XC:replacedData>
+  <S100XC:S101_DatasetDiscoveryMetadata>
+    <S100XC:fileName>101GB00GB5X01NE.000</S100XC:fileName>
+    <S100XC:filePath>101GB00GB5X01NE</S100XC:filePath>
+    <S100XC:description>GB5X01NEV1</S100XC:description>
+    <S100XC:dataProtection>false</S100XC:dataProtection>
+    <S100XC:digitalSignature>1234</S100XC:digitalSignature>
+    <S100XC:classification>1</S100XC:classification>
+    <S100XC:purpose>2</S100XC:purpose>
+    <S100XC:specificUsage>1</S100XC:specificUsage>
+    <S100XC:editionNumber>1</S100XC:editionNumber>
+    <S100XC:updateNumber>0</S100XC:updateNumber>
+    <S100XC:updateApplicationDate>2020-06-23</S100XC:updateApplicationDate>
+    <S100XC:issueDate>2020-06-23</S100XC:issueDate>
+    <S100XC:productSpecification>
+      <S100XC:name>S-101</S100XC:name>
+      <S100XC:version>1.0</S100XC:version>
+      <S100XC:date>2018-12-01</S100XC:date>
+    </S100XC:productSpecification>
+    <S100XC:producingAgency gco:isoType="gmd:CI_ResponsibleParty">
+      <gmd:individualName>
+        <gco:CharacterString>GB</gco:CharacterString>
+      </gmd:individualName>
+      <gmd:organisationName>
+        <gco:CharacterString>UKHO</gco:CharacterString>
+      </gmd:organisationName>
+      <gmd:role>
+        <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="2"/>
+      </gmd:role>
+    </S100XC:producingAgency>
+    <S100XC:maximumDisplayScale>75000</S100XC:maximumDisplayScale>
+    <S100XC:horizontalDatumReference>EPSG</S100XC:horizontalDatumReference>
+    <S100XC:horizontalDatumValue>4326</S100XC:horizontalDatumValue>
+    <S100XC:verticalDatum>17</S100XC:verticalDatum>
+    <S100XC:soundingDatum>23</S100XC:soundingDatum>
+    <S100XC:dataType>ISO 8211 BINARY</S100XC:dataType>
+    <S100XC:dataCoverage>
+      <S100XC:ID>1</S100XC:ID>
+      <S100XC:boundingBox>
+        <S100XC:westBoundLongitude>60.9666667</S100XC:westBoundLongitude>
+        <S100XC:eastBoundLongitude>60.997284</S100XC:eastBoundLongitude>
+        <S100XC:southBoundLatitude>-32.5333333</S100XC:southBoundLatitude>
+        <S100XC:northBoundLatitude>-32.4563736</S100XC:northBoundLatitude>
+      </S100XC:boundingBox>
+    </S100XC:dataCoverage>
+  </S100XC:S101_DatasetDiscoveryMetadata>
+</S101_ExchangeCatalogue>

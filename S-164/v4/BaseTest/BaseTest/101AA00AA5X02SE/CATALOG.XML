@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:./S101_XC.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<S100XC:S100_ExchangeCatalogue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:S100XC="http://www.iho.int/s100/xc" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gcx="http://standards.iso.org/iso/19115/-3/gcx/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <S100XC:identifier>
+    <S100XC:identifier>101AA00AA5X02SE</S100XC:identifier>
+    <S100XC:editionNumber>1</S100XC:editionNumber>
+    <S100XC:date>2020-07-27</S100XC:date>
+  </S100XC:identifier>
+  <S100XC:contact>
+    <S100XC:organization>IHO</S100XC:organization>
+  </S100XC:contact>
+  <S100XC:productSpecification>
+    <S100XC:name>S-101</S100XC:name>
+    <S100XC:version>010000</S100XC:version>
+    <S100XC:date>2018-12-01</S100XC:date>
+    <S100XC:number>101</S100XC:number>
+  </S100XC:productSpecification>
+  <S100XC:metadataLanguage>English</S100XC:metadataLanguage>
+  <S100XC:exchangeCatalogueName>CATALOG.XML</S100XC:exchangeCatalogueName>
+  <S100XC:exchangeCatalogueDescription>S-101</S100XC:exchangeCatalogueDescription>
+  <S100XC:sourceMedia>GB5X02SE&#13;
+</S100XC:sourceMedia>
+  <S100XC:replacedData>false</S100XC:replacedData>
+  <S100XC:datasetDiscoveryMetadata>
+    <S100XC:S100_DatasetDiscoveryMetadata>
+      <S100XC:fileName>101AA00AA5X02SE.000</S100XC:fileName>
+      <S100XC:filePath>101AA00AA5X02SE</S100XC:filePath>
+      <S100XC:description>AA5X02SEV4</S100XC:description>
+      <S100XC:dataProtection>false</S100XC:dataProtection>
+      <S100XC:protectionScheme>S100p154.0.0</S100XC:protectionScheme>
+      <S100XC:digitalSignatureReference>dsa</S100XC:digitalSignatureReference>
+      <S100XC:digitalSignatureValue>
+        <S100XC:signedPublicKey id="caris">PubKey00</S100XC:signedPublicKey>
+        <S100XC:digitalSignature>12345678</S100XC:digitalSignature>
+      </S100XC:digitalSignatureValue>
+      <S100XC:classification gco:isoType="mco:MD_ClassificationCode">
+        <mco:MD_ClassificationCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ClassificationCode" codeListValue="unclassified">unclassified</mco:MD_ClassificationCode>
+      </S100XC:classification>
+      <S100XC:purpose>new edition</S100XC:purpose>
+      <S100XC:specificUsage>
+        <mri:MD_Usage>
+          <mri:specificUsage>
+            <gco:CharacterString>Port Entry</gco:CharacterString>
+          </mri:specificUsage>
+        </mri:MD_Usage>
+      </S100XC:specificUsage>
+      <S100XC:editionNumber>1</S100XC:editionNumber>
+      <S100XC:updateNumber>0</S100XC:updateNumber>
+      <S100XC:updateApplicationDate>2020-07-27</S100XC:updateApplicationDate>
+      <S100XC:issueDate>2020-07-27</S100XC:issueDate>
+      <S100XC:productSpecification>
+        <S100XC:name>S-101</S100XC:name>
+        <S100XC:version>010000</S100XC:version>
+        <S100XC:date>2018-12-01</S100XC:date>
+        <S100XC:number>101</S100XC:number>
+      </S100XC:productSpecification>
+      <S100XC:producingAgency>
+        <cit:CI_Responsibility>
+          <cit:role>
+            <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="owner">owner</cit:CI_RoleCode>
+          </cit:role>
+          <cit:party>
+            <cit:CI_Organisation>
+              <cit:name>
+                <gco:CharacterString>IHO</gco:CharacterString>
+              </cit:name>
+            </cit:CI_Organisation>
+          </cit:party>
+        </cit:CI_Responsibility>
+      </S100XC:producingAgency>
+      <S100XC:maximumDisplayScale>22000</S100XC:maximumDisplayScale>
+      <S100XC:horizontalDatumReference>EPSG</S100XC:horizontalDatumReference>
+      <S100XC:horizontalDatumValue>4326</S100XC:horizontalDatumValue>
+      <S100XC:verticalDatum>meanHighWaterSprings</S100XC:verticalDatum>
+      <S100XC:soundingDatum>lowestAstronomicalTide</S100XC:soundingDatum>
+      <S100XC:dataType>ISO/IEC 8211</S100XC:dataType>
+      <S100XC:dataTypeVersion>1.0.0</S100XC:dataTypeVersion>
+      <S100XC:dataCoverage>
+        <S100XC:ID>1</S100XC:ID>
+        <S100XC:boundingBox gco:isoType="gex:EX_GeographicBoundingBox">
+          <gex:westBoundLongitude>
+            <gco:Decimal>60.9833333</gco:Decimal>
+          </gex:westBoundLongitude>
+          <gex:eastBoundLongitude>
+            <gco:Decimal>61.0083333</gco:Decimal>
+          </gex:eastBoundLongitude>
+          <gex:southBoundLatitude>
+            <gco:Decimal>-32.5666667</gco:Decimal>
+          </gex:southBoundLatitude>
+          <gex:northBoundLatitude>
+            <gco:Decimal>-32.5383333</gco:Decimal>
+          </gex:northBoundLatitude>
+        </S100XC:boundingBox>
+        <S100XC:boundingPolygon gco:isoType="gex:EX_BoundingPolygon">
+          <gex:polygon>
+            <gml:LineString gml:id="DC1_101AA00AA5X02SE" srsName="urn:ogc:def:crs:EPSG::4326">
+              <gml:posList> 60.9833333 -32.5523427 60.9833333 -32.5666667 60.9838772 -32.5523432 60.9833333 -32.5523427 60.9840050 -32.5523432 60.9838772 -32.5523432 60.9881742 -32.5491940 60.9877495 -32.5497629 60.9843137 -32.5523307 60.9840050 -32.5523432 60.9884192 -32.5488572 60.9881742 -32.5491940 60.9925075 -32.5432348 60.9895407 -32.5472853 60.9884192 -32.5488572 60.9940106 -32.5420646 60.9938784 -32.5421464 60.9925075 -32.5432348 60.9940581 -32.5420371 60.9940106 -32.5420646 60.9962270 -32.5398668 60.9961922 -32.5399429 60.9954362 -32.5409795 60.9947998 -32.5414748 60.9941907 -32.5419536 60.9940581 -32.5420371 60.9962482 -32.5398156 60.9962270 -32.5398668 60.9962797 -32.5397616 60.9962482 -32.5398156 60.9972746 -32.5384401 60.9962797 -32.5397616 60.9974077 -32.5383333 60.9972746 -32.5384401 61.0000000 -32.5383333 60.9974077 -32.5383333 61.0083333 -32.5425475 61.0083333 -32.5383333 61.0000000 -32.5383333 61.0083333 -32.5467408 61.0083333 -32.5425475 61.0083333 -32.5578733 61.0083333 -32.5467408 61.0000000 -32.5666667 61.0083333 -32.5666667 61.0083333 -32.5578733 60.9833333 -32.5666667 61.0000000 -32.5666667</gml:posList>
+            </gml:LineString>
+          </gex:polygon>
+        </S100XC:boundingPolygon>
+        <S100XC:maximumDisplayScale>22000</S100XC:maximumDisplayScale>
+        <S100XC:minimumDisplayScale>45000</S100XC:minimumDisplayScale>
+      </S100XC:dataCoverage>
+      <S100XC:defaultLocale>
+        <lan:PT_Locale>
+          <lan:language>
+            <lan:LanguageCode codeList="http://www.iho.int/S100/4.0.0/resources/Codelists/cat/codelists.xml#S100_MD_LanguageCode" codeListValue="ENGLISH">ENGLISH</lan:LanguageCode>
+          </lan:language>
+          <lan:characterEncoding>
+            <lan:MD_CharacterSetCode codeList="http://www.iho.int/S100/4.0.0/resources/Codelists/cat/codelists.xml#S100_MD_CharacterSetCode" codeListValue="UTF8">UTF8</lan:MD_CharacterSetCode>
+          </lan:characterEncoding>
+        </lan:PT_Locale>
+      </S100XC:defaultLocale>
+      <S100XC:metadataFileIdentifier>CATALOG.XML</S100XC:metadataFileIdentifier>
+      <S100XC:metadataPointOfContact>
+        <cit:CI_Responsibility>
+          <cit:role>
+            <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="owner">owner</cit:CI_RoleCode>
+          </cit:role>
+          <cit:party>
+            <cit:CI_Organisation>
+              <cit:name>
+                <gco:CharacterString>IHO</gco:CharacterString>
+              </cit:name>
+            </cit:CI_Organisation>
+          </cit:party>
+        </cit:CI_Responsibility>
+      </S100XC:metadataPointOfContact>
+      <S100XC:metadataDateStamp>2020-07-09</S100XC:metadataDateStamp>
+      <S100XC:metadataLanguage>ENGLISH</S100XC:metadataLanguage>
+      <S100XC:supportFileDiscoveryMetadataReference/>
+      <S100XC:S100_19115DatasetMetadata/>
+    </S100XC:S100_DatasetDiscoveryMetadata>
+  </S100XC:datasetDiscoveryMetadata>
+</S100XC:S100_ExchangeCatalogue>

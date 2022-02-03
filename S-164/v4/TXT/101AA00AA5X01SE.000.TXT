@@ -1,0 +1,132 @@
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Printing
+IR 150/1 SpatialQuality SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+PR 110/34
+PR 110/33
+PR 110/1
+PR 110/2
+PR 110/3
+PR 110/4
+PR 110/5
+PR 110/6
+PR 110/7
+PR 110/8
+PR 110/9
+PR 110/10
+PR 110/11
+PR 110/12
+PR 110/13
+PR 110/14
+PR 110/15
+PR 110/16
+PR 110/17
+PR 110/18
+PR 110/19
+PR 110/20
+PR 110/21
+PR 110/22
+PR 110/23
+PR 110/24
+PR 110/25
+PR 110/26
+PR 110/27
+PR 110/28
+PR 110/29
+PR 110/30
+PR 110/31
+PR 110/32
+CR 120/27(150/1) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/29(150/1) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/31(150/1) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/35(150/1) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/40
+CR 120/3
+CR 120/7
+CR 120/11
+CR 120/15
+CR 120/19
+CR 120/23
+CR 120/28(150/1) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/30(150/1) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/32(150/1) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/37
+CR 120/4
+CR 120/8
+CR 120/12
+CR 120/16
+CR 120/20
+CR 120/24
+CR 120/33(150/1) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/38
+CR 120/1
+CR 120/5
+CR 120/9
+CR 120/13
+CR 120/17
+CR 120/21
+CR 120/25
+CR 120/26(150/1) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/34(150/1) SpatialQuality:{  qualityOfHorizontalMeasurement=1, },
+CR 120/36
+CR 120/39
+CR 120/2
+CR 120/6
+CR 120/10
+CR 120/14
+CR 120/18
+CR 120/22
+CC 125/12
+CC 125/2
+CC 125/3
+CC 125/9
+CC 125/11
+CC 125/14
+CC 125/4
+CC 125/6
+CC 125/8
+CC 125/10
+CC 125/13
+CC 125/15
+CC 125/5
+CC 125/7
+CC 125/1
+SR 130/12
+SR 130/2
+SR 130/3
+SR 130/9
+SR 130/11
+SR 130/4
+SR 130/6
+SR 130/8
+SR 130/10
+SR 130/5
+SR 130/7
+SR 130/1
+FR 100/1 QualityOfBathymetricData  QualityOfBathymetricData:{  categoryOfTemporalVariation=5, dataAssessment=1, featuresDetected:{  leastDepthOfDetectedFeaturesMeasured=0, significantFeaturesDetected=0, }, fullSeafloorCoverageAchieved=0, horizontalPositionUncertainty:{  uncertaintyFixed=50, }, verticalUncertainty:{  uncertaintyFixed=1, uncertaintyVariableFactor=0.02, }, },
+FR 100/2 LocalDirectionOfBuoyage  LocalDirectionOfBuoyage:{  orientationValue=290, },
+FR 100/3 NavigationalSystemOfMarks  NavigationalSystemOfMarks:{  marksNavigationalSystemOf=1, },
+FR 100/4 DataCoverage  DataCoverage:{  maximumDisplayScale=22000, minimumDisplayScale=45000, },
+FR 100/5 MagneticVariation  MagneticVariation:{  referenceYearForMagneticVariation=1996, valueOfAnnualChangeInMagneticVariation=-7, valueOfMagneticVariation=-34.92, },
+FR 100/6 DepthArea  DepthArea:{  depthRangeMinimumValue=15, depthRangeMaximumValue=20, },
+FR 100/7 AdministrationArea  AdministrationArea:{  jurisdiction=2, nationality=GB, },
+FR 100/8 DepthArea  DepthArea:{  depthRangeMinimumValue=5, depthRangeMaximumValue=10, },
+FR 100/9 DepthArea  DepthArea:{  depthRangeMinimumValue=15, depthRangeMaximumValue=20, },
+FR 100/10 DepthArea  DepthArea:{  depthRangeMinimumValue=20, depthRangeMaximumValue=30, },
+FR 100/11 SeaAreaNamedWaterArea  SeaAreaNamedWaterArea:{  featureName:{  name=MICKLEFIRTH CHANNEL, }, },
+FR 100/12 DepthArea  DepthArea:{  depthRangeMinimumValue=10, depthRangeMaximumValue=15, },
+FR 100/13 DepthContour  DepthContour:{  valueOfDepthContour=20, },
+FR 100/14 DepthContour  DepthContour:{  valueOfDepthContour=10, },
+FR 100/15 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=1, natureOfSurfaceQualifyingTerms=6, }, surfaceCharacteristics:{  natureOfSurface=4, natureOfSurfaceQualifyingTerms=1, }, },
+FR 100/16 DepthContour  DepthContour:{  valueOfDepthContour=20, },
+FR 100/17 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=4, natureOfSurfaceQualifyingTerms=3, }, surfaceCharacteristics:{  natureOfSurface=17, natureOfSurfaceQualifyingTerms=4, }, },
+FR 100/18 DepthContour  DepthContour:{  valueOfDepthContour=15, },
+FR 100/19 Sounding  Sounding:{  qualityOfVerticalMeasurement=1, scaleMinimum=40000, },
