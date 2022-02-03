@@ -1,0 +1,388 @@
+Printing
+PR 110/1
+PR 110/2
+PR 110/3
+PR 110/4
+PR 110/5
+PR 110/6
+PR 110/7
+PR 110/8
+PR 110/9
+PR 110/10
+PR 110/11
+PR 110/12
+PR 110/13
+PR 110/14
+PR 110/15
+PR 110/16
+PR 110/17
+PR 110/18
+PR 110/19
+PR 110/20
+PR 110/21
+PR 110/22
+PR 110/23
+PR 110/24
+PR 110/25
+PR 110/26
+PR 110/27
+PR 110/28
+PR 110/29
+PR 110/30
+PR 110/31
+PR 110/32
+PR 110/33
+PR 110/34
+PR 110/35
+PR 110/36
+PR 110/37
+PR 110/38
+PR 110/39
+PR 110/40
+PR 110/41
+PR 110/42
+PR 110/43
+PR 110/44
+PR 110/45
+PR 110/46
+PR 110/47
+PR 110/48
+PR 110/49
+PR 110/50
+PR 110/51
+PR 110/52
+PR 110/53
+PR 110/54
+PR 110/55
+PR 110/56
+PR 110/57
+PR 110/58
+PR 110/59
+PR 110/60
+PR 110/61
+PR 110/62
+PR 110/63
+PR 110/64
+PR 110/65
+PR 110/66
+PR 110/67
+PR 110/68
+PR 110/69
+PR 110/70
+PR 110/71
+PR 110/72
+PR 110/73
+PR 110/74
+PR 110/75
+PR 110/76
+PR 110/77
+PR 110/78
+PR 110/79
+PR 110/80
+PR 110/81
+PR 110/82
+PR 110/83
+PR 110/84
+CR 120/51
+CR 120/55
+CR 120/59
+CR 120/66
+CR 120/97
+CR 120/101
+CR 120/70
+CR 120/1
+CR 120/5
+CR 120/9
+CR 120/13
+CR 120/17
+CR 120/21
+CR 120/25
+CR 120/29
+CR 120/114
+CR 120/33
+CR 120/37
+CR 120/41
+CR 120/45
+CR 120/106
+CR 120/107
+CR 120/81
+CR 120/110
+CR 120/87
+CR 120/47
+CR 120/63
+CR 120/95
+CR 120/52
+CR 120/56
+CR 120/60
+CR 120/92
+CR 120/67
+CR 120/98
+CR 120/2
+CR 120/6
+CR 120/72
+CR 120/10
+CR 120/14
+CR 120/18
+CR 120/22
+CR 120/26
+CR 120/75
+CR 120/30
+CR 120/34
+CR 120/38
+CR 120/42
+CR 120/105
+CR 120/78
+CR 120/108
+CR 120/111
+CR 120/82
+CR 120/85
+CR 120/48
+CR 120/64
+CR 120/53
+CR 120/89
+CR 120/57
+CR 120/91
+CR 120/61
+CR 120/93
+CR 120/96
+CR 120/112
+CR 120/99
+CR 120/68
+CR 120/3
+CR 120/7
+CR 120/11
+CR 120/73
+CR 120/15
+CR 120/19
+CR 120/23
+CR 120/27
+CR 120/113
+CR 120/31
+CR 120/76
+CR 120/35
+CR 120/39
+CR 120/43
+CR 120/79
+CR 120/109
+CR 120/83
+CR 120/88
+CR 120/49
+CR 120/54
+CR 120/90
+CR 120/58
+CR 120/62
+CR 120/94
+CR 120/65
+CR 120/100
+CR 120/69
+CR 120/102
+CR 120/71
+CR 120/4
+CR 120/8
+CR 120/103
+CR 120/12
+CR 120/16
+CR 120/74
+CR 120/20
+CR 120/24
+CR 120/28
+CR 120/32
+CR 120/36
+CR 120/77
+CR 120/40
+CR 120/44
+CR 120/104
+CR 120/80
+CR 120/84
+CR 120/86
+CR 120/46
+CR 120/50
+CC 125/5
+CC 125/12
+CC 125/6
+CC 125/13
+CC 125/16
+CC 125/19
+CC 125/38
+CC 125/40
+CC 125/42
+CC 125/24
+CC 125/11
+CC 125/29
+CC 125/30
+CC 125/14
+CC 125/33
+CC 125/34
+CC 125/1
+CC 125/21
+CC 125/10
+CC 125/22
+CC 125/4
+CC 125/8
+CC 125/7
+CC 125/32
+CC 125/35
+CC 125/36
+CC 125/37
+CC 125/9
+CC 125/20
+CC 125/39
+CC 125/41
+CC 125/23
+CC 125/2
+CC 125/25
+CC 125/26
+CC 125/31
+CC 125/15
+CC 125/17
+CC 125/18
+CC 125/3
+CC 125/27
+CC 125/28
+SR 130/10
+SR 130/12
+SR 130/16
+SR 130/20
+SR 130/33
+SR 130/49
+SR 130/51
+SR 130/23
+SR 130/53
+SR 130/38
+SR 130/40
+SR 130/41
+SR 130/7
+SR 130/29
+SR 130/44
+SR 130/45
+SR 130/13
+SR 130/17
+SR 130/1
+SR 130/35
+SR 130/24
+SR 130/26
+SR 130/36
+SR 130/5
+SR 130/43
+SR 130/8
+SR 130/14
+SR 130/46
+SR 130/47
+SR 130/18
+SR 130/48
+SR 130/21
+SR 130/34
+SR 130/50
+SR 130/52
+SR 130/25
+SR 130/27
+SR 130/37
+SR 130/2
+SR 130/39
+SR 130/6
+SR 130/42
+SR 130/4
+SR 130/9
+SR 130/30
+SR 130/11
+SR 130/31
+SR 130/15
+SR 130/32
+SR 130/19
+SR 130/22
+SR 130/28
+SR 130/3
+FR 100/1 NavigationalSystemOfMarks  NavigationalSystemOfMarks:{  marksNavigationalSystemOf=9, },
+FR 100/2 DataCoverage  DataCoverage:{  maximumDisplayScale=10000000, },
+FR 100/3 QualityOfBathymetricData  QualityOfBathymetricData:{  categoryOfTemporalVariation=5, dataAssessment=1, featuresDetected:{  leastDepthOfDetectedFeaturesMeasured=0, significantFeaturesDetected=0, }, fullSeafloorCoverageAchieved=0, horizontalPositionUncertainty:{  uncertaintyFixed=500, }, verticalUncertainty:{  uncertaintyFixed=5, uncertaintyVariableFactor=0.1, }, },
+FR 100/4 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/5 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/6 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/7 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/8 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/9 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/10 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/11 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/12 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/13 DepthArea  DepthArea:{  depthRangeMinimumValue=3000, depthRangeMaximumValue=4000, },
+FR 100/14 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/15 RestrictedAreaNavigational  RestrictedAreaNavigational:{  categoryOfRestrictedArea=20, restriction=14, },
+FR 100/16 RestrictedAreaNavigational  RestrictedAreaNavigational:{  categoryOfRestrictedArea=20, restriction=14, },
+FR 100/17 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/18 DepthArea  DepthArea:{  depthRangeMinimumValue=500, depthRangeMaximumValue=1000, },
+FR 100/19 DepthArea  DepthArea:{  depthRangeMinimumValue=500, depthRangeMaximumValue=1000, },
+FR 100/20 DepthArea  DepthArea:{  depthRangeMinimumValue=500, depthRangeMaximumValue=1000, },
+FR 100/21 DepthArea  DepthArea:{  depthRangeMinimumValue=1000, depthRangeMaximumValue=2000, },
+FR 100/22 DepthArea  DepthArea:{  depthRangeMinimumValue=1000, depthRangeMaximumValue=2000, },
+FR 100/23 DepthArea  DepthArea:{  depthRangeMinimumValue=3000, depthRangeMaximumValue=4000, },
+FR 100/24 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/25 DepthArea  DepthArea:{  depthRangeMinimumValue=1000, depthRangeMaximumValue=2000, },
+FR 100/26 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/27 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/28 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/29 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/30 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/31 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/32 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/33 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/34 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/35 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/36 DepthArea  DepthArea:{  depthRangeMinimumValue=3000, depthRangeMaximumValue=4000, },
+FR 100/37 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/38 DepthArea  DepthArea:{  depthRangeMinimumValue=3000, depthRangeMaximumValue=4000, },
+FR 100/39 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/40 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/41 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/42 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/43 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/44 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/45 DepthContour  DepthContour:{  valueOfDepthContour=4000, },
+FR 100/46 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/47 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/48 DepthContour  DepthContour:{  valueOfDepthContour=4000, },
+FR 100/49 DepthContour  DepthContour:{  valueOfDepthContour=1000, },
+FR 100/50 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/51 DepthContour  DepthContour:{  valueOfDepthContour=2000, },
+FR 100/52 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/53 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/54 DepthContour  DepthContour:{  valueOfDepthContour=1000, },
+FR 100/55 DepthContour  DepthContour:{  valueOfDepthContour=1000, },
+FR 100/56 DepthContour  DepthContour:{  valueOfDepthContour=4000, },
+FR 100/57 DepthContour  DepthContour:{  valueOfDepthContour=4000, },
+FR 100/58 DepthContour  DepthContour:{  valueOfDepthContour=4000, },
+FR 100/59 DepthContour  DepthContour:{  valueOfDepthContour=4000, },
+FR 100/60 DepthContour  DepthContour:{  valueOfDepthContour=2000, },
+FR 100/61 DepthContour  DepthContour:{  valueOfDepthContour=2000, },
+FR 100/62 DepthContour  DepthContour:{  valueOfDepthContour=2000, },
+FR 100/63 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/64 DepthContour  DepthContour:{  valueOfDepthContour=2000, },
+FR 100/65 DepthContour  DepthContour:{  valueOfDepthContour=2000, },
+FR 100/66 DepthContour  DepthContour:{  valueOfDepthContour=2000, },
+FR 100/67 RestrictedAreaNavigational  RestrictedAreaNavigational:{  categoryOfRestrictedArea=14, restriction=7, },
+FR 100/68 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/69 DepthContour  DepthContour:{  valueOfDepthContour=4000, },
+FR 100/70 DepthContour  DepthContour:{  valueOfDepthContour=3000, },
+FR 100/71 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/72 SeaAreaNamedWaterArea  SeaAreaNamedWaterArea:{  categoryOfSeaArea=18, featureName:{  name=Barents Abyssal Plain, }, },
+FR 100/73 DepthArea  DepthArea:{  depthRangeMinimumValue=4000, depthRangeMaximumValue=5000, },
+FR 100/74 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/75 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/76 SeaAreaNamedWaterArea  SeaAreaNamedWaterArea:{  categoryOfSeaArea=15, featureName:{  name=Gakkel Ridge, }, },
+FR 100/77 DepthArea  DepthArea:{  depthRangeMinimumValue=3000, depthRangeMaximumValue=4000, },
+FR 100/78 DepthArea  DepthArea:{  depthRangeMinimumValue=1000, depthRangeMaximumValue=2000, },
+FR 100/79 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/80 DepthArea  DepthArea:{  depthRangeMinimumValue=3000, depthRangeMaximumValue=4000, },
+FR 100/81 SeaAreaNamedWaterArea  SeaAreaNamedWaterArea:{  featureName:{  name=ARCTIC OCEAN, }, },
+FR 100/82 DepthArea  DepthArea:{  depthRangeMinimumValue=1000, depthRangeMaximumValue=2000, },
+FR 100/83 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/84 SeaAreaNamedWaterArea  SeaAreaNamedWaterArea:{  featureName:{  name=Pole Abyssal Plain, }, },
+FR 100/85 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/86 SeaAreaNamedWaterArea  SeaAreaNamedWaterArea:{  categoryOfSeaArea=7, featureName:{  name=AMUNDSEN BASIN, }, },
+FR 100/87 DepthArea  DepthArea:{  depthRangeMinimumValue=3000, depthRangeMaximumValue=4000, },
+FR 100/88 SeaAreaNamedWaterArea  SeaAreaNamedWaterArea:{  categoryOfSeaArea=18, featureName:{  name=Siberia Abyssal Plain, }, },
+FR 100/89 DepthArea  DepthArea:{  depthRangeMinimumValue=1000, depthRangeMaximumValue=2000, },
+FR 100/90 DepthArea  DepthArea:{  depthRangeMinimumValue=3000, depthRangeMaximumValue=4000, },
+FR 100/91 DepthArea  DepthArea:{  depthRangeMinimumValue=1000, depthRangeMaximumValue=2000, },
+FR 100/92 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/93 DepthArea  DepthArea:{  depthRangeMinimumValue=2000, depthRangeMaximumValue=3000, },
+FR 100/94 Sounding  Sounding:{  reportedDate=19940118, },

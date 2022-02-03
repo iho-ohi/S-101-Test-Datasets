@@ -1,0 +1,634 @@
+Printing
+PR 110/16
+PR 110/25
+PR 110/164
+PR 110/41
+PR 110/194
+PR 110/195
+PR 110/184
+PR 110/185
+PR 110/186
+PR 110/187
+PR 110/188
+PR 110/189
+PR 110/190
+PR 110/191
+PR 110/192
+PR 110/193
+PR 110/196
+PR 110/197
+PR 110/198
+PR 110/199
+PR 110/200
+PR 110/201
+PR 110/202
+PR 110/203
+PR 110/204
+PR 110/205
+PR 110/206
+PR 110/207
+PR 110/208
+PR 110/209
+PR 110/210
+PR 110/211
+PR 110/212
+PR 110/213
+PR 110/214
+PR 110/215
+PR 110/216
+PR 110/217
+PR 110/218
+PR 110/157
+PR 110/219
+PR 110/220
+PR 110/221
+PR 110/96
+PR 110/222
+PR 110/223
+PR 110/224
+PR 110/225
+PR 110/226
+PR 110/165
+PR 110/227
+PR 110/166
+PR 110/228
+PR 110/167
+PR 110/229
+PR 110/168
+PR 110/230
+PR 110/169
+PR 110/231
+PR 110/170
+PR 110/232
+PR 110/171
+PR 110/233
+PR 110/172
+PR 110/173
+PR 110/174
+PR 110/175
+PR 110/176
+PR 110/177
+PR 110/178
+PR 110/179
+PR 110/180
+PR 110/181
+PR 110/182
+PR 110/183
+PR 110/115
+PR 110/62
+PR 110/121
+PR 110/38
+PR 110/117
+PR 110/139
+PR 110/20
+PR 110/21
+PR 110/22
+PR 110/88
+PR 110/89
+PR 110/162
+PR 110/1
+PR 110/2
+PR 110/3
+PR 110/4
+PR 110/5
+PR 110/6
+PR 110/7
+PR 110/8
+PR 110/9
+PR 110/10
+PR 110/11
+PR 110/12
+PR 110/13
+PR 110/14
+PR 110/15
+PR 110/17
+PR 110/18
+PR 110/19
+PR 110/23
+PR 110/24
+PR 110/26
+PR 110/27
+PR 110/28
+PR 110/29
+PR 110/30
+PR 110/31
+PR 110/32
+PR 110/33
+PR 110/34
+PR 110/35
+PR 110/36
+PR 110/37
+PR 110/39
+PR 110/40
+PR 110/42
+PR 110/43
+PR 110/44
+PR 110/45
+PR 110/46
+PR 110/47
+PR 110/48
+PR 110/49
+PR 110/50
+PR 110/51
+PR 110/52
+PR 110/53
+PR 110/54
+PR 110/55
+PR 110/56
+PR 110/57
+PR 110/58
+PR 110/59
+PR 110/60
+PR 110/61
+PR 110/63
+PR 110/64
+PR 110/65
+PR 110/66
+PR 110/67
+PR 110/68
+PR 110/69
+PR 110/70
+PR 110/71
+PR 110/72
+PR 110/73
+PR 110/74
+PR 110/75
+PR 110/76
+PR 110/77
+PR 110/78
+PR 110/79
+PR 110/80
+PR 110/81
+PR 110/82
+PR 110/83
+PR 110/84
+PR 110/85
+PR 110/86
+PR 110/87
+PR 110/90
+PR 110/91
+PR 110/92
+PR 110/93
+PR 110/94
+PR 110/95
+PR 110/97
+PR 110/98
+PR 110/99
+PR 110/100
+PR 110/101
+PR 110/102
+PR 110/103
+PR 110/104
+PR 110/105
+PR 110/106
+PR 110/107
+PR 110/108
+PR 110/109
+PR 110/110
+PR 110/111
+PR 110/112
+PR 110/113
+PR 110/114
+PR 110/116
+PR 110/118
+PR 110/119
+PR 110/120
+PR 110/122
+PR 110/123
+PR 110/124
+PR 110/125
+PR 110/126
+PR 110/127
+PR 110/128
+PR 110/129
+PR 110/130
+PR 110/131
+PR 110/132
+PR 110/133
+PR 110/134
+PR 110/135
+PR 110/136
+PR 110/137
+PR 110/138
+PR 110/140
+PR 110/141
+PR 110/142
+PR 110/143
+PR 110/144
+PR 110/145
+PR 110/146
+PR 110/147
+PR 110/148
+PR 110/149
+PR 110/150
+PR 110/151
+PR 110/152
+PR 110/153
+PR 110/154
+PR 110/155
+PR 110/156
+PR 110/158
+PR 110/159
+PR 110/160
+PR 110/161
+PR 110/163
+CR 120/2
+CR 120/56
+CR 120/48
+CR 120/52
+CR 120/100
+CR 120/104
+CR 120/58
+CR 120/5
+CR 120/63
+CR 120/8
+CR 120/108
+CR 120/12
+CR 120/67
+CR 120/17
+CR 120/112
+CR 120/71
+CR 120/116
+CR 120/21
+CR 120/75
+CR 120/24
+CR 120/119
+CR 120/79
+CR 120/28
+CR 120/32
+CR 120/83
+CR 120/36
+CR 120/87
+CR 120/40
+CR 120/91
+CR 120/44
+CR 120/95
+CR 120/49
+CR 120/53
+CR 120/101
+CR 120/105
+CR 120/60
+CR 120/64
+CR 120/9
+CR 120/13
+CR 120/109
+CR 120/68
+CR 120/18
+CR 120/113
+CR 120/72
+CR 120/117
+CR 120/22
+CR 120/76
+CR 120/25
+CR 120/120
+CR 120/29
+CR 120/80
+CR 120/33
+CR 120/84
+CR 120/37
+CR 120/88
+CR 120/41
+CR 120/92
+CR 120/45
+CR 120/96
+CR 120/98
+CR 120/50
+CR 120/54
+CR 120/102
+CR 120/3
+CR 120/57
+CR 120/59
+CR 120/61
+CR 120/106
+CR 120/6
+CR 120/65
+CR 120/10
+CR 120/14
+CR 120/110
+CR 120/69
+CR 120/19
+CR 120/114
+CR 120/73
+CR 120/118
+CR 120/77
+CR 120/26
+CR 120/121
+CR 120/30
+CR 120/81
+CR 120/34
+CR 120/85
+CR 120/38
+CR 120/89
+CR 120/42
+CR 120/93
+CR 120/46
+CR 120/97
+CR 120/103
+CR 120/51
+CR 120/99
+CR 120/1
+CR 120/55
+CR 120/4
+CR 120/62
+CR 120/107
+CR 120/7
+CR 120/11
+CR 120/66
+CR 120/15
+CR 120/16
+CR 120/111
+CR 120/70
+CR 120/20
+CR 120/115
+CR 120/74
+CR 120/23
+CR 120/78
+CR 120/27
+CR 120/31
+CR 120/122
+CR 120/82
+CR 120/35
+CR 120/86
+CR 120/39
+CR 120/90
+CR 120/43
+CR 120/94
+CR 120/47
+CC 125/1
+CC 125/4
+CC 125/6
+CC 125/7
+CC 125/5
+CC 125/2
+CC 125/3
+SR 130/1
+SR 130/32
+SR 130/28
+SR 130/69
+SR 130/5
+SR 130/38
+SR 130/8
+SR 130/42
+SR 130/43
+SR 130/11
+SR 130/47
+SR 130/15
+SR 130/16
+SR 130/73
+SR 130/51
+SR 130/19
+SR 130/55
+SR 130/22
+SR 130/59
+SR 130/26
+SR 130/63
+SR 130/2
+SR 130/33
+SR 130/29
+SR 130/70
+SR 130/6
+SR 130/39
+SR 130/72
+SR 130/44
+SR 130/12
+SR 130/48
+SR 130/17
+SR 130/74
+SR 130/52
+SR 130/56
+SR 130/23
+SR 130/60
+SR 130/27
+SR 130/64
+SR 130/67
+SR 130/30
+SR 130/71
+SR 130/3
+SR 130/34
+SR 130/7
+SR 130/36
+SR 130/40
+SR 130/45
+SR 130/13
+SR 130/49
+SR 130/53
+SR 130/20
+SR 130/57
+SR 130/24
+SR 130/61
+SR 130/65
+SR 130/68
+SR 130/31
+SR 130/4
+SR 130/35
+SR 130/37
+SR 130/41
+SR 130/9
+SR 130/10
+SR 130/46
+SR 130/14
+SR 130/50
+SR 130/18
+SR 130/54
+SR 130/21
+SR 130/58
+SR 130/25
+SR 130/62
+SR 130/66
+FR 100/1 QualityOfBathymetricData  QualityOfBathymetricData:{  categoryOfTemporalVariation=5, dataAssessment=1, featuresDetected:{  leastDepthOfDetectedFeaturesMeasured=1, significantFeaturesDetected=1, }, fullSeafloorCoverageAchieved=1, },
+FR 100/2 NavigationalSystemOfMarks  NavigationalSystemOfMarks:{  marksNavigationalSystemOf=2, },
+FR 100/3 LocalDirectionOfBuoyage  LocalDirectionOfBuoyage:{  marksNavigationalSystemOf=2, orientationValue=0, },
+FR 100/4 LocalDirectionOfBuoyage  LocalDirectionOfBuoyage:{  orientationValue=0, },
+FR 100/5 NavigationalSystemOfMarks 
+FR 100/6 NavigationalSystemOfMarks  NavigationalSystemOfMarks:{  marksNavigationalSystemOf=1, },
+FR 100/7 LocalDirectionOfBuoyage  LocalDirectionOfBuoyage:{  marksNavigationalSystemOf=1, orientationValue=0, },
+FR 100/8 DataCoverage  DataCoverage:{  maximumDisplayScale=45000, minimumDisplayScale=90000, },
+FR 100/9 Building  Building:{  function=35, visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/10 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=10, },
+FR 100/11 Daymark  Daymark:{  colour=2, scaleMinimum=90000, },
+FR 100/12 Daymark  Daymark:{  colour=2, topmarkDaymarkShape=20, scaleMinimum=90000, },
+FR 100/13 CautionArea  CautionArea:{  scaleMinimum=500000, },
+FR 100/14 ArchipelagicSeaLaneAxis 
+FR 100/15 Building  Building:{  function=33, visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/16 RecommendedTrack  RecommendedTrack:{  categoryOfRecommendedTrack=2, orientationValue=90, trafficFlow=2, scaleMinimum=1500000, },
+FR 100/17 Gridiron  Gridiron:{  scaleMinimum=90000, },
+FR 100/18 FishingFacility  FishingFacility:{  scaleMinimum=180000, },
+FR 100/19 FishingFacility  FishingFacility:{  categoryOfFishingFacility=4, scaleMinimum=180000, },
+FR 100/20 FishingFacility  FishingFacility:{  categoryOfFishingFacility=2, scaleMinimum=180000, },
+FR 100/21 FishingFacility  FishingFacility:{  categoryOfFishingFacility=3, scaleMinimum=180000, },
+FR 100/22 FishingFacility  FishingFacility:{  categoryOfFishingFacility=1, scaleMinimum=180000, },
+FR 100/23 ArchipelagicSeaLaneArea 
+FR 100/24 Lake  Lake:{  scaleMinimum=260000, },
+FR 100/25 FerryRoute  FerryRoute:{  categoryOfFerry=3, scaleMinimum=350000, },
+FR 100/26 CargoTranshipmentArea  CargoTranshipmentArea:{  scaleMinimum=500000, },
+FR 100/27 TwoWayRoutePart  TwoWayRoutePart:{  orientationValue=90, trafficFlow=4, scaleMinimum=1500000, },
+FR 100/28 RecommendedTrafficLanePart  RecommendedTrafficLanePart:{  orientationValue=90, scaleMinimum=1500000, },
+FR 100/29 Building  Building:{  function=27, visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/30 FishingFacility  FishingFacility:{  categoryOfFishingFacility=1, scaleMinimum=180000, },
+FR 100/31 RecommendedTrafficLanePart  RecommendedTrafficLanePart:{  orientationValue=90, scaleMinimum=1500000, },
+FR 100/32 RecommendedTrafficLanePart  RecommendedTrafficLanePart:{  orientationValue=90, scaleMinimum=1500000, },
+FR 100/33 RecommendedTrafficLanePart  RecommendedTrafficLanePart:{  orientationValue=90, scaleMinimum=1500000, },
+FR 100/34 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=8, visuallyConspicuous=1, scaleMinimum=260000, },
+FR 100/35 SeaAreaNamedWaterArea  SeaAreaNamedWaterArea:{  scaleMinimum=180000, },
+FR 100/36 RadarRange  RadarRange:{  scaleMinimum=700000, },
+FR 100/37 TwoWayRoutePart  TwoWayRoutePart:{  categoryOfRecommendedTrack=2, orientationValue=90, trafficFlow=4, scaleMinimum=1500000, },
+FR 100/38 TwoWayRoutePart  TwoWayRoutePart:{  categoryOfRecommendedTrack=1, orientationValue=90, trafficFlow=4, scaleMinimum=1500000, },
+FR 100/39 RecommendedTrack  RecommendedTrack:{  categoryOfRecommendedTrack=1, orientationValue=90, trafficFlow=4, scaleMinimum=1500000, },
+FR 100/40 RecommendedTrack  RecommendedTrack:{  orientationValue=90, trafficFlow=1, scaleMinimum=1500000, },
+FR 100/41 RecommendedTrack  RecommendedTrack:{  orientationValue=90, trafficFlow=3, scaleMinimum=1500000, },
+FR 100/42 RecommendedTrack  RecommendedTrack:{  orientationValue=90, trafficFlow=4, scaleMinimum=1500000, },
+FR 100/43 FishingFacility  FishingFacility:{  scaleMinimum=180000, },
+FR 100/44 Building  Building:{  function=25, visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/45 RecommendedTrack  RecommendedTrack:{  orientationValue=90, trafficFlow=2, scaleMinimum=1500000, },
+FR 100/46 RecommendedTrafficLanePart  RecommendedTrafficLanePart:{  orientationValue=90, scaleMinimum=1500000, },
+FR 100/47 RecommendedTrafficLanePart  RecommendedTrafficLanePart:{  orientationValue=90, scaleMinimum=1500000, },
+FR 100/48 Sandwave  Sandwave:{  scaleMinimum=180000, },
+FR 100/49 RecommendedTrafficLanePart  RecommendedTrafficLanePart:{  orientationValue=90, scaleMinimum=1500000, },
+FR 100/50 SubmarineTransitLane  SubmarineTransitLane:{  scaleMinimum=500000, },
+FR 100/51 RecommendedTrafficLanePart  RecommendedTrafficLanePart:{  orientationValue=90, scaleMinimum=1500000, },
+FR 100/52 SweptArea  SweptArea:{  scaleMinimum=350000, },
+FR 100/53 SeaplaneLandingArea  SeaplaneLandingArea:{  scaleMinimum=260000, },
+FR 100/54 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=20, },
+FR 100/55 SiloTank  SiloTank:{  visuallyConspicuous=1, scaleMinimum=45000, },
+FR 100/56 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=9, visuallyConspicuous=1, scaleMinimum=260000, },
+FR 100/57 RecommendedTrafficLanePart  RecommendedTrafficLanePart:{  orientationValue=90, scaleMinimum=1500000, },
+FR 100/58 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=5, visuallyConspicuous=1, scaleMinimum=260000, },
+FR 100/59 PilotBoardingPlace  PilotBoardingPlace:{  scaleMinimum=700000, },
+FR 100/60 OffshoreProductionArea  OffshoreProductionArea:{  scaleMinimum=260000, },
+FR 100/61 RecommendedTrack  RecommendedTrack:{  categoryOfRecommendedTrack=2, orientationValue=90, trafficFlow=4, scaleMinimum=1500000, },
+FR 100/62 RecommendedTrack  RecommendedTrack:{  categoryOfRecommendedTrack=2, orientationValue=90, trafficFlow=1, scaleMinimum=1500000, },
+FR 100/63 RecommendedTrack  RecommendedTrack:{  categoryOfRecommendedTrack=2, orientationValue=90, trafficFlow=3, scaleMinimum=1500000, },
+FR 100/64 LightSectored  LightSectored:{  sectorCharacteristics:{  lightCharacteristic=2, lightSector:{  colour=1, sectorLimit:{  sectorLimitOne:{  sectorBearing=270, }, sectorLimitTwo:{  sectorBearing=0, }, }, }, signalGroup=2, signalPeriod=5, }, scaleMinimum=180000, },
+FR 100/65 LandRegion  LandRegion:{  scaleMinimum=350000, },
+FR 100/66 LandRegion  LandRegion:{  categoryOfLandRegion=12, scaleMinimum=350000, },
+FR 100/67 MarineFarmCulture  MarineFarmCulture:{  scaleMinimum=180000, },
+FR 100/68 MilitaryPracticeArea  MilitaryPracticeArea:{  scaleMinimum=500000, },
+FR 100/69 FerryRoute  FerryRoute:{  categoryOfFerry=1, scaleMinimum=350000, },
+FR 100/70 BuiltUpArea  BuiltUpArea:{  scaleMinimum=350000, },
+FR 100/71 LandRegion  LandRegion:{  categoryOfLandRegion=2, scaleMinimum=350000, },
+FR 100/72 Building  Building:{  function=23, visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/73 Fairway  Fairway:{  scaleMinimum=500000, },
+FR 100/74 Landmark  Landmark:{  visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/75 FishingGround  FishingGround:{  scaleMinimum=350000, },
+FR 100/76 DumpingGround  DumpingGround:{  categoryOfDumpingGround=5, scaleMinimum=500000, },
+FR 100/77 FortifiedStructure  FortifiedStructure:{  visuallyConspicuous=1, scaleMinimum=90000, },
+FR 100/78 Crane  Crane:{  visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/79 FerryRoute  FerryRoute:{  categoryOfFerry=2, scaleMinimum=350000, },
+FR 100/80 Fairway  Fairway:{  orientationValue=92, trafficFlow=3, scaleMinimum=500000, },
+FR 100/81 Dam  Dam:{  scaleMinimum=260000, },
+FR 100/82 Fairway  Fairway:{  orientationValue=92, trafficFlow=1, scaleMinimum=500000, },
+FR 100/83 Causeway  Causeway:{  waterLevelEffect=4, scaleMinimum=180000, },
+FR 100/84 Dyke  Dyke:{  scaleMinimum=260000, },
+FR 100/85 Building  Building:{  visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/86 DumpingGround  DumpingGround:{  scaleMinimum=500000, },
+FR 100/87 CargoTranshipmentArea  CargoTranshipmentArea:{  scaleMinimum=500000, },
+FR 100/88 CautionArea  CautionArea:{  scaleMinimum=500000, },
+FR 100/89 Causeway  Causeway:{  scaleMinimum=180000, },
+FR 100/90 Building  Building:{  function=33, visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/91 LandArea 
+FR 100/92 Building  Building:{  function=26, visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/93 AnchorBerth  AnchorBerth:{  scaleMinimum=180000, },
+FR 100/94 Building  Building:{  function=24, visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/95 LandRegion  LandRegion:{  scaleMinimum=350000, },
+FR 100/96 AnchorageArea  AnchorageArea:{  categoryOfAnchorage=8, scaleMinimum=350000, },
+FR 100/97 AnchorageArea  AnchorageArea:{  scaleMinimum=350000, },
+FR 100/98 Building  Building:{  function=22, visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/99 RecommendedTrack  RecommendedTrack:{  categoryOfRecommendedTrack=1, orientationValue=90, trafficFlow=1, scaleMinimum=1500000, },
+FR 100/100 SlopeTopline  SlopeTopline:{  categoryOfSlope=6, visuallyConspicuous=1, scaleMinimum=260000, },
+FR 100/101 RecommendedTrack  RecommendedTrack:{  categoryOfRecommendedTrack=1, orientationValue=90, trafficFlow=3, scaleMinimum=1500000, },
+FR 100/102 SlopeTopline  SlopeTopline:{  categoryOfSlope=2, radarConspicuous=1, scaleMinimum=260000, },
+FR 100/103 Coastline 
+FR 100/104 MarineFarmCulture  MarineFarmCulture:{  scaleMinimum=180000, },
+FR 100/105 Dyke  Dyke:{  scaleMinimum=260000, },
+FR 100/106 Causeway  Causeway:{  scaleMinimum=180000, },
+FR 100/107 CableSubmarine  CableSubmarine:{  categoryOfCable=6, scaleMinimum=260000, },
+FR 100/108 FerryRoute  FerryRoute:{  categoryOfFerry=1, scaleMinimum=350000, },
+FR 100/109 Building  Building:{  visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/110 RadarLine  RadarLine:{  orientationValue=90, scaleMinimum=350000, },
+FR 100/111 Fairway  Fairway:{  orientationValue=92, trafficFlow=2, scaleMinimum=500000, },
+FR 100/112 FenceWall  FenceWall:{  visuallyConspicuous=1, scaleMinimum=260000, },
+FR 100/113 Dyke  Dyke:{  radarConspicuous=1, scaleMinimum=260000, },
+FR 100/114 Dam  Dam:{  scaleMinimum=260000, },
+FR 100/115 Causeway  Causeway:{  waterLevelEffect=4, scaleMinimum=180000, },
+FR 100/116 NavigationLine  NavigationLine:{  categoryOfNavigationLine=2, orientation:{  orientationValue=120, }, scaleMinimum=260000, },
+FR 100/117 FerryRoute  FerryRoute:{  categoryOfFerry=2, scaleMinimum=350000, },
+FR 100/118 Coastline 
+FR 100/119 SlopeTopline  SlopeTopline:{  categoryOfSlope=6, radarConspicuous=1, scaleMinimum=260000, },
+FR 100/120 Building  Building:{  function=21, visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/121 Sandwave  Sandwave:{  scaleMinimum=180000, },
+FR 100/122 RecommendedTrack  RecommendedTrack:{  categoryOfRecommendedTrack=1, orientationValue=90, trafficFlow=2, scaleMinimum=1500000, },
+FR 100/123 Building  Building:{  function=20, visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/124 Fairway  Fairway:{  trafficFlow=4, scaleMinimum=500000, },
+FR 100/125 Building  Building:{  featureName:{  name=Name, }, function=33, visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/126 Crane  Crane:{  visuallyConspicuous=1, scaleMinimum=60000, },
+FR 100/127 AnchorBerth  AnchorBerth:{  scaleMinimum=180000, },
+FR 100/128 BuiltUpArea  BuiltUpArea:{  scaleMinimum=350000, },
+FR 100/129 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=8, visuallyConspicuous=1, scaleMinimum=260000, },
+FR 100/130 AnchorageArea  AnchorageArea:{  categoryOfAnchorage=8, scaleMinimum=350000, },
+FR 100/131 Daymark  Daymark:{  colour=2, topmarkDaymarkShape=19, scaleMinimum=90000, },
+FR 100/132 SiloTank  SiloTank:{  categoryOfSiloTank=3, visuallyConspicuous=1, scaleMinimum=45000, },
+FR 100/133 MarineFarmCulture  MarineFarmCulture:{  scaleMinimum=180000, },
+FR 100/134 VirtualAISAidToNavigation  VirtualAISAidToNavigation:{  virtualAISAidToNavigationType=1, },
+FR 100/135 Landmark  Landmark:{  categoryOfLandmark=20, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/136 FishingFacility  FishingFacility:{  categoryOfFishingFacility=4, scaleMinimum=180000, },
+FR 100/137 Landmark  Landmark:{  visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/138 LightAllAround  LightAllAround:{  scaleMinimum=180000, },
+FR 100/139 Daymark  Daymark:{  topmarkDaymarkShape=2, scaleMinimum=150000, },
+FR 100/140 DistanceMark  DistanceMark:{  scaleMinimum=120000, },
+FR 100/141 MooringWarpingFacility  MooringWarpingFacility:{  categoryOfMooringWarpingFacility=7, scaleMinimum=60000, },
+FR 100/142 SiloTank  SiloTank:{  categoryOfSiloTank=4, visuallyConspicuous=1, scaleMinimum=45000, },
+FR 100/143 Landmark  Landmark:{  categoryOfLandmark=4, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/144 Landmark  Landmark:{  categoryOfLandmark=10, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/145 Landmark  Landmark:{  categoryOfLandmark=12, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/146 LandRegion  LandRegion:{  scaleMinimum=350000, },
+FR 100/147 SiloTank  SiloTank:{  categoryOfSiloTank=2, visuallyConspicuous=1, scaleMinimum=45000, },
+FR 100/148 SiloTank  SiloTank:{  categoryOfSiloTank=1, visuallyConspicuous=1, scaleMinimum=45000, },
+FR 100/149 Landmark  Landmark:{  categoryOfLandmark=7, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/150 Sandwave  Sandwave:{  scaleMinimum=180000, },
+FR 100/151 SeaplaneLandingArea  SeaplaneLandingArea:{  scaleMinimum=260000, },
+FR 100/152 FishingFacility  FishingFacility:{  categoryOfFishingFacility=3, scaleMinimum=180000, },
+FR 100/153 FishingFacility  FishingFacility:{  categoryOfFishingFacility=2, scaleMinimum=180000, },
+FR 100/154 FishingFacility  FishingFacility:{  categoryOfFishingFacility=1, scaleMinimum=180000, },
+FR 100/155 FishingFacility  FishingFacility:{  scaleMinimum=180000, },
+FR 100/156 DistanceMark  DistanceMark:{  categoryOfDistanceMark=1, scaleMinimum=120000, },
+FR 100/157 SignalStationWarning  SignalStationWarning:{  categoryOfSignalStationWarning=1, scaleMinimum=90000, },
+FR 100/158 SignalStationTraffic  SignalStationTraffic:{  scaleMinimum=90000, },
+FR 100/159 SiloTank  SiloTank:{  visuallyConspicuous=1, scaleMinimum=45000, },
+FR 100/160 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=5, visuallyConspicuous=1, scaleMinimum=260000, },
+FR 100/161 Landmark  Landmark:{  categoryOfLandmark=15, function=20, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/162 Landmark  Landmark:{  categoryOfLandmark=20, function=26, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/163 WindTurbine  WindTurbine:{  visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/164 MilitaryPracticeArea  MilitaryPracticeArea:{  scaleMinimum=500000, },
+FR 100/165 SeaAreaNamedWaterArea  SeaAreaNamedWaterArea:{  scaleMinimum=180000, },
+FR 100/166 RadarTransponderBeacon  RadarTransponderBeacon:{  categoryOfRadarTransponderBeacon=1, scaleMinimum=180000, },
+FR 100/167 Retroreflector  Retroreflector:{  scaleMinimum=150000, },
+FR 100/168 RadarReflector  RadarReflector:{  scaleMinimum=150000, },
+FR 100/169 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=9, visuallyConspicuous=1, scaleMinimum=260000, },
+FR 100/170 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=8, visuallyConspicuous=1, scaleMinimum=260000, },
+FR 100/171 PilotBoardingPlace  PilotBoardingPlace:{  scaleMinimum=700000, },
+FR 100/172 Landmark  Landmark:{  categoryOfLandmark=8, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/173 Landmark  Landmark:{  categoryOfLandmark=18, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/174 Landmark  Landmark:{  categoryOfLandmark=17, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/175 Landmark  Landmark:{  categoryOfLandmark=16, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/176 Landmark  Landmark:{  categoryOfLandmark=15, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/177 Landmark  Landmark:{  categoryOfLandmark=13, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/178 Landmark  Landmark:{  categoryOfLandmark=9, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/179 Daymark  Daymark:{  colour=2, topmarkDaymarkShape=21, scaleMinimum=90000, },
+FR 100/180 Landmark  Landmark:{  categoryOfLandmark=20, function=20, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/181 Landmark  Landmark:{  categoryOfLandmark=20, function=21, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/182 Landmark  Landmark:{  categoryOfLandmark=6, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/183 Landmark  Landmark:{  categoryOfLandmark=5, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/184 Landmark  Landmark:{  categoryOfLandmark=3, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/185 Landmark  Landmark:{  categoryOfLandmark=1, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/186 Landmark  Landmark:{  categoryOfLandmark=20, function=27, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/187 Gate  Gate:{  categoryOfGate=2, scaleMinimum=180000, },
+FR 100/188 Landmark  Landmark:{  categoryOfLandmark=17, featureName:{  name=5, }, function=21, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/189 Landmark  Landmark:{  categoryOfLandmark=17, featureName:{  name=4, }, function=20, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/190 Landmark  Landmark:{  categoryOfLandmark=15, featureName:{  name=3, }, function=21, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/191 Landmark  Landmark:{  categoryOfLandmark=17, function=33, visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/192 LightAllAround  LightAllAround:{  colour=1, rhythmOfLight:{  lightCharacteristic=2, }, scaleMinimum=180000, },
+FR 100/193 Gate  Gate:{  scaleMinimum=180000, },
+FR 100/194 FortifiedStructure  FortifiedStructure:{  visuallyConspicuous=1, scaleMinimum=90000, },
+FR 100/195 DumpingGround  DumpingGround:{  scaleMinimum=500000, },
+FR 100/196 Daymark  Daymark:{  colour=2, topmarkDaymarkShape=25, scaleMinimum=90000, },
+FR 100/197 Daymark  Daymark:{  colour=2, topmarkDaymarkShape=24, scaleMinimum=90000, },

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:./S101_XC.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<S100XC:S100_ExchangeCatalogue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:S100XC="http://www.iho.int/s100/xc" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gcx="http://standards.iso.org/iso/19115/-3/gcx/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <S100XC:identifier>
+    <S100XC:identifier>1012C00AA4X000000</S100XC:identifier>
+    <S100XC:editionNumber>1</S100XC:editionNumber>
+    <S100XC:date>2020-07-11</S100XC:date>
+  </S100XC:identifier>
+  <S100XC:contact>
+    <S100XC:organization>iic</S100XC:organization>
+  </S100XC:contact>
+  <S100XC:productSpecification>
+    <S100XC:name>S-101</S100XC:name>
+    <S100XC:version>010000</S100XC:version>
+    <S100XC:date>2018-12-01</S100XC:date>
+    <S100XC:number>101</S100XC:number>
+  </S100XC:productSpecification>
+  <S100XC:metadataLanguage>English</S100XC:metadataLanguage>
+  <S100XC:exchangeCatalogueName>CATALOG.XML</S100XC:exchangeCatalogueName>
+  <S100XC:exchangeCatalogueDescription>none</S100XC:exchangeCatalogueDescription>
+  <S100XC:sourceMedia>none</S100XC:sourceMedia>
+  <S100XC:replacedData>true</S100XC:replacedData>
+  <S100XC:datasetDiscoveryMetadata>
+    <S100XC:S100_DatasetDiscoveryMetadata>
+      <S100XC:fileName>1012C00AA4X000000.000</S100XC:fileName>
+      <S100XC:filePath>1012C00AA4X000000</S100XC:filePath>
+      <S100XC:description>n</S100XC:description>
+      <S100XC:dataProtection>false</S100XC:dataProtection>
+      <S100XC:protectionScheme>S100p154.0.0</S100XC:protectionScheme>
+      <S100XC:digitalSignatureReference>dsa</S100XC:digitalSignatureReference>
+      <S100XC:digitalSignatureValue>
+        <S100XC:signedPublicKey id="caris">PubKey00</S100XC:signedPublicKey>
+        <S100XC:digitalSignature>12345678</S100XC:digitalSignature>
+      </S100XC:digitalSignatureValue>
+      <S100XC:classification gco:isoType="mco:MD_ClassificationCode">
+        <mco:MD_ClassificationCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ClassificationCode" codeListValue="unclassified">unclassified</mco:MD_ClassificationCode>
+      </S100XC:classification>
+      <S100XC:purpose>new edition</S100XC:purpose>
+      <S100XC:specificUsage>
+        <mri:MD_Usage>
+          <mri:specificUsage>
+            <gco:CharacterString>Transit</gco:CharacterString>
+          </mri:specificUsage>
+        </mri:MD_Usage>
+      </S100XC:specificUsage>
+      <S100XC:editionNumber>1</S100XC:editionNumber>
+      <S100XC:updateNumber>0</S100XC:updateNumber>
+      <S100XC:updateApplicationDate>2020-07-11</S100XC:updateApplicationDate>
+      <S100XC:issueDate>2020-07-11</S100XC:issueDate>
+      <S100XC:productSpecification>
+        <S100XC:name>S-101</S100XC:name>
+        <S100XC:version>010000</S100XC:version>
+        <S100XC:date>2018-12-01</S100XC:date>
+        <S100XC:number>101</S100XC:number>
+      </S100XC:productSpecification>
+      <S100XC:producingAgency>
+        <cit:CI_Responsibility>
+          <cit:role>
+            <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="author">author</cit:CI_RoleCode>
+          </cit:role>
+          <cit:party>
+            <cit:CI_Organisation>
+              <cit:name>
+                <gco:CharacterString>iic</gco:CharacterString>
+              </cit:name>
+            </cit:CI_Organisation>
+          </cit:party>
+        </cit:CI_Responsibility>
+      </S100XC:producingAgency>
+      <S100XC:maximumDisplayScale>50000</S100XC:maximumDisplayScale>
+      <S100XC:horizontalDatumReference>EPSG</S100XC:horizontalDatumReference>
+      <S100XC:horizontalDatumValue>4326</S100XC:horizontalDatumValue>
+      <S100XC:verticalDatum>lowestLowWaterSprings</S100XC:verticalDatum>
+      <S100XC:soundingDatum>meanSeaLevel</S100XC:soundingDatum>
+      <S100XC:dataType>ISO/IEC 8211</S100XC:dataType>
+      <S100XC:dataTypeVersion>1.0.0</S100XC:dataTypeVersion>
+      <S100XC:dataCoverage>
+        <S100XC:ID>1</S100XC:ID>
+        <S100XC:boundingBox gco:isoType="gex:EX_GeographicBoundingBox">
+          <gex:westBoundLongitude>
+            <gco:Decimal>60.7749955</gco:Decimal>
+          </gex:westBoundLongitude>
+          <gex:eastBoundLongitude>
+            <gco:Decimal>61.3172987</gco:Decimal>
+          </gex:eastBoundLongitude>
+          <gex:southBoundLatitude>
+            <gco:Decimal>-32.6250103</gco:Decimal>
+          </gex:southBoundLatitude>
+          <gex:northBoundLatitude>
+            <gco:Decimal>-32.3294577</gco:Decimal>
+          </gex:northBoundLatitude>
+        </S100XC:boundingBox>
+        <S100XC:boundingPolygon gco:isoType="gex:EX_BoundingPolygon">
+          <gex:polygon>
+            <gml:LineString gml:id="DC1_1012C00AA4X000000" srsName="urn:ogc:def:crs:EPSG::4326">
+              <gml:posList> 61.2767054 -32.6250037 61.3071300 -32.6250045 61.2624353 -32.6250033 61.2767054 -32.6250037 61.2457746 -32.6250028 61.2624353 -32.6250033 61.2436611 -32.6250028 61.2457746 -32.6250028 61.2432715 -32.6250028 61.2436611 -32.6250028 61.2422920 -32.6250028 61.2432715 -32.6250028 61.2392939 -32.6250027 61.2422920 -32.6250028 61.2385184 -32.6250027 61.2392939 -32.6250027 61.2374296 -32.6250026 61.2385184 -32.6250027 61.2333017 -32.6250025 61.2374296 -32.6250026 61.2283326 -32.6250024 61.2333017 -32.6250025 61.2240615 -32.6250023 61.2283326 -32.6250024 61.2207891 -32.6250022 61.2240615 -32.6250023 61.2155329 -32.6250020 61.2207891 -32.6250022 61.2094996 -32.6250019 61.2155329 -32.6250020 61.2071922 -32.6250018 61.2094996 -32.6250019 61.2060546 -32.6250018 61.2071922 -32.6250018 61.2048866 -32.6250018 61.2060546 -32.6250018 61.2024823 -32.6250017 61.2048866 -32.6250018 61.1987835 -32.6250016 61.2024823 -32.6250017 61.1901613 -32.6250014 61.1987835 -32.6250016 61.1806123 -32.6250011 61.1901613 -32.6250014 61.1793633 -32.6250011 61.1806123 -32.6250011 61.1772048 -32.6250010 61.1793633 -32.6250011 61.1754064 -32.6250010 61.1772048 -32.6250010 61.1717398 -32.6250009 61.1754064 -32.6250010 61.1575116 -32.6250005 61.1717398 -32.6250009 61.1387811 -32.6250000 61.1575116 -32.6250005 61.1289100 -32.6249997 61.1387811 -32.6250000 61.1285964 -32.6249997 61.1289100 -32.6249997 61.1280142 -32.6249997 61.1285964 -32.6249997 61.1084115 -32.6249992 61.1280142 -32.6249997 61.0983272 -32.6249989 61.1084115 -32.6249992 61.0868582 -32.6249986 61.0983272 -32.6249989 61.0785052 -32.6249984 61.0868582 -32.6249986 61.0776067 -32.6249984 61.0785052 -32.6249984 61.0773586 -32.6249984 61.0776067 -32.6249984 61.0736282 -32.6249983 61.0773586 -32.6249984 61.0597626 -32.6249910 61.0736282 -32.6249983 61.0499411 -32.6249858 61.0597626 -32.6249910 61.0414318 -32.6249813 61.0499411 -32.6249858 61.0403233 -32.6249807 61.0414318 -32.6249813 61.0377285 -32.6249793 61.0403233 -32.6249807 61.0258110 -32.6249730 61.0377285 -32.6249793 61.0160269 -32.6249950 61.0258110 -32.6249730 61.0151553 -32.6249967 61.0160269 -32.6249950 60.9735139 -32.6249534 61.0151553 -32.6249967 60.9730305 -32.6249529 60.9735139 -32.6249534 60.9689827 -32.6249564 60.9730305 -32.6249529 60.9583206 -32.6249657 60.9689827 -32.6249564 60.9521478 -32.6249711 60.9583206 -32.6249657 60.9433471 -32.6249891 60.9521478 -32.6249711 60.9405538 -32.6249948 60.9433471 -32.6249891 60.9370782 -32.6249947 60.9405538 -32.6249948 60.9353125 -32.6249946 60.9370782 -32.6249947 60.9300773 -32.6249945 60.9353125 -32.6249946 60.9262389 -32.6249944 60.9300773 -32.6249945 60.9138835 -32.6249941 60.9262389 -32.6249944 60.9116997 -32.6249940 60.9138835 -32.6249941 60.8946664 -32.6249935 60.9116997 -32.6249940 60.8850000 -32.6249933 60.8946664 -32.6249935 60.8810126 -32.6249932 60.8850000 -32.6249933 60.8781653 -32.6249931 60.8810126 -32.6249932 60.8768588 -32.6249931 60.8781653 -32.6249931 60.8761177 -32.6249931 60.8768588 -32.6249931 60.8745429 -32.6249930 60.8761177 -32.6249931 60.8736841 -32.6249930 60.8745429 -32.6249930 60.8675059 -32.6249928 60.8736841 -32.6249930 60.8437280 -32.6250073 60.8675059 -32.6249928 60.8385422 -32.6249921 60.8386846 -32.6250103 60.8437280 -32.6250073 60.7749996 -32.6167304 60.7750000 -32.6249972 60.8385422 -32.6249921 60.7749994 -32.6132001 60.7749996 -32.6167304 60.7749994 -32.6126390 60.7749994 -32.6132001 60.7749993 -32.6122817 60.7749994 -32.6126390 60.7749990 -32.6057248 60.7749993 -32.6122817 60.7749990 -32.6056077 60.7749990 -32.6057248 60.7749990 -32.6055540 60.7749990 -32.6056077 60.7749989 -32.6042747 60.7749990 -32.6055540 60.7749987 -32.6005007 60.7749989 -32.6042747 60.7749985 -32.5971589 60.7749987 -32.6005007 60.7749982 -32.5910245 60.7749985 -32.5971589 60.7749975 -32.5792590 60.7749982 -32.5910245 60.7749975 -32.5782949 60.7749975 -32.5792590 60.7749975 -32.5756264 60.7749975 -32.5782949 60.7749975 -32.5718275 60.7749975 -32.5756264 60.7749971 -32.4910597 60.7749975 -32.5718275 60.7749963 -32.3451690 60.7749971 -32.4910597 60.7749963 -32.3444064 60.7749963 -32.3451690 60.8795465 -32.3294652 60.7749955 -32.3294577 60.7749963 -32.3444064 60.8803441 -32.3294653 60.8795465 -32.3294652 60.8809140 -32.3294653 60.8803441 -32.3294653 60.9224066 -32.3294683 60.8809140 -32.3294653 60.9251770 -32.3294685 60.9224066 -32.3294683 60.9266788 -32.3294686 60.9251770 -32.3294685 60.9323752 -32.3294690 60.9266788 -32.3294686 60.9383679 -32.3294694 60.9323752 -32.3294690 60.9389285 -32.3294695 60.9383679 -32.3294694 60.9395858 -32.3294695 60.9389285 -32.3294695 60.9416065 -32.3294696 60.9395858 -32.3294695 60.9434077 -32.3294698 60.9416065 -32.3294696 60.9472337 -32.3294700 60.9434077 -32.3294698 60.9482001 -32.3294701 60.9472337 -32.3294700 60.9533577 -32.3294705 60.9482001 -32.3294701 60.9829707 -32.3294726 60.9533577 -32.3294705 61.0022844 -32.3294740 60.9829707 -32.3294726 61.0196531 -32.3294752 61.0022844 -32.3294740 61.0205508 -32.3294753 61.0196531 -32.3294752 61.0446474 -32.3294763 61.0205508 -32.3294753 61.0636303 -32.3294772 61.0446474 -32.3294763 61.0941515 -32.3294786 61.0636303 -32.3294772 61.1126659 -32.3294794 61.0941515 -32.3294786 61.1343998 -32.3294804 61.1126659 -32.3294794 61.1443437 -32.3294809 61.1343998 -32.3294804 61.1950038 -32.3294832 61.1443437 -32.3294809 61.1959012 -32.3294832 61.1950038 -32.3294832 61.2099521 -32.3294838 61.1959012 -32.3294832 61.2466476 -32.3294855 61.2099521 -32.3294838 61.2570789 -32.3294860 61.2466476 -32.3294855 61.2581980 -32.3294860 61.2570789 -32.3294860 61.2683887 -32.3294865 61.2581980 -32.3294860 61.2784762 -32.3294870 61.2683887 -32.3294865 61.2810827 -32.3294871 61.2784762 -32.3294870 61.3172768 -32.3626065 61.3172987 -32.3294704 61.2810827 -32.3294871 61.3172763 -32.3712129 61.3172768 -32.3626065 61.3172748 -32.3968854 61.3172763 -32.3712129 61.3172747 -32.3980566 61.3172748 -32.3968854 61.3172747 -32.3981559 61.3172747 -32.3980566 61.3172731 -32.4268421 61.3172747 -32.3981559 61.3172722 -32.4420833 61.3172731 -32.4268421 61.3172710 -32.4627615 61.3172722 -32.4420833 61.3172710 -32.4630963 61.3172710 -32.4627615 61.3172707 -32.4683374 61.3172710 -32.4630963 61.3172706 -32.4690982 61.3172707 -32.4683374 61.3172704 -32.4726763 61.3172706 -32.4690982 61.3172691 -32.4959184 61.3172704 -32.4726763 61.3172685 -32.5064868 61.3172691 -32.4959184 61.3172637 -32.5888805 61.3172685 -32.5064868 61.3118769 -32.6249968 61.3172616 -32.6249972 61.3172637 -32.5888805 61.3071300 -32.6250045 61.3118769 -32.6249968</gml:posList>
+            </gml:LineString>
+          </gex:polygon>
+        </S100XC:boundingPolygon>
+        <S100XC:maximumDisplayScale>50000</S100XC:maximumDisplayScale>
+        <S100XC:minimumDisplayScale>90000</S100XC:minimumDisplayScale>
+      </S100XC:dataCoverage>
+      <S100XC:defaultLocale>
+        <lan:PT_Locale>
+          <lan:language>
+            <lan:LanguageCode codeList="http://www.iho.int/S100/4.0.0/resources/Codelists/cat/codelists.xml#S100_MD_LanguageCode" codeListValue="en">en</lan:LanguageCode>
+          </lan:language>
+          <lan:characterEncoding>
+            <lan:MD_CharacterSetCode codeList="http://www.iho.int/S100/4.0.0/resources/Codelists/cat/codelists.xml#S100_MD_CharacterSetCode" codeListValue="utf-8">utf-8</lan:MD_CharacterSetCode>
+          </lan:characterEncoding>
+        </lan:PT_Locale>
+      </S100XC:defaultLocale>
+      <S100XC:metadataFileIdentifier>none</S100XC:metadataFileIdentifier>
+      <S100XC:metadataPointOfContact>
+        <cit:CI_Responsibility>
+          <cit:role>
+            <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="author">author</cit:CI_RoleCode>
+          </cit:role>
+          <cit:party>
+            <cit:CI_Organisation>
+              <cit:name>
+                <gco:CharacterString>iic</gco:CharacterString>
+              </cit:name>
+            </cit:CI_Organisation>
+          </cit:party>
+        </cit:CI_Responsibility>
+      </S100XC:metadataPointOfContact>
+      <S100XC:metadataDateStamp>2020-07-01</S100XC:metadataDateStamp>
+      <S100XC:metadataLanguage>en</S100XC:metadataLanguage>
+      <S100XC:supportFileDiscoveryMetadataReference>GBCHAINS.TXT</S100XC:supportFileDiscoveryMetadataReference>
+      <S100XC:supportFileDiscoveryMetadataReference>GBDEVARE.TXT</S100XC:supportFileDiscoveryMetadataReference>
+      <S100XC:supportFileDiscoveryMetadataReference>GBIECTMP.TXT</S100XC:supportFileDiscoveryMetadataReference>
+      <S100XC:supportFileDiscoveryMetadataReference>GBTESTPC.TIF</S100XC:supportFileDiscoveryMetadataReference>
+      <S100XC:supportFileDiscoveryMetadataReference>GBX4000T.TIF</S100XC:supportFileDiscoveryMetadataReference>
+      <S100XC:S100_19115DatasetMetadata/>
+    </S100XC:S100_DatasetDiscoveryMetadata>
+  </S100XC:datasetDiscoveryMetadata>
+</S100XC:S100_ExchangeCatalogue>

@@ -1,0 +1,692 @@
+Expanding INAS
+Expanding INAS
+Expanding INAS
+Printing
+IR 150/1 NauticalInformation NauticalInformation:{  information:{  text, }, },
+IR 150/2 NauticalInformation NauticalInformation:{  information:{  fileReference=m_npub.txt, text=Test data, }, },
+PR 110/142
+PR 110/143
+PR 110/144
+PR 110/145
+PR 110/146
+PR 110/147
+PR 110/148
+PR 110/149
+PR 110/130
+PR 110/152
+PR 110/153
+PR 110/154
+PR 110/155
+PR 110/156
+PR 110/157
+PR 110/158
+PR 110/68
+PR 110/139
+PR 110/69
+PR 110/140
+PR 110/58
+PR 110/59
+PR 110/60
+PR 110/61
+PR 110/62
+PR 110/63
+PR 110/64
+PR 110/135
+PR 110/65
+PR 110/136
+PR 110/66
+PR 110/137
+PR 110/67
+PR 110/138
+PR 110/70
+PR 110/71
+PR 110/72
+PR 110/73
+PR 110/74
+PR 110/75
+PR 110/76
+PR 110/14
+PR 110/15
+PR 110/16
+PR 110/17
+PR 110/18
+PR 110/19
+PR 110/20
+PR 110/21
+PR 110/22
+PR 110/23
+PR 110/24
+PR 110/25
+PR 110/26
+PR 110/27
+PR 110/28
+PR 110/29
+PR 110/30
+PR 110/31
+PR 110/32
+PR 110/33
+PR 110/34
+PR 110/35
+PR 110/36
+PR 110/37
+PR 110/38
+PR 110/39
+PR 110/40
+PR 110/41
+PR 110/42
+PR 110/43
+PR 110/44
+PR 110/45
+PR 110/46
+PR 110/47
+PR 110/48
+PR 110/49
+PR 110/50
+PR 110/51
+PR 110/52
+PR 110/53
+PR 110/54
+PR 110/55
+PR 110/56
+PR 110/57
+PR 110/1
+PR 110/2
+PR 110/3
+PR 110/4
+PR 110/5
+PR 110/6
+PR 110/7
+PR 110/8
+PR 110/9
+PR 110/10
+PR 110/11
+PR 110/12
+PR 110/13
+PR 110/77
+PR 110/78
+PR 110/79
+PR 110/80
+PR 110/81
+PR 110/82
+PR 110/83
+PR 110/84
+PR 110/85
+PR 110/86
+PR 110/87
+PR 110/88
+PR 110/89
+PR 110/90
+PR 110/91
+PR 110/92
+PR 110/93
+PR 110/94
+PR 110/95
+PR 110/96
+PR 110/97
+PR 110/98
+PR 110/99
+PR 110/100
+PR 110/101
+PR 110/102
+PR 110/103
+PR 110/104
+PR 110/105
+PR 110/106
+PR 110/107
+PR 110/108
+PR 110/109
+PR 110/110
+PR 110/111
+PR 110/112
+PR 110/113
+PR 110/114
+PR 110/115
+PR 110/116
+PR 110/117
+PR 110/118
+PR 110/119
+PR 110/120
+PR 110/121
+PR 110/122
+PR 110/123
+PR 110/124
+PR 110/125
+PR 110/126
+PR 110/127
+PR 110/128
+PR 110/129
+PR 110/131
+PR 110/132
+PR 110/133
+PR 110/134
+PR 110/141
+PR 110/150
+PR 110/151
+PR 110/159
+PR 110/160
+PR 110/161
+PR 110/162
+PR 110/163
+PR 110/164
+PR 110/165
+PR 110/166
+PR 110/167
+PR 110/168
+PR 110/169
+PR 110/170
+PR 110/171
+PR 110/172
+PR 110/173
+PR 110/174
+PR 110/175
+PR 110/176
+PR 110/177
+PR 110/178
+PR 110/179
+PR 110/180
+PR 110/181
+PR 110/182
+PR 110/183
+PR 110/184
+PR 110/185
+PR 110/186
+PR 110/187
+PR 110/188
+PR 110/189
+PR 110/190
+PR 110/191
+PR 110/192
+PR 110/193
+PR 110/194
+PR 110/195
+PR 110/196
+PR 110/197
+PR 110/198
+PR 110/199
+PR 110/200
+PR 110/201
+PR 110/202
+PR 110/203
+PR 110/204
+PR 110/205
+PR 110/206
+PR 110/207
+PR 110/208
+PR 110/209
+PR 110/210
+PR 110/211
+PR 110/212
+PR 110/213
+PR 110/214
+PR 110/215
+PR 110/216
+PR 110/217
+PR 110/218
+PR 110/219
+PR 110/220
+PR 110/221
+PR 110/222
+PR 110/223
+PR 110/224
+PR 110/225
+PR 110/226
+PR 110/227
+PR 110/228
+PR 110/229
+PR 110/230
+PR 110/231
+PR 110/232
+PR 110/233
+PR 110/234
+PR 110/235
+PR 110/236
+PR 110/237
+PR 110/238
+PR 110/239
+PR 110/240
+PR 110/241
+PR 110/242
+PR 110/243
+PR 110/244
+CR 120/95
+CR 120/87
+CR 120/51
+CR 120/91
+CR 120/4
+CR 120/8
+CR 120/12
+CR 120/98
+CR 120/102
+CR 120/15
+CR 120/55
+CR 120/106
+CR 120/19
+CR 120/110
+CR 120/23
+CR 120/114
+CR 120/59
+CR 120/27
+CR 120/118
+CR 120/63
+CR 120/31
+CR 120/122
+CR 120/67
+CR 120/35
+CR 120/71
+CR 120/126
+CR 120/39
+CR 120/75
+CR 120/131
+CR 120/43
+CR 120/79
+CR 120/133
+CR 120/135
+CR 120/83
+CR 120/136
+CR 120/47
+CR 120/138
+CR 120/140
+CR 120/88
+CR 120/52
+CR 120/92
+CR 120/1
+CR 120/96
+CR 120/5
+CR 120/9
+CR 120/13
+CR 120/99
+CR 120/103
+CR 120/16
+CR 120/107
+CR 120/20
+CR 120/56
+CR 120/111
+CR 120/24
+CR 120/115
+CR 120/60
+CR 120/28
+CR 120/119
+CR 120/64
+CR 120/32
+CR 120/123
+CR 120/68
+CR 120/36
+CR 120/72
+CR 120/127
+CR 120/40
+CR 120/76
+CR 120/134
+CR 120/44
+CR 120/80
+CR 120/84
+CR 120/48
+CR 120/89
+CR 120/53
+CR 120/93
+CR 120/2
+CR 120/6
+CR 120/97
+CR 120/10
+CR 120/100
+CR 120/104
+CR 120/17
+CR 120/108
+CR 120/21
+CR 120/112
+CR 120/57
+CR 120/25
+CR 120/116
+CR 120/61
+CR 120/29
+CR 120/120
+CR 120/65
+CR 120/33
+CR 120/124
+CR 120/69
+CR 120/37
+CR 120/73
+CR 120/128
+CR 120/130
+CR 120/41
+CR 120/77
+CR 120/45
+CR 120/81
+CR 120/137
+CR 120/139
+CR 120/85
+CR 120/141
+CR 120/49
+CR 120/50
+CR 120/90
+CR 120/94
+CR 120/3
+CR 120/54
+CR 120/7
+CR 120/11
+CR 120/101
+CR 120/14
+CR 120/105
+CR 120/18
+CR 120/109
+CR 120/22
+CR 120/113
+CR 120/58
+CR 120/26
+CR 120/117
+CR 120/62
+CR 120/30
+CR 120/121
+CR 120/66
+CR 120/34
+CR 120/70
+CR 120/125
+CR 120/38
+CR 120/74
+CR 120/129
+CR 120/42
+CR 120/78
+CR 120/132
+CR 120/46
+CR 120/82
+CR 120/86
+CC 125/3
+CC 125/9
+CC 125/5
+CC 125/10
+CC 125/6
+CC 125/13
+CC 125/14
+CC 125/1
+CC 125/7
+CC 125/2
+CC 125/8
+CC 125/4
+CC 125/11
+CC 125/12
+SR 130/57
+SR 130/49
+SR 130/53
+SR 130/26
+SR 130/63
+SR 130/67
+SR 130/71
+SR 130/74
+SR 130/3
+SR 130/30
+SR 130/7
+SR 130/76
+SR 130/34
+SR 130/11
+SR 130/36
+SR 130/78
+SR 130/15
+SR 130/80
+SR 130/19
+SR 130/42
+SR 130/23
+SR 130/58
+SR 130/50
+SR 130/54
+SR 130/64
+SR 130/68
+SR 130/72
+SR 130/27
+SR 130/4
+SR 130/31
+SR 130/8
+SR 130/35
+SR 130/12
+SR 130/37
+SR 130/79
+SR 130/16
+SR 130/39
+SR 130/81
+SR 130/20
+SR 130/43
+SR 130/46
+SR 130/24
+SR 130/84
+SR 130/51
+SR 130/85
+SR 130/55
+SR 130/59
+SR 130/1
+SR 130/61
+SR 130/65
+SR 130/69
+SR 130/28
+SR 130/5
+SR 130/75
+SR 130/32
+SR 130/9
+SR 130/13
+SR 130/17
+SR 130/40
+SR 130/21
+SR 130/44
+SR 130/47
+SR 130/25
+SR 130/52
+SR 130/56
+SR 130/60
+SR 130/62
+SR 130/2
+SR 130/66
+SR 130/70
+SR 130/73
+SR 130/29
+SR 130/6
+SR 130/33
+SR 130/10
+SR 130/77
+SR 130/14
+SR 130/38
+SR 130/18
+SR 130/41
+SR 130/82
+SR 130/22
+SR 130/45
+SR 130/83
+SR 130/48
+FR 100/1 QualityOfBathymetricData  QualityOfBathymetricData:{  categoryOfTemporalVariation=5, dataAssessment=1, featuresDetected:{  leastDepthOfDetectedFeaturesMeasured=1, significantFeaturesDetected=1, sizeOfFeaturesDetected=2, }, fullSeafloorCoverageAchieved=1, horizontalPositionUncertainty:{  uncertaintyFixed=5, uncertaintyVariableFactor=0.05, }, verticalUncertainty:{  uncertaintyFixed=0.5, uncertaintyVariableFactor=0.01, }, },
+FR 100/2 DataCoverage  DataCoverage:{  maximumDisplayScale=45000, minimumDisplayScale=90000, },
+FR 100/3 SubmarinePipelineArea  SubmarinePipelineArea:{  categoryOfPipelinePipe=4, scaleMinimum=350000, },
+FR 100/4 WeedKelp  WeedKelp:{  scaleMinimum=180000, },
+FR 100/5 Wreck  Wreck:{  categoryOfWreck=3, waterLevelEffect, },
+FR 100/6 SmallCraftFacility  SmallCraftFacility:{  categoryOfSmallCraftFacility, scaleMinimum=120000, },
+FR 100/7 Wreck  Wreck:{  categoryOfWreck=3, valueOfSounding=15, waterLevelEffect, },
+FR 100/8 Wreck  Wreck:{  waterLevelEffect, },
+FR 100/9 AirportAirfield  AirportAirfield:{  scaleMinimum=90000, },
+FR 100/10 Building  Building:{  function=33, scaleMinimum=60000, },
+FR 100/11 Building  Building:{  featureName:{  name=Test, }, function=33, scaleMinimum=60000, },
+FR 100/12 Building  Building:{  function=35, scaleMinimum=60000, },
+FR 100/13 Landmark  Landmark:{  categoryOfLandmark=18, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/14 SiloTank  SiloTank:{  categoryOfSiloTank=4, scaleMinimum=45000, },
+FR 100/15 Building  Building:{  function=24, scaleMinimum=60000, },
+FR 100/16 Building  Building:{  function=20, scaleMinimum=60000, },
+FR 100/17 SiloTank  SiloTank:{  categoryOfSiloTank=1, scaleMinimum=45000, },
+FR 100/18 Landmark  Landmark:{  categoryOfLandmark=20, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/19 Building  Building:{  function=25, scaleMinimum=60000, },
+FR 100/20 Building  Building:{  function=23, scaleMinimum=60000, },
+FR 100/21 Landmark  Landmark:{  categoryOfLandmark=16, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/22 SiloTank  SiloTank:{  categoryOfSiloTank=2, scaleMinimum=45000, },
+FR 100/23 SiloTank  SiloTank:{  categoryOfSiloTank=3, scaleMinimum=45000, },
+FR 100/24 Building  Building:{  function=26, scaleMinimum=60000, },
+FR 100/25 Landmark  Landmark:{  categoryOfLandmark=17, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/26 WindTurbine  WindTurbine:{  scaleMinimum=120000, },
+FR 100/27 CoastguardStation  CoastguardStation:{  scaleMinimum=90000, },
+FR 100/28 Berth  Berth:{  featureName:{  name=P, }, scaleMinimum=100000, },
+FR 100/29 Building  Building:{  scaleMinimum=60000, },
+FR 100/30 Landmark  Landmark:{  categoryOfLandmark=15, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/31 Building  Building:{  function=27, scaleMinimum=60000, },
+FR 100/32 Building  Building:{  function=21, scaleMinimum=60000, },
+FR 100/33 Building  Building:{  function=22, scaleMinimum=60000, },
+FR 100/34 TidalStreamPanelData  TidalStreamPanelData:{  scaleMinimum=180000, },(150/1) NauticalInformation:{  information:{  text, }, },
+FR 100/35 RescueStation  RescueStation:{  scaleMinimum=180000, },
+FR 100/36 TidalStreamFloodEbb  TidalStreamFloodEbb:{  categoryOfTidalStream, orientation:{  orientationValue, }, speed:{  speedMaximum, }, },
+FR 100/37 TidalStreamFloodEbb  TidalStreamFloodEbb:{  categoryOfTidalStream=3, orientation:{  orientationValue=90, }, speed:{  speedMaximum, }, },
+FR 100/38 RadarStation  RadarStation:{  categoryOfRadarStation=2, scaleMinimum=150000, },
+FR 100/39 TidalStreamFloodEbb  TidalStreamFloodEbb:{  categoryOfTidalStream=2, orientation:{  orientationValue=90, }, speed:{  speedMaximum, }, },
+FR 100/40 TidalStreamFloodEbb  TidalStreamFloodEbb:{  categoryOfTidalStream=1, orientation:{  orientationValue=90, }, speed:{  speedMaximum, }, },
+FR 100/41 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=1, }, scaleMinimum=150000, },
+FR 100/42 RadarStation  RadarStation:{  scaleMinimum=150000, },
+FR 100/43 Spring  Spring:{  scaleMinimum=90000, },
+FR 100/44 WaterTurbulence  WaterTurbulence:{  categoryOfWaterTurbulence, scaleMinimum=180000, },
+FR 100/45 UnderwaterAwashRock  UnderwaterAwashRock:{  valueOfSounding=5, waterLevelEffect=3, },
+FR 100/46 RadioStation  RadioStation:{  scaleMinimum=150000, },
+FR 100/47 Obstruction  Obstruction:{  categoryOfObstruction=9, valueOfSounding=15, waterLevelEffect=3, scaleMinimum=100000, },
+FR 100/48 HarbourFacility  HarbourFacility:{  categoryOfHarbourFacility, scaleMinimum=90000, },
+FR 100/49 CurrentNonGravitational  CurrentNonGravitational:{  orientation:{  orientationValue=290, }, speed:{  speedMaximum=1.6, }, scaleMinimum=180000, },
+FR 100/50 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=9, scaleMinimum=260000, },
+FR 100/51 FortifiedStructure  FortifiedStructure:{  scaleMinimum=90000, },
+FR 100/52 Gate  Gate:{  categoryOfGate=4, scaleMinimum=180000, },
+FR 100/53 HarbourFacility  HarbourFacility:{  categoryOfHarbourFacility=5, scaleMinimum=90000, },
+FR 100/54 FoulGround  FoulGround:{  valueOfSounding=5, waterLevelEffect=3, scaleMinimum=100000, },
+FR 100/55 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=5, scaleMinimum=260000, },
+FR 100/56 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=1, scaleMinimum=260000, },
+FR 100/57 MooringWarpingFacility  MooringWarpingFacility:{  categoryOfMooringWarpingFacility=3, scaleMinimum=60000, },
+FR 100/58 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=6, scaleMinimum=260000, },
+FR 100/59 HarbourFacility  HarbourFacility:{  categoryOfHarbourFacility=4, scaleMinimum=90000, },
+FR 100/60 HarbourFacility  HarbourFacility:{  categoryOfHarbourFacility=1, scaleMinimum=90000, },
+FR 100/61 Gate  Gate:{  categoryOfGate=3, scaleMinimum=180000, },
+FR 100/62 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=8, scaleMinimum=260000, },
+FR 100/63 Obstruction  Obstruction:{  valueOfSounding=5, waterLevelEffect=3, scaleMinimum=100000, },
+FR 100/64 Crane  Crane:{  scaleMinimum=60000, },
+FR 100/65 CurrentNonGravitational  CurrentNonGravitational:{  orientation:{  orientationValue=290, }, speed:{  speedMaximum=1.7, }, scaleMinimum=180000, },
+FR 100/66 PipelineSubmarineOnLand  PipelineSubmarineOnLand:{  categoryOfPipelinePipe=2, scaleMinimum=260000, },
+FR 100/67 PipelineSubmarineOnLand  PipelineSubmarineOnLand:{  categoryOfPipelinePipe=3, scaleMinimum=260000, },
+FR 100/68 DepthContour  DepthContour:{  valueOfDepthContour=3.5, },
+FR 100/69 Railway  Railway:{  scaleMinimum=350000, },
+FR 100/70 PipelineSubmarineOnLand  PipelineSubmarineOnLand:{  categoryOfPipelinePipe=5, scaleMinimum=260000, },
+FR 100/71 Road  Road:{  scaleMinimum=350000, },
+FR 100/72 FenceWall  FenceWall:{  scaleMinimum=260000, },
+FR 100/73 FortifiedStructure  FortifiedStructure:{  scaleMinimum=90000, },
+FR 100/74 Obstruction  Obstruction:{  valueOfSounding=5, waterLevelEffect=3, scaleMinimum=100000, },
+FR 100/75 PipelineSubmarineOnLand  PipelineSubmarineOnLand:{  scaleMinimum=260000, },
+FR 100/76 PipelineSubmarineOnLand  PipelineSubmarineOnLand:{  product=3, scaleMinimum=260000, },
+FR 100/77 PipelineSubmarineOnLand  PipelineSubmarineOnLand:{  categoryOfPipelinePipe=4, scaleMinimum=260000, },
+FR 100/78 Tideway  Tideway:{  scaleMinimum=180000, },
+FR 100/79 Checkpoint  Checkpoint:{  scaleMinimum=90000, },
+FR 100/80 Landmark  Landmark:{  categoryOfLandmark, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/81 Vegetation  Vegetation:{  categoryOfVegetation=19, scaleMinimum=45000, },
+FR 100/82 Vegetation  Vegetation:{  categoryOfVegetation=22, scaleMinimum=45000, },
+FR 100/83 Vegetation  Vegetation:{  categoryOfVegetation=17, scaleMinimum=45000, },
+FR 100/84 SiloTank  SiloTank:{  scaleMinimum=45000, },
+FR 100/85 Vegetation  Vegetation:{  categoryOfVegetation=18, scaleMinimum=45000, },
+FR 100/86 Landmark  Landmark:{  categoryOfLandmark=17, function=33, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/87 Vegetation  Vegetation:{  categoryOfVegetation=21, scaleMinimum=45000, },
+FR 100/88 Building  Building:{  function=33, scaleMinimum=60000, },
+FR 100/89 Vegetation  Vegetation:{  categoryOfVegetation=6, scaleMinimum=45000, },
+FR 100/90 Vegetation  Vegetation:{  categoryOfVegetation=20, scaleMinimum=45000, },
+FR 100/91 Vegetation  Vegetation:{  categoryOfVegetation=13, scaleMinimum=45000, },
+FR 100/92 Berth  Berth:{  featureName:{  name=A, }, scaleMinimum=100000, },
+FR 100/93 Building  Building:{  scaleMinimum=60000, },
+FR 100/94 Vegetation  Vegetation:{  categoryOfVegetation=5, scaleMinimum=45000, },
+FR 100/95 Vegetation  Vegetation:{  categoryOfVegetation=7, scaleMinimum=45000, },
+FR 100/96 Vegetation  Vegetation:{  categoryOfVegetation=16, scaleMinimum=45000, },
+FR 100/97 Vegetation  Vegetation:{  categoryOfVegetation=15, scaleMinimum=45000, },
+FR 100/98 Vegetation  Vegetation:{  categoryOfVegetation=14, scaleMinimum=45000, },
+FR 100/99 Vegetation  Vegetation:{  categoryOfVegetation=3, scaleMinimum=45000, },
+FR 100/100 Rapids  Rapids:{  scaleMinimum=180000, },
+FR 100/101 Tunnel  Tunnel:{  scaleMinimum=120000, },
+FR 100/102 SlopeTopline  SlopeTopline:{  categoryOfSlope=6, scaleMinimum=260000, },
+FR 100/103 StraightTerritorialSeaBaseline  StraightTerritorialSeaBaseline:{  nationality=AA, scaleMinimum=1500000, },
+FR 100/104 Landmark  Landmark:{  categoryOfLandmark=7, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/105 Waterfall  Waterfall:{  visuallyConspicuous=1, scaleMinimum=120000, },
+FR 100/106 WaterTurbulence  WaterTurbulence:{  categoryOfWaterTurbulence, scaleMinimum=180000, },
+FR 100/107 Landmark  Landmark:{  categoryOfLandmark=13, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/108 Landmark  Landmark:{  categoryOfLandmark=20, function=20, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/109 Landmark  Landmark:{  categoryOfLandmark=17, function=33, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/110 Landmark  Landmark:{  categoryOfLandmark=1, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/111 Landmark  Landmark:{  categoryOfLandmark=9, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/112 Landmark  Landmark:{  categoryOfLandmark=4, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/113 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=14, }, waterLevelEffect=4, scaleMinimum=150000, },
+FR 100/114 SlopingGround  SlopingGround:{  categoryOfSlope=3, scaleMinimum=260000, },
+FR 100/115 InformationArea (150/2) NauticalInformation:{  information:{  fileReference=m_npub.txt, text=Test data, }, },
+FR 100/116 Landmark  Landmark:{  categoryOfLandmark=12, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/117 Rapids  Rapids:{  scaleMinimum=180000, },
+FR 100/118 Landmark  Landmark:{  categoryOfLandmark=3, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/119 Landmark  Landmark:{  categoryOfLandmark=5, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/120 Landmark  Landmark:{  categoryOfLandmark=8, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/121 Landmark  Landmark:{  categoryOfLandmark=10, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/122 Runway  Runway:{  scaleMinimum=180000, },
+FR 100/123 LandElevation  LandElevation:{  elevation=26, scaleMinimum=120000, },
+FR 100/124 Landmark  Landmark:{  categoryOfLandmark, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/125 SiloTank  SiloTank:{  scaleMinimum=45000, },
+FR 100/126 Waterfall  Waterfall:{  scaleMinimum=120000, },
+FR 100/127 Landmark  Landmark:{  categoryOfLandmark=6, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/128 LocalMagneticAnomaly  LocalMagneticAnomaly:{  scaleMinimum=180000, },
+FR 100/129 MagneticVariation  MagneticVariation:{  referenceYearForMagneticVariation=2000, valueOfAnnualChangeInMagneticVariation=0.2, valueOfMagneticVariation=10, scaleMinimum=180000, },
+FR 100/130 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=1, }, scaleMinimum=150000, },
+FR 100/131 SlopeTopline  SlopeTopline:{  categoryOfSlope=2, scaleMinimum=260000, },
+FR 100/132 Landmark  Landmark:{  categoryOfLandmark, visuallyConspicuous, scaleMinimum=120000, },
+FR 100/133 LocalMagneticAnomaly  LocalMagneticAnomaly:{  scaleMinimum=180000, },
+FR 100/134 SlopingGround  SlopingGround:{  categoryOfSlope=3, scaleMinimum=260000, },
+FR 100/135 MagneticVariation  MagneticVariation:{  referenceYearForMagneticVariation=2000, valueOfAnnualChangeInMagneticVariation=0.2, valueOfMagneticVariation=10, scaleMinimum=180000, },
+FR 100/136 Crane  Crane:{  scaleMinimum=60000, },
+FR 100/137 Road  Road:{  scaleMinimum=350000, },
+FR 100/138 FortifiedStructure  FortifiedStructure:{  scaleMinimum=90000, },
+FR 100/139 DryDock  DryDock:{  scaleMinimum=180000, },
+FR 100/140 CustomZone  CustomZone:{  nationality=AA, scaleMinimum=1500000, },
+FR 100/141 ExclusiveEconomicZone  ExclusiveEconomicZone:{  nationality=AA, scaleMinimum=1500000, },
+FR 100/142 Berth  Berth:{  featureName:{  name=L, }, scaleMinimum=100000, },
+FR 100/143 HarbourFacility  HarbourFacility:{  categoryOfHarbourFacility=4, scaleMinimum=90000, },
+FR 100/144 HarbourAreaAdministrative  HarbourAreaAdministrative:{  scaleMinimum=90000, },
+FR 100/145 HarbourFacility  HarbourFacility:{  categoryOfHarbourFacility, scaleMinimum=90000, },
+FR 100/146 HarbourFacility  HarbourFacility:{  categoryOfHarbourFacility=5, scaleMinimum=90000, },
+FR 100/147 FoulGround  FoulGround:{  valueOfSounding=15, waterLevelEffect=3, scaleMinimum=100000, },
+FR 100/148 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=6, scaleMinimum=260000, },
+FR 100/149 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=1, }, waterLevelEffect=3, scaleMinimum=150000, },
+FR 100/150 Obstruction  Obstruction:{  valueOfSounding=5, waterLevelEffect=3, scaleMinimum=100000, },
+FR 100/151 FisheryZone  FisheryZone:{  nationality=AA, scaleMinimum=1500000, },
+FR 100/152 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=9, }, waterLevelEffect=4, scaleMinimum=150000, },
+FR 100/153 HarbourFacility  HarbourFacility:{  categoryOfHarbourFacility=1, scaleMinimum=90000, },
+FR 100/154 FreePortArea  FreePortArea:{  scaleMinimum=90000, },
+FR 100/155 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=1, scaleMinimum=260000, },
+FR 100/156 Obstruction  Obstruction:{  categoryOfObstruction=6, valueOfSounding=10, waterLevelEffect=3, scaleMinimum=100000, },
+FR 100/157 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=9, scaleMinimum=260000, },
+FR 100/158 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=8, scaleMinimum=260000, },
+FR 100/159 ContinentalShelfArea  ContinentalShelfArea:{  nationality=AA, scaleMinimum=1500000, },
+FR 100/160 ContiguousZone  ContiguousZone:{  nationality=AA, scaleMinimum=1500000, },
+FR 100/161 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=11, }, waterLevelEffect=4, scaleMinimum=150000, },
+FR 100/162 Runway  Runway:{  scaleMinimum=180000, },
+FR 100/163 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea=5, scaleMinimum=260000, },
+FR 100/164 ProductionStorageArea  ProductionStorageArea:{  categoryOfProductionArea, scaleMinimum=260000, },
+FR 100/165 AirportAirfield  AirportAirfield:{  scaleMinimum=90000, },
+FR 100/166 Wreck  Wreck:{  categoryOfWreck=3, valueOfSounding=15, waterLevelEffect, },
+FR 100/167 Wreck  Wreck:{  categoryOfWreck=3, waterLevelEffect, },
+FR 100/168 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=10, },
+FR 100/169 TidalStreamPanelData  TidalStreamPanelData:{  scaleMinimum=180000, },(150/1) NauticalInformation:{  information:{  text, }, },
+FR 100/170 Wreck  Wreck:{  waterLevelEffect, },
+FR 100/171 TidalStreamFloodEbb  TidalStreamFloodEbb:{  categoryOfTidalStream=3, orientation:{  orientationValue=90, }, speed:{  speedMaximum, }, },
+FR 100/172 TidalStreamFloodEbb  TidalStreamFloodEbb:{  categoryOfTidalStream=2, orientation:{  orientationValue=90, }, speed:{  speedMaximum, }, },
+FR 100/173 TerritorialSeaArea  TerritorialSeaArea:{  nationality=AA, scaleMinimum=70000, },
+FR 100/174 AdministrationArea  AdministrationArea:{  jurisdiction, scaleMinimum=1500000, },
+FR 100/175 TidalStreamFloodEbb  TidalStreamFloodEbb:{  categoryOfTidalStream, orientation:{  orientationValue, }, speed:{  speedMaximum, }, },
+FR 100/176 TidalStreamFloodEbb  TidalStreamFloodEbb:{  categoryOfTidalStream=1, orientation:{  orientationValue=90, }, speed:{  speedMaximum, }, },
+FR 100/177 WeedKelp  WeedKelp:{  scaleMinimum=180000, },
+FR 100/178 WaterTurbulence  WaterTurbulence:{  categoryOfWaterTurbulence, scaleMinimum=180000, },
+FR 100/179 Tunnel  Tunnel:{  scaleMinimum=120000, },
+FR 100/180 SmallCraftFacility  SmallCraftFacility:{  categoryOfSmallCraftFacility, scaleMinimum=90000, },
+FR 100/181 SeabedArea  SeabedArea:{  surfaceCharacteristics:{  natureOfSurface=1, }, waterLevelEffect=4, scaleMinimum=150000, },
+FR 100/182 LandElevation  LandElevation:{  elevation=20, scaleMinimum=120000, },
+FR 100/183 Waterfall  Waterfall:{  scaleMinimum=120000, },
+FR 100/184 Tideway  Tideway:{  scaleMinimum=180000, },
+FR 100/185 Rapids  Rapids:{  scaleMinimum=180000, },
+FR 100/186 Vegetation  Vegetation:{  categoryOfVegetation, scaleMinimum=45000, },
+FR 100/187 SubmarinePipelineArea  SubmarinePipelineArea:{  scaleMinimum=350000, },
+FR 100/188 SlopeTopline  SlopeTopline:{  scaleMinimum=260000, },
+FR 100/189 SubmarinePipelineArea  SubmarinePipelineArea:{  categoryOfPipelinePipe=2, scaleMinimum=350000, },
+FR 100/190 LocalMagneticAnomaly  LocalMagneticAnomaly:{  scaleMinimum=180000, },
+FR 100/191 MagneticVariation  MagneticVariation:{  referenceYearForMagneticVariation=2000, valueOfAnnualChangeInMagneticVariation=0.2, valueOfMagneticVariation=10, scaleMinimum=180000, },
+FR 100/192 SubmarinePipelineArea  SubmarinePipelineArea:{  categoryOfPipelinePipe=3, scaleMinimum=350000, },
+FR 100/193 SubmarinePipelineArea  SubmarinePipelineArea:{  product=3, scaleMinimum=350000, },
+FR 100/194 CableArea  CableArea:{  restriction=1, scaleMinimum=350000, },
+FR 100/195 CableSubmarine  CableSubmarine:{  scaleMinimum=260000, },
+FR 100/196 Vegetation  Vegetation:{  categoryOfVegetation=4, scaleMinimum=45000, },
+FR 100/197 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=10, },
+FR 100/198 LandArea 
+FR 100/199 DepthArea  DepthArea:{  depthRangeMinimumValue=0, depthRangeMaximumValue=100, },
+FR 100/200 LandArea 
+FR 100/201 DepthArea  DepthArea:{  depthRangeMinimumValue=7, depthRangeMaximumValue=10, },
+FR 100/202 Sounding  Sounding:{  scaleMinimum=100000, },
