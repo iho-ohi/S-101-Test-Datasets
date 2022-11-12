@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<S100XC:S100_ExchangeCatalogue xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:S100SE="http://www.iho.int/s100/se/5.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:S100XC="http://www.iho.int/s100/xc/5.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:ns8="http://standards.iso.org/iso/19115/-3/cit/1.0" xmlns:ns9="http://standards.iso.org/iso/19157/-2/mdq/1.0" xmlns:ns10="https://schemas.isotc211.org/19110/-/gfc/2.1" xmlns:ns11="http://standards.iso.org/iso/19115/-3/mac/2.0" xmlns:ns12="http://standards.iso.org/iso/19115/-3/msr/2.0" xmlns:ns13="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:ns14="http://standards.iso.org/iso/19115/-3/mrl/2.0" xmlns:ns15="http://standards.iso.org/iso/19115/-3/mrc/2.0" xmlns:ns16="http://www.w3.org/1999/xlink" xmlns:ns17="http://www.isotc211.org/2005/gco" xmlns:ns18="http://www.isotc211.org/2005/gmd" xmlns:ns19="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:ns20="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:ns21="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:ns22="http://standards.iso.org/iso/19115/-3/mdb/2.0" xmlns:ns23="http://standards.iso.org/iso/19157/-2/dqc/1.0" xmlns:ns24="http://standards.iso.org/iso/19115/-3/gcx/1.0" xmlns:ns25="http://standards.iso.org/iso/19115/-3/cat/1.0" xmlns:ns26="https://schemas.isotc211.org/19110/-/fcc/2.1" xmlns:ns27="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:ns28="http://standards.iso.org/iso/19115/-3/mda/2.0" xmlns:ns29="http://standards.iso.org/iso/19115/-3/mpc/1.0" xmlns:ns30="http://www.isotc211.org/2005/gts" xmlns:ns31="http://standards.iso.org/iso/19115/-3/srv/2.0" xmlns:ns32="http://standards.iso.org/iso/19115/-3/mdt/2.0" xmlns:ns33="http://standards.iso.org/iso/19115/-3/mas/1.0" xmlns:ns34="http://standards.iso.org/iso/19115/-3/mrs/1.0" xmlns:ns35="http://standards.iso.org/iso/19115/-3/mex/1.0">
+    <S100XC:identifier>
+        <S100XC:identifier>IHO_V10</S100XC:identifier>
+        <S100XC:dateTime>2022-11-12T10:36:32.767Z</S100XC:dateTime>
+    </S100XC:identifier>
+    <S100XC:contact>
+        <S100XC:organization>
+            <gco:CharacterString>IIC Technologies</gco:CharacterString>
+        </S100XC:organization>
+        <S100XC:address>
+            <cit:deliveryPoint>
+                <gco:CharacterString>49</gco:CharacterString>
+            </cit:deliveryPoint>
+            <cit:city>
+                <gco:CharacterString>Frome</gco:CharacterString>
+            </cit:city>
+            <cit:administrativeArea>
+                <gco:CharacterString>Witham Friary</gco:CharacterString>
+            </cit:administrativeArea>
+            <cit:postalCode>
+                <gco:CharacterString>ba11 5hf</gco:CharacterString>
+            </cit:postalCode>
+            <cit:country>
+                <gco:CharacterString></gco:CharacterString>
+            </cit:country>
+            <cit:electronicMailAddress>
+                <gco:CharacterString>jonathan.pritchard@iictechnologies.com</gco:CharacterString>
+            </cit:electronicMailAddress>
+        </S100XC:address>
+    </S100XC:contact>
+    <S100XC:exchangeCatalogueComment>
+        <gco:CharacterString>IHO_V10</gco:CharacterString>
+    </S100XC:exchangeCatalogueComment>
+    <S100XC:certificates>
+        <S100SE:schemeAdministrator id="urn:mrn:iho:s62:iic:2C:key1"/>
+        <S100SE:certificate id="urn:mrn:iho:s62:iic:2C:key1" issuer="IHO Scretariat">MIIEkjCCBE8CCQCWKCqpzWh2nzALBglghkgBZQMEAwIwZDELMAkGA1UEBhMCTUMxEzARBgNVBAgMClNvbWUtU3RhdGUxDDAKBgNVBAoMA0lITzEXMBUGA1UEAwwOSUhPIFNjcmV0YXJpYXQxGTAXBgkqhkiG9w0BCQEWCmpwQGloby5pbnQwHhcNMjIwOTI3MTMxOTI3WhcNMzIwODA1MTMxOTI3WjBlMQswCQYDVQQGEwJHQjERMA8GA1UECAwIcHJvZHVjZXIxHTAbBgNVBAoMFElJQyBUZWNobm9sb2dpZXMsIFVLMSQwIgYDVQQDDBt1cm46bXJuOmlobzpzNjI6aWljOjJDOmtleTEwggNGMIICOQYHKoZIzjgEATCCAiwCggEBALsK2LrTON5EtKq2QU8SbD14/bqybjPY5+uGLORcA6LEiu0uUSjfzZX2FlF9A1j4rx4kPpk8fBcvH5OWivmTMbiSpdurvIavfecFXRgTYmbmnLpUC4f8HPewtJO3ESPnIXkF81SPxi7syz11Y0F09yAStZyyIlOc0vHsPeteE7SafurIXdWwNkn1A/zdH1hHa7HTSl0GW9NMfu1BaBTl+kX7JWeKsozsrgdFgO2EETa/6JIkczbsu4eVDQqNnXJoM0mC0AsZQgynkJEPJ84yux3HofNy8t6Apt0CA61bwUJKUMiGyFTco5zNBK4B14agmW/Os+h/tcPerNZfRX1HWHkCIQClLmOUnnrwnPdai0+atceUU6ZYBl16uYsOWshi7Jmd3wKCAQBsUF07Qz7hUriINnJQzGcn5eKEpJTBCTAlrus8Vyd7BOcxLj1sFDhuWiovDE8IjzWFeIDBHMKh78n7vaFv0H22dPDMfxn2n1Xn25YfCxDKMJ7ED5FjuyCMY+SLl6vtk22BqtAuLABqw8LH+bD30vfOZfNYv0F7Fz1zEWNLPRXAO2uRoZIqq6OLh9/gHF9LJWay6GLOoF1R9+G7FdKDemvFx3aNldi+vUlRk9x7ghYXJzhLWRdJEUi4y1n2ep91yK4JyMS8QVfvvnxvwBwm1q2FVwCz0JPpXEYjPvv0ioN0TbH0GLtZcEWQH+0gZvJicJ+jecB/FRuZFDcWx5lYxLqyA4IBBQACggEAG5r1LMogokkNEFFGz8LcNPE+3/k3T7SDEIoj9/AaUuEOadL63Z3/ojG2oJiHUM5A82NjdbJj+onOkBQgjBq/GrVPFGv3029thae5edy+5fsoJ5gMbdBX4ASzE+sEv91ZVEct9kifYGdJYeTmqKD9AQ95l9ayI1erOKDjmNpju0yBcNRyRnbe//duAiakpiHgOvzwjZBCQElIhNraRhCjpMYaqsPMCEBK+pMOtGjQ7NQ7hsmFhk8Tde3jLXcr2FG5C+ZW9XJQq3UIai2ibtQLAN+kLRiTk1pdEeh1B60FZ+EIG9raZ1+6XjIb7N4YsOqJ31odAAiHM2GY1qSPizI3azALBglghkgBZQMEAwIDMAAwLQIUPLXXtV9xPk6DzBmnmfOTOVRJ5k8CFQCZlnr6PtefctC3qPmLBn72p6pLjw==</S100SE:certificate>
+    </S100XC:certificates>
+    <S100XC:datasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101\DATASET_FILES\101AA0000DS0009\101AA0000DS0009.000</S100XC:fileName>
+            <S100XC:description>
+                <gco:CharacterString>S101</gco:CharacterString>
+            </S100XC:description>
+            <S100XC:datasetID>urn:mrn:iho:101AA0000DS0009.000:1</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA0000DS0009" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEUCIH6zqipvIrCsPX8EBH7e7NNQIDmGJaXW8wVF/k1JKMQJAiEAg5bmTTz0hAXlmlSzaHDaI/6lO/UooHUhGZy5SKkMm30=</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newEdition</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:specificUsage>
+                <ns20:MD_Usage>
+                    <ns20:specificUsage>
+                        <gco:CharacterString>Transit</gco:CharacterString>
+                    </ns20:specificUsage>
+                </ns20:MD_Usage>
+            </S100XC:specificUsage>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:updateNumber>0</S100XC:updateNumber>
+            <S100XC:updateApplicationDate>2022-10-11</S100XC:updateApplicationDate>
+            <S100XC:issueDate>2022-10-11</S100XC:issueDate>
+            <S100XC:boundingBox>
+                <gex:westBoundLongitude>
+                    <gco:Decimal>61.5</gco:Decimal>
+                </gex:westBoundLongitude>
+                <gex:eastBoundLongitude>
+                    <gco:Decimal>61.666667</gco:Decimal>
+                </gex:eastBoundLongitude>
+                <gex:southBoundLatitude>
+                    <gco:Decimal>-32.466667</gco:Decimal>
+                </gex:southBoundLatitude>
+                <gex:northBoundLatitude>
+                    <gco:Decimal>-32.3</gco:Decimal>
+                </gex:northBoundLatitude>
+            </S100XC:boundingBox>
+            <S100XC:productSpecification>
+                <S100XC:name>S-101</S100XC:name>
+                <S100XC:version>010000</S100XC:version>
+                <S100XC:date>2018-12-01</S100XC:date>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>101</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:dataCoverage>
+                <S100XC:boundingPolygon>
+                    <gex:polygon>
+                        <gml:Curve>
+                            <gml:segments>
+<gml:LineStringSegment>
+    <gml:posList srsName="urn:ogc:def:crs:EPSG::4326">61.5 -32.466667 61.5 -32.3 61.666667 -32.3 61.666667 -32.466667 61.5 -32.466667</gml:posList>
+</gml:LineStringSegment>
+                            </gml:segments>
+                        </gml:Curve>
+                    </gex:polygon>
+                </S100XC:boundingPolygon>
+                <S100XC:maximumDisplayScale>22000</S100XC:maximumDisplayScale>
+                <S100XC:minimumDisplayScale>90000</S100XC:minimumDisplayScale>
+            </S100XC:dataCoverage>
+            <S100XC:defaultLocale>
+                <lan:PT_Locale>
+                    <lan:language>
+                        <lan:LanguageCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_LanguageCode" codeListValue="EN">EN</lan:LanguageCode>
+                    </lan:language>
+                    <lan:characterEncoding>
+                        <lan:MD_CharacterSetCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_CharacterSetCode" codeListValue="UTF-8">UTF-8</lan:MD_CharacterSetCode>
+                    </lan:characterEncoding>
+                </lan:PT_Locale>
+            </S100XC:defaultLocale>
+            <S100XC:metadataPointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>2022-10-11</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101\DATASET_FILES\101AA00DS0005\101AA00DS0005.000</S100XC:fileName>
+            <S100XC:description>
+                <gco:CharacterString>testing</gco:CharacterString>
+            </S100XC:description>
+            <S100XC:datasetID>urn:mrn:iho:101AA00DS0005.000:1</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0005" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIGvH3mO6jy3tvL/ie58rKiU3TxQhjWc/kFD8mCGHej5+AiAxKkcIkMTXZ36UGoXK8Mqs2J69f5k96izjQ+PD3604iw==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newEdition</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:specificUsage>
+                <ns20:MD_Usage>
+                    <ns20:specificUsage>
+                        <gco:CharacterString>Transit</gco:CharacterString>
+                    </ns20:specificUsage>
+                </ns20:MD_Usage>
+            </S100XC:specificUsage>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:updateNumber>0</S100XC:updateNumber>
+            <S100XC:updateApplicationDate>2022-08-19</S100XC:updateApplicationDate>
+            <S100XC:issueDate>2022-08-19</S100XC:issueDate>
+            <S100XC:boundingBox>
+                <gex:westBoundLongitude>
+                    <gco:Decimal>62.1666666</gco:Decimal>
+                </gex:westBoundLongitude>
+                <gex:eastBoundLongitude>
+                    <gco:Decimal>62.3333333</gco:Decimal>
+                </gex:eastBoundLongitude>
+                <gex:southBoundLatitude>
+                    <gco:Decimal>-32.6333333</gco:Decimal>
+                </gex:southBoundLatitude>
+                <gex:northBoundLatitude>
+                    <gco:Decimal>-32.4666666</gco:Decimal>
+                </gex:northBoundLatitude>
+            </S100XC:boundingBox>
+            <S100XC:productSpecification>
+                <S100XC:name>S-101</S100XC:name>
+                <S100XC:version>010000</S100XC:version>
+                <S100XC:date>2018-12-01</S100XC:date>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>101</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:dataCoverage>
+                <S100XC:boundingPolygon>
+                    <gex:polygon>
+                        <gml:Curve>
+                            <gml:segments>
+<gml:LineStringSegment>
+    <gml:posList srsName="urn:ogc:def:crs:EPSG::4326">62.1666666 -32.6333333 62.1666666 -32.4666666 62.3333333 -32.4666666 62.3333333 -32.6333333 62.1666666 -32.6333333</gml:posList>
+</gml:LineStringSegment>
+                            </gml:segments>
+                        </gml:Curve>
+                    </gex:polygon>
+                </S100XC:boundingPolygon>
+                <S100XC:maximumDisplayScale>22000</S100XC:maximumDisplayScale>
+                <S100XC:minimumDisplayScale>90000</S100XC:minimumDisplayScale>
+            </S100XC:dataCoverage>
+            <S100XC:defaultLocale>
+                <lan:PT_Locale>
+                    <lan:language>
+                        <lan:LanguageCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_LanguageCode" codeListValue="ENGLISH">ENGLISH</lan:LanguageCode>
+                    </lan:language>
+                    <lan:characterEncoding>
+                        <lan:MD_CharacterSetCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_CharacterSetCode" codeListValue="UTF-8">UTF-8</lan:MD_CharacterSetCode>
+                    </lan:characterEncoding>
+                </lan:PT_Locale>
+            </S100XC:defaultLocale>
+            <S100XC:metadataPointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>2022-07-25</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101\DATASET_FILES\101AA00DS0006\101AA00DS0006.000</S100XC:fileName>
+            <S100XC:description>
+                <gco:CharacterString>IHO S-101</gco:CharacterString>
+            </S100XC:description>
+            <S100XC:datasetID>urn:mrn:iho:101AA00DS0006.000:1</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0006" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCICZ3xhP0MGyPDgIEa9vEUH93M8B+2CFNlJOwBVHVF6C3AiA07LayeIUdi5n7UDqP7yimLgBHf/zJ70+wyZQB3t0RTQ==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newEdition</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:specificUsage>
+                <ns20:MD_Usage>
+                    <ns20:specificUsage>
+                        <gco:CharacterString>Transit</gco:CharacterString>
+                    </ns20:specificUsage>
+                </ns20:MD_Usage>
+            </S100XC:specificUsage>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:updateNumber>0</S100XC:updateNumber>
+            <S100XC:updateApplicationDate>2022-10-18</S100XC:updateApplicationDate>
+            <S100XC:issueDate>2022-10-18</S100XC:issueDate>
+            <S100XC:boundingBox>
+                <gex:westBoundLongitude>
+                    <gco:Decimal>62.3333333</gco:Decimal>
+                </gex:westBoundLongitude>
+                <gex:eastBoundLongitude>
+                    <gco:Decimal>62.5</gco:Decimal>
+                </gex:eastBoundLongitude>
+                <gex:southBoundLatitude>
+                    <gco:Decimal>-32.6333333</gco:Decimal>
+                </gex:southBoundLatitude>
+                <gex:northBoundLatitude>
+                    <gco:Decimal>-32.4666667</gco:Decimal>
+                </gex:northBoundLatitude>
+            </S100XC:boundingBox>
+            <S100XC:productSpecification>
+                <S100XC:name>S-101</S100XC:name>
+                <S100XC:version>010000</S100XC:version>
+                <S100XC:date>2018-12-01</S100XC:date>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>101</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:dataCoverage>
+                <S100XC:boundingPolygon>
+                    <gex:polygon>
+                        <gml:Curve>
+                            <gml:segments>
+<gml:LineStringSegment>
+    <gml:posList srsName="urn:ogc:def:crs:EPSG::4326">62.3333333 -32.5731303 62.3333333 -32.5297518 62.3333333 -32.5297518 62.3333333 -32.4666667 62.5 -32.4666667 62.5 -32.5388889 62.5 -32.5388889 62.5 -32.5451733 62.5 -32.5451733 62.5 -32.5600208 62.5 -32.5600208 62.499988 -32.5630437 62.499988 -32.5630437 62.5 -32.5731303 62.5 -32.6333333 62.5 -32.6333333 62.3333333 -32.6333333 62.3333333 -32.5731303</gml:posList>
+</gml:LineStringSegment>
+                            </gml:segments>
+                        </gml:Curve>
+                    </gex:polygon>
+                </S100XC:boundingPolygon>
+                <S100XC:maximumDisplayScale>90000</S100XC:maximumDisplayScale>
+                <S100XC:minimumDisplayScale>22000</S100XC:minimumDisplayScale>
+            </S100XC:dataCoverage>
+            <S100XC:defaultLocale>
+                <lan:PT_Locale>
+                    <lan:language>
+                        <lan:LanguageCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_LanguageCode" codeListValue="EN">EN</lan:LanguageCode>
+                    </lan:language>
+                    <lan:characterEncoding>
+                        <lan:MD_CharacterSetCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_CharacterSetCode" codeListValue="UTF-8">UTF-8</lan:MD_CharacterSetCode>
+                    </lan:characterEncoding>
+                </lan:PT_Locale>
+            </S100XC:defaultLocale>
+            <S100XC:metadataPointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>2022-10-12</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101\DATASET_FILES\101AA00DS0007\101AA00DS0007.000</S100XC:fileName>
+            <S100XC:description>
+                <gco:CharacterString>TESTING</gco:CharacterString>
+            </S100XC:description>
+            <S100XC:datasetID>urn:mrn:iho:101AA00DS0007.000:1</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0007" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIEFys6szJJeaqRI+A8wM/wXQj2BFkyXuSlNsEQrqTtUvAiAy93GArh1x9Ohqz1CUEW2488ePBgafvPe9VX5zE5oHDw==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newEdition</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:specificUsage>
+                <ns20:MD_Usage>
+                    <ns20:specificUsage>
+                        <gco:CharacterString>Transit</gco:CharacterString>
+                    </ns20:specificUsage>
+                </ns20:MD_Usage>
+            </S100XC:specificUsage>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:updateNumber>0</S100XC:updateNumber>
+            <S100XC:updateApplicationDate>2022-08-18</S100XC:updateApplicationDate>
+            <S100XC:issueDate>2022-08-18</S100XC:issueDate>
+            <S100XC:boundingBox>
+                <gex:westBoundLongitude>
+                    <gco:Decimal>62.5</gco:Decimal>
+                </gex:westBoundLongitude>
+                <gex:eastBoundLongitude>
+                    <gco:Decimal>62.6666666</gco:Decimal>
+                </gex:eastBoundLongitude>
+                <gex:southBoundLatitude>
+                    <gco:Decimal>-32.6333333</gco:Decimal>
+                </gex:southBoundLatitude>
+                <gex:northBoundLatitude>
+                    <gco:Decimal>-32.4666666</gco:Decimal>
+                </gex:northBoundLatitude>
+            </S100XC:boundingBox>
+            <S100XC:productSpecification>
+                <S100XC:name>S-101</S100XC:name>
+                <S100XC:version>010000</S100XC:version>
+                <S100XC:date>2018-12-01</S100XC:date>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>101</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:dataCoverage>
+                <S100XC:boundingPolygon>
+                    <gex:polygon>
+                        <gml:Curve>
+                            <gml:segments>
+<gml:LineStringSegment>
+    <gml:posList srsName="urn:ogc:def:crs:EPSG::4326">62.5 -32.6333333 62.5 -32.4666666 62.6666666 -32.4666666 62.6666666 -32.6333333 62.5 -32.6333333</gml:posList>
+</gml:LineStringSegment>
+                            </gml:segments>
+                        </gml:Curve>
+                    </gex:polygon>
+                </S100XC:boundingPolygon>
+                <S100XC:maximumDisplayScale>90000</S100XC:maximumDisplayScale>
+                <S100XC:minimumDisplayScale>22000</S100XC:minimumDisplayScale>
+            </S100XC:dataCoverage>
+            <S100XC:defaultLocale>
+                <lan:PT_Locale>
+                    <lan:language>
+                        <lan:LanguageCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_LanguageCode" codeListValue="ENGLISH">ENGLISH</lan:LanguageCode>
+                    </lan:language>
+                    <lan:characterEncoding>
+                        <lan:MD_CharacterSetCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_CharacterSetCode" codeListValue="UTF-8">UTF-8</lan:MD_CharacterSetCode>
+                    </lan:characterEncoding>
+                </lan:PT_Locale>
+            </S100XC:defaultLocale>
+            <S100XC:metadataPointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>2022-07-21</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101\DATASET_FILES\101AA00DS0010\101AA00DS0010.000</S100XC:fileName>
+            <S100XC:description>
+                <gco:CharacterString>Testing</gco:CharacterString>
+            </S100XC:description>
+            <S100XC:datasetID>urn:mrn:iho:101AA00DS0010.000:1</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0010" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIBiBXCeQ/WpAqh3wJF3jvUeAoKmiJ/JA2/UmZ9oKz1CEAiAy6bG+S+I2yKdEdWku+V5pdmaqXGZNiqnfDuHkIGfkVQ==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newEdition</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:specificUsage>
+                <ns20:MD_Usage>
+                    <ns20:specificUsage>
+                        <gco:CharacterString>Transit</gco:CharacterString>
+                    </ns20:specificUsage>
+                </ns20:MD_Usage>
+            </S100XC:specificUsage>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:updateNumber>0</S100XC:updateNumber>
+            <S100XC:updateApplicationDate>2022-08-19</S100XC:updateApplicationDate>
+            <S100XC:issueDate>2022-08-19</S100XC:issueDate>
+            <S100XC:boundingBox>
+                <gex:westBoundLongitude>
+                    <gco:Decimal>61.6666666</gco:Decimal>
+                </gex:westBoundLongitude>
+                <gex:eastBoundLongitude>
+                    <gco:Decimal>61.8333333</gco:Decimal>
+                </gex:eastBoundLongitude>
+                <gex:southBoundLatitude>
+                    <gco:Decimal>-32.4666666</gco:Decimal>
+                </gex:southBoundLatitude>
+                <gex:northBoundLatitude>
+                    <gco:Decimal>-32.2999999</gco:Decimal>
+                </gex:northBoundLatitude>
+            </S100XC:boundingBox>
+            <S100XC:productSpecification>
+                <S100XC:name>S-101</S100XC:name>
+                <S100XC:version>010000</S100XC:version>
+                <S100XC:date>2018-12-01</S100XC:date>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>101</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:dataCoverage>
+                <S100XC:boundingPolygon>
+                    <gex:polygon>
+                        <gml:Curve>
+                            <gml:segments>
+<gml:LineStringSegment>
+    <gml:posList srsName="urn:ogc:def:crs:EPSG::4326">61.6666666 -32.4666666 61.6666666 -32.2999999 61.8333333 -32.2999999 61.8333333 -32.4666666 61.6666666 -32.4666666</gml:posList>
+</gml:LineStringSegment>
+                            </gml:segments>
+                        </gml:Curve>
+                    </gex:polygon>
+                </S100XC:boundingPolygon>
+                <S100XC:maximumDisplayScale>22000</S100XC:maximumDisplayScale>
+                <S100XC:minimumDisplayScale>90000</S100XC:minimumDisplayScale>
+            </S100XC:dataCoverage>
+            <S100XC:defaultLocale>
+                <lan:PT_Locale>
+                    <lan:language>
+                        <lan:LanguageCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_LanguageCode" codeListValue="ENGLISH">ENGLISH</lan:LanguageCode>
+                    </lan:language>
+                    <lan:characterEncoding>
+                        <lan:MD_CharacterSetCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_CharacterSetCode" codeListValue="UTF-8">UTF-8</lan:MD_CharacterSetCode>
+                    </lan:characterEncoding>
+                </lan:PT_Locale>
+            </S100XC:defaultLocale>
+            <S100XC:metadataPointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>2022-07-25</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101\DATASET_FILES\101AA00DS0015\101AA00DS0015.000</S100XC:fileName>
+            <S100XC:description>
+                <gco:CharacterString>Testing</gco:CharacterString>
+            </S100XC:description>
+            <S100XC:datasetID>urn:mrn:iho:101AA00DS0015.000:1</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0015" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIEOhS/3kHop0REc0J5wC9RfueN9fE5zyrQ3Jq1lSWyodAiBVLI1yOp8AEndHDMEvi93sn0leNe94tjll89+NjR14ug==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newEdition</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:specificUsage>
+                <ns20:MD_Usage>
+                    <ns20:specificUsage>
+                        <gco:CharacterString>Transit</gco:CharacterString>
+                    </ns20:specificUsage>
+                </ns20:MD_Usage>
+            </S100XC:specificUsage>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:updateNumber>0</S100XC:updateNumber>
+            <S100XC:updateApplicationDate>2022-11-11</S100XC:updateApplicationDate>
+            <S100XC:issueDate>2022-11-11</S100XC:issueDate>
+            <S100XC:boundingBox>
+                <gex:westBoundLongitude>
+                    <gco:Decimal>62.5</gco:Decimal>
+                </gex:westBoundLongitude>
+                <gex:eastBoundLongitude>
+                    <gco:Decimal>62.6666667</gco:Decimal>
+                </gex:eastBoundLongitude>
+                <gex:southBoundLatitude>
+                    <gco:Decimal>-32.4666667</gco:Decimal>
+                </gex:southBoundLatitude>
+                <gex:northBoundLatitude>
+                    <gco:Decimal>-32.3</gco:Decimal>
+                </gex:northBoundLatitude>
+            </S100XC:boundingBox>
+            <S100XC:productSpecification>
+                <S100XC:name>S-101</S100XC:name>
+                <S100XC:version>010000</S100XC:version>
+                <S100XC:date>2018-12-01</S100XC:date>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>101</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:dataCoverage>
+                <S100XC:boundingPolygon>
+                    <gex:polygon>
+                        <gml:Curve>
+                            <gml:segments>
+<gml:LineStringSegment>
+    <gml:posList srsName="urn:ogc:def:crs:EPSG::4326">62.5 -32.4463083 62.5 -32.4343507 62.5 -32.4343507 62.5 -32.4269971 62.5 -32.4269971 62.5 -32.4130857 62.5 -32.4130857 62.5 -32.4100586 62.5 -32.4100586 62.5 -32.3936797 62.5 -32.3936797 62.5 -32.3572198 62.5 -32.3572198 62.5 -32.3 62.6666667 -32.3 62.6666667 -32.4666667 62.6223764 -32.4666667 62.6223764 -32.4666667 62.6174858 -32.4666667 62.6174858 -32.4666667 62.6105667 -32.4666667 62.6105667 -32.4666667 62.5470902 -32.4666667 62.5470902 -32.4666667 62.5297372 -32.4666667 62.5297372 -32.4666667 62.5 -32.4666667 62.5 -32.4463083</gml:posList>
+</gml:LineStringSegment>
+                            </gml:segments>
+                        </gml:Curve>
+                    </gex:polygon>
+                </S100XC:boundingPolygon>
+                <S100XC:maximumDisplayScale>90000</S100XC:maximumDisplayScale>
+                <S100XC:minimumDisplayScale>22000</S100XC:minimumDisplayScale>
+            </S100XC:dataCoverage>
+            <S100XC:defaultLocale>
+                <lan:PT_Locale>
+                    <lan:language>
+                        <lan:LanguageCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_LanguageCode" codeListValue="ENGLISH">ENGLISH</lan:LanguageCode>
+                    </lan:language>
+                    <lan:characterEncoding>
+                        <lan:MD_CharacterSetCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_CharacterSetCode" codeListValue="UTF-8">UTF-8</lan:MD_CharacterSetCode>
+                    </lan:characterEncoding>
+                </lan:PT_Locale>
+            </S100XC:defaultLocale>
+            <S100XC:metadataPointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>2022-11-08</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101\DATASET_FILES\101AA00DS0020\101AA00DS0020.000</S100XC:fileName>
+            <S100XC:description>
+                <gco:CharacterString>S-101TESTING</gco:CharacterString>
+            </S100XC:description>
+            <S100XC:datasetID>urn:mrn:iho:101AA00DS0020.000:1</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0020" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIBSchnUH89mxBEkgHpjsu8w/UXvUNG1UWxqHThD/vhXyAiBb0eG/ESyyk97jfi58btUnGSW5NaLn3mdrEGV5a2vt1A==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newEdition</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:specificUsage>
+                <ns20:MD_Usage>
+                    <ns20:specificUsage>
+                        <gco:CharacterString>Transit</gco:CharacterString>
+                    </ns20:specificUsage>
+                </ns20:MD_Usage>
+            </S100XC:specificUsage>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:updateNumber>0</S100XC:updateNumber>
+            <S100XC:updateApplicationDate>2022-09-30</S100XC:updateApplicationDate>
+            <S100XC:issueDate>2022-09-30</S100XC:issueDate>
+            <S100XC:boundingBox>
+                <gex:westBoundLongitude>
+                    <gco:Decimal>62</gco:Decimal>
+                </gex:westBoundLongitude>
+                <gex:eastBoundLongitude>
+                    <gco:Decimal>62.1666667</gco:Decimal>
+                </gex:eastBoundLongitude>
+                <gex:southBoundLatitude>
+                    <gco:Decimal>-32.3</gco:Decimal>
+                </gex:southBoundLatitude>
+                <gex:northBoundLatitude>
+                    <gco:Decimal>-32.1333333</gco:Decimal>
+                </gex:northBoundLatitude>
+            </S100XC:boundingBox>
+            <S100XC:productSpecification>
+                <S100XC:name>S-101</S100XC:name>
+                <S100XC:version>010000</S100XC:version>
+                <S100XC:date>2018-12-01</S100XC:date>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>101</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:dataCoverage>
+                <S100XC:boundingPolygon>
+                    <gex:polygon>
+                        <gml:Curve>
+                            <gml:segments>
+<gml:LineStringSegment>
+    <gml:posList srsName="urn:ogc:def:crs:EPSG::4326">62.0 -32.3 62.0 -32.2999999 62.0 -32.2999999 62.0 -32.2307519 62.0 -32.2307519 62.0 -32.214108 62.0 -32.214108 62.0 -32.1333333 62.0 -32.1333333 62.0173031 -32.1333333 62.0173031 -32.1333333 62.0219989 -32.1333333 62.0219989 -32.1333333 62.0278271 -32.1333333 62.0278271 -32.1333333 62.0340261 -32.1333333 62.0340261 -32.1333333 62.0396193 -32.1333333 62.0396193 -32.1333333 62.0429478 -32.1333333 62.0429478 -32.1333333 62.0725005 -32.1333333 62.0725005 -32.1333333 62.0936572 -32.1333333 62.0936572 -32.1333333 62.1055132 -32.1333333 62.1055132 -32.1333333 62.1143088 -32.1333333 62.1143088 -32.1333333 62.1214143 -32.1333333 62.1214143 -32.1333333 62.1307744 -32.1333333 62.1307744 -32.1333333 62.1364625 -32.1333333 62.1364625 -32.1333333 62.1666666 -32.1333333 62.1666666 -32.1333333 62.1666667 -32.1333333 62.1666667 -32.2101496 62.1666667 -32.2101496 62.1666667 -32.3 62.1269616 -32.3 62.1269616 -32.3 62.1190346 -32.3 62.1190346 -32.3 62.0802187 -32.3 62.0802187 -32.3 62.0356377 -32.3 62.0356377 -32.3 62.0277505 -32.3 62.0277505 -32.3 62.0 -32.3</gml:posList>
+</gml:LineStringSegment>
+                            </gml:segments>
+                        </gml:Curve>
+                    </gex:polygon>
+                </S100XC:boundingPolygon>
+                <S100XC:maximumDisplayScale>22000</S100XC:maximumDisplayScale>
+                <S100XC:minimumDisplayScale>90000</S100XC:minimumDisplayScale>
+            </S100XC:dataCoverage>
+            <S100XC:defaultLocale>
+                <lan:PT_Locale>
+                    <lan:language>
+                        <lan:LanguageCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_LanguageCode" codeListValue="ENGLISH">ENGLISH</lan:LanguageCode>
+                    </lan:language>
+                    <lan:characterEncoding>
+                        <lan:MD_CharacterSetCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_CharacterSetCode" codeListValue="UTF-8">UTF-8</lan:MD_CharacterSetCode>
+                    </lan:characterEncoding>
+                </lan:PT_Locale>
+            </S100XC:defaultLocale>
+            <S100XC:metadataPointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>2022-09-20</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101\DATASET_FILES\101AA00DS0021\101AA00DS0021.000</S100XC:fileName>
+            <S100XC:description>
+                <gco:CharacterString>S-101 TESTING</gco:CharacterString>
+            </S100XC:description>
+            <S100XC:datasetID>urn:mrn:iho:101AA00DS0021.000:1</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0021" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEUCIQCDpTT/YCKkVFSJfZG/1feCKXo4Ab5+hoiYvEE0BI7Z3QIgHOCc8ykVkgxdWLwqS3QRSM1BMh+/j6Lr4GjCqqL4JyY=</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newEdition</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:specificUsage>
+                <ns20:MD_Usage>
+                    <ns20:specificUsage>
+                        <gco:CharacterString>Transit</gco:CharacterString>
+                    </ns20:specificUsage>
+                </ns20:MD_Usage>
+            </S100XC:specificUsage>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:updateNumber>0</S100XC:updateNumber>
+            <S100XC:updateApplicationDate>2022-09-20</S100XC:updateApplicationDate>
+            <S100XC:issueDate>2022-09-20</S100XC:issueDate>
+            <S100XC:boundingBox>
+                <gex:westBoundLongitude>
+                    <gco:Decimal>62.1666666</gco:Decimal>
+                </gex:westBoundLongitude>
+                <gex:eastBoundLongitude>
+                    <gco:Decimal>62.3333333</gco:Decimal>
+                </gex:eastBoundLongitude>
+                <gex:southBoundLatitude>
+                    <gco:Decimal>-32.2999999</gco:Decimal>
+                </gex:southBoundLatitude>
+                <gex:northBoundLatitude>
+                    <gco:Decimal>-32.1333332</gco:Decimal>
+                </gex:northBoundLatitude>
+            </S100XC:boundingBox>
+            <S100XC:productSpecification>
+                <S100XC:name>S-101</S100XC:name>
+                <S100XC:version>010000</S100XC:version>
+                <S100XC:date>2018-12-01</S100XC:date>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>101</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:dataCoverage>
+                <S100XC:boundingPolygon>
+                    <gex:polygon>
+                        <gml:Curve>
+                            <gml:segments>
+<gml:LineStringSegment>
+    <gml:posList srsName="urn:ogc:def:crs:EPSG::4326">62.1666666 -32.2999999 62.1666666 -32.1333332 62.3333333 -32.1333332 62.3333333 -32.2999999 62.1666666 -32.2999999</gml:posList>
+</gml:LineStringSegment>
+                            </gml:segments>
+                        </gml:Curve>
+                    </gex:polygon>
+                </S100XC:boundingPolygon>
+                <S100XC:maximumDisplayScale>22000</S100XC:maximumDisplayScale>
+                <S100XC:minimumDisplayScale>90000</S100XC:minimumDisplayScale>
+            </S100XC:dataCoverage>
+            <S100XC:defaultLocale>
+                <lan:PT_Locale>
+                    <lan:language>
+                        <lan:LanguageCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_LanguageCode" codeListValue="ENGLISH">ENGLISH</lan:LanguageCode>
+                    </lan:language>
+                    <lan:characterEncoding>
+                        <lan:MD_CharacterSetCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_CharacterSetCode" codeListValue="UTF-8">UTF-8</lan:MD_CharacterSetCode>
+                    </lan:characterEncoding>
+                </lan:PT_Locale>
+            </S100XC:defaultLocale>
+            <S100XC:metadataPointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>2022-09-06</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101\DATASET_FILES\101AA00DS0022\101AA00DS0022.000</S100XC:fileName>
+            <S100XC:description>
+                <gco:CharacterString>TESTING</gco:CharacterString>
+            </S100XC:description>
+            <S100XC:datasetID>urn:mrn:iho:101AA00DS0022.000:1</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0022" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEUCIEEqsJUN6AXJ9Lrz++hDbglZFs1CEPP0vVN+JvS2mJ2fAiEAlOYdGTppAVcktcDXZxn53KMthmAThL1SPloO/RKRilo=</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newEdition</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:specificUsage>
+                <ns20:MD_Usage>
+                    <ns20:specificUsage>
+                        <gco:CharacterString>Transit</gco:CharacterString>
+                    </ns20:specificUsage>
+                </ns20:MD_Usage>
+            </S100XC:specificUsage>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:updateNumber>0</S100XC:updateNumber>
+            <S100XC:updateApplicationDate>2022-09-20</S100XC:updateApplicationDate>
+            <S100XC:issueDate>2022-09-20</S100XC:issueDate>
+            <S100XC:boundingBox>
+                <gex:westBoundLongitude>
+                    <gco:Decimal>62.3333333</gco:Decimal>
+                </gex:westBoundLongitude>
+                <gex:eastBoundLongitude>
+                    <gco:Decimal>62.5</gco:Decimal>
+                </gex:eastBoundLongitude>
+                <gex:southBoundLatitude>
+                    <gco:Decimal>-32.2999999</gco:Decimal>
+                </gex:southBoundLatitude>
+                <gex:northBoundLatitude>
+                    <gco:Decimal>-32.1333332</gco:Decimal>
+                </gex:northBoundLatitude>
+            </S100XC:boundingBox>
+            <S100XC:productSpecification>
+                <S100XC:name>S-101</S100XC:name>
+                <S100XC:version>010000</S100XC:version>
+                <S100XC:date>2018-12-01</S100XC:date>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>101</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:dataCoverage>
+                <S100XC:boundingPolygon>
+                    <gex:polygon>
+                        <gml:Curve>
+                            <gml:segments>
+<gml:LineStringSegment>
+    <gml:posList srsName="urn:ogc:def:crs:EPSG::4326">62.3333333 -32.2999999 62.3333333 -32.1333332 62.5 -32.1333332 62.5 -32.2999999 62.3333333 -32.2999999</gml:posList>
+</gml:LineStringSegment>
+                            </gml:segments>
+                        </gml:Curve>
+                    </gex:polygon>
+                </S100XC:boundingPolygon>
+                <S100XC:maximumDisplayScale>22000</S100XC:maximumDisplayScale>
+                <S100XC:minimumDisplayScale>90000</S100XC:minimumDisplayScale>
+            </S100XC:dataCoverage>
+            <S100XC:defaultLocale>
+                <lan:PT_Locale>
+                    <lan:language>
+                        <lan:LanguageCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_LanguageCode" codeListValue="ENGLISH">ENGLISH</lan:LanguageCode>
+                    </lan:language>
+                    <lan:characterEncoding>
+                        <lan:MD_CharacterSetCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_CharacterSetCode" codeListValue="UTF-8">UTF-8</lan:MD_CharacterSetCode>
+                    </lan:characterEncoding>
+                </lan:PT_Locale>
+            </S100XC:defaultLocale>
+            <S100XC:metadataPointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"></cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>IHO</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>2022-09-06</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101\DATASET_FILES\101AA00DS0003.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:cksum:sha256:39962a2ebd022abef32b63052fd7c9c30b440a64e4ad800d0efff5cfad3bcf03</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0003" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIG7PQIEkWMuMhZ8RiG4h5aNX1hdgipSLUafJBjEsWRygAiAiWMflGryJjMnKFlPwYJVSdukoS6YiSH0JgCu0lLiNng==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2022-11-12</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>4</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="S100XC:S100_PT_Locale_PropertyType" gco:isoType="ENG"/>
+            <S100XC:metadataPointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>1970-01-01</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101\DATASET_FILES\101AA00DS0008.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:cksum:sha256:46551e850b36835625af8000e5fde7b20531a714ace3d74662d256f03247cc60</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0008" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEYCIQCHWfYjqLisg5uaVAvyzi0bxmcdbf184hM9AxOlFk6BpQIhAIydPjXMPXp+cki4HU7Eof663syF61FBbZUNuaH7jG+u</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2022-11-12</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>4</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="S100XC:S100_PT_Locale_PropertyType" gco:isoType="ENG"/>
+            <S100XC:metadataPointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>1970-01-01</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101\DATASET_FILES\101AA00DS0012.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:cksum:sha256:1984f48bc7669eb59938800fe7f8f6598c02b1dce27151df05622db2b72f626e</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0012" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCICWyTuXdUT8JgzfRtk0HfemyRQ0ZOTXYrjGY/2IUBUrwAiBLJycRcUsMgGI7IbRo2CtilkFWZsJMg9r8oM5ik+zHdA==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2022-11-12</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>4</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="S100XC:S100_PT_Locale_PropertyType" gco:isoType="ENG"/>
+            <S100XC:metadataPointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>1970-01-01</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101\DATASET_FILES\101AA00DS0014.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:cksum:sha256:01b98abb913690686f562170514c8eb2dbf3623b23524b480d805d444a3c582c</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0014" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEYCIQCeo/kvdSUKvhLSnLU2dIYb85OZlHGDw8GS+z1PDmAllQIhAIdR9LJPzY+1ijbi6tfp7X2KuMiRUIoXLAWbyvywdOgW</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2022-11-12</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>4</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="S100XC:S100_PT_Locale_PropertyType" gco:isoType="ENG"/>
+            <S100XC:metadataPointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>1970-01-01</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101\DATASET_FILES\101AA00DS0016.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:cksum:sha256:9989da428b8a577171a07ab209683664489b8ffd08f00e2cca962e3eb0bec837</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0016" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIAUscGReqBVpLACUCmhZ2j4QP8ptkRj57clx0TrwpDHtAiAI2V5WS7MVPWsI+wPjyFWKmGH5fMLTIDzmXLlIDbd1Kg==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2022-11-12</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>4</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="S100XC:S100_PT_Locale_PropertyType" gco:isoType="ENG"/>
+            <S100XC:metadataPointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>1970-01-01</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101\DATASET_FILES\101AA00DS0019.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:cksum:sha256:2115342e755cd4562afc72cecd8eb5fbb1de28f3940832ea8141cd218a6c0d78</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0019" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIEGfw+eQrfHCRFJZ7q4MFJaN/9IiUmNQorV8+w+dC0hfAiAg/vxsAvgP/vruOU/dR836mYJUjKeEEME9PZ9wqaNYTQ==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2022-11-12</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>4</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="S100XC:S100_PT_Locale_PropertyType" gco:isoType="ENG"/>
+            <S100XC:metadataPointOfContact>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>1970-01-01</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+    </S100XC:datasetDiscoveryMetadata>
+    <S100XC:supportFileDiscoveryMetadata/>
+    <S100XC:catalogueDiscoveryMetadata/>
+</S100XC:S100_ExchangeCatalogue>
