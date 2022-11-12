@@ -8,3 +8,5 @@ This folder holds exports of all new S-164 test datasets wrapped in S-100 editio
 * issue dates need to be checked. Contents should also be double checked with what's in the repository to check they're the same.
 * CAT.SIG has similarly been created - it is valid but self-signed.
 * This exchange set will be upgraded if content is changed (this is done manually though so best to raise an issue when commits are done)
+* The producer and address etc need to be updated
+* It would be good to add appropriate feature/portrayal catalogues when ready (and signed off by IHO).
