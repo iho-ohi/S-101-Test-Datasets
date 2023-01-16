@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<S100XC:S100_ExchangeCatalogue xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:S100SE="http://www.iho.int/s100/se/5.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:S100XC="http://www.iho.int/s100/xc/5.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:ns8="http://standards.iso.org/iso/19115/-3/cit/1.0" xmlns:ns9="http://standards.iso.org/iso/19157/-2/mdq/1.0" xmlns:ns10="https://schemas.isotc211.org/19110/-/gfc/2.1" xmlns:ns11="http://standards.iso.org/iso/19115/-3/mac/2.0" xmlns:ns12="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:ns13="http://standards.iso.org/iso/19115/-3/msr/2.0" xmlns:ns14="http://standards.iso.org/iso/19115/-3/mrl/2.0" xmlns:ns15="http://standards.iso.org/iso/19115/-3/mrc/2.0" xmlns:ns16="http://www.w3.org/1999/xlink" xmlns:ns17="http://www.isotc211.org/2005/gco" xmlns:ns18="http://www.isotc211.org/2005/gmd" xmlns:ns19="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:ns20="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:ns21="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:ns22="http://standards.iso.org/iso/19115/-3/mas/1.0" xmlns:ns23="http://standards.iso.org/iso/19115/-3/mpc/1.0" xmlns:ns24="http://standards.iso.org/iso/19115/-3/mdb/2.0" xmlns:ns25="http://standards.iso.org/iso/19157/-2/dqc/1.0" xmlns:ns26="http://standards.iso.org/iso/19115/-3/gcx/1.0" xmlns:ns27="http://standards.iso.org/iso/19115/-3/cat/1.0" xmlns:ns28="https://schemas.isotc211.org/19110/-/fcc/2.1" xmlns:ns29="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:ns30="http://standards.iso.org/iso/19115/-3/mda/2.0" xmlns:ns31="http://www.isotc211.org/2005/gts" xmlns:ns32="http://standards.iso.org/iso/19115/-3/mdt/2.0" xmlns:ns33="http://standards.iso.org/iso/19115/-3/srv/2.0" xmlns:ns34="http://standards.iso.org/iso/19115/-3/mrs/1.0" xmlns:ns35="http://standards.iso.org/iso/19115/-3/mex/1.0">
+    <S100XC:identifier>
+        <S100XC:identifier>IHO_V12</S100XC:identifier>
+        <S100XC:dateTime>2023-01-16T12:18:10.336Z</S100XC:dateTime>
+    </S100XC:identifier>
+    <S100XC:contact>
+        <S100XC:organization>
+            <gco:CharacterString>International Hydrographic Organisation</gco:CharacterString>
+        </S100XC:organization>
+        <S100XC:address>
+            <cit:deliveryPoint>
+                <gco:CharacterString>Quai Ste Antoine</gco:CharacterString>
+            </cit:deliveryPoint>
+            <cit:city>
+                <gco:CharacterString>Monte Carlo</gco:CharacterString>
+            </cit:city>
+            <cit:administrativeArea>
+                <gco:CharacterString>Monaco</gco:CharacterString>
+            </cit:administrativeArea>
+            <cit:postalCode>
+                <gco:CharacterString>ba11 5hf</gco:CharacterString>
+            </cit:postalCode>
+            <cit:country>
+                <gco:CharacterString></gco:CharacterString>
+            </cit:country>
+            <cit:electronicMailAddress>
+                <gco:CharacterString>s164@iho.int</gco:CharacterString>
+            </cit:electronicMailAddress>
+        </S100XC:address>
+    </S100XC:contact>
+    <S100XC:exchangeCatalogueComment>
+        <gco:CharacterString>Colleciton of all current S-164 test datasets.</gco:CharacterString>
+    </S100XC:exchangeCatalogueComment>
+    <S100XC:certificates>
+        <S100SE:schemeAdministrator id="urn:mrn:iho:s62:iic:2C:key1"/>
+        <S100SE:certificate id="urn:mrn:iho:s62:iic:2C:key1" issuer="IHO Scretariat">MIIEkjCCBE8CCQCWKCqpzWh2nzALBglghkgBZQMEAwIwZDELMAkGA1UEBhMCTUMxEzARBgNVBAgMClNvbWUtU3RhdGUxDDAKBgNVBAoMA0lITzEXMBUGA1UEAwwOSUhPIFNjcmV0YXJpYXQxGTAXBgkqhkiG9w0BCQEWCmpwQGloby5pbnQwHhcNMjIwOTI3MTMxOTI3WhcNMzIwODA1MTMxOTI3WjBlMQswCQYDVQQGEwJHQjERMA8GA1UECAwIcHJvZHVjZXIxHTAbBgNVBAoMFElJQyBUZWNobm9sb2dpZXMsIFVLMSQwIgYDVQQDDBt1cm46bXJuOmlobzpzNjI6aWljOjJDOmtleTEwggNGMIICOQYHKoZIzjgEATCCAiwCggEBALsK2LrTON5EtKq2QU8SbD14/bqybjPY5+uGLORcA6LEiu0uUSjfzZX2FlF9A1j4rx4kPpk8fBcvH5OWivmTMbiSpdurvIavfecFXRgTYmbmnLpUC4f8HPewtJO3ESPnIXkF81SPxi7syz11Y0F09yAStZyyIlOc0vHsPeteE7SafurIXdWwNkn1A/zdH1hHa7HTSl0GW9NMfu1BaBTl+kX7JWeKsozsrgdFgO2EETa/6JIkczbsu4eVDQqNnXJoM0mC0AsZQgynkJEPJ84yux3HofNy8t6Apt0CA61bwUJKUMiGyFTco5zNBK4B14agmW/Os+h/tcPerNZfRX1HWHkCIQClLmOUnnrwnPdai0+atceUU6ZYBl16uYsOWshi7Jmd3wKCAQBsUF07Qz7hUriINnJQzGcn5eKEpJTBCTAlrus8Vyd7BOcxLj1sFDhuWiovDE8IjzWFeIDBHMKh78n7vaFv0H22dPDMfxn2n1Xn25YfCxDKMJ7ED5FjuyCMY+SLl6vtk22BqtAuLABqw8LH+bD30vfOZfNYv0F7Fz1zEWNLPRXAO2uRoZIqq6OLh9/gHF9LJWay6GLOoF1R9+G7FdKDemvFx3aNldi+vUlRk9x7ghYXJzhLWRdJEUi4y1n2ep91yK4JyMS8QVfvvnxvwBwm1q2FVwCz0JPpXEYjPvv0ioN0TbH0GLtZcEWQH+0gZvJicJ+jecB/FRuZFDcWx5lYxLqyA4IBBQACggEAG5r1LMogokkNEFFGz8LcNPE+3/k3T7SDEIoj9/AaUuEOadL63Z3/ojG2oJiHUM5A82NjdbJj+onOkBQgjBq/GrVPFGv3029thae5edy+5fsoJ5gMbdBX4ASzE+sEv91ZVEct9kifYGdJYeTmqKD9AQ95l9ayI1erOKDjmNpju0yBcNRyRnbe//duAiakpiHgOvzwjZBCQElIhNraRhCjpMYaqsPMCEBK+pMOtGjQ7NQ7hsmFhk8Tde3jLXcr2FG5C+ZW9XJQq3UIai2ibtQLAN+kLRiTk1pdEeh1B60FZ+EIG9raZ1+6XjIb7N4YsOqJ31odAAiHM2GY1qSPizI3azALBglghkgBZQMEAwIDMAAwLQIUPLXXtV9xPk6DzBmnmfOTOVRJ5k8CFQCZlnr6PtefctC3qPmLBn72p6pLjw==</S100SE:certificate>
+    </S100XC:certificates>
+    <S100XC:datasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA0000DS0009.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:76c743c91679c9220947cd8c4940a2922056648cfe0b3ebb6665af2a553e5ac3</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA0000DS0009" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIBqMq1kbfwMmAu3kvn8JPHWSVkLv1wWzooZwV2Rlva25AiBmb1MR3xbObX9HNZuXwsFyPDgnCy62ArkJrivGrukhkg==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0003.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:39962a2ebd022abef32b63052fd7c9c30b440a64e4ad800d0efff5cfad3bcf03</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0003" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIGjvLqQWRVsxQ+MZRNp0DkDHySoZT11hf4zbQUZnLg1kAiAnodYe6EfcjIO40ruCR0cC3rQZAEQzSV0iV7r4nkSMdg==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0004.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:88a7b27041574afa56eff522a95327654d67d2968052b0c62a56db2e2d6c64c5</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0004" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIHfFV8zR+6dVfUnlExIgfWcTbyvIlz9gnQuIfoKgDgByAiB1yQPtWiw1AVIlvNBX641KOVFFA1DLNVyMVapHu8CtAQ==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0005.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:d163bc29ecca88f7f72a940addd422415d15b6b32bd4cc52bda9e8b0ac4ab4e3</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0005" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEUCIQCCYQ6NuZCQr69WLlr2OS/AujY1f5t90C7ITcXTpG02fgIgCXG9T6q2OSM9U5U6JLvseiP4XgDMM98NARMiYyZEokg=</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0006.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:46f84e5b5912dc5ab89af36af8ace0c7133a19910d4486bad942302e3e87e8ef</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0006" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEUCIH746px9Y68O8Gho4GLsVQ2had4uu5CAJPDmg+hlQbvAAiEAme4EqjeQX28KPK8dFMsKCv5vG6pc74S2JQOaLaNG6eE=</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0007.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:d91d2f6c3fb551ea378a96952e784c661037f81d7c05364b95ab9fcc3720a978</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0007" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIENIlCUfvhcOZa4N2hEkyfhnLeh6HA9bKd5zd6kCeY5EAiAB0Z5v97nA5u4Cj2yYXTCGQ+lSVCtG7FSQHAh0JcM2Kw==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0008.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:739bba193e14e9a35d45a9f49ed80f77eb621d9290e9b287cffc285cd4baa238</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0008" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIDDGSLBfgtfgAy5bGCbM36a56RqnxtVqmaX2+IAk4l8QAiBk3HQAt3M5tNNw7pZYTcxwShriNcSbZrkcDlx6AbjBsQ==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0010.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:d1cda886128d66a0e7d08bd71692e34d04078c0ca0edbcb4d4f8853795f8eb31</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0010" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEUCIQCkZEqmALECu7Tv6/3iD7jxDPuqQmODwvukDMGn4j9zOgIgPobe2B3eXcYQOYtP5K1VefUIijmvW9WPKiGqrcMIvUY=</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0011.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:85294c39b90e582a5e237ea8f4e10107700483d636c2f27f6e790237106bd6c0</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0011" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIAL5bD41O0oGa4XKU+6jFTNKCuVCJRypcI7LtDsr2iL6AiBQ7ealbUy/GVIL6DvIXsengcaZkqL2QpN8QjKqH3+AhA==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0012.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:1984f48bc7669eb59938800fe7f8f6598c02b1dce27151df05622db2b72f626e</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0012" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIEZjL3rkoa1cEj4lga2WN7R6voMTlZBVslS3paLEcwVgAiBwa7PqrCbMAShL6CU62Xpv1khI2SLBlmhn4t963GYiLg==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0013.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:e083a781ace0abd7f1514950669a1afc139025f2449906acab74cb5fa7e79567</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0013" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIFQ2Kloiw2YnTNwsAQ9ejgABK4nsrgxIuMGUsgGiE4VOAiBbovyrg4Dzgb+sLi2WvbTihY5AskfoOkGit3gn/w5xDA==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0014.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:01b98abb913690686f562170514c8eb2dbf3623b23524b480d805d444a3c582c</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0014" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIFYh9c5nkqQ4GTTnHxUAal+/+1smRlkORX99CMDPbtYtAiAUOpoltSDbtqNh9Pbrz1/LdSg5u26P1IdLcHRGMQM5jQ==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0015.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:1996377cf95bb43b831a7ffee3c1e8bf97f179e4b65fec8e7de605aae2cf9ae0</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0015" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEUCIQCTSYxVFWrQO4Idy0S209RdqIn4n8HQARrGcsqJBXpS3QIgIAbhkvUzTsV1BZjX70NjhZfuFV/P0Z2ye1s0AiZQJyI=</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>2</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0016.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:9dd102c574919cb10ae78615934077d42e7644c6d47fc8b4226434948cd2484a</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0016" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEUCIQCNe1fBbgUy+nM43OewjL9PMVhoKAQrNIb/5kDqon70rwIgZHUIjxNAoy7AtJ7Ki2OadU+Hh7o0n8rxY0o6tHibbxY=</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0017.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:1bc2ed49cb47f8ac778073a01cc9e2b5c1847c89c8ea9c4b660667f000b66276</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0017" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIAQ9Noxf/aisxBbVX/elR+0+MqLU0PQPSD1R71dIFo0KAiBkof1fBFkrTNASeu5mGHbIC7X+GNmQpS20D+a0ZD+l9A==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0019.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:f75efdeea456400bca7134b7aede3b8106f6d5d0e3cdde9b6920a01bbd55c260</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0019" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIFZ0tMbWYSlZuZ6aLorFsoLv7lQA/nKNaXzdZjb64jluAiBQ8JS2GK+tUi5hVJ5QvXYXPAE5731Hrn+IXYyfnEMRtw==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0020.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:2c4070da9d29d58fc381e265be0c53aa82e3da69bb9fb2c13688e75ecb5b7f63</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0020" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEUCIQCcnalHwxCMDR2rHIA8mPDOit7SB2OVz/OWD6XAg4miWgIgMpsQ4EvK15W5jSXPDaVGW88fAtCLFz6VZ1QmQ7ptBTs=</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0021.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:3da47dbda1597a4e30c11b55c0b296473764901e597f2fb6b05e8d4509df34cf</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0021" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEQCIFRqaGu50oKBFVHL5WI0t8pqfhlSHDJjU8ZVKHzGKTo0AiBqTbGkJSWEh7nClMZtGgoEOFSdQSVLL24Gpz6Yq7C8Kw==</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>S-101/DATASET_FILES/101AA00DS0022.000</S100XC:fileName>
+            <S100XC:datasetID>urn:mrn:iho:hash:sha256:5677d6e89ef5121de3a65178472787bd77fd0bf324cd12a3fc5184e4efc632dc</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="SIG101AA00DS0022" certificateRef="urn:mrn:iho:s62:iic:2C:key1">MEUCIQCRSeEufoJNpFF61RKMy4vZopS57Wlrt72RUkfvmwataAIgMseHQbypsjXFLIXhJ6BQy6Jft+6EMDj/dkk3GxFy9wQ=</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2023-01-16</S100XC:issueDate>
+            <S100XC:issueTime>10:14:32Z</S100XC:issueTime>
+            <S100XC:productSpecification>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>1</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>
+<gco:CharacterString>AA00</gco:CharacterString>
+                            </cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>AA00</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+    </S100XC:datasetDiscoveryMetadata>
+    <S100XC:supportFileDiscoveryMetadata/>
+    <S100XC:catalogueDiscoveryMetadata/>
+</S100XC:S100_ExchangeCatalogue>
