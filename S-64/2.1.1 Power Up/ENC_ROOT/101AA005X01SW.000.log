@@ -1,0 +1,9 @@
+2023-06-13 07:59:13,013 WARN  [S57ToS101Converter] Conversion de GB5X01SW
+2023-06-13 07:59:13,300 WARN  [AttributeConverterImpl] Valeur S57 [directional radiobeacon (2)] non convertie(s) pour categoryOfRadioStation de RadioStation 540-2135155399-687
+2023-06-13 07:59:13,304 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540-2135148579-687
+2023-06-13 07:59:13,305 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540-2135148594-687
+2023-06-13 07:59:13,306 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540-2135148607-687
+2023-06-13 07:59:13,307 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540-2135148621-687
+2023-06-13 07:59:13,308 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540-2135148634-687
+2023-06-13 07:59:13,365 WARN  [S57ToS101Converter] S101 Specification : Relationship not found from Landmark-540-2135151700-687 to RadioStation-540-2135155399-687
+2023-06-13 07:59:13,567 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PRH
