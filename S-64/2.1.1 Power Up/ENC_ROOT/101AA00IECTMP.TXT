@@ -1,0 +1,14 @@
+1234(T)/01    Jussland - East Coast - Approaches to Port Rimon - Data buoys
+
+1.    The following pillar light-buoys have been established:
+      W. cardinal, VQ(9)10s Meet 1, in position    32° 34'·34S., 61° 08'·40E.
+      E. cardinal, VQ(3)5s Meet 2, in position     32° 34'·34S., 61° 09'·26E.
+      W. cardinal, Q(9)15s Meet 3, in position     32° 35'·15S., 61° 08'·40E.
+      E. cardinal, Q(3)10s Meet 4, in position     32° 35'·15S., 61° 09'·26E.
+2.    These buoys are marking measuring equipment and will be in place until June 2001.
+3.    Shipping, especially fishing vessels, should avoid the marked area.
+
+Charts affected - 19000  ENC cells affected - GB4X000
+Jussland Notice 44/533(T)/01        
+
+POSITIONS QUOTED HAVE BEEN TRANSFORMED TO WGS84 DATUM. 

@@ -1,0 +1,2 @@
+2023-06-13 07:59:15,858 WARN  [S57ToS101Converter] Conversion de GB5X01NE
+2023-06-13 07:59:15,875 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540-29166419-1

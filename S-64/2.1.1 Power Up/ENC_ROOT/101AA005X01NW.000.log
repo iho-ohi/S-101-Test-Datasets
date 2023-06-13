@@ -1,0 +1,7 @@
+2023-06-13 07:59:13,953 WARN  [S57ToS101Converter] Conversion de GB5X01NW
+2023-06-13 07:59:13,999 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540-29175647-1
+2023-06-13 07:59:14,037 WARN  [S57ToS101Converter] S101 Specification : Cannot find any S101 association for the S57 association object 540-29175704-1 and for the slave features FLODOC CBLSUB CBLSUB CBLSUB CBLSUB OBSTRN OBSTRN OBSTRN OBSTRN 
+2023-06-13 07:59:14,037 WARN  [S57ToS101Converter] S101 Specification : Relationship not found from LightAirObstruction-540-29175654-1 to FogSignal-540-29175655-1
+2023-06-13 07:59:14,086 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type CTRPNT
+2023-06-13 07:59:14,087 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type CTRPNT
+2023-06-13 07:59:14,088 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type C_AGGR
