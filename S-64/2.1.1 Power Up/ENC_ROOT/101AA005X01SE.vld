@@ -1,0 +1,2305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LogDocument Toolname="7Cs Analyzer">
+    <LogGroup Title="7Cs Analyzer &#169; 5.1.1 Build 8">
+    </LogGroup>
+    <LogGroup Title="101AA005X01SE : Critical 233, Error 21, Warning 3">
+    </LogGroup>
+    <LogGroup Title="Validation Parameters">
+        <LogEntry Severity="information">
+            <Message>User: thomas.richardson</Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message>Validation Start: Jun 15 2023, 12:11:38 GMT Daylight Time</Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message>Preprocessing Time: 0.01 seconds</Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message>Validation Time: 0.00 seconds</Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message>Tolerance (mm): 0.125</Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message>Tolerance (m): 0.05</Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message>Feature Catalogue Version: Electronic Navigational Chart 1.1.0 20230202</Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message>Custom Checklist: custom checks not used</Message>
+        </LogEntry>
+    </LogGroup>
+    <LogGroup Title="Dataset Metadata">
+        <LogEntry Severity="information">
+            <Message><![CDATA[Encoding Specification: S-100 Part 10a]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Encoding Specification Edition: 1.1]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Product Identifier: INT.IHO.S-101.1.1.0]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Product Edition: 1.1.0]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Application Profile: 1 (Base)]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Dataset File Identifier: 101AA005X01SE.000]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Dataset Title: Converted using GEOMOD Converter]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Dataset Reference Date: 20010406]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Dataset Language: EN]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Dateset Edition: 1.0]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Number of Information Records: 0]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Number of Point Records: 34]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Number of Multi Point Records: 1]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Number of Curve Records: 40]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Number of Composite Curve Records: 10]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Number of Surface Records: 12]]></Message>
+        </LogEntry>
+        <LogEntry Severity="information">
+            <Message><![CDATA[Number of Feature Records: 19]]></Message>
+        </LogEntry>
+    </LogGroup>
+    <LogGroup Title="Dataset Entries : No Errors">
+    </LogGroup>
+    <LogGroup Title="Feature and Geometry Entries : Critical 233, Error 21, Warning 3">
+        <LogGroup Title="CurvesNotSequential : Critical 208 (10 shown)">
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curves are not sequential. End point of curve is not equal to the start point of the next curve.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that curves are referenced in the correct sequence.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, checks 13a, 13b, 13c and 13d</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000001]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>AdministrationArea</S57ClassToken>
+                    <S57ClassDescription>Administration Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000003]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000013]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curves are not sequential. End point of curve is not equal to the start point of the next curve.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that curves are referenced in the correct sequence.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, checks 13a, 13b, 13c and 13d</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000001]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>AdministrationArea</S57ClassToken>
+                    <S57ClassDescription>Administration Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000005]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000001]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000002]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curves are not sequential. End point of curve is not equal to the start point of the next curve.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that curves are referenced in the correct sequence.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, checks 13a, 13b, 13c and 13d</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000001]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>AdministrationArea</S57ClassToken>
+                    <S57ClassDescription>Administration Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000006]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000005]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000016]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curves are not sequential. End point of curve is not equal to the start point of the next curve.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that curves are referenced in the correct sequence.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, checks 13a, 13b, 13c and 13d</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000001]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>AdministrationArea</S57ClassToken>
+                    <S57ClassDescription>Administration Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000007]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000003]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000005]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curves are not sequential. End point of curve is not equal to the start point of the next curve.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that curves are referenced in the correct sequence.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, checks 13a, 13b, 13c and 13d</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000001]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>AdministrationArea</S57ClassToken>
+                    <S57ClassDescription>Administration Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000008]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000003]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curves are not sequential. End point of curve is not equal to the start point of the next curve.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that curves are referenced in the correct sequence.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, checks 13a, 13b, 13c and 13d</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000001]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>AdministrationArea</S57ClassToken>
+                    <S57ClassDescription>Administration Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000009]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000015]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000016]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curves are not sequential. End point of curve is not equal to the start point of the next curve.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that curves are referenced in the correct sequence.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, checks 13a, 13b, 13c and 13d</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000001]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>AdministrationArea</S57ClassToken>
+                    <S57ClassDescription>Administration Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000010]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000006]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000011]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curves are not sequential. End point of curve is not equal to the start point of the next curve.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that curves are referenced in the correct sequence.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, checks 13a, 13b, 13c and 13d</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000001]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>AdministrationArea</S57ClassToken>
+                    <S57ClassDescription>Administration Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000011]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000010]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000011]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curves are not sequential. End point of curve is not equal to the start point of the next curve.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that curves are referenced in the correct sequence.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, checks 13a, 13b, 13c and 13d</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000001]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>AdministrationArea</S57ClassToken>
+                    <S57ClassDescription>Administration Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000007]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000009]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curves are not sequential. End point of curve is not equal to the start point of the next curve.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that curves are referenced in the correct sequence.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, checks 13a, 13b, 13c and 13d</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000001]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>AdministrationArea</S57ClassToken>
+                    <S57ClassDescription>Administration Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000013]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000002]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000009]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+        </LogGroup>
+        <LogGroup Title="FeatureOutsideDataCov : Critical 1">
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Feature is not covered by a <b>DataCoverage</b>.]]></Message>
+                <SuggestedSolution><![CDATA[Extend data coverage or delete feature.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, checks 500, 505 and 548a</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000019]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>SeaAreaNamedWaterArea</S57ClassToken>
+                    <S57ClassDescription>Sea Area/Named Water Area</S57ClassDescription>
+                </ObjName>
+            </LogEntry>
+        </LogGroup>
+        <LogGroup Title="MissingMandatoryAttributeCplx : Critical 1">
+            <LogEntry Severity="critical">
+                <Category>Attribute</Category>
+                <Message><![CDATA[Mandatory attribute <b>significantFeaturesDetected</b> is missing from complex attribute <b>featuresDetected</b>.]]></Message>
+                <SuggestedSolution><![CDATA[Add missing mandatory attribute. Leave value empty if unknown.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 507</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000016]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>QualityOfBathymetricData</S57ClassToken>
+                    <S57ClassDescription>Quality of Bathymetric Data</S57ClassDescription>
+                </ObjName>
+            </LogEntry>
+        </LogGroup>
+        <LogGroup Title="RingNotClosed : Critical 12">
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring is not closed. The start point is not equal to the end point.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that the start point of the ring is the same as the end point.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 15</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000001]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>AdministrationArea</S57ClassToken>
+                    <S57ClassDescription>Administration Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000016]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring is not closed. The start point is not equal to the end point.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that the start point of the ring is the same as the end point.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 15</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000002]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>DepthArea</S57ClassToken>
+                    <S57ClassDescription>Depth Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000027]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000024]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring is not closed. The start point is not equal to the end point.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that the start point of the ring is the same as the end point.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 15</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000003]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>DepthArea</S57ClassToken>
+                    <S57ClassDescription>Depth Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000006]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000028]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring is not closed. The start point is not equal to the end point.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that the start point of the ring is the same as the end point.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 15</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000004]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>DepthArea</S57ClassToken>
+                    <S57ClassDescription>Depth Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000029]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000013]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring is not closed. The start point is not equal to the end point.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that the start point of the ring is the same as the end point.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 15</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000005]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>DepthArea</S57ClassToken>
+                    <S57ClassDescription>Depth Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000030]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring is not closed. The start point is not equal to the end point.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that the start point of the ring is the same as the end point.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 15</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000006]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>DepthArea</S57ClassToken>
+                    <S57ClassDescription>Depth Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000016]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000030]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring is not closed. The start point is not equal to the end point.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that the start point of the ring is the same as the end point.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 15</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000011]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>MagneticVariation</S57ClassToken>
+                    <S57ClassDescription>Magnetic Variation</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000016]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring is not closed. The start point is not equal to the end point.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that the start point of the ring is the same as the end point.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 15</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000012]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>DataCoverage</S57ClassToken>
+                    <S57ClassDescription>Data Coverage</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000016]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring is not closed. The start point is not equal to the end point.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that the start point of the ring is the same as the end point.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 15</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000014]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>LocalDirectionOfBuoyage</S57ClassToken>
+                    <S57ClassDescription>Local Direction of Buoyage</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000016]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring is not closed. The start point is not equal to the end point.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that the start point of the ring is the same as the end point.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 15</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000015]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>NavigationalSystemOfMarks</S57ClassToken>
+                    <S57ClassDescription>Navigational System of Marks</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000016]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring is not closed. The start point is not equal to the end point.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that the start point of the ring is the same as the end point.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 15</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000016]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>QualityOfBathymetricData</S57ClassToken>
+                    <S57ClassDescription>Quality of Bathymetric Data</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000016]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring is not closed. The start point is not equal to the end point.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that the start point of the ring is the same as the end point.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 15</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000019]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>SeaAreaNamedWaterArea</S57ClassToken>
+                    <S57ClassDescription>Sea Area/Named Water Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000033]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[110]]></EncObjType>
+                            <EncObjId><![CDATA[0000000005]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+        </LogGroup>
+        <LogGroup Title="RingSelfIntersects : Critical 11">
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring self-intersects.]]></Message>
+                <SuggestedSolution><![CDATA[Amend ring boundary so that it doesn't self intersect.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 78</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.386080 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.778000 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000001]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>AdministrationArea</S57ClassToken>
+                    <S57ClassDescription>Administration Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 33.098925 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.095463 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000001]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>AdministrationArea</S57ClassToken>
+                        <S57ClassDescription>Administration Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.517598 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.648641 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000001]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>AdministrationArea</S57ClassToken>
+                        <S57ClassDescription>Administration Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring self-intersects.]]></Message>
+                <SuggestedSolution><![CDATA[Amend ring boundary so that it doesn't self intersect.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 78</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.527080 S]]></PosLat>
+                    <PosLon><![CDATA[060 57.999960 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000003]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>DepthArea</S57ClassToken>
+                    <S57ClassDescription>Depth Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.799691 S]]></PosLat>
+                        <PosLon><![CDATA[060 58.634244 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000003]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring self-intersects.]]></Message>
+                <SuggestedSolution><![CDATA[Amend ring boundary so that it doesn't self intersect.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 78</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.300040 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.066400 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000004]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>DepthArea</S57ClassToken>
+                    <S57ClassDescription>Depth Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.300040 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.066400 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.157436 S]]></PosLat>
+                        <PosLon><![CDATA[060 58.850348 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.710531 S]]></PosLat>
+                        <PosLon><![CDATA[060 58.601168 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.604300 S]]></PosLat>
+                        <PosLon><![CDATA[060 58.511272 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 33.008649 S]]></PosLat>
+                        <PosLon><![CDATA[060 58.853455 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.826756 S]]></PosLat>
+                        <PosLon><![CDATA[060 58.641433 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 33.098925 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.095463 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring self-intersects.]]></Message>
+                <SuggestedSolution><![CDATA[Amend ring boundary so that it doesn't self intersect.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 78</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.388960 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.774880 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000005]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>DepthArea</S57ClassToken>
+                    <S57ClassDescription>Depth Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.388960 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.774880 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000005]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.285942 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.503641 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000005]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.237097 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.009077 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000005]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.175905 S]]></PosLat>
+                        <PosLon><![CDATA[060 58.881539 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000005]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.065387 S]]></PosLat>
+                        <PosLon><![CDATA[060 58.651196 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000005]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.335682 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.214557 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000005]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.455078 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.710863 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000005]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring self-intersects.]]></Message>
+                <SuggestedSolution><![CDATA[Amend ring boundary so that it doesn't self intersect.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 78</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.386080 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.778000 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000006]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>DepthArea</S57ClassToken>
+                    <S57ClassDescription>Depth Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.104653 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.380674 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000006]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.207026 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.344902 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000006]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.385829 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.766673 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000006]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring self-intersects.]]></Message>
+                <SuggestedSolution><![CDATA[Amend ring boundary so that it doesn't self intersect.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 78</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.386080 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.778000 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000011]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>MagneticVariation</S57ClassToken>
+                    <S57ClassDescription>Magnetic Variation</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 33.098925 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.095463 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000011]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>MagneticVariation</S57ClassToken>
+                        <S57ClassDescription>Magnetic Variation</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.517598 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.648641 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000011]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>MagneticVariation</S57ClassToken>
+                        <S57ClassDescription>Magnetic Variation</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring self-intersects.]]></Message>
+                <SuggestedSolution><![CDATA[Amend ring boundary so that it doesn't self intersect.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 78</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.386080 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.778000 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000012]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>DataCoverage</S57ClassToken>
+                    <S57ClassDescription>Data Coverage</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 33.098925 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.095463 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.517598 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.648641 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring self-intersects.]]></Message>
+                <SuggestedSolution><![CDATA[Amend ring boundary so that it doesn't self intersect.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 78</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.386080 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.778000 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000014]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>LocalDirectionOfBuoyage</S57ClassToken>
+                    <S57ClassDescription>Local Direction of Buoyage</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 33.098925 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.095463 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000014]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>LocalDirectionOfBuoyage</S57ClassToken>
+                        <S57ClassDescription>Local Direction of Buoyage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.517598 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.648641 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000014]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>LocalDirectionOfBuoyage</S57ClassToken>
+                        <S57ClassDescription>Local Direction of Buoyage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring self-intersects.]]></Message>
+                <SuggestedSolution><![CDATA[Amend ring boundary so that it doesn't self intersect.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 78</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.386080 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.778000 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000015]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>NavigationalSystemOfMarks</S57ClassToken>
+                    <S57ClassDescription>Navigational System of Marks</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 33.098925 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.095463 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000015]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>NavigationalSystemOfMarks</S57ClassToken>
+                        <S57ClassDescription>Navigational System of Marks</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.517598 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.648641 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000015]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>NavigationalSystemOfMarks</S57ClassToken>
+                        <S57ClassDescription>Navigational System of Marks</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring self-intersects.]]></Message>
+                <SuggestedSolution><![CDATA[Amend ring boundary so that it doesn't self intersect.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 78</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.386080 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.778000 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000016]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>QualityOfBathymetricData</S57ClassToken>
+                    <S57ClassDescription>Quality of Bathymetric Data</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 33.098925 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.095463 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000016]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>QualityOfBathymetricData</S57ClassToken>
+                        <S57ClassDescription>Quality of Bathymetric Data</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.517598 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.648641 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000016]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>QualityOfBathymetricData</S57ClassToken>
+                        <S57ClassDescription>Quality of Bathymetric Data</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="critical">
+                <Category>Topology</Category>
+                <Message><![CDATA[Ring self-intersects.]]></Message>
+                <SuggestedSolution><![CDATA[Amend ring boundary so that it doesn't self intersect.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 78</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.308440 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.563800 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000019]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>SeaAreaNamedWaterArea</S57ClassToken>
+                    <S57ClassDescription>Sea Area/Named Water Area</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.299952 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.542500 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000019]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>SeaAreaNamedWaterArea</S57ClassToken>
+                        <S57ClassDescription>Sea Area/Named Water Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 33.098925 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.095463 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000019]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>SeaAreaNamedWaterArea</S57ClassToken>
+                        <S57ClassDescription>Sea Area/Named Water Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+        </LogGroup>
+        <LogGroup Title="DatasetNotRectangular : Error 15">
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curve is not coincident with the rectangular dataset extents (Northern: 32 32.000040 S, Southern: 32 33.141000 S, Eastern: 060 59.836440 E, Western: 060 57.999960 E).]]></Message>
+                <SuggestedSolution><![CDATA[Amend curve so that it coincides with the rectangular dataset extents.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 501</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.391960 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.773680 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000001]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.389200 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.775720 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000001]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curve is not coincident with the rectangular dataset extents (Northern: 32 32.000040 S, Southern: 32 33.141000 S, Eastern: 060 59.836440 E, Western: 060 57.999960 E).]]></Message>
+                <SuggestedSolution><![CDATA[Amend curve so that it coincides with the rectangular dataset extents.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 501</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.517960 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.648280 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000002]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.458440 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.724840 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000002]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.391960 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.773680 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000002]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curve is not coincident with the rectangular dataset extents (Northern: 32 32.000040 S, Southern: 32 33.141000 S, Eastern: 060 59.836440 E, Western: 060 57.999960 E).]]></Message>
+                <SuggestedSolution><![CDATA[Amend curve so that it coincides with the rectangular dataset extents.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 501</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 33.140640 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.040240 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000006]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 33.140640 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.032680 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000006]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curve is not coincident with the rectangular dataset extents (Northern: 32 32.000040 S, Southern: 32 33.141000 S, Eastern: 060 59.836440 E, Western: 060 57.999960 E).]]></Message>
+                <SuggestedSolution><![CDATA[Amend curve so that it coincides with the rectangular dataset extents.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 501</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.523840 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.640600 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000007]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.594040 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.550480 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000007]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curve is not coincident with the rectangular dataset extents (Northern: 32 32.000040 S, Southern: 32 33.141000 S, Eastern: 060 59.836440 E, Western: 060 57.999960 E).]]></Message>
+                <SuggestedSolution><![CDATA[Amend curve so that it coincides with the rectangular dataset extents.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 501</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.594040 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.550480 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000008]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.931480 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.305200 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000008]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curve is not coincident with the rectangular dataset extents (Northern: 32 32.000040 S, Southern: 32 33.141000 S, Eastern: 060 59.836440 E, Western: 060 57.999960 E).]]></Message>
+                <SuggestedSolution><![CDATA[Amend curve so that it coincides with the rectangular dataset extents.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 501</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.517960 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.648280 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000009]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.523840 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.640600 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000009]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curve is not coincident with the rectangular dataset extents (Northern: 32 32.000040 S, Southern: 32 33.141000 S, Eastern: 060 59.836440 E, Western: 060 57.999960 E).]]></Message>
+                <SuggestedSolution><![CDATA[Amend curve so that it coincides with the rectangular dataset extents.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 501</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.931480 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.305200 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000010]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.951640 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.290440 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000010]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curve is not coincident with the rectangular dataset extents (Northern: 32 32.000040 S, Southern: 32 33.141000 S, Eastern: 060 59.836440 E, Western: 060 57.999960 E).]]></Message>
+                <SuggestedSolution><![CDATA[Amend curve so that it coincides with the rectangular dataset extents.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 501</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.951640 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.290440 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000011]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.985960 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.265480 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000011]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 33.140640 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.058960 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000011]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 33.140640 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.040240 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000011]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curve is not coincident with the rectangular dataset extents (Northern: 32 32.000040 S, Southern: 32 33.141000 S, Eastern: 060 59.836440 E, Western: 060 57.999960 E).]]></Message>
+                <SuggestedSolution><![CDATA[Amend curve so that it coincides with the rectangular dataset extents.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 501</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.386080 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.778000 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000012]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curve is not coincident with the rectangular dataset extents (Northern: 32 32.000040 S, Southern: 32 33.141000 S, Eastern: 060 59.836440 E, Western: 060 57.999960 E).]]></Message>
+                <SuggestedSolution><![CDATA[Amend curve so that it coincides with the rectangular dataset extents.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 501</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.386080 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.778000 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000013]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.389200 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.775720 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000013]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curve is not coincident with the rectangular dataset extents (Northern: 32 32.000040 S, Southern: 32 33.141000 S, Eastern: 060 59.836440 E, Western: 060 57.999960 E).]]></Message>
+                <SuggestedSolution><![CDATA[Amend curve so that it coincides with the rectangular dataset extents.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 501</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 33.140520 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.000040 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000015]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 33.140640 S]]></PosLat>
+                        <PosLon><![CDATA[060 58.714320 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000015]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curve is not coincident with the rectangular dataset extents (Northern: 32 32.000040 S, Southern: 32 33.141000 S, Eastern: 060 59.836440 E, Western: 060 57.999960 E).]]></Message>
+                <SuggestedSolution><![CDATA[Amend curve so that it coincides with the rectangular dataset extents.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 501</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 33.140640 S]]></PosLat>
+                    <PosLon><![CDATA[060 58.714320 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000016]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curve is not coincident with the rectangular dataset extents (Northern: 32 32.000040 S, Southern: 32 33.141000 S, Eastern: 060 59.836440 E, Western: 060 57.999960 E).]]></Message>
+                <SuggestedSolution><![CDATA[Amend curve so that it coincides with the rectangular dataset extents.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 501</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.225400 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.836080 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000023]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curve is not coincident with the rectangular dataset extents (Northern: 32 32.000040 S, Southern: 32 33.141000 S, Eastern: 060 59.836440 E, Western: 060 57.999960 E).]]></Message>
+                <SuggestedSolution><![CDATA[Amend curve so that it coincides with the rectangular dataset extents.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 501</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 33.140640 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.032680 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000024]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 33.140520 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.000040 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[120]]></EncObjType>
+                            <EncObjId><![CDATA[0000000024]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Curve is not coincident with the rectangular dataset extents (Northern: 32 32.000040 S, Southern: 32 33.141000 S, Eastern: 060 59.836440 E, Western: 060 57.999960 E).]]></Message>
+                <SuggestedSolution><![CDATA[Amend curve so that it coincides with the rectangular dataset extents.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 501</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.225400 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.836080 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000025]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000012]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DataCoverage</S57ClassToken>
+                        <S57ClassDescription>Data Coverage</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+        </LogGroup>
+        <LogGroup Title="LineSelfIntersects : Error 3">
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Component curves self-intersect without a point geometry at the point of intersection.]]></Message>
+                <SuggestedSolution><![CDATA[Insert a point geometry where the component curves intersect.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 79</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.799691 S]]></PosLat>
+                    <PosLon><![CDATA[060 58.634244 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000007]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>DepthContour</S57ClassToken>
+                    <S57ClassDescription>Depth Contour</S57ClassDescription>
+                </ObjName>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Component curves self-intersect without a point geometry at the point of intersection.]]></Message>
+                <SuggestedSolution><![CDATA[Insert a point geometry where the component curves intersect.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 79</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.175905 S]]></PosLat>
+                    <PosLon><![CDATA[060 58.881539 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000009]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>DepthContour</S57ClassToken>
+                    <S57ClassDescription>Depth Contour</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.065387 S]]></PosLat>
+                        <PosLon><![CDATA[060 58.651196 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000009]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthContour</S57ClassToken>
+                        <S57ClassDescription>Depth Contour</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Component curves self-intersect without a point geometry at the point of intersection.]]></Message>
+                <SuggestedSolution><![CDATA[Insert a point geometry where the component curves intersect.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 79</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.285942 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.503641 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000010]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>DepthContour</S57ClassToken>
+                    <S57ClassDescription>Depth Contour</S57ClassDescription>
+                </ObjName>
+            </LogEntry>
+        </LogGroup>
+        <LogGroup Title="QualityOfBathyDataCoverage : Error 1">
+            <LogEntry Severity="error">
+                <Category>Topology</Category>
+                <Message><![CDATA[Bathymetric area is not fully covered by a <b>QualityOfBathymetricData</b>.]]></Message>
+                <SuggestedSolution><![CDATA[Ensure that bathymetric area is fully covered by a <b>QualityOfBathymetricData</b>.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, checks 505 and 549</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.517930 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.648213 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000004]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>DepthArea</S57ClassToken>
+                    <S57ClassDescription>Depth Area</S57ClassDescription>
+                </ObjName>
+            </LogEntry>
+        </LogGroup>
+        <LogGroup Title="SoundgGreaterDrval2 : Error 1">
+            <LogEntry Severity="error">
+                <Category>Bathymetry</Category>
+                <Message><![CDATA[Sounding value is greater than to the <b>depthRangeMaximumValue</b> of the covering bathymetric area and <b>expositionOfSounding</b> is not equal to <i>3 (deeper than the range of the surrounding depth area)</i>.]]></Message>
+                <SuggestedSolution><![CDATA[Encode <b>expositionOfSounding</b> with 3 (deeper than the range of the surrounding depth area).]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 1769</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000020]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>Sounding</S57ClassToken>
+                    <S57ClassDescription>Sounding</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000003]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.968080 S]]></PosLat>
+                        <PosLon><![CDATA[060 58.784880 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[115]]></EncObjType>
+                            <EncObjId><![CDATA[0000000003<6>]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+        </LogGroup>
+        <LogGroup Title="SoundgLessDrval1 : Error 1">
+            <LogEntry Severity="error">
+                <Category>Bathymetry</Category>
+                <Message><![CDATA[Sounding value is less than the <b>depthRangeMinimumValue</b> of the covering bathymetric area.]]></Message>
+                <SuggestedSolution><![CDATA[Amend <b>depthRangeMinimumValue</b> of covering bathymetric area.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 1768b</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <EncObject>
+                        <EncObjType><![CDATA[100]]></EncObjType>
+                        <EncObjId><![CDATA[0000000020]]></EncObjId>
+                    </EncObject>
+                    <S57ClassToken>Sounding</S57ClassToken>
+                    <S57ClassDescription>Sounding</S57ClassDescription>
+                </ObjName>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <EncObject>
+                            <EncObjType><![CDATA[100]]></EncObjType>
+                            <EncObjId><![CDATA[0000000004]]></EncObjId>
+                        </EncObject>
+                        <S57ClassToken>DepthArea</S57ClassToken>
+                        <S57ClassDescription>Depth Area</S57ClassDescription>
+                    </ObjName>
+                </RelatedObject>
+                <RelatedObject>
+                    <ObjName>
+                        <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                        <PosLat><![CDATA[32 32.346960 S]]></PosLat>
+                        <PosLon><![CDATA[060 59.245800 E]]></PosLon>
+                        <EncObject>
+                            <EncObjType><![CDATA[115]]></EncObjType>
+                            <EncObjId><![CDATA[0000000003<9>]]></EncObjId>
+                        </EncObject>
+                    </ObjName>
+                </RelatedObject>
+            </LogEntry>
+        </LogGroup>
+        <LogGroup Title="VertexDensity : Warning 3">
+            <LogEntry Severity="warning">
+                <Category>Topology</Category>
+                <Message><![CDATA[Vertex density exceeds allowable tolerance of 0.3 mm at compilation scale (maximum of 10 shown).]]></Message>
+                <SuggestedSolution><![CDATA[Generalise curve.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 571</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.391960 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.773680 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000001]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+            </LogEntry>
+            <LogEntry Severity="warning">
+                <Category>Topology</Category>
+                <Message><![CDATA[Vertex density exceeds allowable tolerance of 0.3 mm at compilation scale (maximum of 10 shown).]]></Message>
+                <SuggestedSolution><![CDATA[Generalise curve.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 571</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.000040 S]]></PosLat>
+                    <PosLon><![CDATA[060 58.514280 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000020]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+            </LogEntry>
+            <LogEntry Severity="warning">
+                <Category>Topology</Category>
+                <Message><![CDATA[Vertex density exceeds allowable tolerance of 0.3 mm at compilation scale (maximum of 10 shown).]]></Message>
+                <SuggestedSolution><![CDATA[Generalise curve.]]></SuggestedSolution>
+                <Reference>S-58, Ed. 7.0.0, check 571</Reference>
+                <ObjName>
+                    <Cellname><![CDATA[101AA005X01SE]]></Cellname>
+                    <PosLat><![CDATA[32 32.389200 S]]></PosLat>
+                    <PosLon><![CDATA[060 59.775720 E]]></PosLon>
+                    <EncObject>
+                        <EncObjType><![CDATA[120]]></EncObjType>
+                        <EncObjId><![CDATA[0000000031]]></EncObjId>
+                    </EncObject>
+                </ObjName>
+            </LogEntry>
+        </LogGroup>
+    </LogGroup>
+</LogDocument>
