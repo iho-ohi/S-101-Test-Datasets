@@ -1,0 +1,101 @@
+2023-07-03 12:33:32,180 WARN  [S57ToS101Converter] Conversion de AA3NAVHZ
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1533411093_54 : Setting attribute value as empty for an unexisting s101 attribute value BeaconLateral:beaconShape=4
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1533411093_54 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconLateral:beaconShape=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1533411093_54 : Setting attribute value as empty for an unexisting s101 attribute value BeaconLateral:beaconShape=4
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1533411093_54 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconLateral:beaconShape=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_2022629413_74 : Attribute type CLSDEF has been removed from the S101 feature type VirtualAISAidToNavigation
+2023-07-03 12:33:32,180 WARN  [ComplexAttributeConverterImpl] 1810_2022629413_74 : No CLSNAM attribute declared on this S57 feature.
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_2022629413_74 : Attribute type CLSNAM has been removed from the S101 feature type VirtualAISAidToNavigation
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_2022629413_74 : Attribute type SYMINS has been removed from the S101 feature type VirtualAISAidToNavigation
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_1801302113_75 : Attribute type CLSDEF has been removed from the S101 feature type VirtualAISAidToNavigation
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_1801302113_75 : Attribute type SYMINS has been removed from the S101 feature type VirtualAISAidToNavigation
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_608238869_78 : Attribute type CATBRG has been removed from the S101 feature type Landmark
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-271375490_79 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_2113645231_80 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-07-03 12:33:32,180 WARN  [AttributeConverterImpl] Valeur S57 [wine (20)] non convertie(s) pour product de Conveyor 1810_1972515201_84
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_1972515201_84 : Attribute type PRODCT has been removed from the S101 feature type Conveyor
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_791135104_96 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1649275841_99 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_1146967681_100 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1034002769_101 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1265481184_103 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_412027793_104 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_471258153_105 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_600899575_106 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1812380239_107 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_1256312656_108 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1254217186_122 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_556991014_125 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-26886082_126 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_1832856817_127 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-2006750930_128 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_898661504_129 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1502502857_130 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1662570632_131 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1078189722_137 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1078189722_137 : Cartographic intervention, the mandatory numeric S101 value has an empty value Wreck:waterLevelEffect=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_1012638759_138 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-858762091_139 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-858762091_139 : Cartographic intervention, the mandatory numeric S101 value has an empty value Wreck:waterLevelEffect=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_32801784_140 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-62837006_141 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1198040440_142 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1198040440_142 : Cartographic intervention, the mandatory numeric S101 value has an empty value Wreck:waterLevelEffect=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1856724089_143 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-74342197_144 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_93922100_145 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_600178240_146 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-721071075_147 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-810724190_148 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_1323445995_153 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_1323445995_153 : Cartographic intervention, the mandatory numeric S101 value has an empty value Wreck:waterLevelEffect=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-697324265_154 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-1432699256_158 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-143716366_170 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_588105015_176 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:32,180 INFO  [AttributeConverterImpl] 1810_-36226263_177 : Attribute type EXPSOU has been removed from the S101 feature type Sounding
+2023-07-03 12:33:32,180 INFO  [FeaturesFinalizer] Adding feature TOPMAR 1810_2071786090_44 to BuoyCardinal Object 1810_-223187386_45
+2023-07-03 12:33:32,180 INFO  [FeaturesFinalizer] Adding feature TOPMAR 1810_-685553747_48 to BeaconCardinal Object 1810_727305646_49
+2023-07-03 12:33:32,180 INFO  [FeaturesFinalizer] Adding feature TOPMAR 1810_1476804763_46 to BuoyIsolatedDanger Object 1810_1863534183_47
+2023-07-03 12:33:32,180 INFO  [FeaturesFinalizer] Adding feature TOPMAR 1810_-1674715021_50 to BeaconIsolatedDanger Object 1810_-1127287011_51
+2023-07-03 12:33:32,180 INFO  [FeaturesFinalizer] Adding feature TOPMAR 1810_1605795688_52 to BuoyLateral Object 1810_1184777398_53
+2023-07-03 12:33:32,180 INFO  [FeaturesFinalizer] Adding feature TOPMAR 1810_-569687998_55 to BuoySafeWater Object 1810_402804843_56
+2023-07-03 12:33:32,180 INFO  [FeaturesFinalizer] Adding feature TOPMAR 1810_-1266760066_57 to BeaconSafeWater Object 1810_-1283395647_58
+2023-07-03 12:33:32,180 INFO  [FeaturesFinalizer] Adding feature TOPMAR 1810_-789496894_60 to BeaconSpecialPurposeGeneral Object 1810_-734409167_61
+2023-07-03 12:33:32,180 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_1545975975_93
+2023-07-03 12:33:32,180 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_99306259_94
+2023-07-03 12:33:32,180 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_2034847495_95
+2023-07-03 12:33:32,180 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_791135104_96
+2023-07-03 12:33:32,180 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_1358503579_97
+2023-07-03 12:33:32,180 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_142331907_98
+2023-07-03 12:33:32,180 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_-1649275841_99
+2023-07-03 12:33:32,180 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_1146967681_100
+2023-07-03 12:33:32,180 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_-1034002769_101
+2023-07-03 12:33:32,180 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_-1265481184_103
+2023-07-03 12:33:32,180 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_412027793_104
+2023-07-03 12:33:32,180 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_471258153_105
+2023-07-03 12:33:32,180 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_600899575_106
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_-1078189722_137
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_1012638759_138
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_-858762091_139
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_32801784_140
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_-62837006_141
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_-1198040440_142
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_-1856724089_143
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_-74342197_144
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_93922100_145
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_600178240_146
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_-721071075_147
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_-810724190_148
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_1187060246_156
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_378044854_157
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_-1432699256_158
+2023-07-03 12:33:32,191 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 1810_1642956414_159
+2023-07-03 12:33:32,191 INFO  [S57ToS101] Writing 101AA003NAVHZ.000 to ./data-references/dataConverted/s164/Conversion-1.1.5/5.0 Navigational Hazards/S100_ROOT/S-101/DATASET_FILES
+2023-07-03 12:33:32,221 INFO  [CheckS101] * Checking dataSet '101AA003NAVHZ'...
+2023-07-03 12:33:32,221 INFO  [CheckS101] ** Checking dataSet '101AA003NAVHZ' consistency to the dictionary...
+2023-07-03 12:33:32,221 INFO  [CheckS101] ** End of dataSet '101AA003NAVHZ' consistency to the dictionary check
+2023-07-03 12:33:32,221 INFO  [CheckS101] ** Checking dataSet '101AA003NAVHZ' group 1...
+2023-07-03 12:33:32,221 INFO  [CheckS101] *** '101AA003NAVHZ.000' group 1 OK
+2023-07-03 12:33:32,221 INFO  [CheckS101] ** End of dataSet '101AA003NAVHZ' group 1 check
+2023-07-03 12:33:32,221 INFO  [CheckS101] * End of dataSet '101AA003NAVHZ' check

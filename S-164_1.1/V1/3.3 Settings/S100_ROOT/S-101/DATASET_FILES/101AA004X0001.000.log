@@ -1,0 +1,60 @@
+2023-07-03 12:33:31,764 WARN  [S57ToS101Converter] Conversion de GB4X0001
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_-1387913488_271 : Cartographic intervention, the mandatory numeric S101 value has an empty value LocalDirectionOfBuoyage:marksNavigationalSystemOf=
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_1338130737_295 : Removing a non-mandatory empty numeric value TrafficSeparationSchemeLanePart:orientationValue=
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_-600158792_339 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_-600158792_339 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:orientationValue=
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_-600158792_339 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:categoryOfTidalStream=
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_1077910763_340 : Attribute type CATOBS has been removed from the S101 feature type FoulGround
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_1077910763_340 : Removing a non-mandatory empty numeric value FoulGround:valueOfSounding=
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_1077910763_340 : Removing a non-mandatory empty numeric value FoulGround:waterLevelEffect=
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_718040088_341 : Cartographic intervention, the mandatory numeric S101 value has an empty value Wreck:waterLevelEffect=
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_-631354294_353 : Cartographic intervention, the mandatory numeric S101 value has an empty value DeepWaterRoutePart:depthRangeMinimumValue=
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_-796697907_355 : Cartographic intervention, the mandatory numeric S101 value has an empty value LocalMagneticAnomaly:magneticAnomalyValue=
+2023-07-03 12:33:31,766 WARN  [AttributeConverterImpl] Valeur S57 [clearing mark (41)] non convertie(s) pour categoryOfSpecialPurposeMark de BuoySpecialPurposeGeneral 540_396175919_357
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_396175919_357 : Attribute type CATSPM has been removed from the S101 feature type BuoySpecialPurposeGeneral
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_-1383692511_358 : Attribute type COLPAT has been removed from the S101 feature type BuoyCardinal
+2023-07-03 12:33:31,766 WARN  [AttributeConverterImpl] Valeur S57 [clearing mark (41)] non convertie(s) pour categoryOfSpecialPurposeMark de BuoySpecialPurposeGeneral 540_-548738524_361
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_-548738524_361 : Attribute type CATSPM has been removed from the S101 feature type BuoySpecialPurposeGeneral
+2023-07-03 12:33:31,766 WARN  [AttributeConverterImpl] Valeur S57 [clearing mark (41)] non convertie(s) pour categoryOfSpecialPurposeMark de BuoySpecialPurposeGeneral 540_-1109114829_363
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_-1109114829_363 : Attribute type CATSPM has been removed from the S101 feature type BuoySpecialPurposeGeneral
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_-690681151_378 : Attribute type CATLMK has been removed from the S101 feature type WindTurbine
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_-690681151_378 : Attribute type FUNCTN has been removed from the S101 feature type WindTurbine
+2023-07-03 12:33:31,766 WARN  [S57ToS101Converter] S101 Specification : Relationship not found from BeaconLateral-540_-242785175_383 to RadarReflector-1810_2098977624_2
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_1300758582_384 : Attribute type COMCHA has been removed from the S101 feature type RadioCallingInPoint
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_474418767_394 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:31,766 INFO  [AttributeConverterImpl] 540_-695464932_368 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_251143772_308 to BuoySafeWater Object 540_1082982549_309
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_38162788_310 to BuoyIsolatedDanger Object 540_-1682538833_311
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_1855689203_312 to BuoyCardinal Object 540_539982343_313
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_1117481747_323 to BuoyCardinal Object 540_-1194440457_324
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-962083328_325 to BuoyCardinal Object 540_589283766_326
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_1099119527_327 to BuoyCardinal Object 540_-1944106170_328
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_646829892_314 to BuoyLateral Object 540_-290451281_315
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_144353748_316 to BuoyLateral Object 540_-1228534134_317
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_111316124_318 to BeaconSafeWater Object 540_-1894623297_319
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-1060360432_320 to BeaconIsolatedDanger Object 540_236788112_321
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_136608442_273 to BeaconCardinal Object 540_1996862882_274
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-1898654419_275 to BeaconCardinal Object 540_1140621261_276
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-1861874810_277 to BeaconCardinal Object 540_-1260452257_278
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-1940671690_330 to BeaconCardinal Object 540_-1345019427_331
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-1455537239_282 to BeaconLateral Object 540_958943158_283
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_1575885715_284 to BeaconLateral Object 540_-290623166_285
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_1331638072_360 to BuoySpecialPurposeGeneral Object 540_-548738524_361
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-517134152_362 to BuoySpecialPurposeGeneral Object 540_-1109114829_363
+2023-07-03 12:33:31,766 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-2009024594_382 to BeaconLateral Object 540_-242785175_383
+2023-07-03 12:33:31,774 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type ICNARE
+2023-07-03 12:33:31,774 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PRH
+2023-07-03 12:33:31,774 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PNH
+2023-07-03 12:33:31,774 INFO  [S57ToS101] Writing 101AA004X0001.000 to ./data-references/dataConverted/s164/Conversion-1.1.5/3.3 Settings/S100_ROOT/S-101/DATASET_FILES
+2023-07-03 12:33:31,786 INFO  [S57ToS101Converter] Copy pointed file GB038_36.TXT to 101AA00038_36.TXT
+2023-07-03 12:33:31,786 INFO  [S57ToS101Converter] Copy pointed file GBBOVSTA.TXT to 101AA00BOVSTA.TXT
+2023-07-03 12:33:31,786 INFO  [S57ToS101Converter] Copy pointed file GB0182AE.TIF to 101AA000182AE.TIF
+2023-07-03 12:33:31,786 INFO  [S57ToS101Converter] Copy pointed file GBA11981.TXT to 101AA00A11981.TXT
+2023-07-03 12:33:31,786 INFO  [S57ToS101Converter] Copy pointed file GB11981A.TXT to 101AA0011981A.TXT
+2023-07-03 12:33:31,804 INFO  [CheckS101] * Checking dataSet '101AA004X0001'...
+2023-07-03 12:33:31,804 INFO  [CheckS101] ** Checking dataSet '101AA004X0001' consistency to the dictionary...
+2023-07-03 12:33:31,804 INFO  [CheckS101] ** End of dataSet '101AA004X0001' consistency to the dictionary check
+2023-07-03 12:33:31,804 INFO  [CheckS101] ** Checking dataSet '101AA004X0001' group 1...
+2023-07-03 12:33:31,804 INFO  [CheckS101] *** '101AA004X0001.000' group 1 OK
+2023-07-03 12:33:31,804 INFO  [CheckS101] ** End of dataSet '101AA004X0001' group 1 check
+2023-07-03 12:33:31,804 INFO  [CheckS101] * End of dataSet '101AA004X0001' check

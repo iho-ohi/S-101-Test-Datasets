@@ -1,0 +1,125 @@
+2023-07-03 12:33:31,826 WARN  [S57ToS101Converter] Conversion de 1B5X01NE
+2023-07-03 12:33:31,834 INFO  [AttributeConverterImpl] 540_2135131801_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconCardinal:beaconShape=
+2023-07-03 12:33:31,834 INFO  [AttributeConverterImpl] 540_2135131801_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconCardinal:beaconShape=
+2023-07-03 12:33:31,834 INFO  [AttributeConverterImpl] 540_2135132439_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,834 INFO  [AttributeConverterImpl] 540_2135132439_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,834 INFO  [AttributeConverterImpl] 540_2135132788_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,834 INFO  [AttributeConverterImpl] 540_2135132788_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,834 INFO  [AttributeConverterImpl] 540_2135132467_687 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-07-03 12:33:31,834 INFO  [AttributeConverterImpl] 540_2135132467_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,834 INFO  [AttributeConverterImpl] 540_2135132467_687 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-07-03 12:33:31,834 INFO  [AttributeConverterImpl] 540_2135132467_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,834 INFO  [AttributeConverterImpl] 540_2135132492_687 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-07-03 12:33:31,834 INFO  [AttributeConverterImpl] 540_2135132492_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,834 INFO  [AttributeConverterImpl] 540_2135132492_687 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-07-03 12:33:31,834 INFO  [AttributeConverterImpl] 540_2135132492_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135132513_687 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135132513_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135132513_687 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135132513_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135132526_687 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135132526_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135132526_687 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135132526_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135132553_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135132553_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135132891_687 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135132891_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135132891_687 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135132891_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value BeaconSpecialPurposeGeneral:beaconShape=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135147928_687 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135147915_687 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] Coastline :  Attribute CATCOA with values [4] change to attribute type natureOfSurface with value [5]
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135149360_687 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135149376_687 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135149389_687 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-07-03 12:33:31,837 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540_2135149412_687
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135149412_687 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-07-03 12:33:31,837 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540_2135149427_687
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135149427_687 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-07-03 12:33:31,837 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540_2135149438_687
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135149438_687 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135153636_687 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135154431_687 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135154445_687 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135154462_687 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135154477_687 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135155561_687 : Attribute type CATREA has been removed from the S101 feature type RestrictedAreaNavigational
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] -1_2135173119_2 : Attribute type CATREA has been removed from the S101 feature type RestrictedAreaRegulatory
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135171818_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135171818_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135171818_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135171837_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135171837_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135171837_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135171853_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135171853_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135171853_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,837 INFO  [AttributeConverterImpl] 540_2135171867_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135171867_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135171899_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172226_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172226_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172226_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172247_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172247_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172247_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172262_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172262_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172262_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172280_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172302_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172302_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172318_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172318_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172318_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172347_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172347_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172347_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172367_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172367_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172367_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172388_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172388_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172388_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172404_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172404_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172404_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172421_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172421_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172421_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172447_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172447_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,845 INFO  [AttributeConverterImpl] 540_2135172478_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,847 INFO  [AttributeConverterImpl] 540_2135172478_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,847 INFO  [AttributeConverterImpl] 540_2135172500_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,847 INFO  [AttributeConverterImpl] 540_2135172500_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,847 INFO  [AttributeConverterImpl] 540_2135172500_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,847 INFO  [AttributeConverterImpl] 540_2135172515_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,847 INFO  [AttributeConverterImpl] 540_2135172515_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,847 INFO  [AttributeConverterImpl] 540_2135172515_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,847 INFO  [AttributeConverterImpl] 540_2135172535_687 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:natureOfSurface=9
+2023-07-03 12:33:31,847 INFO  [AttributeConverterImpl] 540_2135172535_687 : Removing a non-mandatory empty numeric value UnderwaterAwashRock:natureOfSurface=
+2023-07-03 12:33:31,847 INFO  [AttributeConverterImpl] 540_2135172535_687 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,847 INFO  [AttributeConverterImpl] 540_2135173095_687 : Attribute type QUASOU has been removed from the S101 feature type Wreck
+2023-07-03 12:33:31,847 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_2135171137_687 to BeaconCardinal Object 540_2135131801_687
+2023-07-03 12:33:31,847 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_2135171052_687 to BeaconSpecialPurposeGeneral Object 540_2135132439_687
+2023-07-03 12:33:31,847 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_2135171153_687 to BeaconSpecialPurposeGeneral Object 540_2135132788_687
+2023-07-03 12:33:31,847 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_2135171066_687 to BeaconSpecialPurposeGeneral Object 540_2135132553_687
+2023-07-03 12:33:31,847 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_2135171094_687 to BuoyLateral Object 540_2135133210_687
+2023-07-03 12:33:31,847 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_2135171079_687 to BuoySpecialPurposeGeneral Object 540_2135133583_687
+2023-07-03 12:33:31,847 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_2135171123_687 to BuoySpecialPurposeGeneral Object 540_2135133605_687
+2023-07-03 12:33:31,847 INFO  [FeaturesFinalizer] Adding feature LIGHTS 540_2135149389_687 to LightSectored Object 540_2135149360_687
+2023-07-03 12:33:31,847 INFO  [FeaturesFinalizer] Adding feature LIGHTS 540_2135149427_687 to LightSectored Object 540_2135149412_687
+2023-07-03 12:33:31,847 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_2135149376_687
+2023-07-03 12:33:31,847 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_2135149389_687
+2023-07-03 12:33:31,847 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_2135149427_687
+2023-07-03 12:33:31,847 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_2135149438_687
+2023-07-03 12:33:31,857 INFO  [S57ToS101] Writing 1011B005X01NE.000 to ./data-references/dataConverted/s164/Conversion-1.1.5/3.4 Non-Official Data/S100_ROOT/S-101/DATASET_FILES
+2023-07-03 12:33:31,918 INFO  [CheckS101] * Checking dataSet '1011B005X01NE'...
+2023-07-03 12:33:31,918 INFO  [CheckS101] ** Checking dataSet '1011B005X01NE' consistency to the dictionary...
+2023-07-03 12:33:31,925 INFO  [CheckS101] ** End of dataSet '1011B005X01NE' consistency to the dictionary check
+2023-07-03 12:33:31,925 INFO  [CheckS101] ** Checking dataSet '1011B005X01NE' group 1...
+2023-07-03 12:33:31,926 INFO  [CheckS101] *** '1011B005X01NE.000' group 1 OK
+2023-07-03 12:33:31,926 INFO  [CheckS101] ** End of dataSet '1011B005X01NE' group 1 check
+2023-07-03 12:33:31,926 INFO  [CheckS101] * End of dataSet '1011B005X01NE' check

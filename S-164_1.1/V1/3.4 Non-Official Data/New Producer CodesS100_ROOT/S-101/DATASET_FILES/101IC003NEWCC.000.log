@@ -1,0 +1,9 @@
+2023-07-03 12:33:31,948 WARN  [S57ToS101Converter] Conversion de IC3NEWCC
+2023-07-03 12:33:31,948 INFO  [S57ToS101] Writing 101IC003NEWCC.000 to ./data-references/dataConverted/s164/Conversion-1.1.5/3.4 Non-Official Data/New Producer CodesS100_ROOT/S-101/DATASET_FILES
+2023-07-03 12:33:31,968 INFO  [CheckS101] * Checking dataSet '101IC003NEWCC'...
+2023-07-03 12:33:31,968 INFO  [CheckS101] ** Checking dataSet '101IC003NEWCC' consistency to the dictionary...
+2023-07-03 12:33:31,968 INFO  [CheckS101] ** End of dataSet '101IC003NEWCC' consistency to the dictionary check
+2023-07-03 12:33:31,968 INFO  [CheckS101] ** Checking dataSet '101IC003NEWCC' group 1...
+2023-07-03 12:33:31,968 INFO  [CheckS101] *** '101IC003NEWCC.000' group 1 OK
+2023-07-03 12:33:31,968 INFO  [CheckS101] ** End of dataSet '101IC003NEWCC' group 1 check
+2023-07-03 12:33:31,968 INFO  [CheckS101] * End of dataSet '101IC003NEWCC' check
