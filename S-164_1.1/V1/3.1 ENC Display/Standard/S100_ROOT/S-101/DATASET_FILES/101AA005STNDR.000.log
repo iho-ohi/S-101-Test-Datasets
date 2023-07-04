@@ -1,0 +1,19 @@
+2023-07-03 12:33:31,554 WARN  [S57ToS101Converter] Conversion de AA5STNDR
+2023-07-03 12:33:31,554 INFO  [AttributeConverterImpl] 540_29184937_1 : Attribute type CATLMK has been removed from the S101 feature type WindTurbine
+2023-07-03 12:33:31,554 INFO  [AttributeConverterImpl] 540_29185039_1 : Attribute type CATDIS has been removed from the S101 feature type DistanceMark
+2023-07-03 12:33:31,554 INFO  [AttributeConverterImpl] 540_29185040_1 : Removing a non-mandatory empty numeric value MooringWarpingFacility:buoyShape=
+2023-07-03 12:33:31,554 INFO  [AttributeConverterImpl] 540_29185041_1 : Attribute type CLSDEF has been removed from the S101 feature type VirtualAISAidToNavigation
+2023-07-03 12:33:31,554 INFO  [AttributeConverterImpl] 540_29185041_1 : Attribute type SYMINS has been removed from the S101 feature type VirtualAISAidToNavigation
+2023-07-03 12:33:31,554 INFO  [AttributeConverterImpl] 540_29184943_1 : Removing a non-mandatory empty numeric value SiloTank:categoryOfSiloTank=
+2023-07-03 12:33:31,554 ERROR [FeaturesFinalizer] No support has been found for the topmark feature 540_29185037_1
+2023-07-03 12:33:31,554 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type ICNARE
+2023-07-03 12:33:31,562 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type ICNARE
+2023-07-03 12:33:31,562 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TOPMAR
+2023-07-03 12:33:31,562 INFO  [S57ToS101] Writing 101AA005STNDR.000 to ./data-references/dataConverted/s164/Conversion-1.1.5/3.1 ENC Display/Standard/S100_ROOT/S-101/DATASET_FILES
+2023-07-03 12:33:31,594 INFO  [CheckS101] * Checking dataSet '101AA005STNDR'...
+2023-07-03 12:33:31,594 INFO  [CheckS101] ** Checking dataSet '101AA005STNDR' consistency to the dictionary...
+2023-07-03 12:33:31,594 INFO  [CheckS101] ** End of dataSet '101AA005STNDR' consistency to the dictionary check
+2023-07-03 12:33:31,594 INFO  [CheckS101] ** Checking dataSet '101AA005STNDR' group 1...
+2023-07-03 12:33:31,594 INFO  [CheckS101] *** '101AA005STNDR.000' group 1 OK
+2023-07-03 12:33:31,594 INFO  [CheckS101] ** End of dataSet '101AA005STNDR' group 1 check
+2023-07-03 12:33:31,594 INFO  [CheckS101] * End of dataSet '101AA005STNDR' check

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Dataset>
+    <DatasetGeneralInformation>
+        <DataSetIdentification>
+            <!--RecordName-->
+            <rcnm>10</rcnm>
+            <!--RecordIdentifier-->
+            <rcid>1</rcid>
+            <!--Encoding Specification-->
+            <ensp>S-100 Part 10a</ensp>
+            <!--Encoding Specification Edition-->
+            <ened>1.1</ened>
+            <!--Product Identifier-->
+            <prsp>INT.IHO.S-101.1.1.0</prsp>
+            <!--Product Edition-->
+            <pred>1.1.0</pred>
+            <!--Application Profile-->
+            <prof>1</prof>
+            <!--Dataset File Identifier-->
+            <dsnm>101AA003SAFCO.000</dsnm>
+            <!--Dataset Title-->
+            <dstl>Converted using GEOMOD Converter</dstl>
+            <!--Dataset Reference Date-->
+            <dsrd>20131205</dsrd>
+            <!--Dataset Language-->
+            <dslg>EN</dslg>
+            <!--Dataset Edition-->
+            <dsed>1.0</dsed>
+            <!--Dataset Topic Category-->
+            <dstc>14 18</dstc>
+            <DatasetStructureInformation>
+                <!--Dataset Coordinate Origin X-->
+                <dcox>0.0</dcox>
+                <!--Dataset Coordinate Origin Y-->
+                <dcoy>0.0</dcoy>
+                <!--Dataset Coordinate Origin Z-->
+                <dcoz>0.0</dcoz>
+                <!--Coordinate Multiplication Factor for X-->
+                <cmfx>10000000</cmfx>
+                <!--Coordinate Multiplication Factor for Y-->
+                <cmfy>10000000</cmfy>
+                <!--Coordinate Multiplication Factor for Z-->
+                <cmfz>100</cmfz>
+                <!--Number of Information Type records-->
+                <noir>0</noir>
+                <!--Number of Point records-->
+                <nopn>26</nopn>
+                <!--Number of Multi Point records-->
+                <nomn>0</nomn>
+                <!--Number of Curve records-->
+                <nocn>24</nocn>
+                <!--Number of Composite Curve records-->
+                <noxn>5</noxn>
+                <!--Number of Surface records-->
+                <nosn>16</nosn>
+                <!--Number of Feature Type records-->
+                <nofr>32</nofr>
+            </DatasetStructureInformation>
+            <AttributeCodes>
+                <AttributeCode code="maximumDisplayScale" numeric="1"/>
+                <AttributeCode code="minimumDisplayScale" numeric="2"/>
+                <AttributeCode code="depthRangeMinimumValue" numeric="3"/>
+                <AttributeCode code="depthRangeMaximumValue" numeric="4"/>
+                <AttributeCode code="marksNavigationalSystemOf" numeric="5"/>
+                <AttributeCode code="categoryOfTemporalVariation" numeric="6"/>
+                <AttributeCode code="dataAssessment" numeric="7"/>
+                <AttributeCode code="featuresDetected" numeric="8"/>
+                <AttributeCode code="leastDepthOfDetectedFeaturesMeasured" numeric="9"/>
+                <AttributeCode code="significantFeaturesDetected" numeric="10"/>
+                <AttributeCode code="fullSeafloorCoverageAchieved" numeric="11"/>
+                <AttributeCode code="zoneOfConfidence" numeric="12"/>
+                <AttributeCode code="categoryOfZoneOfConfidenceInData" numeric="13"/>
+                <AttributeCode code="horizontalPositionUncertainty" numeric="14"/>
+                <AttributeCode code="uncertaintyFixed" numeric="15"/>
+                <AttributeCode code="uncertaintyVariableFactor" numeric="16"/>
+                <AttributeCode code="verticalUncertainty" numeric="17"/>
+                <AttributeCode code="surveyDateRange" numeric="18"/>
+                <AttributeCode code="dateStart" numeric="19"/>
+                <AttributeCode code="dateEnd" numeric="20"/>
+                <AttributeCode code="valueOfDepthContour" numeric="21"/>
+                <AttributeCode code="featureName" numeric="22"/>
+                <AttributeCode code="name" numeric="23"/>
+                <AttributeCode code="displayName" numeric="24"/>
+            </AttributeCodes>
+            <InformationTypeCodes/>
+            <FeatureTypeCodes>
+                <FeatureTypeCode code="DataCoverage" numeric="1"/>
+                <FeatureTypeCode code="DepthArea" numeric="2"/>
+                <FeatureTypeCode code="NavigationalSystemOfMarks" numeric="3"/>
+                <FeatureTypeCode code="QualityOfBathymetricData" numeric="4"/>
+                <FeatureTypeCode code="DepthContour" numeric="5"/>
+                <FeatureTypeCode code="DredgedArea" numeric="6"/>
+                <FeatureTypeCode code="FloatingDock" numeric="7"/>
+                <FeatureTypeCode code="Hulk" numeric="8"/>
+                <FeatureTypeCode code="LandArea" numeric="9"/>
+                <FeatureTypeCode code="Coastline" numeric="10"/>
+                <FeatureTypeCode code="Pontoon" numeric="11"/>
+                <FeatureTypeCode code="UnsurveyedArea" numeric="12"/>
+                <FeatureTypeCode code="ShorelineConstruction" numeric="13"/>
+            </FeatureTypeCodes>
+            <InformationAssociationCodes/>
+            <FeatureAssociationCodes/>
+            <AssociationRoleCodes/>
+        </DataSetIdentification>
+    </DatasetGeneralInformation>
+    <DatasetCoordinateReferenceSystems>
+        <CoordinateReferenceSystemRecordIdentifier NumberOfCRSComponents="3" rcid="1" rcnm="15">
+            <CoordinateReferenceSystemHeader crsIdentifier="4326" ellipsoidal="true" identifier="1" name="WGS84" source="EPSG" sourceInfo="" vertical="true"/>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" identifier="2" name="Depth - approximate lowest astronomical tide" source="Not Applicable" sourceInfo="" vertical="false">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Metre"/>
+                <VerticalDatum identifier="10" name="approximate lowest astronomical tide" source="2"/>
+            </CoordinateReferenceSystemHeader>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" identifier="3" name="Heights - mean sea level" source="Not Applicable" sourceInfo="" vertical="false">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Metre"/>
+                <VerticalDatum identifier="3" name="mean sea level" source="2"/>
+            </CoordinateReferenceSystemHeader>
+        </CoordinateReferenceSystemRecordIdentifier>
+    </DatasetCoordinateReferenceSystems>
+    <Informations/>
+    <FeatureTypes>
+        <FeatureRecord>
+            <Identifier featureType="DataCoverage" rcid="257" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_584257030_624</Foid>
+            <SimpleAttribute atin="insert" index="1" type="maximumDisplayScale" value="45000"/>
+            <SimpleAttribute atin="insert" index="1" type="minimumDisplayScale" value="180000"/>
+            <Surface ornt="forward" rrid="257" saui="insert"/>
+            <Masks>
+                <Curve indicator="truncated" muin="insert" rrid="1"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthArea" rcid="270" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_184255367_635</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value="50"/>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMaximumValue" value="100"/>
+            <Surface ornt="forward" rrid="270" saui="insert"/>
+            <Masks>
+                <Curve indicator="truncated" muin="insert" rrid="1"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="NavigationalSystemOfMarks" rcid="271" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-1092288395_625</Foid>
+            <SimpleAttribute atin="insert" index="1" type="marksNavigationalSystemOf" value="9"/>
+            <Surface ornt="forward" rrid="271" saui="insert"/>
+            <Masks>
+                <Curve indicator="truncated" muin="insert" rrid="1"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="QualityOfBathymetricData" rcid="272" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_975699126_626</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfTemporalVariation" value="5"/>
+            <SimpleAttribute atin="insert" index="1" type="dataAssessment" value="1"/>
+            <ComplexAttribute atin="insert" index="1" type="featuresDetected">
+                <SimpleAttribute atin="insert" index="1" type="leastDepthOfDetectedFeaturesMeasured" value="true"/>
+                <SimpleAttribute atin="insert" index="1" type="significantFeaturesDetected" value=""/>
+            </ComplexAttribute>
+            <SimpleAttribute atin="insert" index="1" type="fullSeafloorCoverageAchieved" value="true"/>
+            <ComplexAttribute atin="insert" index="1" type="zoneOfConfidence">
+                <SimpleAttribute atin="insert" index="1" type="categoryOfZoneOfConfidenceInData" value="1"/>
+                <ComplexAttribute atin="insert" index="1" type="horizontalPositionUncertainty">
+                    <SimpleAttribute atin="insert" index="1" type="uncertaintyFixed" value="5"/>
+                    <SimpleAttribute atin="insert" index="1" type="uncertaintyVariableFactor" value="0.05"/>
+                </ComplexAttribute>
+                <ComplexAttribute atin="insert" index="1" type="verticalUncertainty">
+                    <SimpleAttribute atin="insert" index="1" type="uncertaintyFixed" value="0.05"/>
+                    <SimpleAttribute atin="insert" index="1" type="uncertaintyVariableFactor" value="0.01"/>
+                </ComplexAttribute>
+            </ComplexAttribute>
+            <ComplexAttribute atin="insert" index="1" type="surveyDateRange">
+                <SimpleAttribute atin="insert" index="1" type="dateStart" value=""/>
+                <SimpleAttribute atin="insert" index="1" type="dateEnd" value=""/>
+            </ComplexAttribute>
+            <Surface ornt="forward" rrid="272" saui="insert"/>
+            <Masks>
+                <Curve indicator="truncated" muin="insert" rrid="1"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthArea" rcid="273" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-1461814816_636</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value="10"/>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMaximumValue" value="30"/>
+            <Surface ornt="forward" rrid="273" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthContour" rcid="274" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-893631817_637</Foid>
+            <SimpleAttribute atin="insert" index="1" type="valueOfDepthContour" value="30"/>
+            <Curve ornt="forward" rrid="23" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DredgedArea" rcid="275" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_1657654496_638</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value="12"/>
+            <Surface ornt="forward" rrid="275" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="FloatingDock" rcid="276" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_1122638458_639</Foid>
+            <Surface ornt="forward" rrid="276" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="FloatingDock" rcid="277" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_718967117_640</Foid>
+            <Curve ornt="forward" rrid="3" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Hulk" rcid="278" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-1637120386_641</Foid>
+            <Surface ornt="forward" rrid="278" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Hulk" rcid="279" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_1909916709_642</Foid>
+            <Point rrid="5" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="LandArea" rcid="280" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-133865712_643</Foid>
+            <ComplexAttribute atin="insert" index="1" type="featureName">
+                <SimpleAttribute atin="insert" index="1" type="name" value="Second Point"/>
+                <SimpleAttribute atin="insert" index="1" type="displayName" value="true"/>
+            </ComplexAttribute>
+            <Point rrid="6" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="LandArea" rcid="281" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-1236763291_644</Foid>
+            <ComplexAttribute atin="insert" index="1" type="featureName">
+                <SimpleAttribute atin="insert" index="1" type="name" value="Second Istmus"/>
+                <SimpleAttribute atin="insert" index="1" type="displayName" value="true"/>
+            </ComplexAttribute>
+            <Curve ornt="forward" rrid="7" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Coastline" rcid="282" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_1006184144_645</Foid>
+            <Curve ornt="forward" rrid="9" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Coastline" rcid="283" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_1996754559_646</Foid>
+            <Curve ornt="forward" rrid="10" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="LandArea" rcid="284" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-1683522840_647</Foid>
+            <Surface ornt="forward" rrid="284" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="LandArea" rcid="285" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_238878791_648</Foid>
+            <Surface ornt="forward" rrid="285" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="LandArea" rcid="286" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_2040961437_649</Foid>
+            <ComplexAttribute atin="insert" index="1" type="featureName">
+                <SimpleAttribute atin="insert" index="1" type="name" value="Rectangular Island"/>
+                <SimpleAttribute atin="insert" index="1" type="displayName" value="true"/>
+            </ComplexAttribute>
+            <Surface ornt="forward" rrid="286" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Coastline" rcid="287" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-872515609_650</Foid>
+            <Curve ornt="forward" rrid="11" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Pontoon" rcid="288" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-1066760697_651</Foid>
+            <Surface ornt="forward" rrid="288" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Pontoon" rcid="289" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_828324762_652</Foid>
+            <Curve ornt="forward" rrid="13" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="UnsurveyedArea" rcid="290" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-421295355_653</Foid>
+            <Surface ornt="forward" rrid="290" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ShorelineConstruction" rcid="291" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-516434521_654</Foid>
+            <Surface ornt="forward" rrid="291" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ShorelineConstruction" rcid="292" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_991077053_655</Foid>
+            <Curve ornt="forward" rrid="16" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ShorelineConstruction" rcid="293" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-861497538_656</Foid>
+            <Point rrid="7" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DredgedArea" rcid="294" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-1522614708_630</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value="5"/>
+            <Surface ornt="forward" rrid="294" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthContour" rcid="295" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-530503243_631</Foid>
+            <SimpleAttribute atin="insert" index="1" type="valueOfDepthContour" value="30"/>
+            <Curve ornt="forward" rrid="5" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DredgedArea" rcid="296" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_180582598_632</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value="42"/>
+            <Surface ornt="forward" rrid="296" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthContour" rcid="297" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_1905043666_633</Foid>
+            <SimpleAttribute atin="insert" index="1" type="valueOfDepthContour" value="30"/>
+            <Curve ornt="forward" rrid="18" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="UnsurveyedArea" rcid="298" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_2040961438_2</Foid>
+            <Surface ornt="forward" rrid="276" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="UnsurveyedArea" rcid="299" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_2040961439_2</Foid>
+            <Surface ornt="forward" rrid="278" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="UnsurveyedArea" rcid="300" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_2040961440_2</Foid>
+            <Surface ornt="forward" rrid="288" saui="insert"/>
+        </FeatureRecord>
+    </FeatureTypes>
+</Dataset>

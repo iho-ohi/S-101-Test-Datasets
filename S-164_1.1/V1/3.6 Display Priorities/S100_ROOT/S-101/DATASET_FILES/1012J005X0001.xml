@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Dataset>
+    <DatasetGeneralInformation>
+        <DataSetIdentification>
+            <!--RecordName-->
+            <rcnm>10</rcnm>
+            <!--RecordIdentifier-->
+            <rcid>1</rcid>
+            <!--Encoding Specification-->
+            <ensp>S-100 Part 10a</ensp>
+            <!--Encoding Specification Edition-->
+            <ened>1.1</ened>
+            <!--Product Identifier-->
+            <prsp>INT.IHO.S-101.1.1.0</prsp>
+            <!--Product Edition-->
+            <pred>1.1.0</pred>
+            <!--Application Profile-->
+            <prof>1</prof>
+            <!--Dataset File Identifier-->
+            <dsnm>1012J005X0001.000</dsnm>
+            <!--Dataset Title-->
+            <dstl>Converted using GEOMOD Converter</dstl>
+            <!--Dataset Reference Date-->
+            <dsrd>20201218</dsrd>
+            <!--Dataset Language-->
+            <dslg>EN</dslg>
+            <!--Dataset Edition-->
+            <dsed>1.0</dsed>
+            <!--Dataset Topic Category-->
+            <dstc>14 18</dstc>
+            <DatasetStructureInformation>
+                <!--Dataset Coordinate Origin X-->
+                <dcox>0.0</dcox>
+                <!--Dataset Coordinate Origin Y-->
+                <dcoy>0.0</dcoy>
+                <!--Dataset Coordinate Origin Z-->
+                <dcoz>0.0</dcoz>
+                <!--Coordinate Multiplication Factor for X-->
+                <cmfx>10000000</cmfx>
+                <!--Coordinate Multiplication Factor for Y-->
+                <cmfy>10000000</cmfy>
+                <!--Coordinate Multiplication Factor for Z-->
+                <cmfz>100</cmfz>
+                <!--Number of Information Type records-->
+                <noir>4</noir>
+                <!--Number of Point records-->
+                <nopn>178</nopn>
+                <!--Number of Multi Point records-->
+                <nomn>0</nomn>
+                <!--Number of Curve records-->
+                <nocn>154</nocn>
+                <!--Number of Composite Curve records-->
+                <noxn>55</noxn>
+                <!--Number of Surface records-->
+                <nosn>75</nosn>
+                <!--Number of Feature Type records-->
+                <nofr>136</nofr>
+            </DatasetStructureInformation>
+            <AttributeCodes>
+                <AttributeCode code="categoryOfMooringWarpingFacility" numeric="1"/>
+                <AttributeCode code="categoryOfFerry" numeric="2"/>
+                <AttributeCode code="radarConspicuous" numeric="3"/>
+                <AttributeCode code="restriction" numeric="4"/>
+                <AttributeCode code="waterLevelEffect" numeric="5"/>
+                <AttributeCode code="valueOfSounding" numeric="6"/>
+                <AttributeCode code="surroundingDepth" numeric="7"/>
+                <AttributeCode code="defaultClearanceDepth" numeric="8"/>
+                <AttributeCode code="categoryOfRestrictedArea" numeric="9"/>
+                <AttributeCode code="categoryOfDam" numeric="10"/>
+                <AttributeCode code="depthRangeMinimumValue" numeric="11"/>
+                <AttributeCode code="depthRangeMaximumValue" numeric="12"/>
+                <AttributeCode code="categoryOfTemporalVariation" numeric="13"/>
+                <AttributeCode code="dataAssessment" numeric="14"/>
+                <AttributeCode code="featuresDetected" numeric="15"/>
+                <AttributeCode code="significantFeaturesDetected" numeric="16"/>
+                <AttributeCode code="sizeOfFeaturesDetected" numeric="17"/>
+                <AttributeCode code="leastDepthOfDetectedFeaturesMeasured" numeric="18"/>
+                <AttributeCode code="fullSeafloorCoverageAchieved" numeric="19"/>
+                <AttributeCode code="surveyDateRange" numeric="20"/>
+                <AttributeCode code="dateStart" numeric="21"/>
+                <AttributeCode code="dateEnd" numeric="22"/>
+                <AttributeCode code="zoneOfConfidence" numeric="23"/>
+                <AttributeCode code="horizontalPositionUncertainty" numeric="24"/>
+                <AttributeCode code="uncertaintyFixed" numeric="25"/>
+                <AttributeCode code="uncertaintyVariableFactor" numeric="26"/>
+                <AttributeCode code="fixedDateRange" numeric="27"/>
+                <AttributeCode code="verticalUncertainty" numeric="28"/>
+                <AttributeCode code="categoryOfZoneOfConfidenceInData" numeric="29"/>
+                <AttributeCode code="inTheWater" numeric="30"/>
+                <AttributeCode code="nationality" numeric="31"/>
+                <AttributeCode code="categoryOfSignalStationTraffic" numeric="32"/>
+                <AttributeCode code="visualProminence" numeric="33"/>
+                <AttributeCode code="orientationValue" numeric="34"/>
+                <AttributeCode code="trafficFlow" numeric="35"/>
+                <AttributeCode code="categoryOfSmallCraftFacility" numeric="36"/>
+                <AttributeCode code="categoryOfPylon" numeric="37"/>
+                <AttributeCode code="categoryOfFogSignal" numeric="38"/>
+                <AttributeCode code="categoryOfLandmark" numeric="39"/>
+                <AttributeCode code="beaconShape" numeric="40"/>
+                <AttributeCode code="categoryOfCardinalMark" numeric="41"/>
+                <AttributeCode code="colour" numeric="42"/>
+                <AttributeCode code="topmark" numeric="43"/>
+                <AttributeCode code="topmarkDaymarkShape" numeric="44"/>
+                <AttributeCode code="verticalClearanceFixed" numeric="45"/>
+                <AttributeCode code="verticalClearanceValue" numeric="46"/>
+                <AttributeCode code="featureName" numeric="47"/>
+                <AttributeCode code="name" numeric="48"/>
+                <AttributeCode code="displayName" numeric="49"/>
+                <AttributeCode code="categoryOfLandRegion" numeric="50"/>
+                <AttributeCode code="buoyShape" numeric="51"/>
+                <AttributeCode code="categoryOfSpecialPurposeMark" numeric="52"/>
+                <AttributeCode code="maximumDisplayScale" numeric="53"/>
+                <AttributeCode code="minimumDisplayScale" numeric="54"/>
+                <AttributeCode code="jurisdiction" numeric="55"/>
+                <AttributeCode code="information" numeric="56"/>
+                <AttributeCode code="text" numeric="57"/>
+                <AttributeCode code="language" numeric="58"/>
+            </AttributeCodes>
+            <InformationTypeCodes>
+                <InformationTypeCode code="NauticalInformation" numeric="1"/>
+            </InformationTypeCodes>
+            <FeatureTypeCodes>
+                <FeatureTypeCode code="MooringWarpingFacility" numeric="1"/>
+                <FeatureTypeCode code="FerryRoute" numeric="2"/>
+                <FeatureTypeCode code="CableOverhead" numeric="3"/>
+                <FeatureTypeCode code="AirportAirfield" numeric="4"/>
+                <FeatureTypeCode code="ArchipelagicSeaLane" numeric="5"/>
+                <FeatureTypeCode code="RestrictedAreaRegulatory" numeric="6"/>
+                <FeatureTypeCode code="Obstruction" numeric="7"/>
+                <FeatureTypeCode code="RestrictedAreaNavigational" numeric="8"/>
+                <FeatureTypeCode code="Dam" numeric="9"/>
+                <FeatureTypeCode code="DepthArea" numeric="10"/>
+                <FeatureTypeCode code="QualityOfBathymetricData" numeric="11"/>
+                <FeatureTypeCode code="Sandwave" numeric="12"/>
+                <FeatureTypeCode code="UnsurveyedArea" numeric="13"/>
+                <FeatureTypeCode code="FortifiedStructure" numeric="14"/>
+                <FeatureTypeCode code="ArchipelagicSeaLaneAxis" numeric="15"/>
+                <FeatureTypeCode code="Hulk" numeric="16"/>
+                <FeatureTypeCode code="SignalStationTraffic" numeric="17"/>
+                <FeatureTypeCode code="Retroreflector" numeric="18"/>
+                <FeatureTypeCode code="Building" numeric="19"/>
+                <FeatureTypeCode code="BuiltUpArea" numeric="20"/>
+                <FeatureTypeCode code="TwoWayRoutePart" numeric="21"/>
+                <FeatureTypeCode code="Gridiron" numeric="22"/>
+                <FeatureTypeCode code="SmallCraftFacility" numeric="23"/>
+                <FeatureTypeCode code="PylonBridgeSupport" numeric="24"/>
+                <FeatureTypeCode code="FogSignal" numeric="25"/>
+                <FeatureTypeCode code="FishingFacility" numeric="26"/>
+                <FeatureTypeCode code="DredgedArea" numeric="27"/>
+                <FeatureTypeCode code="Landmark" numeric="28"/>
+                <FeatureTypeCode code="BeaconCardinal" numeric="29"/>
+                <FeatureTypeCode code="FloatingDock" numeric="30"/>
+                <FeatureTypeCode code="Dyke" numeric="31"/>
+                <FeatureTypeCode code="SpanFixed" numeric="32"/>
+                <FeatureTypeCode code="LogPond" numeric="33"/>
+                <FeatureTypeCode code="DockArea" numeric="34"/>
+                <FeatureTypeCode code="Causeway" numeric="35"/>
+                <FeatureTypeCode code="LandRegion" numeric="36"/>
+                <FeatureTypeCode code="BuoySpecialPurposeGeneral" numeric="37"/>
+                <FeatureTypeCode code="PipelineSubmarineOnLand" numeric="38"/>
+                <FeatureTypeCode code="Runway" numeric="39"/>
+                <FeatureTypeCode code="DataCoverage" numeric="40"/>
+                <FeatureTypeCode code="Canal" numeric="41"/>
+                <FeatureTypeCode code="AdministrationArea" numeric="42"/>
+                <FeatureTypeCode code="RadioCallingInPoint" numeric="43"/>
+                <FeatureTypeCode code="Berth" numeric="44"/>
+                <FeatureTypeCode code="RadarReflector" numeric="45"/>
+                <FeatureTypeCode code="Bridge" numeric="46"/>
+            </FeatureTypeCodes>
+            <InformationAssociationCodes>
+                <code code="AdditionalInformation" numeric="1"/>
+            </InformationAssociationCodes>
+            <FeatureAssociationCodes>
+                <FeatureAssociationCode code="StructureEquipment" numeric="1"/>
+                <FeatureAssociationCode code="BridgeAggregation" numeric="2"/>
+            </FeatureAssociationCodes>
+            <AssociationRoleCodes>
+                <roleCode code="supports" numeric="1"/>
+                <roleCode code="providesInformation" numeric="2"/>
+                <roleCode code="consistsOf" numeric="3"/>
+                <roleCode code="componentOf" numeric="4"/>
+            </AssociationRoleCodes>
+        </DataSetIdentification>
+    </DatasetGeneralInformation>
+    <DatasetCoordinateReferenceSystems>
+        <CoordinateReferenceSystemRecordIdentifier NumberOfCRSComponents="3" rcid="1" rcnm="15">
+            <CoordinateReferenceSystemHeader crsIdentifier="4326" ellipsoidal="true" identifier="1" name="WGS84" source="EPSG" sourceInfo="" vertical="true"/>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" identifier="2" name="Depth - approximate lowest astronomical tide" source="Not Applicable" sourceInfo="" vertical="false">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Metre"/>
+                <VerticalDatum identifier="10" name="approximate lowest astronomical tide" source="2"/>
+            </CoordinateReferenceSystemHeader>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" identifier="3" name="Heights - mean sea level" source="Not Applicable" sourceInfo="" vertical="false">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Metre"/>
+                <VerticalDatum identifier="3" name="mean sea level" source="2"/>
+            </CoordinateReferenceSystemHeader>
+        </CoordinateReferenceSystemRecordIdentifier>
+    </DatasetCoordinateReferenceSystems>
+    <Informations>
+        <InformationRecord>
+            <Identifier code="NauticalInformation" rcid="1" rcnm="150" ruin="insert" version="1"/>
+            <ComplexAttribute atin="insert" index="1" type="information">
+                <SimpleAttribute atin="insert" index="1" type="text" value="some INFORM test"/>
+            </ComplexAttribute>
+        </InformationRecord>
+        <InformationRecord>
+            <Identifier code="NauticalInformation" rcid="2" rcnm="150" ruin="insert" version="1"/>
+            <ComplexAttribute atin="insert" index="1" type="information">
+                <SimpleAttribute atin="insert" index="1" type="language" value="nor"/>
+                <SimpleAttribute atin="insert" index="1" type="text" value="тест NINFOM атрибута"/>
+            </ComplexAttribute>
+        </InformationRecord>
+        <InformationRecord>
+            <Identifier code="NauticalInformation" rcid="3" rcnm="150" ruin="insert" version="1"/>
+            <ComplexAttribute atin="insert" index="1" type="information">
+                <SimpleAttribute atin="insert" index="1" type="text" value="line INFORM test"/>
+            </ComplexAttribute>
+        </InformationRecord>
+        <InformationRecord>
+            <Identifier code="NauticalInformation" rcid="4" rcnm="150" ruin="insert" version="1"/>
+            <ComplexAttribute atin="insert" index="1" type="information">
+                <SimpleAttribute atin="insert" index="1" type="text" value="point INFORM test"/>
+            </ComplexAttribute>
+        </InformationRecord>
+    </Informations>
+    <FeatureTypes>
+        <FeatureRecord>
+            <Identifier featureType="MooringWarpingFacility" rcid="1" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_93915301_141</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfMooringWarpingFacility" value="6"/>
+            <CompositeCurve ornt="forward" rrid="1" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="FerryRoute" rcid="2" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-224053302_139</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfFerry" value=""/>
+            <CompositeCurve ornt="forward" rrid="2" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="FerryRoute" rcid="3" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_870382488_138</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfFerry" value=""/>
+            <CompositeCurve ornt="forward" rrid="3" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="FerryRoute" rcid="4" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1414740596_137</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfFerry" value=""/>
+            <CompositeCurve ornt="forward" rrid="4" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="CableOverhead" rcid="5" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1887545127_128</Foid>
+            <SimpleAttribute atin="insert" index="1" type="radarConspicuous" value="false"/>
+            <Curve ornt="forward" rrid="12" saui="insert"/>
+            <FeatureAssociation faui="insert" featureType="RadarReflector" role="supports" rrid="194" type="StructureEquipment"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="AirportAirfield" rcid="12" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_378354365_204</Foid>
+            <Surface ornt="forward" rrid="12" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ArchipelagicSeaLane" rcid="13" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1308738502_205</Foid>
+            <Surface ornt="forward" rrid="13" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="RestrictedAreaRegulatory" rcid="14" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-961180059_198</Foid>
+            <SimpleAttribute atin="insert" index="1" type="restriction" value="15"/>
+            <Surface ornt="forward" rrid="14" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="RestrictedAreaRegulatory" rcid="15" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1674643369_199</Foid>
+            <SimpleAttribute atin="insert" index="1" type="restriction" value="22"/>
+            <Surface ornt="forward" rrid="15" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Obstruction" rcid="16" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1114226187_200</Foid>
+            <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="3"/>
+            <SimpleAttribute atin="insert" index="1" type="valueOfSounding" value="100"/>
+            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="100"/>
+            <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="100"/>
+            <Surface ornt="forward" rrid="16" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="RestrictedAreaNavigational" rcid="17" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1926433719_202</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfRestrictedArea" value="28"/>
+            <SimpleAttribute atin="insert" index="1" type="restriction" value=""/>
+            <Surface ornt="forward" rrid="17" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Dam" rcid="18" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_887360267_203</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfDam" value="3"/>
+            <Surface ornt="forward" rrid="18" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthArea" rcid="19" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_551762187_218</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value="0"/>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMaximumValue" value="5"/>
+            <Surface ornt="forward" rrid="19" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="QualityOfBathymetricData" rcid="20" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_182103546_67</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfTemporalVariation" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="dataAssessment" value=""/>
+            <ComplexAttribute atin="insert" index="1" type="featuresDetected">
+                <SimpleAttribute atin="insert" index="1" type="significantFeaturesDetected" value=""/>
+                <SimpleAttribute atin="insert" index="1" type="sizeOfFeaturesDetected" value=""/>
+                <SimpleAttribute atin="insert" index="1" type="leastDepthOfDetectedFeaturesMeasured" value=""/>
+            </ComplexAttribute>
+            <SimpleAttribute atin="insert" index="1" type="fullSeafloorCoverageAchieved" value=""/>
+            <ComplexAttribute atin="insert" index="1" type="surveyDateRange">
+                <SimpleAttribute atin="insert" index="1" type="dateStart" value=""/>
+                <SimpleAttribute atin="insert" index="1" type="dateEnd" value=""/>
+            </ComplexAttribute>
+            <ComplexAttribute atin="insert" index="1" type="zoneOfConfidence">
+                <ComplexAttribute atin="insert" index="1" type="horizontalPositionUncertainty">
+                    <SimpleAttribute atin="insert" index="1" type="uncertaintyFixed" value=""/>
+                    <SimpleAttribute atin="insert" index="1" type="uncertaintyVariableFactor" value=""/>
+                </ComplexAttribute>
+                <ComplexAttribute atin="insert" index="1" type="fixedDateRange">
+                    <SimpleAttribute atin="insert" index="1" type="dateStart" value=""/>
+                    <SimpleAttribute atin="insert" index="1" type="dateEnd" value=""/>
+                </ComplexAttribute>
+                <ComplexAttribute atin="insert" index="1" type="verticalUncertainty">
+                    <SimpleAttribute atin="insert" index="1" type="uncertaintyFixed" value=""/>
+                    <SimpleAttribute atin="insert" index="1" type="uncertaintyVariableFactor" value=""/>
+                </ComplexAttribute>
+                <SimpleAttribute atin="insert" index="1" type="categoryOfZoneOfConfidenceInData" value=""/>
+            </ComplexAttribute>
+            <Surface ornt="forward" rrid="20" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sandwave" rcid="21" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1574236731_159</Foid>
+            <Surface ornt="forward" rrid="21" saui="insert"/>
+            <Masks>
+                <Curve indicator="suppress" muin="insert" rrid="40"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sandwave" rcid="22" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_455656717_158</Foid>
+            <Surface ornt="forward" rrid="22" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sandwave" rcid="23" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1313092292_157</Foid>
+            <Surface ornt="forward" rrid="23" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="UnsurveyedArea" rcid="24" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_750835054_156</Foid>
+            <Surface ornt="forward" rrid="24" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="MooringWarpingFacility" rcid="25" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-281580051_143</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfMooringWarpingFacility" value="4"/>
+            <CompositeCurve ornt="forward" rrid="25" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="FortifiedStructure" rcid="26" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1452180699_144</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <CompositeCurve ornt="forward" rrid="26" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="FortifiedStructure" rcid="27" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-835027037_145</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <CompositeCurve ornt="forward" rrid="27" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="FortifiedStructure" rcid="28" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-2032709641_146</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <CompositeCurve ornt="forward" rrid="28" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ArchipelagicSeaLaneAxis" rcid="29" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_2004025212_99</Foid>
+            <SimpleAttribute atin="insert" index="1" type="nationality" value=""/>
+            <Curve ornt="forward" rrid="59" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ArchipelagicSeaLaneAxis" rcid="30" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_232932118_250</Foid>
+            <SimpleAttribute atin="insert" index="1" type="nationality" value=""/>
+            <CompositeCurve ornt="forward" rrid="30" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Hulk" rcid="31" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-2011394897_85</Foid>
+            <Point rrid="1" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="SignalStationTraffic" rcid="35" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1941310507_86</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfSignalStationTraffic" value=""/>
+            <Point rrid="1" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="FerryRoute" rcid="47" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_849226880_140</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfFerry" value=""/>
+            <Surface ornt="forward" rrid="47" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Retroreflector" rcid="49" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1447506565_96</Foid>
+            <Point rrid="110" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="SignalStationTraffic" rcid="50" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_705298952_83</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfSignalStationTraffic" value=""/>
+            <Point rrid="17" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Hulk" rcid="55" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_119919981_98</Foid>
+            <Point rrid="156" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Building" rcid="56" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1214072835_84</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Point rrid="17" saui="insert"/>
+            <FeatureAssociation faui="insert" featureType="SignalStationTraffic" role="supports" rrid="50" type="StructureEquipment"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Building" rcid="57" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-379455776_82</Foid>
+            <SimpleAttribute atin="insert" index="1" type="visualProminence" value="1"/>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Point rrid="168" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Building" rcid="58" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1043749885_81</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Point rrid="172" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Building" rcid="59" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_179443430_80</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Point rrid="175" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="BuiltUpArea" rcid="60" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-555591129_72</Foid>
+            <Point rrid="22" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Dam" rcid="61" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1823451050_97</Foid>
+            <CompositeCurve ornt="forward" rrid="61" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="TwoWayRoutePart" rcid="62" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1000794074_151</Foid>
+            <SimpleAttribute atin="insert" index="1" type="orientationValue" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="trafficFlow" value=""/>
+            <Surface ornt="forward" rrid="62" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Gridiron" rcid="63" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_274346536_149</Foid>
+            <Surface ornt="forward" rrid="63" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Gridiron" rcid="64" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1120022517_148</Foid>
+            <Surface ornt="forward" rrid="64" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Gridiron" rcid="65" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1946561177_147</Foid>
+            <Surface ornt="forward" rrid="65" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="SmallCraftFacility" rcid="66" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1556049387_127</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfSmallCraftFacility" value=""/>
+            <Surface ornt="forward" rrid="66" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="PylonBridgeSupport" rcid="67" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1920322499_126</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfPylon" value=""/>
+            <Surface ornt="forward" rrid="67" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Hulk" rcid="68" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1913394550_100</Foid>
+            <Surface ornt="forward" rrid="68" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Building" rcid="69" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1622519953_88</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Surface ornt="forward" rrid="69" saui="insert"/>
+            <Masks>
+                <Curve indicator="suppress" muin="insert" rrid="73"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Building" rcid="70" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_890921453_87</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Surface ornt="forward" rrid="70" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Dam" rcid="71" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-433739137_77</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfDam" value="3"/>
+            <Surface ornt="forward" rrid="71" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Dam" rcid="72" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1112032888_76</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfDam" value="3"/>
+            <Surface ornt="forward" rrid="72" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="FogSignal" rcid="75" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_231185910_95</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfFogSignal" value=""/>
+            <Point rrid="200" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="SignalStationTraffic" rcid="77" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_954071816_129</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfSignalStationTraffic" value=""/>
+            <Point rrid="26" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="MooringWarpingFacility" rcid="78" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1881535925_130</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfMooringWarpingFacility" value="7"/>
+            <Point rrid="26" saui="insert"/>
+            <FeatureAssociation faui="insert" featureType="SignalStationTraffic" role="supports" rrid="77" type="StructureEquipment"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="BuiltUpArea" rcid="79" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-835673845_225</Foid>
+            <Surface ornt="forward" rrid="79" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="TwoWayRoutePart" rcid="80" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-144651075_233</Foid>
+            <SimpleAttribute atin="insert" index="1" type="orientationValue" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="trafficFlow" value=""/>
+            <Surface ornt="forward" rrid="80" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="FishingFacility" rcid="81" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_932544994_224</Foid>
+            <Surface ornt="forward" rrid="81" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Building" rcid="82" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1368472413_226</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Surface ornt="forward" rrid="82" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ArchipelagicSeaLane" rcid="83" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_574029074_181</Foid>
+            <Surface ornt="forward" rrid="83" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ArchipelagicSeaLane" rcid="84" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_935297124_180</Foid>
+            <Surface ornt="forward" rrid="84" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ArchipelagicSeaLane" rcid="85" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1711706372_178</Foid>
+            <Surface ornt="forward" rrid="85" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ArchipelagicSeaLane" rcid="86" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-795673482_182</Foid>
+            <Surface ornt="forward" rrid="86" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ArchipelagicSeaLane" rcid="87" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1749951580_179</Foid>
+            <Surface ornt="forward" rrid="87" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ArchipelagicSeaLane" rcid="88" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-798942566_222</Foid>
+            <Surface ornt="forward" rrid="88" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="TwoWayRoutePart" rcid="89" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1102462022_197</Foid>
+            <SimpleAttribute atin="insert" index="1" type="orientationValue" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="trafficFlow" value=""/>
+            <Surface ornt="forward" rrid="89" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="TwoWayRoutePart" rcid="90" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-761472830_196</Foid>
+            <SimpleAttribute atin="insert" index="1" type="orientationValue" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="trafficFlow" value=""/>
+            <Surface ornt="forward" rrid="90" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="TwoWayRoutePart" rcid="91" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1619360739_195</Foid>
+            <SimpleAttribute atin="insert" index="1" type="orientationValue" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="trafficFlow" value=""/>
+            <Surface ornt="forward" rrid="91" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="TwoWayRoutePart" rcid="92" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_2085752255_193</Foid>
+            <SimpleAttribute atin="insert" index="1" type="orientationValue" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="trafficFlow" value=""/>
+            <Surface ornt="forward" rrid="92" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="TwoWayRoutePart" rcid="93" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1715924645_191</Foid>
+            <SimpleAttribute atin="insert" index="1" type="orientationValue" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="trafficFlow" value=""/>
+            <Surface ornt="forward" rrid="93" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="TwoWayRoutePart" rcid="94" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-757024708_188</Foid>
+            <SimpleAttribute atin="insert" index="1" type="orientationValue" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="trafficFlow" value=""/>
+            <Surface ornt="forward" rrid="94" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Obstruction" rcid="95" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1410967367_187</Foid>
+            <SimpleAttribute atin="insert" index="1" type="valueOfSounding" value="2"/>
+            <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="4"/>
+            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="100"/>
+            <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="2"/>
+            <Surface ornt="forward" rrid="95" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="RestrictedAreaRegulatory" rcid="96" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-377315855_186</Foid>
+            <SimpleAttribute atin="insert" index="1" type="restriction" value="17"/>
+            <Surface ornt="forward" rrid="96" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="RestrictedAreaRegulatory" rcid="97" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1632781027_185</Foid>
+            <SimpleAttribute atin="insert" index="1" type="restriction" value="6"/>
+            <Surface ornt="forward" rrid="97" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="RestrictedAreaNavigational" rcid="98" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_8633134_184</Foid>
+            <SimpleAttribute atin="insert" index="1" type="restriction" value="2"/>
+            <Surface ornt="forward" rrid="98" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="RestrictedAreaNavigational" rcid="99" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1727206287_183</Foid>
+            <SimpleAttribute atin="insert" index="1" type="restriction" value="8"/>
+            <Surface ornt="forward" rrid="99" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DredgedArea" rcid="100" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1053153153_177</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value="50"/>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMaximumValue" value="100"/>
+            <Surface ornt="forward" rrid="100" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="UnsurveyedArea" rcid="101" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1861572269_189</Foid>
+            <Surface ornt="forward" rrid="101" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DredgedArea" rcid="102" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1299263995_190</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value=""/>
+            <Surface ornt="forward" rrid="102" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="RestrictedAreaNavigational" rcid="103" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1725976390_192</Foid>
+            <SimpleAttribute atin="insert" index="1" type="restriction" value=""/>
+            <Surface ornt="forward" rrid="103" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="RestrictedAreaRegulatory" rcid="104" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1017462045_194</Foid>
+            <SimpleAttribute atin="insert" index="1" type="restriction" value="9"/>
+            <Surface ornt="forward" rrid="104" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Landmark" rcid="105" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-445982427_131</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfLandmark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="visualProminence" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="1" rrnm="150"/>
+            <Curve ornt="forward" rrid="112" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Landmark" rcid="106" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-2025181912_132</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfLandmark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="visualProminence" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="2" rrnm="150"/>
+            <Curve ornt="forward" rrid="113" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Landmark" rcid="107" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1028933228_245</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfLandmark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="visualProminence" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="3" rrnm="150"/>
+            <Curve ornt="forward" rrid="114" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ArchipelagicSeaLaneAxis" rcid="108" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-491902050_248</Foid>
+            <SimpleAttribute atin="insert" index="1" type="nationality" value=""/>
+            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="3" rrnm="150"/>
+            <Curve ornt="forward" rrid="115" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="BeaconCardinal" rcid="109" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1720768629_170</Foid>
+            <SimpleAttribute atin="insert" index="1" type="beaconShape" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfCardinalMark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="colour" value=""/>
+            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="4" rrnm="150"/>
+            <Point rrid="27" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="BeaconCardinal" rcid="110" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1543341697_171</Foid>
+            <SimpleAttribute atin="insert" index="1" type="beaconShape" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfCardinalMark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="colour" value=""/>
+            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="2" rrnm="150"/>
+            <Point rrid="28" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="BeaconCardinal" rcid="115" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_113229422_241</Foid>
+            <SimpleAttribute atin="insert" index="1" type="beaconShape" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfCardinalMark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="colour" value=""/>
+            <ComplexAttribute atin="insert" index="1" type="topmark">
+                <SimpleAttribute atin="insert" index="1" type="topmarkDaymarkShape" value="1"/>
+            </ComplexAttribute>
+            <Point rrid="33" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="BeaconCardinal" rcid="116" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1630589096_243</Foid>
+            <SimpleAttribute atin="insert" index="1" type="beaconShape" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfCardinalMark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="colour" value=""/>
+            <ComplexAttribute atin="insert" index="1" type="topmark">
+                <SimpleAttribute atin="insert" index="1" type="topmarkDaymarkShape" value="1"/>
+            </ComplexAttribute>
+            <Point rrid="34" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Building" rcid="117" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1555451920_92</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Surface ornt="forward" rrid="117" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="FloatingDock" rcid="118" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1381021573_94</Foid>
+            <CompositeCurve ornt="forward" rrid="118" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ArchipelagicSeaLaneAxis" rcid="128" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_956771951_79</Foid>
+            <SimpleAttribute atin="insert" index="1" type="nationality" value=""/>
+            <CompositeCurve ornt="forward" rrid="128" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ArchipelagicSeaLaneAxis" rcid="129" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1072950002_78</Foid>
+            <SimpleAttribute atin="insert" index="1" type="nationality" value=""/>
+            <CompositeCurve ornt="forward" rrid="129" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Dyke" rcid="130" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1493543930_75</Foid>
+            <Curve ornt="forward" rrid="133" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthArea" rcid="131" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-2014054132_175</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMaximumValue" value="200"/>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value="100"/>
+            <Surface ornt="forward" rrid="131" saui="insert"/>
+            <Masks>
+                <Curve indicator="truncated" muin="insert" rrid="134"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="SpanFixed" rcid="132" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_2007046034_166</Foid>
+            <ComplexAttribute atin="insert" index="1" type="verticalClearanceFixed">
+                <ComplexAttribute atin="insert" index="1" type="verticalUncertainty">
+                    <SimpleAttribute atin="insert" index="1" type="uncertaintyFixed" value=""/>
+                    <SimpleAttribute atin="insert" index="1" type="uncertaintyVariableFactor" value=""/>
+                </ComplexAttribute>
+                <SimpleAttribute atin="insert" index="1" type="verticalClearanceValue" value=""/>
+            </ComplexAttribute>
+            <Surface ornt="forward" rrid="132" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="LogPond" rcid="133" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-322508280_154</Foid>
+            <Surface ornt="forward" rrid="133" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="AirportAirfield" rcid="134" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_296512866_142</Foid>
+            <Surface ornt="forward" rrid="134" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DockArea" rcid="135" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-857890659_74</Foid>
+            <ComplexAttribute atin="insert" index="1" type="featureName">
+                <SimpleAttribute atin="insert" index="1" type="name" value="priority is 2"/>
+                <SimpleAttribute atin="insert" index="1" type="displayName" value="true"/>
+            </ComplexAttribute>
+            <Surface ornt="forward" rrid="135" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Causeway" rcid="136" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1712482429_231</Foid>
+            <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="4"/>
+            <Surface ornt="forward" rrid="136" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="RestrictedAreaNavigational" rcid="137" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_164770353_206</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfRestrictedArea" value="28"/>
+            <SimpleAttribute atin="insert" index="1" type="restriction" value=""/>
+            <Surface ornt="forward" rrid="137" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="TwoWayRoutePart" rcid="138" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-974445610_152</Foid>
+            <SimpleAttribute atin="insert" index="1" type="orientationValue" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="trafficFlow" value=""/>
+            <Surface ornt="forward" rrid="138" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="RestrictedAreaNavigational" rcid="139" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1769699795_153</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfRestrictedArea" value="28"/>
+            <SimpleAttribute atin="insert" index="1" type="restriction" value=""/>
+            <Surface ornt="forward" rrid="139" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="LandRegion" rcid="140" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1730730767_155</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfLandRegion" value="2"/>
+            <Surface ornt="forward" rrid="140" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Building" rcid="141" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-435077939_223</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Point rrid="35" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="MooringWarpingFacility" rcid="142" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1975644701_234</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfMooringWarpingFacility" value=""/>
+            <Point rrid="36" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="BeaconCardinal" rcid="145" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1722517604_239</Foid>
+            <SimpleAttribute atin="insert" index="1" type="beaconShape" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfCardinalMark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="colour" value=""/>
+            <ComplexAttribute atin="insert" index="1" type="topmark">
+                <SimpleAttribute atin="insert" index="1" type="topmarkDaymarkShape" value="1"/>
+            </ComplexAttribute>
+            <Point rrid="39" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="BuoySpecialPurposeGeneral" rcid="150" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_672077534_164</Foid>
+            <ComplexAttribute atin="insert" index="1" type="featureName">
+                <SimpleAttribute atin="insert" index="1" type="name" value="priority is 8"/>
+                <SimpleAttribute atin="insert" index="1" type="displayName" value="true"/>
+            </ComplexAttribute>
+            <SimpleAttribute atin="insert" index="1" type="buoyShape" value="5"/>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfSpecialPurposeMark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="colour" value=""/>
+            <Point rrid="43" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="BuiltUpArea" rcid="152" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_522083737_73</Foid>
+            <ComplexAttribute atin="insert" index="1" type="featureName">
+                <SimpleAttribute atin="insert" index="1" type="name" value="priority is 3"/>
+                <SimpleAttribute atin="insert" index="1" type="displayName" value="true"/>
+            </ComplexAttribute>
+            <Point rrid="45" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="PipelineSubmarineOnLand" rcid="153" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1558305377_232</Foid>
+            <CompositeCurve ornt="forward" rrid="153" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="FerryRoute" rcid="154" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1796503581_229</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfFerry" value=""/>
+            <CompositeCurve ornt="forward" rrid="154" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="SpanFixed" rcid="155" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-601306293_165</Foid>
+            <ComplexAttribute atin="insert" index="1" type="verticalClearanceFixed">
+                <ComplexAttribute atin="insert" index="1" type="verticalUncertainty">
+                    <SimpleAttribute atin="insert" index="1" type="uncertaintyFixed" value=""/>
+                    <SimpleAttribute atin="insert" index="1" type="uncertaintyVariableFactor" value=""/>
+                </ComplexAttribute>
+                <SimpleAttribute atin="insert" index="1" type="verticalClearanceValue" value=""/>
+            </ComplexAttribute>
+            <Curve ornt="forward" rrid="150" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Building" rcid="158" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-757732438_90</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="2" rrnm="150"/>
+            <Surface ornt="forward" rrid="158" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Building" rcid="159" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-271974495_89</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="1" rrnm="150"/>
+            <Surface ornt="forward" rrid="159" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Runway" rcid="160" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_2076831987_70</Foid>
+            <Surface ornt="forward" rrid="160" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="PylonBridgeSupport" rcid="161" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1555528997_201</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfPylon" value=""/>
+            <Surface ornt="forward" rrid="161" saui="insert"/>
+            <FeatureAssociation faui="insert" featureType="FogSignal" role="supports" rrid="75" type="StructureEquipment"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthArea" rcid="162" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_523216420_69</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMaximumValue" value="30"/>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value="0"/>
+            <Surface ornt="forward" rrid="162" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Runway" rcid="163" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-491206045_71</Foid>
+            <Surface ornt="forward" rrid="163" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DataCoverage" rcid="164" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_118082137_2</Foid>
+            <SimpleAttribute atin="insert" index="1" type="maximumDisplayScale" value="22000"/>
+            <SimpleAttribute atin="insert" index="1" type="minimumDisplayScale" value="45000"/>
+            <Surface ornt="forward" rrid="164" saui="insert"/>
+            <Masks>
+                <Curve indicator="truncated" muin="insert" rrid="134"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="AirportAirfield" rcid="165" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-731040948_168</Foid>
+            <Surface ornt="forward" rrid="165" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="AirportAirfield" rcid="166" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1834116367_169</Foid>
+            <Surface ornt="forward" rrid="166" saui="insert"/>
+            <Masks>
+                <Curve indicator="suppress" muin="insert" rrid="159"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Canal" rcid="173" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_11068_1</Foid>
+            <Curve ornt="forward" rrid="168" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Canal" rcid="174" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_11069_1</Foid>
+            <Curve ornt="forward" rrid="169" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="AdministrationArea" rcid="175" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_11101_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="jurisdiction" value=""/>
+            <Surface ornt="forward" rrid="175" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="RadioCallingInPoint" rcid="176" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_118082141_2</Foid>
+            <ComplexAttribute atin="insert" index="1" type="featureName">
+                <SimpleAttribute atin="insert" index="1" type="name" value="priority is 6&#13;&#10;"/>
+                <SimpleAttribute atin="insert" index="1" type="displayName" value="true"/>
+            </ComplexAttribute>
+            <SimpleAttribute atin="insert" index="1" type="trafficFlow" value=""/>
+            <CompositeCurve ornt="forward" rrid="176" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Berth" rcid="177" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_112540987_2</Foid>
+            <ComplexAttribute atin="insert" index="1" type="featureName">
+                <SimpleAttribute atin="insert" index="1" type="name" value="priority is 5&#13;&#10;"/>
+                <SimpleAttribute atin="insert" index="1" type="displayName" value="true"/>
+            </ComplexAttribute>
+            <CompositeCurve ornt="forward" rrid="177" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="AdministrationArea" rcid="178" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_11096_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="jurisdiction" value=""/>
+            <Surface ornt="forward" rrid="178" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="BeaconCardinal" rcid="180" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-481891928_173</Foid>
+            <SimpleAttribute atin="insert" index="1" type="beaconShape" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfCardinalMark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="colour" value=""/>
+            <Point rrid="46" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Landmark" rcid="181" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1196926037_246</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfLandmark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="visualProminence" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Curve ornt="forward" rrid="177" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Landmark" rcid="182" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-152449561_134</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfLandmark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="visualProminence" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Curve ornt="forward" rrid="178" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Landmark" rcid="183" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-722363103_135</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfLandmark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="visualProminence" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Curve ornt="forward" rrid="179" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Building" rcid="184" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_1245934390_93</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Surface ornt="forward" rrid="184" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="BeaconCardinal" rcid="185" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_416724202_174</Foid>
+            <SimpleAttribute atin="insert" index="1" type="beaconShape" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfCardinalMark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="colour" value=""/>
+            <Point rrid="47" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Landmark" rcid="186" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-712288889_133</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfLandmark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="visualProminence" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Curve ornt="forward" rrid="181" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="BeaconCardinal" rcid="187" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-356140381_172</Foid>
+            <SimpleAttribute atin="insert" index="1" type="beaconShape" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfCardinalMark" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="colour" value=""/>
+            <Point rrid="48" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Building" rcid="188" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-646485546_91</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Surface ornt="forward" rrid="188" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ArchipelagicSeaLaneAxis" rcid="190" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_-1553214161_247</Foid>
+            <SimpleAttribute atin="insert" index="1" type="nationality" value=""/>
+            <Curve ornt="forward" rrid="183" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="RadarReflector" rcid="194" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_2134293616_2</Foid>
+            <Point rrid="239" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="UnsurveyedArea" rcid="195" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_2134293617_2</Foid>
+            <Surface ornt="forward" rrid="68" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Bridge" rcid="196" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_2134293618_2</Foid>
+            <ComplexAttribute atin="insert" index="1" type="featureName">
+                <SimpleAttribute atin="insert" index="1" type="name" value="priority is 8"/>
+                <SimpleAttribute atin="insert" index="1" type="displayName" value="true"/>
+            </ComplexAttribute>
+            <FeatureAssociation faui="insert" featureType="SpanFixed" role="consistsOf" rrid="132" type="BridgeAggregation"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Bridge" rcid="197" rcnm="100" ruin="insert" version="1"/>
+            <Foid>12083_2134293619_2</Foid>
+            <ComplexAttribute atin="insert" index="1" type="featureName">
+                <SimpleAttribute atin="insert" index="1" type="name" value="priority is 8"/>
+                <SimpleAttribute atin="insert" index="1" type="displayName" value="true"/>
+            </ComplexAttribute>
+            <FeatureAssociation faui="insert" featureType="SpanFixed" role="consistsOf" rrid="155" type="BridgeAggregation"/>
+        </FeatureRecord>
+    </FeatureTypes>
+</Dataset>

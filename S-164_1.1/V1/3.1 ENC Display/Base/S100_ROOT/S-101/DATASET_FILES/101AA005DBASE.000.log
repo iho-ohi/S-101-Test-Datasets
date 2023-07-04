@@ -1,0 +1,49 @@
+2023-07-03 12:33:31,420 WARN  [S57ToS101Converter] Conversion de AA5DBASE
+2023-07-03 12:33:31,420 INFO  [AttributeConverterImpl] 540_29178716_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-07-03 12:33:31,420 INFO  [AttributeConverterImpl] 540_29178717_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-07-03 12:33:31,420 INFO  [AttributeConverterImpl] 540_29178718_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-07-03 12:33:31,420 INFO  [AttributeConverterImpl] 540_29178719_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178720_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178721_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178723_1 : Attribute type SCAMIN has been removed from the S101 feature type DepthArea
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178726_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178727_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178728_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178729_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178730_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178731_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-07-03 12:33:31,422 WARN  [S57ToS101Converter] S101 Specification : Relationship not found from Conveyor-540_29178737_1 to RadarReflector-1810_29178831_2
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178739_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-07-03 12:33:31,422 WARN  [S57ToS101Converter] S101 Specification : Relationship not found from Conveyor-540_29178742_1 to RadarReflector-1810_29178832_2
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178745_1 : Attribute type CATBRG has been removed from the S101 feature type Landmark
+2023-07-03 12:33:31,422 WARN  [S57ToS101Converter] S101 Specification : Relationship not found from Conveyor-540_29178746_1 to RadarReflector-1810_29178833_2
+2023-07-03 12:33:31,422 WARN  [S57ToS101Converter] S101 Specification : Relationship not found from Conveyor-540_29178748_1 to RadarReflector-1810_29178834_2
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178752_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178753_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178754_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178755_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178756_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178757_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178758_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178773_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178777_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value PylonBridgeSupport:categoryOfPylon=
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178783_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value IceArea:categoryOfIce=
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178792_1 : Removing a non-mandatory empty numeric value Obstruction:valueOfSounding=
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178795_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value PylonBridgeSupport:categoryOfPylon=
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178798_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value MooringWarpingFacility:categoryOfMooringWarpingFacility=
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178802_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:valueOfSounding=
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178802_1 : Setting attribute value as empty for an unexisting s101 attribute value UnderwaterAwashRock:waterLevelEffect=2
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178802_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value UnderwaterAwashRock:waterLevelEffect=
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178808_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value MooringWarpingFacility:categoryOfMooringWarpingFacility=
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178812_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178826_1 : Attribute type SCAMIN has been removed from the S101 feature type DepthArea
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178770_1 : Attribute type SCAMIN has been removed from the S101 feature type DepthArea
+2023-07-03 12:33:31,422 INFO  [AttributeConverterImpl] 540_29178825_1 : Attribute type SCAMIN has been removed from the S101 feature type DepthArea
+2023-07-03 12:33:31,422 INFO  [S57ToS101] Writing 101AA005DBASE.000 to ./data-references/dataConverted/s164/Conversion-1.1.5/3.1 ENC Display/Base/S100_ROOT/S-101/DATASET_FILES
+2023-07-03 12:33:31,451 INFO  [CheckS101] * Checking dataSet '101AA005DBASE'...
+2023-07-03 12:33:31,451 INFO  [CheckS101] ** Checking dataSet '101AA005DBASE' consistency to the dictionary...
+2023-07-03 12:33:31,451 INFO  [CheckS101] ** End of dataSet '101AA005DBASE' consistency to the dictionary check
+2023-07-03 12:33:31,451 INFO  [CheckS101] ** Checking dataSet '101AA005DBASE' group 1...
+2023-07-03 12:33:31,451 INFO  [CheckS101] *** '101AA005DBASE.000' group 1 OK
+2023-07-03 12:33:31,451 INFO  [CheckS101] ** End of dataSet '101AA005DBASE' group 1 check
+2023-07-03 12:33:31,451 INFO  [CheckS101] * End of dataSet '101AA005DBASE' check

@@ -1,0 +1,93 @@
+2023-07-03 12:33:31,481 WARN  [S57ToS101Converter] Conversion de AA5OTHER
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187658_1 : Attribute type CATSCF has been removed from the S101 feature type SmallCraftFacility
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187611_1 : Attribute type CATSCF has been removed from the S101 feature type SmallCraftFacility
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187751_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187681_1 : Attribute type CATVEG has been removed from the S101 feature type Obstruction
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187673_1 : Setting attribute value as empty for an unexisting s101 attribute value Vegetation:categoryOfVegetation=1
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187673_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Vegetation:categoryOfVegetation=
+2023-07-03 12:33:31,483 ERROR [S57ToS101Converter] 540_29187535_1 : S100 Specification - the geometric primitive P is not allowed for the feature type Rapids
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187589_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value WaterTurbulence:categoryOfWaterTurbulence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187608_1 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187608_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Wreck:waterLevelEffect=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187607_1 : Removing a non-mandatory empty numeric value Wreck:categoryOfWreck=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187607_1 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187607_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Wreck:waterLevelEffect=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187587_1 : Removing a non-mandatory empty numeric value Wreck:categoryOfWreck=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187587_1 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187587_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Wreck:waterLevelEffect=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187586_1 : Removing a non-mandatory empty numeric value Wreck:valueOfSounding=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187586_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Wreck:waterLevelEffect=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187584_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value AdministrationArea:jurisdiction=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187571_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value WaterTurbulence:categoryOfWaterTurbulence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187737_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187738_1 : Attribute type TS_TSP has been removed from the S101 feature type TidalStreamPanelData
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187752_1 : Attribute type TS_TSP has been removed from the S101 feature type TidalStreamPanelData
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187757_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value WaterTurbulence:categoryOfWaterTurbulence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187651_1 : Attribute type CATHAF has been removed from the S101 feature type HarbourFacility
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187622_1 : Attribute type CATHAF has been removed from the S101 feature type HarbourFacility
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187615_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value ProductionStorageArea:categoryOfProductionArea=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187612_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Wreck:waterLevelEffect=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187566_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187565_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187564_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187563_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187562_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187561_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187560_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187550_1 : Attribute type CATLMK has been removed from the S101 feature type Landmark
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187550_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187548_1 : Attribute type CATVEG has been removed from the S101 feature type Obstruction
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187547_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187541_1 : Attribute type CATLMK has been removed from the S101 feature type Landmark
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187541_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187559_1 : Attribute type CATLMK has been removed from the S101 feature type Landmark
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187559_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187720_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187719_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187718_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187717_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187716_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187715_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187714_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187713_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187712_1 : Attribute type CATLMK has been removed from the S101 feature type WindTurbine
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187712_1 : Removing a non-mandatory empty numeric value WindTurbine:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187711_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187721_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187722_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Landmark:visualProminence=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187736_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187735_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187734_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187734_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:orientationValue=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187734_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:categoryOfTidalStream=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187725_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187725_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:orientationValue=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187725_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:categoryOfTidalStream=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187648_1 : Attribute type CATOBS has been removed from the S101 feature type FoulGround
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187616_1 : Attribute type CATOBS has been removed from the S101 feature type FoulGround
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187583_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value Wreck:waterLevelEffect=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187749_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-07-03 12:33:31,483 INFO  [AttributeConverterImpl] 540_29187750_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-07-03 12:33:31,491 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 540_29187681_1
+2023-07-03 12:33:31,491 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 540_29187548_1
+2023-07-03 12:33:31,491 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type T_TIMS
+2023-07-03 12:33:31,491 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type T_NHMN
+2023-07-03 12:33:31,491 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type T_HMON
+2023-07-03 12:33:31,491 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type T_TIMS
+2023-07-03 12:33:31,491 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type T_NHMN
+2023-07-03 12:33:31,491 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type T_HMON
+2023-07-03 12:33:31,491 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PNH
+2023-07-03 12:33:31,491 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PRH
+2023-07-03 12:33:31,491 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PNH
+2023-07-03 12:33:31,491 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PRH
+2023-07-03 12:33:31,491 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type CTRPNT
+2023-07-03 12:33:31,491 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_TIS
+2023-07-03 12:33:31,491 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_TIS
+2023-07-03 12:33:31,491 INFO  [S57ToS101] Writing 101AA005OTHER.000 to ./data-references/dataConverted/s164/Conversion-1.1.5/3.1 ENC Display/Other/S100_ROOT/S-101/DATASET_FILES
+2023-07-03 12:33:31,523 INFO  [CheckS101] * Checking dataSet '101AA005OTHER'...
+2023-07-03 12:33:31,523 INFO  [CheckS101] ** Checking dataSet '101AA005OTHER' consistency to the dictionary...
+2023-07-03 12:33:31,523 INFO  [CheckS101] ** End of dataSet '101AA005OTHER' consistency to the dictionary check
+2023-07-03 12:33:31,523 INFO  [CheckS101] ** Checking dataSet '101AA005OTHER' group 1...
+2023-07-03 12:33:31,523 INFO  [CheckS101] *** '101AA005OTHER.000' group 1 OK
+2023-07-03 12:33:31,523 INFO  [CheckS101] ** End of dataSet '101AA005OTHER' group 1 check
+2023-07-03 12:33:31,523 INFO  [CheckS101] * End of dataSet '101AA005OTHER' check

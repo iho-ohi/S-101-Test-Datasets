@@ -1,0 +1,9 @@
+2023-07-03 12:33:32,320 WARN  [S57ToS101Converter] Conversion de AA3SAFCO
+2023-07-03 12:33:32,320 INFO  [S57ToS101] Writing 101AA003SAFCO.000 to ./data-references/dataConverted/s164/Conversion-1.1.5/7.0 Safety Contour/S100_ROOT/S-101/DATASET_FILES
+2023-07-03 12:33:32,332 INFO  [CheckS101] * Checking dataSet '101AA003SAFCO'...
+2023-07-03 12:33:32,332 INFO  [CheckS101] ** Checking dataSet '101AA003SAFCO' consistency to the dictionary...
+2023-07-03 12:33:32,332 INFO  [CheckS101] ** End of dataSet '101AA003SAFCO' consistency to the dictionary check
+2023-07-03 12:33:32,332 INFO  [CheckS101] ** Checking dataSet '101AA003SAFCO' group 1...
+2023-07-03 12:33:32,332 INFO  [CheckS101] *** '101AA003SAFCO.000' group 1 OK
+2023-07-03 12:33:32,332 INFO  [CheckS101] ** End of dataSet '101AA003SAFCO' group 1 check
+2023-07-03 12:33:32,332 INFO  [CheckS101] * End of dataSet '101AA003SAFCO' check

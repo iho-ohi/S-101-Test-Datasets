@@ -1,0 +1,9 @@
+2023-07-03 12:33:32,120 WARN  [S57ToS101Converter] Conversion de AA3SCAMN
+2023-07-03 12:33:32,120 INFO  [S57ToS101] Writing 101AA003SCAMN.000 to ./data-references/dataConverted/s164/Conversion-1.1.5/3.7.7 Scale minimum/S100_ROOT/S-101/DATASET_FILES
+2023-07-03 12:33:32,140 INFO  [CheckS101] * Checking dataSet '101AA003SCAMN'...
+2023-07-03 12:33:32,140 INFO  [CheckS101] ** Checking dataSet '101AA003SCAMN' consistency to the dictionary...
+2023-07-03 12:33:32,140 INFO  [CheckS101] ** End of dataSet '101AA003SCAMN' consistency to the dictionary check
+2023-07-03 12:33:32,140 INFO  [CheckS101] ** Checking dataSet '101AA003SCAMN' group 1...
+2023-07-03 12:33:32,140 INFO  [CheckS101] *** '101AA003SCAMN.000' group 1 OK
+2023-07-03 12:33:32,140 INFO  [CheckS101] ** End of dataSet '101AA003SCAMN' group 1 check
+2023-07-03 12:33:32,140 INFO  [CheckS101] * End of dataSet '101AA003SCAMN' check
