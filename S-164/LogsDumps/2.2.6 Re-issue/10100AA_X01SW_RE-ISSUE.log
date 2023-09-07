@@ -1,0 +1,209 @@
+2023-09-06 11:12:10,737 WARN  [S57ToS101Converter] Conversion de GB5X01SW
+2023-09-06 11:12:10,791 WARN  [AttributeConverterImpl] Valeur S57 [directional radiobeacon (2)] non convertie(s) pour categoryOfRadioStation de RadioStation 540_2135155399_687
+2023-09-06 11:12:10,792 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540_2135148579_687
+2023-09-06 11:12:10,793 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540_2135148594_687
+2023-09-06 11:12:10,793 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540_2135148607_687
+2023-09-06 11:12:10,793 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540_2135148621_687
+2023-09-06 11:12:10,794 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540_2135148634_687
+2023-09-06 11:12:10,814 WARN  [S57ToS101Converter] S101 Specification : No possibility to create a relation between Landmark-540_2135151700_687 to RadioStation-540_2135155399_687
+2023-09-06 11:12:10,883 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PRH
+2023-09-06 11:12:11,042 WARN  [GenerateS164TestDataSets] * Checking Signatures ....
+2023-09-06 11:12:11,048 WARN  [GenerateS164TestDataSets] 	 true
+2023-09-06 11:12:11,093 WARN  [CheckS101] * Checking dataSet '10100AA_X01SW_1.03'...
+2023-09-06 11:12:11,093 WARN  [CheckS101] Check Dictionnary ...
+2023-09-06 11:12:11,096 WARN  [CheckS101] Dictionnary true
+2023-09-06 11:12:11,096 WARN  [CheckS101] Check Groupe1 ...
+2023-09-06 11:12:11,099 WARN  [CheckS101] Groupe1 true
+2023-09-06 11:12:11,099 WARN  [CheckS101] Check ChainNodeForRings ...
+2023-09-06 11:12:11,101 WARN  [CheckS101] ChainNodeForRings true
+2023-09-06 11:12:11,101 WARN  [CheckS101] * End of dataSet '10100AA_X01SW_1.03' check
+2023-09-06 11:12:11,202 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,202 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,207 WARN  [S57ToS101Converter] Conversion de AA5DBASE
+2023-09-06 11:12:11,245 WARN  [GenerateS164TestDataSets] * Checking Signatures ....
+2023-09-06 11:12:11,248 WARN  [GenerateS164TestDataSets] 	 true
+2023-09-06 11:12:11,254 WARN  [CheckS101] * Checking dataSet '10100AA_DBASE_1.0'...
+2023-09-06 11:12:11,254 WARN  [CheckS101] Check Dictionnary ...
+2023-09-06 11:12:11,254 WARN  [CheckS101] Dictionnary true
+2023-09-06 11:12:11,254 WARN  [CheckS101] Check Groupe1 ...
+2023-09-06 11:12:11,255 WARN  [CheckS101] Groupe1 true
+2023-09-06 11:12:11,255 WARN  [CheckS101] Check ChainNodeForRings ...
+2023-09-06 11:12:11,255 WARN  [CheckS101] ChainNodeForRings true
+2023-09-06 11:12:11,255 WARN  [CheckS101] * End of dataSet '10100AA_DBASE_1.0' check
+2023-09-06 11:12:11,275 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,276 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,283 WARN  [S57ToS101Converter] Conversion de AA5OTHER
+2023-09-06 11:12:11,287 ERROR [S57ToS101Converter] 540_29187535_1 : S100 Specification - the geometric primitive P is not allowed for the feature type Rapids
+2023-09-06 11:12:11,297 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 540_29187681_1
+2023-09-06 11:12:11,298 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 540_29187548_1
+2023-09-06 11:12:11,301 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type T_TIMS
+2023-09-06 11:12:11,301 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type T_NHMN
+2023-09-06 11:12:11,301 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type T_HMON
+2023-09-06 11:12:11,301 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type T_TIMS
+2023-09-06 11:12:11,301 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type T_NHMN
+2023-09-06 11:12:11,301 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type T_HMON
+2023-09-06 11:12:11,301 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PNH
+2023-09-06 11:12:11,301 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PRH
+2023-09-06 11:12:11,301 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PNH
+2023-09-06 11:12:11,301 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PRH
+2023-09-06 11:12:11,302 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type CTRPNT
+2023-09-06 11:12:11,302 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_TIS
+2023-09-06 11:12:11,302 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_TIS
+2023-09-06 11:12:11,333 WARN  [GenerateS164TestDataSets] * Checking Signatures ....
+2023-09-06 11:12:11,336 WARN  [GenerateS164TestDataSets] 	 true
+2023-09-06 11:12:11,344 WARN  [CheckS101] * Checking dataSet '10100AA_OTHER_1.0'...
+2023-09-06 11:12:11,344 WARN  [CheckS101] Check Dictionnary ...
+2023-09-06 11:12:11,345 WARN  [CheckS101] Dictionnary true
+2023-09-06 11:12:11,345 WARN  [CheckS101] Check Groupe1 ...
+2023-09-06 11:12:11,345 WARN  [CheckS101] Groupe1 true
+2023-09-06 11:12:11,346 WARN  [CheckS101] Check ChainNodeForRings ...
+2023-09-06 11:12:11,346 WARN  [CheckS101] ChainNodeForRings true
+2023-09-06 11:12:11,346 WARN  [CheckS101] * End of dataSet '10100AA_OTHER_1.0' check
+2023-09-06 11:12:11,364 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,364 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,371 WARN  [S57ToS101Converter] Conversion de AA5STNDR
+2023-09-06 11:12:11,379 WARN  [FeatureS57ToS101Rule] The S57 object 540_29185001_1 NEWOBJ will be not converted.
+2023-09-06 11:12:11,381 WARN  [FeatureS57ToS101Rule] The S57 object 540_29185045_1 NEWOBJ will be not converted.
+2023-09-06 11:12:11,382 ERROR [FeaturesFinalizer] No support has been found for the topmark feature 540_29185037_1
+2023-09-06 11:12:11,387 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type ICNARE
+2023-09-06 11:12:11,387 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type ICNARE
+2023-09-06 11:12:11,387 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TOPMAR
+2023-09-06 11:12:11,415 WARN  [GenerateS164TestDataSets] * Checking Signatures ....
+2023-09-06 11:12:11,418 WARN  [GenerateS164TestDataSets] 	 true
+2023-09-06 11:12:11,426 WARN  [CheckS101] * Checking dataSet '10100AA_STNDR_1.0'...
+2023-09-06 11:12:11,426 WARN  [CheckS101] Check Dictionnary ...
+2023-09-06 11:12:11,427 WARN  [CheckS101] Dictionnary true
+2023-09-06 11:12:11,427 WARN  [CheckS101] Check Groupe1 ...
+2023-09-06 11:12:11,427 WARN  [CheckS101] Groupe1 true
+2023-09-06 11:12:11,427 WARN  [CheckS101] Check ChainNodeForRings ...
+2023-09-06 11:12:11,428 WARN  [CheckS101] ChainNodeForRings true
+2023-09-06 11:12:11,428 WARN  [CheckS101] * End of dataSet '10100AA_STNDR_1.0' check
+2023-09-06 11:12:11,444 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,445 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,458 WARN  [S57ToS101Converter] Conversion de GB5X01NE
+2023-09-06 11:12:11,473 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540_29166419_1
+2023-09-06 11:12:11,476 WARN  [FeatureS57ToS101Rule] The S57 object 540_29166817_1 LIGHTS will be not converted.
+2023-09-06 11:12:11,535 ERROR [S100FieldInImpl] FieldInS101Impl.decodeAttr() Unknown attribute type: 777
+2023-09-06 11:12:11,552 WARN  [GenerateS164TestDataSets] * Checking Signatures ....
+2023-09-06 11:12:11,556 WARN  [GenerateS164TestDataSets] 	 true
+2023-09-06 11:12:11,568 ERROR [S100FieldInImpl] FieldInS101Impl.decodeAttr() Unknown attribute type: 777
+2023-09-06 11:12:11,572 WARN  [CheckS101] * Checking dataSet '10100AA_X01NE_1.0'...
+2023-09-06 11:12:11,573 WARN  [CheckS101] Check Dictionnary ...
+2023-09-06 11:12:11,573 ERROR [CheckS101] 	 Unknown attribute type '777' for feature type 'BuoySpecialPurposeGeneral'
+2023-09-06 11:12:11,573 ERROR [CheckS101] 	 Unknown value '555' for attribute type 'buoyShape'
+2023-09-06 11:12:11,574 ERROR [CheckS101] 	 Missing mandatory attribute 'buoyShape' in attributeStore 'BuoySpecialPurposeGeneral'
+2023-09-06 11:12:11,574 ERROR [CheckS101] Unknown feature type 999
+2023-09-06 11:12:11,575 WARN  [CheckS101] Dictionnary false
+2023-09-06 11:12:11,575 WARN  [CheckS101] Check Groupe1 ...
+2023-09-06 11:12:11,576 WARN  [CheckS101] Groupe1 true
+2023-09-06 11:12:11,576 WARN  [CheckS101] Check ChainNodeForRings ...
+2023-09-06 11:12:11,576 WARN  [CheckS101] ChainNodeForRings true
+2023-09-06 11:12:11,577 WARN  [CheckS101] * End of dataSet '10100AA_X01NE_1.0' check
+2023-09-06 11:12:11,589 ERROR [S100FieldInImpl] FieldInS101Impl.decodeAttr() Unknown attribute type: 777
+2023-09-06 11:12:11,610 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,611 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,616 WARN  [S57ToS101Converter] Conversion de GB4X0001
+2023-09-06 11:12:11,621 WARN  [AttributeConverterImpl] Valeur S57 [clearing mark (41)] non convertie(s) pour categoryOfSpecialPurposeMark de BuoySpecialPurposeGeneral 540_396175919_357
+2023-09-06 11:12:11,621 WARN  [AttributeConverterImpl] Valeur S57 [clearing mark (41)] non convertie(s) pour categoryOfSpecialPurposeMark de BuoySpecialPurposeGeneral 540_-548738524_361
+2023-09-06 11:12:11,621 WARN  [AttributeConverterImpl] Valeur S57 [clearing mark (41)] non convertie(s) pour categoryOfSpecialPurposeMark de BuoySpecialPurposeGeneral 540_-1109114829_363
+2023-09-06 11:12:11,628 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type ICNARE
+2023-09-06 11:12:11,628 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PRH
+2023-09-06 11:12:11,628 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PNH
+2023-09-06 11:12:11,675 WARN  [GenerateS164TestDataSets] * Checking Signatures ....
+2023-09-06 11:12:11,679 WARN  [GenerateS164TestDataSets] 	 true
+2023-09-06 11:12:11,685 WARN  [CheckS101] * Checking dataSet '10100AA_X0001_1.0'...
+2023-09-06 11:12:11,685 WARN  [CheckS101] Check Dictionnary ...
+2023-09-06 11:12:11,687 WARN  [CheckS101] Dictionnary true
+2023-09-06 11:12:11,687 WARN  [CheckS101] Check Groupe1 ...
+2023-09-06 11:12:11,687 WARN  [CheckS101] Groupe1 true
+2023-09-06 11:12:11,687 WARN  [CheckS101] Check ChainNodeForRings ...
+2023-09-06 11:12:11,687 WARN  [CheckS101] ChainNodeForRings true
+2023-09-06 11:12:11,687 WARN  [CheckS101] * End of dataSet '10100AA_X0001_1.0' check
+2023-09-06 11:12:11,702 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,703 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,717 WARN  [S57ToS101Converter] Conversion de 1B5X01NE
+2023-09-06 11:12:11,731 WARN  [FeatureS57ToS101Rule] The S57 object 540_2135149389_687 LIGHTS will be not converted.
+2023-09-06 11:12:11,731 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540_2135149412_687
+2023-09-06 11:12:11,732 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540_2135149427_687
+2023-09-06 11:12:11,732 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540_2135149438_687
+2023-09-06 11:12:11,813 WARN  [GenerateS164TestDataSets] * Checking Signatures ....
+2023-09-06 11:12:11,817 WARN  [GenerateS164TestDataSets] 	 true
+2023-09-06 11:12:11,832 WARN  [CheckS101] * Checking dataSet '1011B_X01NE_1.0'...
+2023-09-06 11:12:11,832 WARN  [CheckS101] Check Dictionnary ...
+2023-09-06 11:12:11,833 WARN  [CheckS101] Dictionnary true
+2023-09-06 11:12:11,834 WARN  [CheckS101] Check Groupe1 ...
+2023-09-06 11:12:11,834 WARN  [CheckS101] Groupe1 true
+2023-09-06 11:12:11,835 WARN  [CheckS101] Check ChainNodeForRings ...
+2023-09-06 11:12:11,835 WARN  [CheckS101] ChainNodeForRings true
+2023-09-06 11:12:11,835 WARN  [CheckS101] * End of dataSet '1011B_X01NE_1.0' check
+2023-09-06 11:12:11,873 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,874 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,874 WARN  [S57ToS101Converter] Conversion de IC3NEWPC
+2023-09-06 11:12:11,878 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,878 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,879 WARN  [S57ToS101Converter] Conversion de IC3NEWCC
+2023-09-06 11:12:11,886 WARN  [GenerateS164TestDataSets] * Checking Signatures ....
+2023-09-06 11:12:11,886 WARN  [GenerateS164TestDataSets] 	 false
+2023-09-06 11:12:11,887 WARN  [CheckS101] * Checking dataSet '101IC_NEWCC_1.0'...
+2023-09-06 11:12:11,887 WARN  [CheckS101] Check Dictionnary ...
+2023-09-06 11:12:11,888 WARN  [CheckS101] Dictionnary true
+2023-09-06 11:12:11,888 WARN  [CheckS101] Check Groupe1 ...
+2023-09-06 11:12:11,888 WARN  [CheckS101] Groupe1 true
+2023-09-06 11:12:11,888 WARN  [CheckS101] Check ChainNodeForRings ...
+2023-09-06 11:12:11,888 WARN  [CheckS101] ChainNodeForRings true
+2023-09-06 11:12:11,888 WARN  [CheckS101] * End of dataSet '101IC_NEWCC_1.0' check
+2023-09-06 11:12:11,889 WARN  [CheckS101] * Checking dataSet '101IC_NEWPC_1.0'...
+2023-09-06 11:12:11,889 WARN  [CheckS101] Check Dictionnary ...
+2023-09-06 11:12:11,889 WARN  [CheckS101] Dictionnary true
+2023-09-06 11:12:11,889 WARN  [CheckS101] Check Groupe1 ...
+2023-09-06 11:12:11,890 WARN  [CheckS101] Groupe1 true
+2023-09-06 11:12:11,890 WARN  [CheckS101] Check ChainNodeForRings ...
+2023-09-06 11:12:11,890 WARN  [CheckS101] ChainNodeForRings true
+2023-09-06 11:12:11,890 WARN  [CheckS101] * End of dataSet '101IC_NEWPC_1.0' check
+2023-09-06 11:12:11,897 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,897 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,898 ERROR [S57ToS101] Unable to convert 1012J_X0002.000 to ./data-references/dataConverted/s164/V2/TestDataSets/3.6 Display Priorities/S100_ROOT/S-101/DATASET_FILES
+2023-09-06 11:12:11,900 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,900 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,901 ERROR [S57ToS101] Unable to convert 1012J_X0001.000 to ./data-references/dataConverted/s164/V2/TestDataSets/3.6 Display Priorities/S100_ROOT/S-101/DATASET_FILES
+2023-09-06 11:12:11,903 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,903 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,912 ERROR [S57ToS101] Unable to convert 1012J_X0001.000 to ./data-references/dataConverted/s164/V2/TestDataSets/3.6 Display Priorities/S100_ROOT/S-101/DATASET_FILES
+2023-09-06 11:12:11,915 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,915 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,916 WARN  [S57ToS101Converter] Conversion de AA3SCAMN
+2023-09-06 11:12:11,929 WARN  [GenerateS164TestDataSets] * Checking Signatures ....
+2023-09-06 11:12:11,932 WARN  [GenerateS164TestDataSets] 	 true
+2023-09-06 11:12:11,933 WARN  [CheckS101] * Checking dataSet '10100AA_SCAMN_1.0'...
+2023-09-06 11:12:11,933 WARN  [CheckS101] Check Dictionnary ...
+2023-09-06 11:12:11,934 WARN  [CheckS101] Dictionnary true
+2023-09-06 11:12:11,934 WARN  [CheckS101] Check Groupe1 ...
+2023-09-06 11:12:11,934 WARN  [CheckS101] Groupe1 true
+2023-09-06 11:12:11,934 WARN  [CheckS101] Check ChainNodeForRings ...
+2023-09-06 11:12:11,934 WARN  [CheckS101] ChainNodeForRings true
+2023-09-06 11:12:11,934 WARN  [CheckS101] * End of dataSet '10100AA_SCAMN_1.0' check
+2023-09-06 11:12:11,939 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,940 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,940 WARN  [S57ToS101Converter] Conversion de GB3OVRLP
+2023-09-06 11:12:11,951 WARN  [GenerateS164TestDataSets] * Checking Signatures ....
+2023-09-06 11:12:11,954 WARN  [GenerateS164TestDataSets] 	 true
+2023-09-06 11:12:11,955 WARN  [CheckS101] * Checking dataSet '10100AA_OVRLP_1.0'...
+2023-09-06 11:12:11,955 WARN  [CheckS101] Check Dictionnary ...
+2023-09-06 11:12:11,955 WARN  [CheckS101] Dictionnary true
+2023-09-06 11:12:11,955 WARN  [CheckS101] Check Groupe1 ...
+2023-09-06 11:12:11,955 WARN  [CheckS101] Groupe1 true
+2023-09-06 11:12:11,956 WARN  [CheckS101] Check ChainNodeForRings ...
+2023-09-06 11:12:11,956 WARN  [CheckS101] ChainNodeForRings true
+2023-09-06 11:12:11,956 WARN  [CheckS101] * End of dataSet '10100AA_OVRLP_1.0' check
+2023-09-06 11:12:11,960 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,961 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,966 ERROR [S57ToS101] Unable to convert 10100AA_NAVHZ.000 to ./data-references/dataConverted/s164/V2/TestDataSets/5.0 Navigational Hazards/S100_ROOT/S-101/DATASET_FILES
+2023-09-06 11:12:11,969 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,970 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,974 ERROR [S57ToS101] Unable to convert 10100AA_OVRVU.000 to ./data-references/dataConverted/s164/V2/TestDataSets/5.0 Navigational Hazards/Overview/S100_ROOT/S-101/DATASET_FILES
+2023-09-06 11:12:11,977 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,977 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,978 ERROR [S57ToS101] Unable to convert 10100AA_ARSPC.000 to ./data-references/dataConverted/s164/V2/TestDataSets/6.0 Special Conditions/S100_ROOT/S-101/DATASET_FILES
+2023-09-06 11:12:11,981 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
+2023-09-06 11:12:11,982 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
+2023-09-06 11:12:11,983 ERROR [S57ToS101] Unable to convert 10100AA_SAFCO.000 to ./data-references/dataConverted/s164/V2/TestDataSets/7.0 Safety Contour/S100_ROOT/S-101/DATASET_FILES

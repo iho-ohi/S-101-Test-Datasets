@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DataSet>
+    <DataSetGeneralInformation>
+        <DataSetIdentification>
+            <!--RecordName-->
+            <rcnm>10</rcnm>
+            <!--RecordIdentifier-->
+            <rcid>1</rcid>
+            <!--Encoding Specification-->
+            <ensp>S-100 Part 10a</ensp>
+            <!--Encoding Specification Edition-->
+            <ened>1.1</ened>
+            <!--Product Identifier-->
+            <prsp>INT.IHO.S-101.1.1.0</prsp>
+            <!--Product Edition-->
+            <pred>1.1.0</pred>
+            <!--Application Profile-->
+            <prof>2</prof>
+            <!--Dataset File Identifier-->
+            <dsnm>10100AA_X01SW.002</dsnm>
+            <!--Dataset Title-->
+            <dstl>Converted using GEOMOD Converter</dstl>
+            <!--Dataset Reference Date-->
+            <dsrd>20050101</dsrd>
+            <!--Dataset Language-->
+            <dslg>EN</dslg>
+            <!--Dataset Edition-->
+            <dsed>1.2</dsed>
+            <!--Dataset Topic Category-->
+            <dstc>14 18</dstc>
+            <DataSetStructureInformation>
+                <!--Dataset Coordinate Origin X-->
+                <dcox>0.0</dcox>
+                <!--Dataset Coordinate Origin Y-->
+                <dcoy>0.0</dcoy>
+                <!--Dataset Coordinate Origin Z-->
+                <dcoz>0.0</dcoz>
+                <!--Coordinate Multiplication Factor for X-->
+                <cmfx>10000000</cmfx>
+                <!--Coordinate Multiplication Factor for Y-->
+                <cmfy>10000000</cmfy>
+                <!--Coordinate Multiplication Factor for Z-->
+                <cmfz>100</cmfz>
+                <!--Number of Information Type records-->
+                <noir>0</noir>
+                <!--Number of Point records-->
+                <nopn>1</nopn>
+                <!--Number of Multi Point records-->
+                <nomn>0</nomn>
+                <!--Number of Curve records-->
+                <nocn>1</nocn>
+                <!--Number of Composite Curve records-->
+                <noxn>0</noxn>
+                <!--Number of Surface records-->
+                <nosn>1</nosn>
+                <!--Number of Feature Type records-->
+                <nofr>2</nofr>
+            </DataSetStructureInformation>
+            <AttributeCodes>
+                <AttributeCode code="fixedDateRange" numeric="1"/>
+                <AttributeCode code="dateStart" numeric="2"/>
+                <AttributeCode code="restriction" numeric="3"/>
+                <AttributeCode code="dateEnd" numeric="4"/>
+            </AttributeCodes>
+            <FeatureTypeCodes>
+                <FeatureTypeCode code="RestrictedAreaNavigational" numeric="1"/>
+                <FeatureTypeCode code="CautionArea" numeric="2"/>
+            </FeatureTypeCodes>
+        </DataSetIdentification>
+    </DataSetGeneralInformation>
+    <Points>
+        <PointRecord>
+            <Identifier rcid="1230" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.543328,60.9449935)</C2IT>
+        </PointRecord>
+    </Points>
+    <Curves>
+        <CurveRecord>
+            <Identifier rcid="1371" rcnm="120" ruin="insert" version="1"/>
+            <StartEndPoint rrid="1230"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.543328,60.9449935)(-32.5433081,60.9384029)(-32.5499456,60.9383894)(-32.5499432,60.9384263)(-32.5499432,60.9449935)(-32.543328,60.9449935)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+    </Curves>
+    <Surfaces>
+        <SurfaceRecord>
+            <Identifier rcid="906" rcnm="130" ruin="insert" version="1"/>
+            <Curve ornt="reverse" raui="insert" rrid="1371" usage="exterior"/>
+        </SurfaceRecord>
+    </Surfaces>
+    <Features>
+        <FeatureRecord>
+            <Identifier featureType="RestrictedAreaNavigational" rcid="917" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_584491392_1569</Foid>
+            <ComplexAttribute atin="insert" index="1" type="fixedDateRange">
+                <SimpleAttribute atin="insert" index="1" type="dateStart" value="20050220"/>
+            </ComplexAttribute>
+            <SimpleAttribute atin="insert" index="1" type="restriction" value="7"/>
+            <Surface ornt="forward" rrid="906" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="CautionArea" rcid="918" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_584492248_1569</Foid>
+            <ComplexAttribute atin="insert" index="1" type="fixedDateRange">
+                <SimpleAttribute atin="insert" index="1" type="dateEnd" value="20050220"/>
+            </ComplexAttribute>
+            <Surface ornt="forward" rrid="906" saui="insert"/>
+        </FeatureRecord>
+    </Features>
+</DataSet>
