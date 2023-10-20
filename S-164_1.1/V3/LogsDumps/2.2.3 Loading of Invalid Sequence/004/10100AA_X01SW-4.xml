@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Dataset>
+    <DataSetGeneralInformation>
+        <DataSetIdentification>
+            <!--RecordName-->
+            <rcnm>10</rcnm>
+            <!--RecordIdentifier-->
+            <rcid>1</rcid>
+            <!--Encoding Specification-->
+            <ensp>S-100 Part 10a</ensp>
+            <!--Encoding Specification Edition-->
+            <ened>1.1</ened>
+            <!--Product Identifier-->
+            <prsp>INT.IHO.S-101.1.1.0</prsp>
+            <!--Product Edition-->
+            <pred>1.1.0</pred>
+            <!--Application Profile-->
+            <prof>2</prof>
+            <!--Dataset File Identifier-->
+            <dsnm>10100AA_X01SW.003</dsnm>
+            <!--Dataset Title-->
+            <dstl>Converted using GEOMOD Converter</dstl>
+            <!--Dataset Reference Date-->
+            <dsrd>20050922</dsrd>
+            <!--Dataset Language-->
+            <dslg>EN</dslg>
+            <!--Dataset Edition-->
+            <dsed>1.4</dsed>
+            <!--Dataset Topic Category-->
+            <dstc>14 18</dstc>
+            <DataSetStructureInformation>
+                <!--Dataset Coordinate Origin X-->
+                <dcox>0.0</dcox>
+                <!--Dataset Coordinate Origin Y-->
+                <dcoy>0.0</dcoy>
+                <!--Dataset Coordinate Origin Z-->
+                <dcoz>0.0</dcoz>
+                <!--Coordinate Multiplication Factor for X-->
+                <cmfx>10000000</cmfx>
+                <!--Coordinate Multiplication Factor for Y-->
+                <cmfy>10000000</cmfy>
+                <!--Coordinate Multiplication Factor for Z-->
+                <cmfz>100</cmfz>
+                <!--Number of Information Type records-->
+                <noir>0</noir>
+                <!--Number of Point records-->
+                <nopn>2</nopn>
+                <!--Number of Multi Point records-->
+                <nomn>0</nomn>
+                <!--Number of Curve records-->
+                <nocn>2</nocn>
+                <!--Number of Composite Curve records-->
+                <noxn>0</noxn>
+                <!--Number of Surface records-->
+                <nosn>2</nosn>
+                <!--Number of Feature records-->
+                <nofr>2</nofr>
+            </DataSetStructureInformation>
+            <AttributeCodes/>
+            <InformationTypeCodes/>
+            <FeatureTypeCodes>
+                <FeatureTypeCode code="CautionArea" numeric="2"/>
+                <FeatureTypeCode code="RestrictedAreaNavigational" numeric="1"/>
+            </FeatureTypeCodes>
+            <InformationAssociationCodes/>
+            <FeatureAssociationCodes/>
+            <AssociationRoleCodes/>
+        </DataSetIdentification>
+    </DataSetGeneralInformation>
+    <Informations/>
+    <Points>
+        <PointRecord>
+            <Identifier rcid="1230" rcnm="110" ruin="delete" version="2"/>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="1231" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.5499451,60.9347597)</C2IT>
+        </PointRecord>
+    </Points>
+    <MultiPoints/>
+    <Curves>
+        <CurveRecord>
+            <Identifier rcid="1371" rcnm="120" ruin="delete" version="2"/>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="1372" rcnm="120" ruin="insert" version="1"/>
+            <StartEndPoint rrid="1231"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.5499451,60.9347597)(-32.5499432,60.9449935)(-32.543328,60.9449935)(-32.5433326,60.9347597)(-32.5499451,60.9347597)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+    </Curves>
+    <CompositeCurves/>
+    <Surfaces>
+        <SurfaceRecord>
+            <Identifier rcid="906" rcnm="130" ruin="delete" version="2"/>
+        </SurfaceRecord>
+        <SurfaceRecord>
+            <Identifier rcid="907" rcnm="130" ruin="insert" version="1"/>
+            <Curve ornt="reverse" raui="insert" rrid="1372" usage="exterior"/>
+        </SurfaceRecord>
+    </Surfaces>
+    <Features>
+        <FeatureRecord>
+            <Identifier featureType="RestrictedAreaNavigational" rcid="917" rcnm="100" ruin="modify" version="2"/>
+            <Foid>1810_584491392_1569</Foid>
+            <Surface rrid="906" saui="delete"/>
+            <Surface ornt="forward" rrid="907" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="CautionArea" rcid="918" rcnm="100" ruin="delete" version="2"/>
+            <Foid>1810_584492248_1569</Foid>
+        </FeatureRecord>
+    </Features>
+</Dataset>
