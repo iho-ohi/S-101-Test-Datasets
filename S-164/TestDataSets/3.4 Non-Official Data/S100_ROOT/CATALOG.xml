@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><S100XC:S100_ExchangeCatalogue xmlns:S100CI="http://www.iho.int/S100CI/5.0" xmlns:S100SE="http://www.iho.int/s100/se/5.0" xmlns:S100XC="http://www.iho.int/s100/xc/5.0" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gcx="http://standards.iso.org/iso/19115/-3/gcx/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.iho.int/s100/xc/5.0       https://schemas.s100dev.net/schemas/S100/5.0.0/S100Catalog/20220705/S100_ExchangeCatalogue.xsd">
+	<S100XC:identifier>
+	<S100XC:identifier>3.4 Non-Official Data</S100XC:identifier>
+        <S100XC:dateTime>2023-09-06T11:12:11Z</S100XC:dateTime>
+    </S100XC:identifier>
+	<S100XC:contact>
+		<S100XC:organization>
+			<gco:CharacterString>IHO</gco:CharacterString>
+		</S100XC:organization>
+		<S100XC:address>
+			<cit:deliveryPoint>
+				<gco:CharacterString>B.P. 445</gco:CharacterString>
+			</cit:deliveryPoint>
+			<cit:city>
+				<gco:CharacterString>MONACO</gco:CharacterString>
+			</cit:city>
+			<cit:administrativeArea>
+				<gco:CharacterString/>
+			</cit:administrativeArea>
+			<cit:postalCode>
+				<gco:CharacterString>98011</gco:CharacterString>
+			</cit:postalCode>
+			<cit:country>
+				<gco:CharacterString/>
+			</cit:country>
+			<cit:electronicMailAddress>
+				<gco:CharacterString>info@IHO.INT</gco:CharacterString>
+			</cit:electronicMailAddress>
+		</S100XC:address>
+	</S100XC:contact>
+	<S100XC:productSpecification>
+                <S100XC:version>1.1.0</S100XC:version>
+                <S100XC:date>2023-02-02</S100XC:date>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>195</S100XC:number>
+    </S100XC:productSpecification>
+	<S100XC:certificates>
+        <S100SE:schemeAdministrator id="urn:mrn:iho:org:sa"/>
+        <S100SE:certificate id="urn:mrn:iho:org:001B" issuer="urn:mrn:iho:org:sa">MIIE2TCCBH8CFGcM1KQuBm9KAHrLK0CGclRffeXVMAsGCWCGSAFlAwQDAjB7MQswCQYDVQQGEwJNQzEdMBsGA1UECAwUU0NIRU1FX0FETUlOSVNUUkFUT1IxMDAuBgNVBAoMJ0ludGVybmF0aW9uYWwgSHlkcm9ncmFwaGljIE9yZ2FuaXNhdGlvbjEbMBkGA1UEAwwSdXJuOm1ybjppaG86b3JnOnNhMB4XDTIzMDkwMzA4MzYzOVoXDTIzMTAwMzA4MzYzOVowczELMAkGA1UEBhMCMUIxHDAaBgNVBAgME09USEVSX0RBVEFfUFJPRFVDRVIxITAfBgNVBAoMGE5vIG9mZmljaWFsIG9yZ2FuaXNhdGlvbjEjMCEGA1UEAwwadXJuOm1ybjppaG86b3JnOjAwMUI6NjU1MzUwggNGMIICOQYHKoZIzjgEATCCAiwCggEBANScOFUGuZEcQxiahjic4SgpuaupHRCdJtYlVdOtkDQXJXVC6ANZwZBK+ocKg9Zltve+w7Ks2XjCmnJ5KofzIs70pbToHydlXSZbQKd2XrO+mHcjGL8tLEM+JYnF2DdQFhcvv0N0FHwQ7Z9xnoeKGTagG7ty0WKTVLOBBOSfzUJd1LegA5RNLdYNiM7BUtZMAHYh67a/a9lzv/qgTAGHkLvbVqVKdCbZBuiaVq4O78i1ptE09nknVWF9ZU2bsu7SFAhDfl2xULn+K+PV03q3esajtqnc3Z78djIsm6BwTaYdeibDtCYRsXwrXPeNZxfF9eAiJYSsl4oaMwb1u2HZh3kCIQDOMAXFZMsGILqFJCSTUknGvrjsdSFMVdFlI9Iv/WVyVwKCAQAfXWzhGSZSyd4/s5QYeTWFcQCSCTMWr6X+XvpBHnrIfhBi/i/mUsCp2scTHXLKFYR2tJY+fJnzXxxyyRdI3siDYXAz4GZ3DI/KmX4cB7dK10HxRcbNrtRExTdNDWiNB/r+q2ZuHIYpgyiFCZIe2tY6BY2l/DdSR2ClhnUFPF75cDwmfzh2XkNDNAUXIhG4lbk+QZKOEc8RWiX+vWOuZlyrgM9yiWmtmRm5JL02TLLiqm4dy4oeaVPrclIFw8Zltbl3ISUKyPn+xRKSEynKOnp6/8ugIesd/PeY8Dwe4bpc/606UlJhSPuSv1onzgevI8n+eWxhslbFBndeZJQWD/EcA4IBBQACggEAS3E5krukPIX1BquN9wOxnf7jUuzleA7zcdeifAbLF0vz817AWaNCeAa0SxLoFq8kD6QvfQS36tCAn/YhjpVm0hmPEKWUUBQl4caGhiAb2uKM5QhfN9pTRrCZPL05xKMkA7eOSjcQwM/vhHkoMVFwBBl4uxTnl3lMqnBxxD/2QihSvnaQbBiUVP/im3sjGMdtZh6e9I0iCoBC891GTHmxZDcUdEZbWItXzQyNIOptqnN8WecE2W5xXd/N7+Pu5V6ox12KrQpF2tuQ25rIOMuLHUWiHzFMkXHnw92BhDj7Kpyu3rEkhfe89Q9keu3jfCQo7ncdd4bTokv9sFsT0YnkbzALBglghkgBZQMEAwIDRwAwRAIge2mHeoV8DbYnxLS7mEAP7/+s4uOiQW4LlS71EwE+LEgCICUpzyTFj2E6haXecu1qEfq3Qx1WSd12/XoUIuD5K/vQ</S100SE:certificate>
+	</S100XC:certificates>
+	<S100XC:datasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>file:/S-101/DATASET_FILES/1011B_X01NE.000</S100XC:fileName>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_SignatureOnData certificateRef="urn:mrn:iho:org:1B" id="1B_X01NE">MEYCIQCkvfn8Z7fynWvh3KGyc/gt7VIaZBFpirCZbE46F5oMzQIhAIsCw9AuamauQRe20tdwaco9wwJskM2eGCo9CDLJPS20</S100SE:S100_SE_SignatureOnData>
+            </S100XC:digitalSignatureValue>
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>true</S100XC:notForNavigation>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:updateNumber>0</S100XC:updateNumber>
+            <S100XC:issueDate>2001-04-06</S100XC:issueDate>
+            <S100XC:boundingBox>
+                <gex:westBoundLongitude>
+                    <gco:Decimal>60.9666667</gco:Decimal>
+                </gex:westBoundLongitude>
+                <gex:eastBoundLongitude>
+                    <gco:Decimal>60.9972801</gco:Decimal>
+                </gex:eastBoundLongitude>
+                <gex:southBoundLatitude>
+                    <gco:Decimal>-32.5333333</gco:Decimal>
+                </gex:southBoundLatitude>
+                <gex:northBoundLatitude>
+                    <gco:Decimal>-32.4563736</gco:Decimal>
+                </gex:northBoundLatitude>
+            </S100XC:boundingBox>
+            <S100XC:productSpecification>
+                <S100XC:version>1.1.0</S100XC:version>
+                <S100XC:date>2023-02-02</S100XC:date>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>195</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <cit:CI_Responsibility>
+                    <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="owner">owner</cit:CI_RoleCode>
+                    </cit:role>
+                    <cit:party>
+                        <cit:CI_Organisation>
+                            <cit:name>IHO</cit:name>
+                        </cit:CI_Organisation>
+                    </cit:party>
+                </cit:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:producerCode>1B_X</S100XC:producerCode>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:dataCoverage>
+                <S100XC:boundingPolygon gco:isoType="gex:EX_BoundingPolygon">
+                    <gex:polygon>
+                        <gml:LineString>
+                            <gml:posList>60.9972705 -32.5333333 60.9869164 -32.5333333 60.9830936 -32.5333333 60.9822049 -32.5333333 60.97525 -32.5333333 60.9752389 -32.5333333 60.9666667 -32.5333333 60.9666667 -32.5320917 60.9666667 -32.5320834 60.9666667 -32.5305945 60.9666667 -32.527192 60.9666667 -32.5269028 60.9666667 -32.5245135 60.9666667 -32.5207222 60.9666667 -32.5196663 60.9666667 -32.5170889 60.9666667 -32.5169306 60.9666667 -32.5167719 60.9666667 -32.5163083 60.9666667 -32.5161417 60.9666667 -32.5146248 60.9666667 -32.5143384 60.9666667 -32.514253 60.9666667 -32.5132778 60.9666667 -32.5120334 60.9666667 -32.5105972 60.9666667 -32.50975 60.9666667 -32.50895 60.9666667 -32.5058722 60.9666667 -32.5030194 60.9666667 -32.5023222 60.9666667 -32.500331 60.9666667 -32.5 60.9666667 -32.4983472 60.9666667 -32.4974833 60.9666667 -32.4969974 60.9666667 -32.4966305 60.9666667 -32.4942472 60.9666667 -32.4942422 60.9666667 -32.4936438 60.9666667 -32.4933547 60.9666667 -32.4916138 60.9666667 -32.4914444 60.9666667 -32.4909222 60.9666667 -32.4909114 60.9666667 -32.4867032 60.9666667 -32.486692 60.9666667 -32.4836472 60.9666667 -32.4821 60.9666667 -32.4792278 60.9666667 -32.4769051 60.9666667 -32.4736167 60.9666667 -32.4672198 60.9666667 -32.4672124 60.9666667 -32.4635139 60.9666667 -32.4565056 60.9666667 -32.4563736 60.9669687 -32.4563742 60.9711427 -32.456375 60.9733196 -32.4563745 60.9779766 -32.4563745 60.978133 -32.4563745 60.9800104 -32.4563868 60.9859498 -32.456407 60.9885746 -32.4564046 60.997284 -32.4563974 60.9972729 -32.47843 60.9972679 -32.485417 60.9972679 -32.493085 60.9972682 -32.496351 60.9972679 -32.4993636 60.9972678 -32.5049747 60.9972678 -32.506904 60.9972678 -32.5071296 60.9972676 -32.5165036 60.9972762 -32.520942 60.9972801 -32.5229898 60.9972674 -32.5298007 60.9972674 -32.532525 60.9972705 -32.5333333 </gml:posList>
+                        </gml:LineString>
+                    </gex:polygon>
+                </S100XC:boundingPolygon>
+                <S100XC:maximumDisplayScale>12000</S100XC:maximumDisplayScale>
+                <S100XC:minimumDisplayScale>22000</S100XC:minimumDisplayScale>
+            </S100XC:dataCoverage>
+            <S100XC:navigationPurpose>port</S100XC:navigationPurpose>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+    </S100XC:datasetDiscoveryMetadata>
+	<S100XC:supportFileDiscoveryMetadata/>
+	<S100XC:catalogueDiscoveryMetadata/>
+</S100XC:S100_ExchangeCatalogue>

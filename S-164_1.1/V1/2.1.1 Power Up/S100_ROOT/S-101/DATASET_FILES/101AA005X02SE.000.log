@@ -1,9 +1,0 @@
-2023-07-03 12:33:30,604 WARN  [S57ToS101Converter] Conversion de GB5X02SE
-2023-07-03 12:33:30,604 INFO  [S57ToS101] Writing 101AA005X02SE.000 to ./data-references/dataConverted/s164/Conversion-1.1.5/2.1.1 Power Up/S100_ROOT/S-101/DATASET_FILES
-2023-07-03 12:33:30,624 INFO  [CheckS101] * Checking dataSet '101AA005X02SE'...
-2023-07-03 12:33:30,624 INFO  [CheckS101] ** Checking dataSet '101AA005X02SE' consistency to the dictionary...
-2023-07-03 12:33:30,624 INFO  [CheckS101] ** End of dataSet '101AA005X02SE' consistency to the dictionary check
-2023-07-03 12:33:30,624 INFO  [CheckS101] ** Checking dataSet '101AA005X02SE' group 1...
-2023-07-03 12:33:30,624 INFO  [CheckS101] *** '101AA005X02SE.000' group 1 OK
-2023-07-03 12:33:30,624 INFO  [CheckS101] ** End of dataSet '101AA005X02SE' group 1 check
-2023-07-03 12:33:30,624 INFO  [CheckS101] * End of dataSet '101AA005X02SE' check
