@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Dataset>
+    <DatasetGeneralInformation>
+        <DataSetIdentification>
+            <!--RecordName-->
+            <rcnm>10</rcnm>
+            <!--RecordIdentifier-->
+            <rcid>1</rcid>
+            <!--Encoding Specification-->
+            <ensp>S-100 Part 10a</ensp>
+            <!--Encoding Specification Edition-->
+            <ened>1.1</ened>
+            <!--Product Identifier-->
+            <prsp>INT.IHO.S-101.1.1.0</prsp>
+            <!--Product Edition-->
+            <pred>1.1.0</pred>
+            <!--Application Profile-->
+            <prof>1</prof>
+            <!--Dataset File Identifier-->
+            <dsnm>101AA003INVOB.000</dsnm>
+            <!--Dataset Title-->
+            <dstl>Converted using GEOMOD Converter</dstl>
+            <!--Dataset Reference Date-->
+            <dsrd>00000000</dsrd>
+            <!--Dataset Language-->
+            <dslg>EN</dslg>
+            <!--Dataset Edition-->
+            <dsed>1.0</dsed>
+            <!--Dataset Topic Category-->
+            <dstc>14 18</dstc>
+            <DatasetStructureInformation>
+                <!--Dataset Coordinate Origin X-->
+                <dcox>0.0</dcox>
+                <!--Dataset Coordinate Origin Y-->
+                <dcoy>0.0</dcoy>
+                <!--Dataset Coordinate Origin Z-->
+                <dcoz>0.0</dcoz>
+                <!--Coordinate Multiplication Factor for X-->
+                <cmfx>10000000</cmfx>
+                <!--Coordinate Multiplication Factor for Y-->
+                <cmfy>10000000</cmfy>
+                <!--Coordinate Multiplication Factor for Z-->
+                <cmfz>100</cmfz>
+                <!--Number of Information Type records-->
+                <noir>0</noir>
+                <!--Number of Point records-->
+                <nopn>12</nopn>
+                <!--Number of Multi Point records-->
+                <nomn>0</nomn>
+                <!--Number of Curve records-->
+                <nocn>8</nocn>
+                <!--Number of Composite Curve records-->
+                <noxn>1</noxn>
+                <!--Number of Surface records-->
+                <nosn>4</nosn>
+                <!--Number of Feature Type records-->
+                <nofr>8</nofr>
+            </DatasetStructureInformation>
+            <AttributeCodes>
+                <AttributeCode code="maximumDisplayScale" numeric="1"/>
+                <AttributeCode code="minimumDisplayScale" numeric="2"/>
+                <AttributeCode code="depthRangeMinimumValue" numeric="3"/>
+                <AttributeCode code="depthRangeMaximumValue" numeric="4"/>
+                <AttributeCode code="inTheWater" numeric="5"/>
+                <AttributeCode code="buoyShape" numeric="6"/>
+                <AttributeCode code="categoryOfCardinalMark" numeric="7"/>
+                <AttributeCode code="colourPattern" numeric="8"/>
+                <AttributeCode code="colour" numeric="9"/>
+                <AttributeCode code="topmark" numeric="10"/>
+                <AttributeCode code="topmarkDaymarkShape" numeric="11"/>
+                <AttributeCode code="waterLevelEffect" numeric="12"/>
+                <AttributeCode code="surroundingDepth" numeric="13"/>
+                <AttributeCode code="defaultClearanceDepth" numeric="14"/>
+                <AttributeCode code="restriction" numeric="15"/>
+            </AttributeCodes>
+            <InformationTypeCodes/>
+            <FeatureTypeCodes>
+                <FeatureTypeCode code="DataCoverage" numeric="1"/>
+                <FeatureTypeCode code="DepthArea" numeric="2"/>
+                <FeatureTypeCode code="SiloTank" numeric="3"/>
+                <FeatureTypeCode code="CableSubmarine" numeric="4"/>
+                <FeatureTypeCode code="BuoyCardinal" numeric="5"/>
+                <FeatureTypeCode code="Wreck" numeric="6"/>
+                <FeatureTypeCode code="Obstruction" numeric="7"/>
+                <FeatureTypeCode code="RestrictedAreaNavigational" numeric="8"/>
+            </FeatureTypeCodes>
+            <InformationAssociationCodes/>
+            <FeatureAssociationCodes/>
+            <AssociationRoleCodes/>
+        </DataSetIdentification>
+    </DatasetGeneralInformation>
+    <DatasetCoordinateReferenceSystems>
+        <CoordinateReferenceSystemRecordIdentifier NumberOfCRSComponents="3" rcid="1" rcnm="15">
+            <CoordinateReferenceSystemHeader crsIdentifier="4326" ellipsoidal="true" identifier="1" name="WGS84" source="EPSG" sourceInfo="" vertical="true"/>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" identifier="2" name="Depth - approximate lowest astronomical tide" source="Not Applicable" sourceInfo="" vertical="false">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Metre"/>
+                <VerticalDatum identifier="10" name="approximate lowest astronomical tide" source="2"/>
+            </CoordinateReferenceSystemHeader>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" identifier="3" name="Heights - mean sea level" source="Not Applicable" sourceInfo="" vertical="false">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Metre"/>
+                <VerticalDatum identifier="3" name="mean sea level" source="2"/>
+            </CoordinateReferenceSystemHeader>
+        </CoordinateReferenceSystemRecordIdentifier>
+    </DatasetCoordinateReferenceSystems>
+    <Informations/>
+    <FeatureTypes>
+        <FeatureRecord>
+            <Identifier featureType="DataCoverage" rcid="257" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_1752024277_499</Foid>
+            <SimpleAttribute atin="insert" index="1" type="maximumDisplayScale" value="45000"/>
+            <SimpleAttribute atin="insert" index="1" type="minimumDisplayScale" value="90000"/>
+            <Surface ornt="forward" rrid="257" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthArea" rcid="258" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-609984645_500</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value="0"/>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMaximumValue" value="30"/>
+            <Surface ornt="forward" rrid="258" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="SiloTank" rcid="278" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-1823880105_214</Foid>
+            <SimpleAttribute atin="insert" index="1" type="inTheWater" value="true"/>
+            <Surface ornt="forward" rrid="278" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="CableSubmarine" rcid="279" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_1823161373_213</Foid>
+            <Curve ornt="forward" rrid="-907065104" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="BuoyCardinal" rcid="280" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_967402877_211</Foid>
+            <SimpleAttribute atin="insert" index="1" type="buoyShape" value="5"/>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfCardinalMark" value="1"/>
+            <SimpleAttribute atin="insert" index="1" type="colourPattern" value="1"/>
+            <SimpleAttribute atin="insert" index="1" type="colour" value=""/>
+            <ComplexAttribute atin="insert" index="1" type="topmark">
+                <SimpleAttribute atin="insert" index="1" type="colour" value="2"/>
+                <SimpleAttribute atin="insert" index="1" type="topmarkDaymarkShape" value="13"/>
+            </ComplexAttribute>
+            <Point rrid="3" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Wreck" rcid="266" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_423106769_505</Foid>
+            <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="4"/>
+            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="0"/>
+            <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="-15"/>
+            <Point rrid="6" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Obstruction" rcid="267" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-403026221_506</Foid>
+            <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="0"/>
+            <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="-15"/>
+            <Curve ornt="forward" rrid="5" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="RestrictedAreaNavigational" rcid="268" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_-1614012162_507</Foid>
+            <SimpleAttribute atin="insert" index="1" type="restriction" value=""/>
+            <Surface ornt="forward" rrid="268" saui="insert"/>
+        </FeatureRecord>
+    </FeatureTypes>
+</Dataset>
