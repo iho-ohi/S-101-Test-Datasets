@@ -50,7 +50,7 @@
                 <!--Number of Curve records-->
                 <nocn>1368</nocn>
                 <!--Number of Composite Curve records-->
-                <noxn>321</noxn>
+                <noxn>320</noxn>
                 <!--Number of Surface records-->
                 <nosn>228</nosn>
                 <!--Number of Feature records-->
@@ -58,13 +58,13 @@
             </DataSetStructureInformation>
             <AttributeCodes>
                 <AttributeCode code="basedOnFixedMarks" numeric="93"/>
-                <AttributeCode code="beaconShape" numeric="10"/>
+                <AttributeCode code="beaconShape" numeric="15"/>
                 <AttributeCode code="buoyShape" numeric="31"/>
                 <AttributeCode code="categoryOfAirportAirfield" numeric="9"/>
                 <AttributeCode code="categoryOfAnchorage" numeric="3"/>
                 <AttributeCode code="categoryOfBuiltUpArea" numeric="33"/>
                 <AttributeCode code="categoryOfCable" numeric="37"/>
-                <AttributeCode code="categoryOfCardinalMark" numeric="11"/>
+                <AttributeCode code="categoryOfCardinalMark" numeric="10"/>
                 <AttributeCode code="categoryOfCoastline" numeric="45"/>
                 <AttributeCode code="categoryOfCrane" numeric="47"/>
                 <AttributeCode code="categoryOfDock" numeric="53"/>
@@ -94,8 +94,8 @@
                 <AttributeCode code="categoryOfVegetation" numeric="118"/>
                 <AttributeCode code="categoryOfWreck" numeric="119"/>
                 <AttributeCode code="categoryOfZoneOfConfidenceInData" numeric="84"/>
-                <AttributeCode code="colour" numeric="12"/>
-                <AttributeCode code="colourPattern" numeric="13"/>
+                <AttributeCode code="colour" numeric="11"/>
+                <AttributeCode code="colourPattern" numeric="12"/>
                 <AttributeCode code="condition" numeric="52"/>
                 <AttributeCode code="dataAssessment" numeric="78"/>
                 <AttributeCode code="dateEnd" numeric="90"/>
@@ -166,8 +166,8 @@
                 <AttributeCode code="tidalStreamPanelValues" numeric="111"/>
                 <AttributeCode code="tidalStreamValue" numeric="114"/>
                 <AttributeCode code="timeRelativeToTide" numeric="116"/>
-                <AttributeCode code="topmark" numeric="14"/>
-                <AttributeCode code="topmarkDaymarkShape" numeric="15"/>
+                <AttributeCode code="topmark" numeric="13"/>
+                <AttributeCode code="topmarkDaymarkShape" numeric="14"/>
                 <AttributeCode code="trafficFlow" numeric="94"/>
                 <AttributeCode code="uncertaintyFixed" numeric="86"/>
                 <AttributeCode code="uncertaintyVariableFactor" numeric="88"/>
@@ -259,8 +259,8 @@
                 <FeatureTypeCode code="Wreck" numeric="67"/>
             </FeatureTypeCodes>
             <InformationAssociationCodes>
-                <code code="AdditionalInformation" numeric="2"/>
-                <code code="SpatialAssociation" numeric="1"/>
+                <InformationAssociationCode code="AdditionalInformation" numeric="2"/>
+                <InformationAssociationCode code="SpatialAssociation" numeric="1"/>
             </InformationAssociationCodes>
             <FeatureAssociationCodes>
                 <FeatureAssociationCode code="MooringTrotAggregation" numeric="1"/>
@@ -268,23 +268,23 @@
                 <FeatureAssociationCode code="StructureEquipment" numeric="3"/>
             </FeatureAssociationCodes>
             <AssociationRoleCodes>
-                <roleCode code="consistsOf" numeric="3"/>
-                <roleCode code="defines" numeric="1"/>
-                <roleCode code="providesInformation" numeric="2"/>
-                <roleCode code="supportedBy" numeric="5"/>
-                <roleCode code="supports" numeric="4"/>
+                <AssociationRoleCode code="consistsOf" numeric="3"/>
+                <AssociationRoleCode code="defines" numeric="1"/>
+                <AssociationRoleCode code="providesInformation" numeric="2"/>
+                <AssociationRoleCode code="supportedBy" numeric="5"/>
+                <AssociationRoleCode code="supports" numeric="4"/>
             </AssociationRoleCodes>
         </DataSetIdentification>
     </DataSetGeneralInformation>
     <DataSetCoordinateReferenceSystems>
         <CoordinateReferenceSystemRecordIdentifier NumberOfCRSComponents="3" rcid="1" rcnm="15">
-            <CoordinateReferenceSystemHeader crsIdentifier="4326" ellipsoidal="true" identifier="1" name="WGS84" source="EPSG" sourceInfo="" vertical="true"/>
-            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" identifier="2" name="Depth - approximate lowest astronomical tide" source="Not Applicable" sourceInfo="" vertical="false">
-                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Metre"/>
+            <CoordinateReferenceSystemHeader crsIdentifier="4326" ellipsoidal="true" horizontal="true" identifier="1" name="WGS84" source="EPSG" sourceInfo=""/>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" horizontal="false" identifier="2" name="Depth - approximate lowest astronomical tide" source="Not Applicable" sourceInfo="">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Meter"/>
                 <VerticalDatum identifier="10" name="approximate lowest astronomical tide" source="2"/>
             </CoordinateReferenceSystemHeader>
-            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" identifier="3" name="Heights - mean sea level" source="Not Applicable" sourceInfo="" vertical="false">
-                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Metre"/>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" horizontal="false" identifier="3" name="Heights - mean sea level" source="Not Applicable" sourceInfo="">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Meter"/>
                 <VerticalDatum identifier="3" name="mean sea level" source="2"/>
             </CoordinateReferenceSystemHeader>
         </CoordinateReferenceSystemRecordIdentifier>
@@ -18474,6 +18474,53 @@
             <Curve ornt="forward" rrid="546"/>
         </CompositeCurveRecord>
         <CompositeCurveRecord>
+            <Identifier rcid="528" rcnm="125" ruin="insert" version="1"/>
+            <Curve ornt="forward" rrid="257"/>
+            <Curve ornt="forward" rrid="258"/>
+            <Curve ornt="forward" rrid="259"/>
+            <Curve ornt="forward" rrid="781"/>
+            <Curve ornt="forward" rrid="260"/>
+            <Curve ornt="forward" rrid="261"/>
+            <Curve ornt="forward" rrid="262"/>
+            <Curve ornt="reverse" rrid="98"/>
+            <Curve ornt="reverse" rrid="99"/>
+            <Curve ornt="reverse" rrid="90"/>
+            <Curve ornt="reverse" rrid="87"/>
+            <Curve ornt="reverse" rrid="88"/>
+            <Curve ornt="reverse" rrid="89"/>
+            <Curve ornt="reverse" rrid="100"/>
+            <Curve ornt="reverse" rrid="101"/>
+            <Curve ornt="forward" rrid="263"/>
+            <Curve ornt="forward" rrid="264"/>
+            <Curve ornt="forward" rrid="265"/>
+            <Curve ornt="forward" rrid="266"/>
+            <Curve ornt="forward" rrid="267"/>
+            <Curve ornt="forward" rrid="268"/>
+            <Curve ornt="forward" rrid="269"/>
+            <Curve ornt="forward" rrid="270"/>
+            <Curve ornt="forward" rrid="245"/>
+            <Curve ornt="forward" rrid="246"/>
+            <Curve ornt="forward" rrid="238"/>
+            <Curve ornt="forward" rrid="239"/>
+            <Curve ornt="forward" rrid="240"/>
+            <Curve ornt="forward" rrid="25"/>
+            <Curve ornt="forward" rrid="22"/>
+            <Curve ornt="forward" rrid="24"/>
+            <Curve ornt="forward" rrid="23"/>
+            <Curve ornt="forward" rrid="15"/>
+            <Curve ornt="forward" rrid="241"/>
+            <Curve ornt="forward" rrid="242"/>
+            <Curve ornt="forward" rrid="243"/>
+            <Curve ornt="forward" rrid="244"/>
+            <Curve ornt="forward" rrid="705"/>
+            <Curve ornt="forward" rrid="704"/>
+            <Curve ornt="forward" rrid="780"/>
+            <Curve ornt="forward" rrid="779"/>
+            <Curve ornt="forward" rrid="778"/>
+            <Curve ornt="forward" rrid="773"/>
+            <Curve ornt="forward" rrid="772"/>
+        </CompositeCurveRecord>
+        <CompositeCurveRecord>
             <Identifier rcid="529" rcnm="125" ruin="insert" version="1"/>
             <Curve ornt="forward" rrid="247"/>
             <Curve ornt="forward" rrid="248"/>
@@ -20134,13 +20181,6 @@
             <Curve ornt="forward" rrid="496"/>
         </CompositeCurveRecord>
         <CompositeCurveRecord>
-            <Identifier rcid="2147483645" rcnm="125" ruin="insert" version="1"/>
-            <Curve ornt="forward" rrid="783"/>
-            <Curve ornt="reverse" rrid="785"/>
-            <Curve ornt="reverse" rrid="784"/>
-            <Curve ornt="reverse" rrid="786"/>
-        </CompositeCurveRecord>
-        <CompositeCurveRecord>
             <Identifier rcid="2147483646" rcnm="125" ruin="insert" version="1"/>
             <Curve ornt="forward" rrid="502"/>
             <Curve ornt="forward" rrid="504"/>
@@ -20149,53 +20189,6 @@
             <Curve ornt="forward" rrid="500"/>
             <Curve ornt="forward" rrid="499"/>
             <Curve ornt="forward" rrid="501"/>
-        </CompositeCurveRecord>
-        <CompositeCurveRecord>
-            <Identifier rcid="2147483647" rcnm="125" ruin="insert" version="1"/>
-            <Curve ornt="forward" rrid="257"/>
-            <Curve ornt="forward" rrid="258"/>
-            <Curve ornt="forward" rrid="259"/>
-            <Curve ornt="forward" rrid="781"/>
-            <Curve ornt="forward" rrid="260"/>
-            <Curve ornt="forward" rrid="261"/>
-            <Curve ornt="forward" rrid="262"/>
-            <Curve ornt="reverse" rrid="98"/>
-            <Curve ornt="reverse" rrid="99"/>
-            <Curve ornt="reverse" rrid="90"/>
-            <Curve ornt="reverse" rrid="87"/>
-            <Curve ornt="reverse" rrid="88"/>
-            <Curve ornt="reverse" rrid="89"/>
-            <Curve ornt="reverse" rrid="100"/>
-            <Curve ornt="reverse" rrid="101"/>
-            <Curve ornt="forward" rrid="263"/>
-            <Curve ornt="forward" rrid="264"/>
-            <Curve ornt="forward" rrid="265"/>
-            <Curve ornt="forward" rrid="266"/>
-            <Curve ornt="forward" rrid="267"/>
-            <Curve ornt="forward" rrid="268"/>
-            <Curve ornt="forward" rrid="269"/>
-            <Curve ornt="forward" rrid="270"/>
-            <Curve ornt="forward" rrid="245"/>
-            <Curve ornt="forward" rrid="246"/>
-            <Curve ornt="forward" rrid="238"/>
-            <Curve ornt="forward" rrid="239"/>
-            <Curve ornt="forward" rrid="240"/>
-            <Curve ornt="forward" rrid="25"/>
-            <Curve ornt="forward" rrid="22"/>
-            <Curve ornt="forward" rrid="24"/>
-            <Curve ornt="forward" rrid="23"/>
-            <Curve ornt="forward" rrid="15"/>
-            <Curve ornt="forward" rrid="241"/>
-            <Curve ornt="forward" rrid="242"/>
-            <Curve ornt="forward" rrid="243"/>
-            <Curve ornt="forward" rrid="244"/>
-            <Curve ornt="forward" rrid="705"/>
-            <Curve ornt="forward" rrid="704"/>
-            <Curve ornt="forward" rrid="780"/>
-            <Curve ornt="forward" rrid="779"/>
-            <Curve ornt="forward" rrid="778"/>
-            <Curve ornt="forward" rrid="773"/>
-            <Curve ornt="forward" rrid="772"/>
         </CompositeCurveRecord>
     </CompositeCurves>
     <Surfaces>
@@ -20791,9 +20784,7 @@
         </SurfaceRecord>
         <SurfaceRecord>
             <Identifier rcid="528" rcnm="130" ruin="insert" version="1"/>
-            <CompositeCurve ornt="forward" raui="insert" rrid="2147483647" usage="exterior"/>
-            <CompositeCurve ornt="forward" raui="insert" rrid="2147483645" usage="interior"/>
-            <CompositeCurve ornt="reverse" raui="insert" rrid="577" usage="interior"/>
+            <CompositeCurve ornt="forward" raui="insert" rrid="528" usage="exterior"/>
         </SurfaceRecord>
         <SurfaceRecord>
             <Identifier rcid="529" rcnm="130" ruin="insert" version="1"/>
@@ -25092,8 +25083,8 @@
         <FeatureRecord>
             <Identifier featureType="DataCoverage" rcid="585" rcnm="100" ruin="insert" version="1"/>
             <Foid>1810_2135152945_687</Foid>
-            <SimpleAttribute atin="insert" index="1" type="maximumDisplayScale" value="12000"/>
-            <SimpleAttribute atin="insert" index="1" type="minimumDisplayScale" value="22000"/>
+            <SimpleAttribute atin="insert" index="1" type="maximumDisplayScale" value="22000"/>
+            <SimpleAttribute atin="insert" index="1" type="minimumDisplayScale" value="45000"/>
             <Surface ornt="forward" rrid="585" saui="insert"/>
             <Masks>
                 <Curve indicator="truncated" muin="insert" rrid="26"/>
@@ -25211,7 +25202,7 @@
         <FeatureRecord>
             <Identifier featureType="LocalDirectionOfBuoyage" rcid="586" rcnm="100" ruin="insert" version="1"/>
             <Foid>1810_2135153149_687</Foid>
-            <SimpleAttribute atin="insert" index="1" type="marksNavigationalSystemOf" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="marksNavigationalSystemOf" value="1"/>
             <SimpleAttribute atin="insert" index="1" type="orientationValue" value="310"/>
             <Surface ornt="forward" rrid="586" saui="insert"/>
             <Masks>
@@ -28443,7 +28434,7 @@
             <Point rrid="155" saui="insert"/>
         </FeatureRecord>
         <FeatureRecord>
-            <Identifier featureType="RestrictedAreaNavigational" rcid="915" rcnm="100" ruin="insert" version="1"/>
+            <Identifier featureType="RestrictedAreaNavigational" rcid="915" rcnm="100" ruin="insert" version="2"/>
             <Foid>1810_584491392_1569</Foid>
             <ComplexAttribute atin="insert" index="1" type="fixedDateRange">
                 <SimpleAttribute atin="insert" index="1" type="dateStart" value="20050220"/>

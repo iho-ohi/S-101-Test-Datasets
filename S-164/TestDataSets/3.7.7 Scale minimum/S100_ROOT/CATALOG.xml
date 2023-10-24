@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><S100XC:S100_ExchangeCatalogue xmlns:S100CI="http://www.iho.int/S100CI/5.0" xmlns:S100SE="http://www.iho.int/s100/se/5.0" xmlns:S100XC="http://www.iho.int/s100/xc/5.0" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gcx="http://standards.iso.org/iso/19115/-3/gcx/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.iho.int/s100/xc/5.0       https://schemas.s100dev.net/schemas/S100/5.0.0/S100Catalog/20220705/S100_ExchangeCatalogue.xsd">
 	<S100XC:identifier>
 	<S100XC:identifier>3.7.7 Scale minimum</S100XC:identifier>
-        <S100XC:dateTime>2023-09-06T11:12:11Z</S100XC:dateTime>
+        <S100XC:dateTime>2023-10-19T16:53:40Z</S100XC:dateTime>
     </S100XC:identifier>
 	<S100XC:contact>
 		<S100XC:organization>
@@ -45,7 +45,7 @@
             <S100XC:dataProtection>false</S100XC:dataProtection>
             <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
             <S100XC:digitalSignatureValue>
-                <S100SE:S100_SE_SignatureOnData certificateRef="urn:mrn:iho:org:00" id="00AA_SCAMN">MEUCIBEvrYyM6wv/lhGyMZTZKYu1Te4TWOdNtj/G/pnQglVhAiEAgY6hhK/CvCqv06yz4da+z8K29tmfkkDW6IqvKhHFmjM=</S100SE:S100_SE_SignatureOnData>
+                <S100SE:S100_SE_SignatureOnData certificateRef="urn:mrn:iho:org:00" id="00AA_SCAMN">MEQCIBe2aExiAqZH37Aup4eEnGuqmrcUFQxpzBPZ1X4nPun/AiBwYxxmlGPQkvOocfvShxhWV1c5rTMyWZDD9QvJMGd9cg==</S100SE:S100_SE_SignatureOnData>
             </S100XC:digitalSignatureValue>
             <S100XC:copyright>false</S100XC:copyright>
             <S100XC:purpose>newDataset</S100XC:purpose>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<DataSet>
+<Dataset>
     <DataSetGeneralInformation>
         <DataSetIdentification>
             <!--RecordName-->
@@ -53,14 +53,14 @@
                 <noxn>0</noxn>
                 <!--Number of Surface records-->
                 <nosn>2</nosn>
-                <!--Number of Feature Type records-->
+                <!--Number of Feature records-->
                 <nofr>2</nofr>
             </DataSetStructureInformation>
             <AttributeCodes/>
             <InformationTypeCodes/>
             <FeatureTypeCodes>
-                <FeatureTypeCode code="RestrictedAreaNavigational" numeric="1"/>
                 <FeatureTypeCode code="CautionArea" numeric="2"/>
+                <FeatureTypeCode code="RestrictedAreaNavigational" numeric="1"/>
             </FeatureTypeCodes>
             <InformationAssociationCodes/>
             <FeatureAssociationCodes/>
@@ -112,4 +112,4 @@
             <Foid>1810_584492248_1569</Foid>
         </FeatureRecord>
     </Features>
-</DataSet>
+</Dataset>

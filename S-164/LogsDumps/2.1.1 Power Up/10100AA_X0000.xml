@@ -117,7 +117,7 @@
                 <AttributeCode code="dataAssessment" numeric="109"/>
                 <AttributeCode code="dateEnd" numeric="121"/>
                 <AttributeCode code="dateStart" numeric="144"/>
-                <AttributeCode code="defaultClearanceDepth" numeric="7"/>
+                <AttributeCode code="defaultClearanceDepth" numeric="6"/>
                 <AttributeCode code="depthRangeMaximumValue" numeric="56"/>
                 <AttributeCode code="depthRangeMinimumValue" numeric="55"/>
                 <AttributeCode code="directionalCharacter" numeric="127"/>
@@ -185,7 +185,7 @@
                 <AttributeCode code="stationNumber" numeric="46"/>
                 <AttributeCode code="status" numeric="41"/>
                 <AttributeCode code="surfaceCharacteristics" numeric="23"/>
-                <AttributeCode code="surroundingDepth" numeric="6"/>
+                <AttributeCode code="surroundingDepth" numeric="5"/>
                 <AttributeCode code="surveyDateRange" numeric="120"/>
                 <AttributeCode code="techniqueOfVerticalMeasurement" numeric="122"/>
                 <AttributeCode code="text" numeric="155"/>
@@ -203,7 +203,7 @@
                 <AttributeCode code="valueOfLocalMagneticAnomaly" numeric="101"/>
                 <AttributeCode code="valueOfMagneticVariation" numeric="141"/>
                 <AttributeCode code="valueOfNominalRange" numeric="32"/>
-                <AttributeCode code="valueOfSounding" numeric="4"/>
+                <AttributeCode code="valueOfSounding" numeric="7"/>
                 <AttributeCode code="verticalClearanceClosed" numeric="136"/>
                 <AttributeCode code="verticalClearanceFixed" numeric="87"/>
                 <AttributeCode code="verticalClearanceOpen" numeric="137"/>
@@ -211,7 +211,7 @@
                 <AttributeCode code="verticalDatum" numeric="142"/>
                 <AttributeCode code="verticalUncertainty" numeric="119"/>
                 <AttributeCode code="visualProminence" numeric="38"/>
-                <AttributeCode code="waterLevelEffect" numeric="5"/>
+                <AttributeCode code="waterLevelEffect" numeric="4"/>
                 <AttributeCode code="waveLengthValue" numeric="105"/>
                 <AttributeCode code="zoneOfConfidence" numeric="114"/>
             </AttributeCodes>
@@ -344,8 +344,8 @@
                 <FeatureTypeCode code="Wreck" numeric="33"/>
             </FeatureTypeCodes>
             <InformationAssociationCodes>
-                <code code="AdditionalInformation" numeric="2"/>
-                <code code="SpatialAssociation" numeric="1"/>
+                <InformationAssociationCode code="AdditionalInformation" numeric="2"/>
+                <InformationAssociationCode code="SpatialAssociation" numeric="1"/>
             </InformationAssociationCodes>
             <FeatureAssociationCodes>
                 <FeatureAssociationCode code="BridgeAggregation" numeric="4"/>
@@ -354,23 +354,23 @@
                 <FeatureAssociationCode code="TrafficSeparationSchemeAggregation" numeric="2"/>
             </FeatureAssociationCodes>
             <AssociationRoleCodes>
-                <roleCode code="componentOf" numeric="4"/>
-                <roleCode code="consistsOf" numeric="3"/>
-                <roleCode code="defines" numeric="1"/>
-                <roleCode code="providesInformation" numeric="2"/>
-                <roleCode code="supports" numeric="5"/>
+                <AssociationRoleCode code="componentOf" numeric="4"/>
+                <AssociationRoleCode code="consistsOf" numeric="3"/>
+                <AssociationRoleCode code="defines" numeric="1"/>
+                <AssociationRoleCode code="providesInformation" numeric="2"/>
+                <AssociationRoleCode code="supports" numeric="5"/>
             </AssociationRoleCodes>
         </DataSetIdentification>
     </DataSetGeneralInformation>
     <DataSetCoordinateReferenceSystems>
         <CoordinateReferenceSystemRecordIdentifier NumberOfCRSComponents="3" rcid="1" rcnm="15">
-            <CoordinateReferenceSystemHeader crsIdentifier="4326" ellipsoidal="true" identifier="1" name="WGS84" source="EPSG" sourceInfo="" vertical="true"/>
-            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" identifier="2" name="Depth - approximate lowest astronomical tide" source="Not Applicable" sourceInfo="" vertical="false">
-                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Metre"/>
+            <CoordinateReferenceSystemHeader crsIdentifier="4326" ellipsoidal="true" horizontal="true" identifier="1" name="WGS84" source="EPSG" sourceInfo=""/>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" horizontal="false" identifier="2" name="Depth - approximate lowest astronomical tide" source="Not Applicable" sourceInfo="">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Meter"/>
                 <VerticalDatum identifier="10" name="approximate lowest astronomical tide" source="2"/>
             </CoordinateReferenceSystemHeader>
-            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" identifier="3" name="Heights - mean sea level" source="Not Applicable" sourceInfo="" vertical="false">
-                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Metre"/>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" horizontal="false" identifier="3" name="Heights - mean sea level" source="Not Applicable" sourceInfo="">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Meter"/>
                 <VerticalDatum identifier="3" name="mean sea level" source="2"/>
             </CoordinateReferenceSystemHeader>
         </CoordinateReferenceSystemRecordIdentifier>
@@ -573,7 +573,7 @@
         <InformationRecord>
             <Identifier code="NauticalInformation" rcid="34" rcnm="150" ruin="insert" version="1"/>
             <ComplexAttribute atin="insert" index="1" type="information"/>
-            <SimpleAttribute atin="insert" index="1" type="pictorialRepresentation" value="10100AA_4000T.TIF"/>
+            <SimpleAttribute atin="insert" index="1" type="pictorialRepresentation" value="10100AAX4000T.TIF"/>
         </InformationRecord>
         <InformationRecord>
             <Identifier code="NauticalInformation" rcid="35" rcnm="150" ruin="insert" version="1"/>
@@ -626,7 +626,7 @@
         <InformationRecord>
             <Identifier code="NauticalInformation" rcid="43" rcnm="150" ruin="insert" version="1"/>
             <ComplexAttribute atin="insert" index="1" type="information"/>
-            <SimpleAttribute atin="insert" index="1" type="pictorialRepresentation" value="10100AA_ESTPC.TIF"/>
+            <SimpleAttribute atin="insert" index="1" type="pictorialRepresentation" value="10100AATESTPC.TIF"/>
         </InformationRecord>
         <InformationRecord>
             <Identifier code="NauticalInformation" rcid="44" rcnm="150" ruin="insert" version="1"/>
@@ -685,7 +685,7 @@
         <InformationRecord>
             <Identifier code="NauticalInformation" rcid="53" rcnm="150" ruin="insert" version="1"/>
             <ComplexAttribute atin="insert" index="1" type="information">
-                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AA_HAINS.TXT"/>
+                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AACHAINS.TXT"/>
             </ComplexAttribute>
         </InformationRecord>
         <InformationRecord>
@@ -703,13 +703,13 @@
         <InformationRecord>
             <Identifier code="NauticalInformation" rcid="56" rcnm="150" ruin="insert" version="1"/>
             <ComplexAttribute atin="insert" index="1" type="information">
-                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AA_EVARE.TXT"/>
+                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AADEVARE.TXT"/>
             </ComplexAttribute>
         </InformationRecord>
         <InformationRecord>
             <Identifier code="NauticalInformation" rcid="57" rcnm="150" ruin="insert" version="1"/>
             <ComplexAttribute atin="insert" index="1" type="information">
-                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AA_HAINS.TXT"/>
+                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AACHAINS.TXT"/>
             </ComplexAttribute>
         </InformationRecord>
         <InformationRecord>
@@ -727,7 +727,7 @@
         <InformationRecord>
             <Identifier code="NauticalInformation" rcid="60" rcnm="150" ruin="insert" version="1"/>
             <ComplexAttribute atin="insert" index="1" type="information">
-                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AA_EVARE.TXT"/>
+                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AADEVARE.TXT"/>
             </ComplexAttribute>
         </InformationRecord>
         <InformationRecord>
@@ -769,7 +769,7 @@
         <InformationRecord>
             <Identifier code="NauticalInformation" rcid="67" rcnm="150" ruin="insert" version="1"/>
             <ComplexAttribute atin="insert" index="1" type="information">
-                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AA_ECTMP.TXT"/>
+                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AAIECTMP.TXT"/>
             </ComplexAttribute>
         </InformationRecord>
         <InformationRecord>
@@ -37237,6 +37237,57 @@
             <Curve ornt="forward" rrid="1308"/>
         </CompositeCurveRecord>
         <CompositeCurveRecord>
+            <Identifier rcid="1160" rcnm="125" ruin="insert" version="1"/>
+            <Curve ornt="forward" rrid="1409"/>
+            <Curve ornt="forward" rrid="1408"/>
+            <Curve ornt="forward" rrid="1407"/>
+            <Curve ornt="forward" rrid="1406"/>
+            <Curve ornt="reverse" rrid="1510"/>
+            <Curve ornt="reverse" rrid="1504"/>
+            <Curve ornt="reverse" rrid="1511"/>
+            <Curve ornt="reverse" rrid="1512"/>
+            <Curve ornt="reverse" rrid="1513"/>
+            <Curve ornt="reverse" rrid="1514"/>
+            <Curve ornt="reverse" rrid="1515"/>
+            <Curve ornt="reverse" rrid="1516"/>
+            <Curve ornt="reverse" rrid="1498"/>
+            <Curve ornt="reverse" rrid="1499"/>
+            <Curve ornt="reverse" rrid="1500"/>
+            <Curve ornt="reverse" rrid="1501"/>
+            <Curve ornt="reverse" rrid="1517"/>
+            <Curve ornt="forward" rrid="1320"/>
+            <Curve ornt="forward" rrid="1319"/>
+            <Curve ornt="forward" rrid="1318"/>
+            <Curve ornt="forward" rrid="1317"/>
+            <Curve ornt="forward" rrid="1316"/>
+            <Curve ornt="forward" rrid="1315"/>
+            <Curve ornt="forward" rrid="1314"/>
+            <Curve ornt="forward" rrid="1313"/>
+            <Curve ornt="forward" rrid="1312"/>
+            <Curve ornt="forward" rrid="1311"/>
+            <Curve ornt="forward" rrid="1310"/>
+            <Curve ornt="forward" rrid="1309"/>
+            <Curve ornt="forward" rrid="1308"/>
+            <Curve ornt="forward" rrid="1307"/>
+            <Curve ornt="forward" rrid="1306"/>
+            <Curve ornt="forward" rrid="1305"/>
+            <Curve ornt="forward" rrid="1304"/>
+            <Curve ornt="forward" rrid="1303"/>
+            <Curve ornt="forward" rrid="1302"/>
+            <Curve ornt="forward" rrid="1301"/>
+            <Curve ornt="forward" rrid="1300"/>
+            <Curve ornt="forward" rrid="1299"/>
+            <Curve ornt="forward" rrid="1298"/>
+            <Curve ornt="forward" rrid="1297"/>
+            <Curve ornt="forward" rrid="1296"/>
+            <Curve ornt="forward" rrid="1295"/>
+            <Curve ornt="forward" rrid="1294"/>
+            <Curve ornt="forward" rrid="1293"/>
+            <Curve ornt="forward" rrid="1292"/>
+            <Curve ornt="forward" rrid="1291"/>
+            <Curve ornt="forward" rrid="1410"/>
+        </CompositeCurveRecord>
+        <CompositeCurveRecord>
             <Identifier rcid="1161" rcnm="125" ruin="insert" version="1"/>
             <Curve ornt="reverse" rrid="1371"/>
             <Curve ornt="reverse" rrid="1372"/>
@@ -41172,6 +41223,392 @@
             <Curve ornt="reverse" rrid="1408"/>
         </CompositeCurveRecord>
         <CompositeCurveRecord>
+            <Identifier rcid="1420" rcnm="125" ruin="insert" version="1"/>
+            <Curve ornt="forward" rrid="1330"/>
+            <Curve ornt="forward" rrid="1329"/>
+            <Curve ornt="forward" rrid="1328"/>
+            <Curve ornt="forward" rrid="1327"/>
+            <Curve ornt="forward" rrid="1326"/>
+            <Curve ornt="forward" rrid="1325"/>
+            <Curve ornt="forward" rrid="1324"/>
+            <Curve ornt="forward" rrid="1323"/>
+            <Curve ornt="forward" rrid="1322"/>
+            <Curve ornt="forward" rrid="1277"/>
+            <Curve ornt="forward" rrid="1276"/>
+            <Curve ornt="forward" rrid="1275"/>
+            <Curve ornt="reverse" rrid="2387"/>
+            <Curve ornt="reverse" rrid="2388"/>
+            <Curve ornt="reverse" rrid="2389"/>
+            <Curve ornt="reverse" rrid="1289"/>
+            <Curve ornt="reverse" rrid="2390"/>
+            <Curve ornt="reverse" rrid="2391"/>
+            <Curve ornt="reverse" rrid="2392"/>
+            <Curve ornt="reverse" rrid="2337"/>
+            <Curve ornt="reverse" rrid="2338"/>
+            <Curve ornt="reverse" rrid="2339"/>
+            <Curve ornt="reverse" rrid="2340"/>
+            <Curve ornt="reverse" rrid="2341"/>
+            <Curve ornt="reverse" rrid="2342"/>
+            <Curve ornt="reverse" rrid="1092"/>
+            <Curve ornt="reverse" rrid="2343"/>
+            <Curve ornt="forward" rrid="287"/>
+            <Curve ornt="forward" rrid="288"/>
+            <Curve ornt="forward" rrid="289"/>
+            <Curve ornt="forward" rrid="290"/>
+            <Curve ornt="forward" rrid="291"/>
+            <Curve ornt="forward" rrid="292"/>
+            <Curve ornt="forward" rrid="293"/>
+            <Curve ornt="forward" rrid="294"/>
+            <Curve ornt="forward" rrid="295"/>
+            <Curve ornt="forward" rrid="296"/>
+            <Curve ornt="forward" rrid="297"/>
+            <Curve ornt="forward" rrid="298"/>
+            <Curve ornt="forward" rrid="299"/>
+            <Curve ornt="forward" rrid="300"/>
+            <Curve ornt="forward" rrid="314"/>
+            <Curve ornt="forward" rrid="278"/>
+            <Curve ornt="forward" rrid="279"/>
+            <Curve ornt="forward" rrid="280"/>
+            <Curve ornt="forward" rrid="281"/>
+            <Curve ornt="forward" rrid="869"/>
+            <Curve ornt="forward" rrid="254"/>
+            <Curve ornt="forward" rrid="1081"/>
+            <Curve ornt="forward" rrid="272"/>
+            <Curve ornt="forward" rrid="273"/>
+            <Curve ornt="forward" rrid="274"/>
+            <Curve ornt="forward" rrid="275"/>
+            <Curve ornt="forward" rrid="276"/>
+            <Curve ornt="forward" rrid="277"/>
+            <Curve ornt="forward" rrid="265"/>
+            <Curve ornt="forward" rrid="266"/>
+            <Curve ornt="forward" rrid="267"/>
+            <Curve ornt="forward" rrid="2224"/>
+            <Curve ornt="forward" rrid="2223"/>
+            <Curve ornt="forward" rrid="803"/>
+            <Curve ornt="forward" rrid="802"/>
+            <Curve ornt="forward" rrid="801"/>
+            <Curve ornt="forward" rrid="800"/>
+            <Curve ornt="forward" rrid="331"/>
+            <Curve ornt="forward" rrid="330"/>
+            <Curve ornt="forward" rrid="329"/>
+            <Curve ornt="forward" rrid="328"/>
+            <Curve ornt="forward" rrid="327"/>
+            <Curve ornt="forward" rrid="1065"/>
+            <Curve ornt="forward" rrid="1033"/>
+            <Curve ornt="forward" rrid="1064"/>
+            <Curve ornt="forward" rrid="1035"/>
+            <Curve ornt="forward" rrid="1063"/>
+            <Curve ornt="forward" rrid="1062"/>
+            <Curve ornt="forward" rrid="1061"/>
+            <Curve ornt="forward" rrid="1060"/>
+            <Curve ornt="forward" rrid="1059"/>
+            <Curve ornt="forward" rrid="1058"/>
+            <Curve ornt="forward" rrid="1057"/>
+            <Curve ornt="forward" rrid="1056"/>
+            <Curve ornt="forward" rrid="1055"/>
+            <Curve ornt="forward" rrid="1054"/>
+            <Curve ornt="forward" rrid="1053"/>
+            <Curve ornt="forward" rrid="1052"/>
+            <Curve ornt="forward" rrid="1051"/>
+            <Curve ornt="forward" rrid="1050"/>
+            <Curve ornt="forward" rrid="1049"/>
+            <Curve ornt="forward" rrid="1048"/>
+            <Curve ornt="forward" rrid="1047"/>
+            <Curve ornt="forward" rrid="1046"/>
+            <Curve ornt="forward" rrid="1045"/>
+            <Curve ornt="forward" rrid="1044"/>
+            <Curve ornt="forward" rrid="1043"/>
+            <Curve ornt="forward" rrid="1042"/>
+            <Curve ornt="forward" rrid="1041"/>
+            <Curve ornt="forward" rrid="1040"/>
+            <Curve ornt="forward" rrid="1039"/>
+            <Curve ornt="forward" rrid="135"/>
+            <Curve ornt="forward" rrid="127"/>
+            <Curve ornt="forward" rrid="128"/>
+            <Curve ornt="forward" rrid="129"/>
+            <Curve ornt="forward" rrid="130"/>
+            <Curve ornt="forward" rrid="1028"/>
+            <Curve ornt="forward" rrid="1030"/>
+            <Curve ornt="forward" rrid="1075"/>
+            <Curve ornt="forward" rrid="1074"/>
+            <Curve ornt="forward" rrid="1073"/>
+            <Curve ornt="forward" rrid="1079"/>
+            <Curve ornt="forward" rrid="1078"/>
+            <Curve ornt="forward" rrid="1077"/>
+            <Curve ornt="forward" rrid="1076"/>
+            <Curve ornt="forward" rrid="1069"/>
+            <Curve ornt="forward" rrid="2222"/>
+            <Curve ornt="forward" rrid="982"/>
+            <Curve ornt="forward" rrid="2221"/>
+            <Curve ornt="forward" rrid="1067"/>
+            <Curve ornt="forward" rrid="1066"/>
+            <Curve ornt="forward" rrid="323"/>
+            <Curve ornt="forward" rrid="339"/>
+            <Curve ornt="forward" rrid="211"/>
+            <Curve ornt="forward" rrid="210"/>
+            <Curve ornt="forward" rrid="338"/>
+            <Curve ornt="forward" rrid="337"/>
+            <Curve ornt="forward" rrid="2220"/>
+            <Curve ornt="forward" rrid="2219"/>
+            <Curve ornt="forward" rrid="2218"/>
+            <Curve ornt="forward" rrid="798"/>
+            <Curve ornt="forward" rrid="30"/>
+            <Curve ornt="forward" rrid="29"/>
+            <Curve ornt="forward" rrid="799"/>
+            <Curve ornt="forward" rrid="761"/>
+            <Curve ornt="forward" rrid="972"/>
+            <Curve ornt="forward" rrid="971"/>
+            <Curve ornt="forward" rrid="970"/>
+            <Curve ornt="forward" rrid="253"/>
+            <Curve ornt="forward" rrid="250"/>
+            <Curve ornt="forward" rrid="249"/>
+            <Curve ornt="forward" rrid="248"/>
+            <Curve ornt="forward" rrid="969"/>
+            <Curve ornt="forward" rrid="513"/>
+            <Curve ornt="forward" rrid="968"/>
+            <Curve ornt="forward" rrid="967"/>
+            <Curve ornt="forward" rrid="992"/>
+            <Curve ornt="forward" rrid="991"/>
+            <Curve ornt="forward" rrid="990"/>
+            <Curve ornt="forward" rrid="989"/>
+            <Curve ornt="forward" rrid="988"/>
+            <Curve ornt="forward" rrid="966"/>
+            <Curve ornt="forward" rrid="965"/>
+            <Curve ornt="forward" rrid="964"/>
+            <Curve ornt="forward" rrid="963"/>
+            <Curve ornt="forward" rrid="993"/>
+            <Curve ornt="forward" rrid="247"/>
+            <Curve ornt="forward" rrid="246"/>
+            <Curve ornt="forward" rrid="51"/>
+            <Curve ornt="forward" rrid="52"/>
+            <Curve ornt="forward" rrid="53"/>
+            <Curve ornt="forward" rrid="54"/>
+            <Curve ornt="forward" rrid="2217"/>
+            <Curve ornt="forward" rrid="2216"/>
+            <Curve ornt="forward" rrid="2215"/>
+            <Curve ornt="forward" rrid="2214"/>
+            <Curve ornt="forward" rrid="2106"/>
+            <Curve ornt="forward" rrid="2213"/>
+            <Curve ornt="forward" rrid="2141"/>
+            <Curve ornt="forward" rrid="1203"/>
+            <Curve ornt="forward" rrid="482"/>
+            <Curve ornt="forward" rrid="481"/>
+            <Curve ornt="forward" rrid="480"/>
+            <Curve ornt="forward" rrid="479"/>
+            <Curve ornt="forward" rrid="478"/>
+            <Curve ornt="forward" rrid="477"/>
+            <Curve ornt="forward" rrid="476"/>
+            <Curve ornt="forward" rrid="475"/>
+            <Curve ornt="forward" rrid="474"/>
+            <Curve ornt="forward" rrid="473"/>
+            <Curve ornt="forward" rrid="81"/>
+            <Curve ornt="forward" rrid="472"/>
+            <Curve ornt="forward" rrid="471"/>
+            <Curve ornt="forward" rrid="470"/>
+            <Curve ornt="forward" rrid="469"/>
+            <Curve ornt="forward" rrid="468"/>
+            <Curve ornt="forward" rrid="467"/>
+            <Curve ornt="forward" rrid="466"/>
+            <Curve ornt="forward" rrid="2051"/>
+            <Curve ornt="forward" rrid="2050"/>
+            <Curve ornt="forward" rrid="2049"/>
+            <Curve ornt="forward" rrid="1770"/>
+            <Curve ornt="forward" rrid="569"/>
+            <Curve ornt="forward" rrid="572"/>
+            <Curve ornt="forward" rrid="573"/>
+            <Curve ornt="forward" rrid="574"/>
+            <Curve ornt="forward" rrid="549"/>
+            <Curve ornt="forward" rrid="550"/>
+            <Curve ornt="forward" rrid="551"/>
+            <Curve ornt="forward" rrid="919"/>
+            <Curve ornt="forward" rrid="1776"/>
+            <Curve ornt="forward" rrid="1208"/>
+            <Curve ornt="forward" rrid="547"/>
+            <Curve ornt="forward" rrid="548"/>
+            <Curve ornt="forward" rrid="1207"/>
+            <Curve ornt="forward" rrid="1795"/>
+            <Curve ornt="forward" rrid="546"/>
+            <Curve ornt="forward" rrid="576"/>
+            <Curve ornt="forward" rrid="1797"/>
+            <Curve ornt="forward" rrid="575"/>
+            <Curve ornt="forward" rrid="598"/>
+            <Curve ornt="forward" rrid="577"/>
+            <Curve ornt="forward" rrid="578"/>
+            <Curve ornt="forward" rrid="579"/>
+            <Curve ornt="forward" rrid="542"/>
+            <Curve ornt="forward" rrid="543"/>
+            <Curve ornt="forward" rrid="544"/>
+            <Curve ornt="forward" rrid="545"/>
+            <Curve ornt="forward" rrid="538"/>
+            <Curve ornt="forward" rrid="539"/>
+            <Curve ornt="forward" rrid="1753"/>
+            <Curve ornt="forward" rrid="1754"/>
+            <Curve ornt="forward" rrid="2009"/>
+            <Curve ornt="forward" rrid="2008"/>
+            <Curve ornt="forward" rrid="2047"/>
+            <Curve ornt="forward" rrid="2046"/>
+            <Curve ornt="forward" rrid="2045"/>
+            <Curve ornt="forward" rrid="2044"/>
+            <Curve ornt="forward" rrid="2043"/>
+            <Curve ornt="forward" rrid="2042"/>
+            <Curve ornt="forward" rrid="2041"/>
+            <Curve ornt="forward" rrid="2040"/>
+            <Curve ornt="forward" rrid="2039"/>
+            <Curve ornt="forward" rrid="2038"/>
+            <Curve ornt="forward" rrid="2037"/>
+            <Curve ornt="forward" rrid="180"/>
+            <Curve ornt="forward" rrid="181"/>
+            <Curve ornt="forward" rrid="152"/>
+            <Curve ornt="forward" rrid="937"/>
+            <Curve ornt="forward" rrid="938"/>
+            <Curve ornt="forward" rrid="939"/>
+            <Curve ornt="forward" rrid="940"/>
+            <Curve ornt="forward" rrid="153"/>
+            <Curve ornt="forward" rrid="942"/>
+            <Curve ornt="forward" rrid="943"/>
+            <Curve ornt="forward" rrid="154"/>
+            <Curve ornt="forward" rrid="183"/>
+            <Curve ornt="forward" rrid="141"/>
+            <Curve ornt="forward" rrid="178"/>
+            <Curve ornt="forward" rrid="167"/>
+            <Curve ornt="forward" rrid="162"/>
+            <Curve ornt="forward" rrid="163"/>
+            <Curve ornt="forward" rrid="164"/>
+            <Curve ornt="forward" rrid="165"/>
+            <Curve ornt="forward" rrid="166"/>
+            <Curve ornt="forward" rrid="176"/>
+            <Curve ornt="forward" rrid="151"/>
+            <Curve ornt="forward" rrid="1768"/>
+            <Curve ornt="forward" rrid="1841"/>
+            <Curve ornt="forward" rrid="1812"/>
+            <Curve ornt="forward" rrid="1840"/>
+            <Curve ornt="forward" rrid="1839"/>
+            <Curve ornt="forward" rrid="1838"/>
+            <Curve ornt="forward" rrid="1837"/>
+            <Curve ornt="forward" rrid="1836"/>
+            <Curve ornt="forward" rrid="168"/>
+            <Curve ornt="forward" rrid="169"/>
+            <Curve ornt="forward" rrid="170"/>
+            <Curve ornt="forward" rrid="148"/>
+            <Curve ornt="forward" rrid="172"/>
+            <Curve ornt="forward" rrid="150"/>
+            <Curve ornt="forward" rrid="174"/>
+            <Curve ornt="forward" rrid="149"/>
+            <Curve ornt="forward" rrid="1831"/>
+            <Curve ornt="forward" rrid="161"/>
+            <Curve ornt="forward" rrid="1828"/>
+            <Curve ornt="forward" rrid="1829"/>
+            <Curve ornt="forward" rrid="933"/>
+            <Curve ornt="forward" rrid="934"/>
+            <Curve ornt="forward" rrid="935"/>
+            <Curve ornt="forward" rrid="936"/>
+            <Curve ornt="forward" rrid="1843"/>
+            <Curve ornt="forward" rrid="2010"/>
+            <Curve ornt="forward" rrid="1826"/>
+            <Curve ornt="forward" rrid="2011"/>
+            <Curve ornt="forward" rrid="2012"/>
+            <Curve ornt="forward" rrid="2013"/>
+            <Curve ornt="forward" rrid="2014"/>
+            <Curve ornt="forward" rrid="2015"/>
+            <Curve ornt="forward" rrid="2016"/>
+            <Curve ornt="forward" rrid="2017"/>
+            <Curve ornt="forward" rrid="2018"/>
+            <Curve ornt="forward" rrid="2019"/>
+            <Curve ornt="forward" rrid="2020"/>
+            <Curve ornt="forward" rrid="2021"/>
+            <Curve ornt="forward" rrid="2022"/>
+            <Curve ornt="forward" rrid="2023"/>
+            <Curve ornt="forward" rrid="2136"/>
+            <Curve ornt="forward" rrid="2135"/>
+            <Curve ornt="forward" rrid="2134"/>
+            <Curve ornt="forward" rrid="2133"/>
+            <Curve ornt="forward" rrid="2132"/>
+            <Curve ornt="forward" rrid="2131"/>
+            <Curve ornt="forward" rrid="2314"/>
+            <Curve ornt="forward" rrid="2313"/>
+            <Curve ornt="forward" rrid="2312"/>
+            <Curve ornt="forward" rrid="2311"/>
+            <Curve ornt="forward" rrid="2310"/>
+            <Curve ornt="forward" rrid="2309"/>
+            <Curve ornt="forward" rrid="2308"/>
+            <Curve ornt="forward" rrid="2307"/>
+            <Curve ornt="forward" rrid="1391"/>
+            <Curve ornt="forward" rrid="1390"/>
+            <Curve ornt="forward" rrid="1389"/>
+            <Curve ornt="forward" rrid="1388"/>
+            <Curve ornt="forward" rrid="1387"/>
+            <Curve ornt="forward" rrid="1386"/>
+            <Curve ornt="forward" rrid="1385"/>
+            <Curve ornt="forward" rrid="1384"/>
+            <Curve ornt="forward" rrid="1383"/>
+            <Curve ornt="forward" rrid="1382"/>
+            <Curve ornt="forward" rrid="1381"/>
+            <Curve ornt="forward" rrid="1380"/>
+            <Curve ornt="forward" rrid="1379"/>
+            <Curve ornt="forward" rrid="1378"/>
+            <Curve ornt="forward" rrid="708"/>
+            <Curve ornt="forward" rrid="693"/>
+            <Curve ornt="forward" rrid="706"/>
+            <Curve ornt="forward" rrid="707"/>
+            <Curve ornt="forward" rrid="710"/>
+            <Curve ornt="forward" rrid="698"/>
+            <Curve ornt="forward" rrid="699"/>
+            <Curve ornt="forward" rrid="700"/>
+            <Curve ornt="forward" rrid="701"/>
+            <Curve ornt="forward" rrid="702"/>
+            <Curve ornt="forward" rrid="703"/>
+            <Curve ornt="forward" rrid="704"/>
+            <Curve ornt="forward" rrid="705"/>
+            <Curve ornt="forward" rrid="1377"/>
+            <Curve ornt="forward" rrid="1376"/>
+            <Curve ornt="forward" rrid="1375"/>
+            <Curve ornt="forward" rrid="1374"/>
+            <Curve ornt="forward" rrid="1373"/>
+            <Curve ornt="forward" rrid="1372"/>
+            <Curve ornt="forward" rrid="1371"/>
+            <Curve ornt="forward" rrid="1370"/>
+            <Curve ornt="forward" rrid="1369"/>
+            <Curve ornt="forward" rrid="1368"/>
+            <Curve ornt="forward" rrid="1367"/>
+            <Curve ornt="forward" rrid="1366"/>
+            <Curve ornt="forward" rrid="1365"/>
+            <Curve ornt="forward" rrid="1364"/>
+            <Curve ornt="forward" rrid="1363"/>
+            <Curve ornt="forward" rrid="1362"/>
+            <Curve ornt="forward" rrid="1361"/>
+            <Curve ornt="forward" rrid="1360"/>
+            <Curve ornt="forward" rrid="1359"/>
+            <Curve ornt="forward" rrid="1358"/>
+            <Curve ornt="forward" rrid="1357"/>
+            <Curve ornt="forward" rrid="1356"/>
+            <Curve ornt="forward" rrid="1355"/>
+            <Curve ornt="reverse" rrid="1354"/>
+            <Curve ornt="forward" rrid="1353"/>
+            <Curve ornt="forward" rrid="1352"/>
+            <Curve ornt="forward" rrid="1351"/>
+            <Curve ornt="forward" rrid="1350"/>
+            <Curve ornt="forward" rrid="1349"/>
+            <Curve ornt="forward" rrid="1348"/>
+            <Curve ornt="forward" rrid="1347"/>
+            <Curve ornt="forward" rrid="1346"/>
+            <Curve ornt="forward" rrid="1345"/>
+            <Curve ornt="forward" rrid="1344"/>
+            <Curve ornt="forward" rrid="1343"/>
+            <Curve ornt="forward" rrid="1342"/>
+            <Curve ornt="forward" rrid="1341"/>
+            <Curve ornt="forward" rrid="1340"/>
+            <Curve ornt="forward" rrid="1339"/>
+            <Curve ornt="forward" rrid="1338"/>
+            <Curve ornt="forward" rrid="1337"/>
+            <Curve ornt="forward" rrid="1336"/>
+            <Curve ornt="forward" rrid="1335"/>
+            <Curve ornt="forward" rrid="1334"/>
+            <Curve ornt="forward" rrid="1287"/>
+            <Curve ornt="forward" rrid="1333"/>
+            <Curve ornt="forward" rrid="1332"/>
+            <Curve ornt="forward" rrid="1331"/>
+        </CompositeCurveRecord>
+        <CompositeCurveRecord>
             <Identifier rcid="1421" rcnm="125" ruin="insert" version="1"/>
             <Curve ornt="forward" rrid="1708"/>
             <Curve ornt="forward" rrid="1707"/>
@@ -43699,445 +44136,6 @@
             <Curve ornt="forward" rrid="869"/>
         </CompositeCurveRecord>
         <CompositeCurveRecord>
-            <Identifier rcid="2147483633" rcnm="125" ruin="insert" version="1"/>
-            <Curve ornt="forward" rrid="1330"/>
-            <Curve ornt="forward" rrid="1329"/>
-            <Curve ornt="forward" rrid="1328"/>
-            <Curve ornt="forward" rrid="1327"/>
-            <Curve ornt="forward" rrid="1326"/>
-            <Curve ornt="forward" rrid="1325"/>
-            <Curve ornt="forward" rrid="1324"/>
-            <Curve ornt="forward" rrid="1323"/>
-            <Curve ornt="forward" rrid="1322"/>
-            <Curve ornt="forward" rrid="1277"/>
-            <Curve ornt="forward" rrid="1276"/>
-            <Curve ornt="forward" rrid="1275"/>
-            <Curve ornt="reverse" rrid="2387"/>
-            <Curve ornt="reverse" rrid="2388"/>
-            <Curve ornt="reverse" rrid="2389"/>
-            <Curve ornt="reverse" rrid="1289"/>
-            <Curve ornt="reverse" rrid="2390"/>
-            <Curve ornt="reverse" rrid="2391"/>
-            <Curve ornt="reverse" rrid="2392"/>
-            <Curve ornt="reverse" rrid="2337"/>
-            <Curve ornt="reverse" rrid="2338"/>
-            <Curve ornt="reverse" rrid="2339"/>
-            <Curve ornt="reverse" rrid="2340"/>
-            <Curve ornt="reverse" rrid="2341"/>
-            <Curve ornt="reverse" rrid="2342"/>
-            <Curve ornt="reverse" rrid="1092"/>
-            <Curve ornt="reverse" rrid="2343"/>
-            <Curve ornt="forward" rrid="287"/>
-            <Curve ornt="forward" rrid="288"/>
-            <Curve ornt="forward" rrid="289"/>
-            <Curve ornt="forward" rrid="290"/>
-            <Curve ornt="forward" rrid="291"/>
-            <Curve ornt="forward" rrid="292"/>
-            <Curve ornt="forward" rrid="293"/>
-            <Curve ornt="forward" rrid="294"/>
-            <Curve ornt="forward" rrid="295"/>
-            <Curve ornt="forward" rrid="296"/>
-            <Curve ornt="forward" rrid="297"/>
-            <Curve ornt="forward" rrid="298"/>
-            <Curve ornt="forward" rrid="299"/>
-            <Curve ornt="forward" rrid="300"/>
-            <Curve ornt="forward" rrid="314"/>
-            <Curve ornt="forward" rrid="278"/>
-            <Curve ornt="forward" rrid="279"/>
-            <Curve ornt="forward" rrid="280"/>
-            <Curve ornt="forward" rrid="281"/>
-            <Curve ornt="forward" rrid="869"/>
-            <Curve ornt="forward" rrid="254"/>
-            <Curve ornt="forward" rrid="1081"/>
-            <Curve ornt="forward" rrid="272"/>
-            <Curve ornt="forward" rrid="273"/>
-            <Curve ornt="forward" rrid="274"/>
-            <Curve ornt="forward" rrid="275"/>
-            <Curve ornt="forward" rrid="276"/>
-            <Curve ornt="forward" rrid="277"/>
-            <Curve ornt="forward" rrid="265"/>
-            <Curve ornt="forward" rrid="266"/>
-            <Curve ornt="forward" rrid="267"/>
-            <Curve ornt="forward" rrid="2224"/>
-            <Curve ornt="forward" rrid="2223"/>
-            <Curve ornt="forward" rrid="803"/>
-            <Curve ornt="forward" rrid="802"/>
-            <Curve ornt="forward" rrid="801"/>
-            <Curve ornt="forward" rrid="800"/>
-            <Curve ornt="forward" rrid="331"/>
-            <Curve ornt="forward" rrid="330"/>
-            <Curve ornt="forward" rrid="329"/>
-            <Curve ornt="forward" rrid="328"/>
-            <Curve ornt="forward" rrid="327"/>
-            <Curve ornt="forward" rrid="1065"/>
-            <Curve ornt="forward" rrid="1033"/>
-            <Curve ornt="forward" rrid="1064"/>
-            <Curve ornt="forward" rrid="1035"/>
-            <Curve ornt="forward" rrid="1063"/>
-            <Curve ornt="forward" rrid="1062"/>
-            <Curve ornt="forward" rrid="1061"/>
-            <Curve ornt="forward" rrid="1060"/>
-            <Curve ornt="forward" rrid="1059"/>
-            <Curve ornt="forward" rrid="1058"/>
-            <Curve ornt="forward" rrid="1057"/>
-            <Curve ornt="forward" rrid="1056"/>
-            <Curve ornt="forward" rrid="1055"/>
-            <Curve ornt="forward" rrid="1054"/>
-            <Curve ornt="forward" rrid="1053"/>
-            <Curve ornt="forward" rrid="1052"/>
-            <Curve ornt="forward" rrid="1051"/>
-            <Curve ornt="forward" rrid="1050"/>
-            <Curve ornt="forward" rrid="1049"/>
-            <Curve ornt="forward" rrid="1048"/>
-            <Curve ornt="forward" rrid="1047"/>
-            <Curve ornt="forward" rrid="1046"/>
-            <Curve ornt="forward" rrid="1045"/>
-            <Curve ornt="forward" rrid="1044"/>
-            <Curve ornt="forward" rrid="1043"/>
-            <Curve ornt="forward" rrid="1042"/>
-            <Curve ornt="forward" rrid="1041"/>
-            <Curve ornt="forward" rrid="1040"/>
-            <Curve ornt="forward" rrid="1039"/>
-            <Curve ornt="forward" rrid="135"/>
-            <Curve ornt="forward" rrid="127"/>
-            <Curve ornt="forward" rrid="128"/>
-            <Curve ornt="forward" rrid="129"/>
-            <Curve ornt="forward" rrid="130"/>
-            <Curve ornt="forward" rrid="1028"/>
-            <Curve ornt="forward" rrid="1030"/>
-            <Curve ornt="forward" rrid="1075"/>
-            <Curve ornt="forward" rrid="1074"/>
-            <Curve ornt="forward" rrid="1073"/>
-            <Curve ornt="forward" rrid="1079"/>
-            <Curve ornt="forward" rrid="1078"/>
-            <Curve ornt="forward" rrid="1077"/>
-            <Curve ornt="forward" rrid="1076"/>
-            <Curve ornt="forward" rrid="1069"/>
-            <Curve ornt="forward" rrid="2222"/>
-            <Curve ornt="forward" rrid="982"/>
-            <Curve ornt="forward" rrid="2221"/>
-            <Curve ornt="forward" rrid="1067"/>
-            <Curve ornt="forward" rrid="1066"/>
-            <Curve ornt="forward" rrid="323"/>
-            <Curve ornt="forward" rrid="339"/>
-            <Curve ornt="forward" rrid="211"/>
-            <Curve ornt="forward" rrid="210"/>
-            <Curve ornt="forward" rrid="338"/>
-            <Curve ornt="forward" rrid="337"/>
-            <Curve ornt="forward" rrid="2220"/>
-            <Curve ornt="forward" rrid="2219"/>
-            <Curve ornt="forward" rrid="2218"/>
-            <Curve ornt="forward" rrid="798"/>
-            <Curve ornt="forward" rrid="30"/>
-            <Curve ornt="forward" rrid="29"/>
-            <Curve ornt="forward" rrid="799"/>
-            <Curve ornt="forward" rrid="761"/>
-            <Curve ornt="forward" rrid="972"/>
-            <Curve ornt="forward" rrid="971"/>
-            <Curve ornt="forward" rrid="970"/>
-            <Curve ornt="forward" rrid="253"/>
-            <Curve ornt="forward" rrid="250"/>
-            <Curve ornt="forward" rrid="249"/>
-            <Curve ornt="forward" rrid="248"/>
-            <Curve ornt="forward" rrid="969"/>
-            <Curve ornt="forward" rrid="513"/>
-            <Curve ornt="forward" rrid="968"/>
-            <Curve ornt="forward" rrid="967"/>
-            <Curve ornt="forward" rrid="992"/>
-            <Curve ornt="forward" rrid="991"/>
-            <Curve ornt="forward" rrid="990"/>
-            <Curve ornt="forward" rrid="989"/>
-            <Curve ornt="forward" rrid="988"/>
-            <Curve ornt="forward" rrid="966"/>
-            <Curve ornt="forward" rrid="965"/>
-            <Curve ornt="forward" rrid="964"/>
-            <Curve ornt="forward" rrid="963"/>
-            <Curve ornt="forward" rrid="993"/>
-            <Curve ornt="forward" rrid="247"/>
-            <Curve ornt="forward" rrid="246"/>
-            <Curve ornt="forward" rrid="51"/>
-            <Curve ornt="forward" rrid="52"/>
-            <Curve ornt="forward" rrid="53"/>
-            <Curve ornt="forward" rrid="54"/>
-            <Curve ornt="forward" rrid="2217"/>
-            <Curve ornt="forward" rrid="2216"/>
-            <Curve ornt="forward" rrid="2215"/>
-            <Curve ornt="forward" rrid="2214"/>
-            <Curve ornt="forward" rrid="2106"/>
-            <Curve ornt="forward" rrid="2213"/>
-            <Curve ornt="forward" rrid="2141"/>
-            <Curve ornt="forward" rrid="1203"/>
-            <Curve ornt="forward" rrid="482"/>
-            <Curve ornt="forward" rrid="481"/>
-            <Curve ornt="forward" rrid="480"/>
-            <Curve ornt="forward" rrid="479"/>
-            <Curve ornt="forward" rrid="478"/>
-            <Curve ornt="forward" rrid="477"/>
-            <Curve ornt="forward" rrid="476"/>
-            <Curve ornt="forward" rrid="475"/>
-            <Curve ornt="forward" rrid="474"/>
-            <Curve ornt="forward" rrid="473"/>
-            <Curve ornt="forward" rrid="81"/>
-            <Curve ornt="forward" rrid="472"/>
-            <Curve ornt="forward" rrid="471"/>
-            <Curve ornt="forward" rrid="470"/>
-            <Curve ornt="forward" rrid="469"/>
-            <Curve ornt="forward" rrid="468"/>
-            <Curve ornt="forward" rrid="467"/>
-            <Curve ornt="forward" rrid="466"/>
-            <Curve ornt="forward" rrid="2051"/>
-            <Curve ornt="forward" rrid="2050"/>
-            <Curve ornt="forward" rrid="2049"/>
-            <Curve ornt="forward" rrid="1770"/>
-            <Curve ornt="forward" rrid="569"/>
-            <Curve ornt="forward" rrid="572"/>
-            <Curve ornt="forward" rrid="573"/>
-            <Curve ornt="forward" rrid="574"/>
-            <Curve ornt="forward" rrid="549"/>
-            <Curve ornt="forward" rrid="550"/>
-            <Curve ornt="forward" rrid="551"/>
-            <Curve ornt="forward" rrid="919"/>
-            <Curve ornt="forward" rrid="1776"/>
-            <Curve ornt="forward" rrid="1208"/>
-            <Curve ornt="forward" rrid="547"/>
-            <Curve ornt="forward" rrid="548"/>
-            <Curve ornt="forward" rrid="1207"/>
-            <Curve ornt="forward" rrid="1795"/>
-            <Curve ornt="forward" rrid="546"/>
-            <Curve ornt="forward" rrid="576"/>
-            <Curve ornt="forward" rrid="1797"/>
-            <Curve ornt="forward" rrid="575"/>
-            <Curve ornt="forward" rrid="598"/>
-            <Curve ornt="forward" rrid="577"/>
-            <Curve ornt="forward" rrid="578"/>
-            <Curve ornt="forward" rrid="579"/>
-            <Curve ornt="forward" rrid="542"/>
-            <Curve ornt="forward" rrid="543"/>
-            <Curve ornt="forward" rrid="544"/>
-            <Curve ornt="forward" rrid="545"/>
-            <Curve ornt="forward" rrid="538"/>
-            <Curve ornt="forward" rrid="539"/>
-            <Curve ornt="forward" rrid="1753"/>
-            <Curve ornt="forward" rrid="1754"/>
-            <Curve ornt="forward" rrid="2009"/>
-            <Curve ornt="forward" rrid="2008"/>
-            <Curve ornt="forward" rrid="2047"/>
-            <Curve ornt="forward" rrid="2046"/>
-            <Curve ornt="forward" rrid="2045"/>
-            <Curve ornt="forward" rrid="2044"/>
-            <Curve ornt="forward" rrid="2043"/>
-            <Curve ornt="forward" rrid="2042"/>
-            <Curve ornt="forward" rrid="2041"/>
-            <Curve ornt="forward" rrid="2040"/>
-            <Curve ornt="forward" rrid="2039"/>
-            <Curve ornt="forward" rrid="2038"/>
-            <Curve ornt="forward" rrid="2037"/>
-            <Curve ornt="forward" rrid="180"/>
-            <Curve ornt="forward" rrid="181"/>
-            <Curve ornt="forward" rrid="152"/>
-            <Curve ornt="forward" rrid="937"/>
-            <Curve ornt="forward" rrid="938"/>
-            <Curve ornt="forward" rrid="939"/>
-            <Curve ornt="forward" rrid="940"/>
-            <Curve ornt="forward" rrid="153"/>
-            <Curve ornt="forward" rrid="942"/>
-            <Curve ornt="forward" rrid="943"/>
-            <Curve ornt="forward" rrid="154"/>
-            <Curve ornt="forward" rrid="183"/>
-            <Curve ornt="forward" rrid="141"/>
-            <Curve ornt="forward" rrid="178"/>
-            <Curve ornt="forward" rrid="167"/>
-            <Curve ornt="forward" rrid="162"/>
-            <Curve ornt="forward" rrid="163"/>
-            <Curve ornt="forward" rrid="164"/>
-            <Curve ornt="forward" rrid="165"/>
-            <Curve ornt="forward" rrid="166"/>
-            <Curve ornt="forward" rrid="176"/>
-            <Curve ornt="forward" rrid="151"/>
-            <Curve ornt="forward" rrid="1768"/>
-            <Curve ornt="forward" rrid="1841"/>
-            <Curve ornt="forward" rrid="1812"/>
-            <Curve ornt="forward" rrid="1840"/>
-            <Curve ornt="forward" rrid="1839"/>
-            <Curve ornt="forward" rrid="1838"/>
-            <Curve ornt="forward" rrid="1837"/>
-            <Curve ornt="forward" rrid="1836"/>
-            <Curve ornt="forward" rrid="168"/>
-            <Curve ornt="forward" rrid="169"/>
-            <Curve ornt="forward" rrid="170"/>
-            <Curve ornt="forward" rrid="148"/>
-            <Curve ornt="forward" rrid="172"/>
-            <Curve ornt="forward" rrid="150"/>
-            <Curve ornt="forward" rrid="174"/>
-            <Curve ornt="forward" rrid="149"/>
-            <Curve ornt="forward" rrid="1831"/>
-            <Curve ornt="forward" rrid="161"/>
-            <Curve ornt="forward" rrid="1828"/>
-            <Curve ornt="forward" rrid="1829"/>
-            <Curve ornt="forward" rrid="933"/>
-            <Curve ornt="forward" rrid="934"/>
-            <Curve ornt="forward" rrid="935"/>
-            <Curve ornt="forward" rrid="936"/>
-            <Curve ornt="forward" rrid="1843"/>
-            <Curve ornt="forward" rrid="2010"/>
-            <Curve ornt="forward" rrid="1826"/>
-            <Curve ornt="forward" rrid="2011"/>
-            <Curve ornt="forward" rrid="2012"/>
-            <Curve ornt="forward" rrid="2013"/>
-            <Curve ornt="forward" rrid="2014"/>
-            <Curve ornt="forward" rrid="2015"/>
-            <Curve ornt="forward" rrid="2016"/>
-            <Curve ornt="forward" rrid="2017"/>
-            <Curve ornt="forward" rrid="2018"/>
-            <Curve ornt="forward" rrid="2019"/>
-            <Curve ornt="forward" rrid="2020"/>
-            <Curve ornt="forward" rrid="2021"/>
-            <Curve ornt="forward" rrid="2022"/>
-            <Curve ornt="forward" rrid="2023"/>
-            <Curve ornt="forward" rrid="2136"/>
-            <Curve ornt="forward" rrid="2135"/>
-            <Curve ornt="forward" rrid="2134"/>
-            <Curve ornt="forward" rrid="2133"/>
-            <Curve ornt="forward" rrid="2132"/>
-            <Curve ornt="forward" rrid="2131"/>
-            <Curve ornt="forward" rrid="2314"/>
-            <Curve ornt="forward" rrid="2313"/>
-            <Curve ornt="forward" rrid="2312"/>
-            <Curve ornt="forward" rrid="2311"/>
-            <Curve ornt="forward" rrid="2310"/>
-            <Curve ornt="forward" rrid="2309"/>
-            <Curve ornt="forward" rrid="2308"/>
-            <Curve ornt="forward" rrid="2307"/>
-            <Curve ornt="forward" rrid="1391"/>
-            <Curve ornt="forward" rrid="1390"/>
-            <Curve ornt="forward" rrid="1389"/>
-            <Curve ornt="forward" rrid="1388"/>
-            <Curve ornt="forward" rrid="1387"/>
-            <Curve ornt="forward" rrid="1386"/>
-            <Curve ornt="forward" rrid="1385"/>
-            <Curve ornt="forward" rrid="1384"/>
-            <Curve ornt="forward" rrid="1383"/>
-            <Curve ornt="forward" rrid="1382"/>
-            <Curve ornt="forward" rrid="1381"/>
-            <Curve ornt="forward" rrid="1380"/>
-            <Curve ornt="forward" rrid="1379"/>
-            <Curve ornt="forward" rrid="1378"/>
-            <Curve ornt="forward" rrid="708"/>
-            <Curve ornt="forward" rrid="693"/>
-            <Curve ornt="forward" rrid="706"/>
-            <Curve ornt="forward" rrid="707"/>
-            <Curve ornt="forward" rrid="710"/>
-            <Curve ornt="forward" rrid="698"/>
-            <Curve ornt="forward" rrid="699"/>
-            <Curve ornt="forward" rrid="700"/>
-            <Curve ornt="forward" rrid="701"/>
-            <Curve ornt="forward" rrid="702"/>
-            <Curve ornt="forward" rrid="703"/>
-            <Curve ornt="forward" rrid="704"/>
-            <Curve ornt="forward" rrid="705"/>
-            <Curve ornt="forward" rrid="1377"/>
-            <Curve ornt="reverse" rrid="2916"/>
-            <Curve ornt="reverse" rrid="1284"/>
-            <Curve ornt="reverse" rrid="2915"/>
-            <Curve ornt="forward" rrid="1375"/>
-            <Curve ornt="forward" rrid="1374"/>
-            <Curve ornt="forward" rrid="1373"/>
-            <Curve ornt="forward" rrid="1372"/>
-            <Curve ornt="forward" rrid="1371"/>
-            <Curve ornt="forward" rrid="1370"/>
-            <Curve ornt="forward" rrid="1369"/>
-            <Curve ornt="forward" rrid="1368"/>
-            <Curve ornt="forward" rrid="1367"/>
-            <Curve ornt="forward" rrid="1366"/>
-            <Curve ornt="forward" rrid="1365"/>
-            <Curve ornt="forward" rrid="1364"/>
-            <Curve ornt="forward" rrid="1363"/>
-            <Curve ornt="forward" rrid="1362"/>
-            <Curve ornt="forward" rrid="1361"/>
-            <Curve ornt="forward" rrid="1360"/>
-            <Curve ornt="forward" rrid="1359"/>
-            <Curve ornt="forward" rrid="1358"/>
-            <Curve ornt="forward" rrid="1357"/>
-            <Curve ornt="forward" rrid="1356"/>
-            <Curve ornt="forward" rrid="1355"/>
-            <Curve ornt="reverse" rrid="1354"/>
-            <Curve ornt="forward" rrid="1353"/>
-            <Curve ornt="forward" rrid="1352"/>
-            <Curve ornt="forward" rrid="1351"/>
-            <Curve ornt="forward" rrid="1350"/>
-            <Curve ornt="forward" rrid="1349"/>
-            <Curve ornt="forward" rrid="1348"/>
-            <Curve ornt="forward" rrid="1347"/>
-            <Curve ornt="forward" rrid="1346"/>
-            <Curve ornt="forward" rrid="1345"/>
-            <Curve ornt="forward" rrid="1344"/>
-            <Curve ornt="forward" rrid="1343"/>
-            <Curve ornt="forward" rrid="1342"/>
-            <Curve ornt="forward" rrid="1341"/>
-            <Curve ornt="forward" rrid="1340"/>
-            <Curve ornt="forward" rrid="1339"/>
-            <Curve ornt="forward" rrid="1338"/>
-            <Curve ornt="forward" rrid="1337"/>
-            <Curve ornt="forward" rrid="1336"/>
-            <Curve ornt="forward" rrid="1335"/>
-            <Curve ornt="forward" rrid="1334"/>
-            <Curve ornt="forward" rrid="1287"/>
-            <Curve ornt="forward" rrid="1333"/>
-            <Curve ornt="forward" rrid="1332"/>
-            <Curve ornt="forward" rrid="1331"/>
-        </CompositeCurveRecord>
-        <CompositeCurveRecord>
-            <Identifier rcid="2147483634" rcnm="125" ruin="insert" version="1"/>
-            <Curve ornt="forward" rrid="1409"/>
-            <Curve ornt="forward" rrid="1408"/>
-            <Curve ornt="forward" rrid="1407"/>
-            <Curve ornt="forward" rrid="1406"/>
-            <Curve ornt="reverse" rrid="1510"/>
-            <Curve ornt="reverse" rrid="1504"/>
-            <Curve ornt="reverse" rrid="1511"/>
-            <Curve ornt="reverse" rrid="1512"/>
-            <Curve ornt="reverse" rrid="1513"/>
-            <Curve ornt="reverse" rrid="1514"/>
-            <Curve ornt="reverse" rrid="1515"/>
-            <Curve ornt="reverse" rrid="1516"/>
-            <Curve ornt="reverse" rrid="1498"/>
-            <Curve ornt="reverse" rrid="1499"/>
-            <Curve ornt="reverse" rrid="1500"/>
-            <Curve ornt="reverse" rrid="1501"/>
-            <Curve ornt="reverse" rrid="1517"/>
-            <Curve ornt="forward" rrid="1320"/>
-            <Curve ornt="forward" rrid="1319"/>
-            <Curve ornt="forward" rrid="1318"/>
-            <Curve ornt="forward" rrid="1317"/>
-            <Curve ornt="forward" rrid="1316"/>
-            <Curve ornt="forward" rrid="1315"/>
-            <Curve ornt="reverse" rrid="1473"/>
-            <Curve ornt="forward" rrid="1313"/>
-            <Curve ornt="reverse" rrid="1474"/>
-            <Curve ornt="forward" rrid="1311"/>
-            <Curve ornt="forward" rrid="1310"/>
-            <Curve ornt="forward" rrid="1309"/>
-            <Curve ornt="forward" rrid="1308"/>
-            <Curve ornt="forward" rrid="2745"/>
-            <Curve ornt="forward" rrid="1306"/>
-            <Curve ornt="forward" rrid="2744"/>
-            <Curve ornt="forward" rrid="1304"/>
-            <Curve ornt="forward" rrid="1303"/>
-            <Curve ornt="forward" rrid="1302"/>
-            <Curve ornt="forward" rrid="1301"/>
-            <Curve ornt="forward" rrid="1300"/>
-            <Curve ornt="forward" rrid="1299"/>
-            <Curve ornt="forward" rrid="1298"/>
-            <Curve ornt="forward" rrid="1297"/>
-            <Curve ornt="forward" rrid="1296"/>
-            <Curve ornt="forward" rrid="1295"/>
-            <Curve ornt="forward" rrid="1294"/>
-            <Curve ornt="forward" rrid="1293"/>
-            <Curve ornt="forward" rrid="1292"/>
-            <Curve ornt="forward" rrid="1291"/>
-            <Curve ornt="forward" rrid="1410"/>
-        </CompositeCurveRecord>
-        <CompositeCurveRecord>
             <Identifier rcid="2147483638" rcnm="125" ruin="insert" version="1"/>
             <Curve ornt="reverse" rrid="1129"/>
             <Curve ornt="reverse" rrid="1141"/>
@@ -45310,8 +45308,7 @@
         </SurfaceRecord>
         <SurfaceRecord>
             <Identifier rcid="1160" rcnm="130" ruin="insert" version="1"/>
-            <CompositeCurve ornt="forward" raui="insert" rrid="2147483634" usage="exterior"/>
-            <CompositeCurve ornt="reverse" raui="insert" rrid="1141" usage="interior"/>
+            <CompositeCurve ornt="forward" raui="insert" rrid="1160" usage="exterior"/>
         </SurfaceRecord>
         <SurfaceRecord>
             <Identifier rcid="1161" rcnm="130" ruin="insert" version="1"/>
@@ -46027,8 +46024,7 @@
         </SurfaceRecord>
         <SurfaceRecord>
             <Identifier rcid="1420" rcnm="130" ruin="insert" version="1"/>
-            <CompositeCurve ornt="forward" raui="insert" rrid="2147483633" usage="exterior"/>
-            <CompositeCurve ornt="reverse" raui="insert" rrid="1296" usage="interior"/>
+            <CompositeCurve ornt="forward" raui="insert" rrid="1420" usage="exterior"/>
         </SurfaceRecord>
         <SurfaceRecord>
             <Identifier rcid="1421" rcnm="130" ruin="insert" version="1"/>
@@ -57859,7 +57855,7 @@
         <FeatureRecord>
             <Identifier featureType="LocalDirectionOfBuoyage" rcid="1394" rcnm="100" ruin="insert" version="1"/>
             <Foid>1810_29140844_1</Foid>
-            <SimpleAttribute atin="insert" index="1" type="marksNavigationalSystemOf" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="marksNavigationalSystemOf" value="1"/>
             <SimpleAttribute atin="insert" index="1" type="orientationValue" value="180"/>
             <Surface ornt="forward" rrid="1394" saui="insert"/>
             <Masks>
@@ -58568,7 +58564,7 @@
         <FeatureRecord>
             <Identifier featureType="LocalDirectionOfBuoyage" rcid="1418" rcnm="100" ruin="insert" version="1"/>
             <Foid>1810_29141321_1</Foid>
-            <SimpleAttribute atin="insert" index="1" type="marksNavigationalSystemOf" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="marksNavigationalSystemOf" value="1"/>
             <SimpleAttribute atin="insert" index="1" type="orientationValue" value="292.5"/>
             <Surface ornt="forward" rrid="1418" saui="insert"/>
             <Masks>
@@ -60627,7 +60623,7 @@
         <FeatureRecord>
             <Identifier featureType="LocalDirectionOfBuoyage" rcid="1604" rcnm="100" ruin="insert" version="1"/>
             <Foid>1810_29141216_1</Foid>
-            <SimpleAttribute atin="insert" index="1" type="marksNavigationalSystemOf" value=""/>
+            <SimpleAttribute atin="insert" index="1" type="marksNavigationalSystemOf" value="1"/>
             <SimpleAttribute atin="insert" index="1" type="orientationValue" value="345"/>
             <Surface ornt="forward" rrid="1604" saui="insert"/>
         </FeatureRecord>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<DataSet>
+<Dataset>
     <DataSetGeneralInformation>
         <DataSetIdentification>
             <!--RecordName-->
@@ -59,36 +59,34 @@
             <AttributeCodes>
                 <AttributeCode code="buoyShape" numeric="1"/>
                 <AttributeCode code="categoryOfCardinalMark" numeric="2"/>
+                <AttributeCode code="categoryOfWreck" numeric="5"/>
                 <AttributeCode code="colour" numeric="3"/>
                 <AttributeCode code="colourPattern" numeric="4"/>
-                <AttributeCode code="categoryOfWreck" numeric="5"/>
+                <AttributeCode code="lightCharacteristic" numeric="11"/>
                 <AttributeCode code="qualityOfVerticalMeasurement" numeric="6"/>
-                <AttributeCode code="waterLevelEffect" numeric="7"/>
                 <AttributeCode code="restriction" numeric="8"/>
                 <AttributeCode code="rhythmOfLight" numeric="9"/>
-                <AttributeCode code="signalPeriod" numeric="10"/>
-                <AttributeCode code="lightCharacteristic" numeric="11"/>
                 <AttributeCode code="signalGroup" numeric="12"/>
+                <AttributeCode code="signalPeriod" numeric="10"/>
                 <AttributeCode code="topmark" numeric="13"/>
                 <AttributeCode code="topmarkDaymarkShape" numeric="14"/>
+                <AttributeCode code="waterLevelEffect" numeric="7"/>
             </AttributeCodes>
             <InformationTypeCodes/>
             <FeatureTypeCodes>
                 <FeatureTypeCode code="BuoyCardinal" numeric="1"/>
-                <FeatureTypeCode code="Wreck" numeric="2"/>
                 <FeatureTypeCode code="LightAllAround" numeric="3"/>
+                <FeatureTypeCode code="Wreck" numeric="2"/>
             </FeatureTypeCodes>
             <InformationAssociationCodes/>
             <FeatureAssociationCodes>
                 <FeatureAssociationCode code="StructureEquipment" numeric="1"/>
             </FeatureAssociationCodes>
             <AssociationRoleCodes>
-                <roleCode code="supports" numeric="1"/>
-                <roleCode code="supportedBy" numeric="2"/>
+                <AssociationRoleCode code="supportedBy" numeric="1"/>
             </AssociationRoleCodes>
         </DataSetIdentification>
     </DataSetGeneralInformation>
-    <DatasetCoordinateReferenceSystems/>
     <Informations/>
     <Points>
         <PointRecord>
@@ -109,69 +107,67 @@
     <CompositeCurves/>
     <Surfaces/>
     <Features>
-    <FeatureRecord>
-        <Identifier featureType="BuoyCardinal" rcid="912" rcnm="100" ruin="insert" version="1"/>
-        <Foid>1810_584953147_1567</Foid>
-        <SimpleAttribute atin="insert" index="1" type="buoyShape" value="4"/>
-        <SimpleAttribute atin="insert" index="1" type="categoryOfCardinalMark" value="2"/>
-        <SimpleAttribute atin="insert" index="1" type="colour" value="2"/>
-        <SimpleAttribute atin="insert" index="2" type="colour" value="6"/>
-        <SimpleAttribute atin="insert" index="3" type="colour" value="2"/>
-        <SimpleAttribute atin="insert" index="1" type="colourPattern" value="1"/>
-        <ComplexAttribute atin="insert" index="1" type="topmark">
+        <FeatureRecord>
+            <Identifier featureType="BuoyCardinal" rcid="912" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_584953147_1567</Foid>
+            <SimpleAttribute atin="insert" index="1" type="buoyShape" value="4"/>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfCardinalMark" value="2"/>
+            <SimpleAttribute atin="insert" index="1" type="colour" value="2"/>
+            <SimpleAttribute atin="insert" index="2" type="colour" value="6"/>
+            <SimpleAttribute atin="insert" index="3" type="colour" value="2"/>
+            <SimpleAttribute atin="insert" index="1" type="colourPattern" value="1"/>
+            <ComplexAttribute atin="insert" index="1" type="topmark">
                 <SimpleAttribute atin="insert" index="1" type="colour" value="2"/>
                 <SimpleAttribute atin="insert" index="1" type="topmarkDaymarkShape" value="11"/>
-        </ComplexAttribute>
-        <Point rrid="1227" saui="insert"/>
-        <!-- <FeatureAssociation faui="insert" featureType="LightAllAround" role="supports" rrid="915" type="StructureEquipment"/> -->
-    </FeatureRecord>
-    <FeatureRecord>
-        <Identifier featureType="BuoyCardinal" rcid="913" rcnm="100" ruin="insert" version="1"/>
-        <Foid>1810_584960492_1567</Foid>
-        <SimpleAttribute atin="insert" index="1" type="buoyShape" value="4"/>
-        <SimpleAttribute atin="insert" index="1" type="categoryOfCardinalMark" value="4"/>
-        <SimpleAttribute atin="insert" index="1" type="colour" value="6"/>
-        <SimpleAttribute atin="insert" index="2" type="colour" value="2"/>
-        <SimpleAttribute atin="insert" index="3" type="colour" value="6"/>
-        <SimpleAttribute atin="insert" index="1" type="colourPattern" value="1"/>
-        <ComplexAttribute atin="insert" index="1" type="topmark">
+            </ComplexAttribute>
+            <Point rrid="1227" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="BuoyCardinal" rcid="913" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_584960492_1567</Foid>
+            <SimpleAttribute atin="insert" index="1" type="buoyShape" value="4"/>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfCardinalMark" value="4"/>
+            <SimpleAttribute atin="insert" index="1" type="colour" value="6"/>
+            <SimpleAttribute atin="insert" index="2" type="colour" value="2"/>
+            <SimpleAttribute atin="insert" index="3" type="colour" value="6"/>
+            <SimpleAttribute atin="insert" index="1" type="colourPattern" value="1"/>
+            <ComplexAttribute atin="insert" index="1" type="topmark">
                 <SimpleAttribute atin="insert" index="1" type="colour" value="2"/>
                 <SimpleAttribute atin="insert" index="1" type="topmarkDaymarkShape" value="10"/>
-        </ComplexAttribute>
-        <Point rrid="1228" saui="insert"/>
-        <!-- <FeatureAssociation faui="insert" featureType="LightAllAround" role="supports" rrid="916" type="StructureEquipment"/> -->
-    </FeatureRecord>
-    <FeatureRecord>
-        <Identifier featureType="Wreck" rcid="914" rcnm="100" ruin="insert" version="1"/>
-        <Foid>1810_584917913_1567</Foid>
-        <SimpleAttribute atin="insert" index="1" type="categoryOfWreck" value="2"/>
-        <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="2"/>
-        <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="3"/>
-        <Point rrid="1229" saui="insert"/>
-    </FeatureRecord>
-    <FeatureRecord>
-        <Identifier featureType="LightAllAround" rcid="915" rcnm="100" ruin="insert" version="1"/>
-        <Foid>1810_584953155_1567</Foid>
-        <ComplexAttribute atin="insert" index="1" type="rhythmOfLight">
-            <SimpleAttribute atin="insert" index="1" type="signalPeriod" value="10"/>
-            <SimpleAttribute atin="insert" index="1" type="lightCharacteristic" value="4"/>
-            <SimpleAttribute atin="insert" index="1" type="signalGroup" value="(3)"/>
-        </ComplexAttribute>
-        <SimpleAttribute atin="insert" index="1" type="colour" value=""/>
-        <Point rrid="1227" saui="insert"/>
-        <FeatureAssociation faui="insert" featureType="BuoyCardinal" role="supportedBy" rrid="912" type="StructureEquipment"/>
-    </FeatureRecord>
-    <FeatureRecord>
-        <Identifier featureType="LightAllAround" rcid="916" rcnm="100" ruin="insert" version="1"/>
-        <Foid>1810_584960496_1567</Foid>
-        <ComplexAttribute atin="insert" index="1" type="rhythmOfLight">
-            <SimpleAttribute atin="insert" index="1" type="signalPeriod" value="15"/>
-            <SimpleAttribute atin="insert" index="1" type="lightCharacteristic" value="4"/>
-            <SimpleAttribute atin="insert" index="1" type="signalGroup" value="(9)"/>
-        </ComplexAttribute>
-        <SimpleAttribute atin="insert" index="1" type="colour" value=""/>
-        <Point rrid="1228" saui="insert"/>
-        <FeatureAssociation faui="insert" featureType="BuoyCardinal" role="supportedBy" rrid="913" type="StructureEquipment"/> 
-    </FeatureRecord>
+            </ComplexAttribute>
+            <Point rrid="1228" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Wreck" rcid="914" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_584917913_1567</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfWreck" value="2"/>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="2"/>
+            <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="3"/>
+            <Point rrid="1229" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="LightAllAround" rcid="915" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_584953155_1567</Foid>
+            <SimpleAttribute atin="insert" index="1" type="colour" value=""/>
+            <ComplexAttribute atin="insert" index="1" type="rhythmOfLight">
+                <SimpleAttribute atin="insert" index="1" type="lightCharacteristic" value="4"/>
+                <SimpleAttribute atin="insert" index="1" type="signalGroup" value="(3)"/>
+                <SimpleAttribute atin="insert" index="1" type="signalPeriod" value="10"/>
+            </ComplexAttribute>
+            <Point rrid="1227" saui="insert"/>
+            <FeatureAssociation faui="insert" featureType="BuoyCardinal" role="supportedBy" rrid="912" type="StructureEquipment"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="LightAllAround" rcid="916" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_584960496_1567</Foid>
+            <SimpleAttribute atin="insert" index="1" type="colour" value=""/>
+            <ComplexAttribute atin="insert" index="1" type="rhythmOfLight">
+                <SimpleAttribute atin="insert" index="1" type="lightCharacteristic" value="4"/>
+                <SimpleAttribute atin="insert" index="1" type="signalGroup" value="(9)"/>
+                <SimpleAttribute atin="insert" index="1" type="signalPeriod" value="15"/>
+            </ComplexAttribute>
+            <Point rrid="1228" saui="insert"/>
+            <FeatureAssociation faui="insert" featureType="BuoyCardinal" role="supportedBy" rrid="913" type="StructureEquipment"/>
+        </FeatureRecord>
     </Features>
-</DataSet>
+</Dataset>

@@ -87,13 +87,13 @@
     </DataSetGeneralInformation>
     <DataSetCoordinateReferenceSystems>
         <CoordinateReferenceSystemRecordIdentifier NumberOfCRSComponents="3" rcid="1" rcnm="15">
-            <CoordinateReferenceSystemHeader crsIdentifier="4326" ellipsoidal="true" identifier="1" name="WGS84" source="EPSG" sourceInfo="" vertical="true"/>
-            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" identifier="2" name="Depth - approximate lowest astronomical tide" source="Not Applicable" sourceInfo="" vertical="false">
-                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Metre"/>
+            <CoordinateReferenceSystemHeader crsIdentifier="4326" ellipsoidal="true" horizontal="true" identifier="1" name="WGS84" source="EPSG" sourceInfo=""/>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" horizontal="false" identifier="2" name="Depth - approximate lowest astronomical tide" source="Not Applicable" sourceInfo="">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Meter"/>
                 <VerticalDatum identifier="10" name="approximate lowest astronomical tide" source="2"/>
             </CoordinateReferenceSystemHeader>
-            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" identifier="3" name="Heights - mean sea level" source="Not Applicable" sourceInfo="" vertical="false">
-                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Metre"/>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" horizontal="false" identifier="3" name="Heights - mean sea level" source="Not Applicable" sourceInfo="">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Meter"/>
                 <VerticalDatum identifier="3" name="mean sea level" source="2"/>
             </CoordinateReferenceSystemHeader>
         </CoordinateReferenceSystemRecordIdentifier>

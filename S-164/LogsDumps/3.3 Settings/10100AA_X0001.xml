@@ -42,7 +42,7 @@
                 <!--Coordinate Multiplication Factor for Z-->
                 <cmfz>100</cmfz>
                 <!--Number of Information Type records-->
-                <noir>15</noir>
+                <noir>14</noir>
                 <!--Number of Point records-->
                 <nopn>110</nopn>
                 <!--Number of Multi Point records-->
@@ -98,12 +98,12 @@
                 <AttributeCode code="leastDepthOfDetectedFeaturesMeasured" numeric="23"/>
                 <AttributeCode code="lightCharacteristic" numeric="68"/>
                 <AttributeCode code="magneticAnomalyValue" numeric="59"/>
-                <AttributeCode code="marksNavigationalSystemOf" numeric="37"/>
+                <AttributeCode code="marksNavigationalSystemOf" numeric="38"/>
                 <AttributeCode code="maximumDisplayScale" numeric="1"/>
                 <AttributeCode code="minimumDisplayScale" numeric="2"/>
                 <AttributeCode code="name" numeric="42"/>
                 <AttributeCode code="orientation" numeric="47"/>
-                <AttributeCode code="orientationValue" numeric="38"/>
+                <AttributeCode code="orientationValue" numeric="37"/>
                 <AttributeCode code="periodicDateRange" numeric="62"/>
                 <AttributeCode code="pictorialRepresentation" numeric="81"/>
                 <AttributeCode code="radarConspicuous" numeric="72"/>
@@ -209,28 +209,28 @@
                 <FeatureTypeCode code="Wreck" numeric="4"/>
             </FeatureTypeCodes>
             <InformationAssociationCodes>
-                <code code="AdditionalInformation" numeric="1"/>
+                <InformationAssociationCode code="AdditionalInformation" numeric="1"/>
             </InformationAssociationCodes>
             <FeatureAssociationCodes>
                 <FeatureAssociationCode code="StructureEquipment" numeric="2"/>
                 <FeatureAssociationCode code="TrafficSeparationSchemeAggregation" numeric="1"/>
             </FeatureAssociationCodes>
             <AssociationRoleCodes>
-                <roleCode code="consistsOf" numeric="2"/>
-                <roleCode code="providesInformation" numeric="1"/>
-                <roleCode code="supports" numeric="3"/>
+                <AssociationRoleCode code="consistsOf" numeric="2"/>
+                <AssociationRoleCode code="providesInformation" numeric="1"/>
+                <AssociationRoleCode code="supports" numeric="3"/>
             </AssociationRoleCodes>
         </DataSetIdentification>
     </DataSetGeneralInformation>
     <DataSetCoordinateReferenceSystems>
         <CoordinateReferenceSystemRecordIdentifier NumberOfCRSComponents="3" rcid="1" rcnm="15">
-            <CoordinateReferenceSystemHeader crsIdentifier="4326" ellipsoidal="true" identifier="1" name="WGS84" source="EPSG" sourceInfo="" vertical="true"/>
-            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" identifier="2" name="Depth - approximate lowest astronomical tide" source="Not Applicable" sourceInfo="" vertical="false">
-                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Metre"/>
+            <CoordinateReferenceSystemHeader crsIdentifier="4326" ellipsoidal="true" horizontal="true" identifier="1" name="WGS84" source="EPSG" sourceInfo=""/>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" horizontal="false" identifier="2" name="Depth - approximate lowest astronomical tide" source="Not Applicable" sourceInfo="">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Meter"/>
                 <VerticalDatum identifier="10" name="approximate lowest astronomical tide" source="2"/>
             </CoordinateReferenceSystemHeader>
-            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" identifier="3" name="Heights - mean sea level" source="Not Applicable" sourceInfo="" vertical="false">
-                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Metre"/>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" horizontal="false" identifier="3" name="Heights - mean sea level" source="Not Applicable" sourceInfo="">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Meter"/>
                 <VerticalDatum identifier="3" name="mean sea level" source="2"/>
             </CoordinateReferenceSystemHeader>
         </CoordinateReferenceSystemRecordIdentifier>
@@ -251,7 +251,7 @@
         <InformationRecord>
             <Identifier code="NauticalInformation" rcid="3" rcnm="150" ruin="insert" version="1"/>
             <ComplexAttribute atin="insert" index="1" type="information">
-                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AA_38_36.TXT"/>
+                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AA038_36.TXT"/>
             </ComplexAttribute>
         </InformationRecord>
         <InformationRecord>
@@ -291,49 +291,39 @@
         <InformationRecord>
             <Identifier code="NauticalInformation" rcid="9" rcnm="150" ruin="insert" version="1"/>
             <ComplexAttribute atin="insert" index="1" type="information">
-                <SimpleAttribute atin="insert" index="1" type="text" value="Distance to fairway edge 55 m."/>
-            </ComplexAttribute>
-            <ComplexAttribute atin="insert" index="2" type="information">
-                <SimpleAttribute atin="insert" index="1" type="language" value="nor"/>
-                <SimpleAttribute atin="insert" index="1" type="text" value="Etäisyys väylän reunsta 55 m."/>
+                <SimpleAttribute atin="insert" index="1" type="text" value="Area of Bothnia VTS, see document FIBOVSTA.TXT"/>
             </ComplexAttribute>
         </InformationRecord>
         <InformationRecord>
             <Identifier code="NauticalInformation" rcid="10" rcnm="150" ruin="insert" version="1"/>
             <ComplexAttribute atin="insert" index="1" type="information">
-                <SimpleAttribute atin="insert" index="1" type="text" value="Area of Bothnia VTS, see document FIBOVSTA.TXT"/>
+                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AABOVSTA.TXT"/>
             </ComplexAttribute>
         </InformationRecord>
         <InformationRecord>
             <Identifier code="NauticalInformation" rcid="11" rcnm="150" ruin="insert" version="1"/>
             <ComplexAttribute atin="insert" index="1" type="information">
-                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AA_OVSTA.TXT"/>
-            </ComplexAttribute>
-        </InformationRecord>
-        <InformationRecord>
-            <Identifier code="NauticalInformation" rcid="12" rcnm="150" ruin="insert" version="1"/>
-            <ComplexAttribute atin="insert" index="1" type="information">
                 <SimpleAttribute atin="insert" index="1" type="text" value="DAYMARK"/>
             </ComplexAttribute>
         </InformationRecord>
         <InformationRecord>
-            <Identifier code="NauticalInformation" rcid="13" rcnm="150" ruin="insert" version="1"/>
+            <Identifier code="NauticalInformation" rcid="12" rcnm="150" ruin="insert" version="1"/>
             <ComplexAttribute atin="insert" index="1" type="information"/>
-            <SimpleAttribute atin="insert" index="1" type="pictorialRepresentation" value="10100AA_182AE.TIF"/>
+            <SimpleAttribute atin="insert" index="1" type="pictorialRepresentation" value="10100AA0182AE.TIF"/>
         </InformationRecord>
         <InformationRecord>
-            <Identifier code="NauticalInformation" rcid="14" rcnm="150" ruin="insert" version="1"/>
+            <Identifier code="NauticalInformation" rcid="13" rcnm="150" ruin="insert" version="1"/>
             <ComplexAttribute atin="insert" index="1" type="information">
                 <SimpleAttribute atin="insert" index="1" type="text" value="Point Caution Area"/>
             </ComplexAttribute>
         </InformationRecord>
         <InformationRecord>
-            <Identifier code="NauticalInformation" rcid="15" rcnm="150" ruin="insert" version="1"/>
+            <Identifier code="NauticalInformation" rcid="14" rcnm="150" ruin="insert" version="1"/>
             <ComplexAttribute atin="insert" index="1" type="information">
-                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AA_11981.TXT"/>
+                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AAA11981.TXT"/>
             </ComplexAttribute>
             <ComplexAttribute atin="insert" index="2" type="information">
-                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AA_1981A.TXT"/>
+                <SimpleAttribute atin="insert" index="1" type="fileReference" value="10100AA11981A.TXT"/>
                 <SimpleAttribute atin="insert" index="1" type="language" value="nor"/>
             </ComplexAttribute>
         </InformationRecord>
@@ -2639,8 +2629,8 @@
             <SimpleAttribute atin="insert" index="1" type="orientationValue" value="90"/>
             <SimpleAttribute atin="insert" index="1" type="status" value="9"/>
             <SimpleAttribute atin="insert" index="1" type="trafficFlow" value="3"/>
+            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="9" rrnm="150"/>
             <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="10" rrnm="150"/>
-            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="11" rrnm="150"/>
             <Curve ornt="forward" rrid="73" saui="insert"/>
         </FeatureRecord>
         <FeatureRecord>
@@ -2662,8 +2652,8 @@
             <SimpleAttribute atin="insert" index="1" type="colourPattern" value="1"/>
             <SimpleAttribute atin="insert" index="1" type="inTheWater" value="false"/>
             <SimpleAttribute atin="insert" index="1" type="visualProminence" value="1"/>
+            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="11" rrnm="150"/>
             <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="12" rrnm="150"/>
-            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="13" rrnm="150"/>
             <Point rrid="32" saui="insert"/>
         </FeatureRecord>
         <FeatureRecord>
@@ -2675,8 +2665,8 @@
         <FeatureRecord>
             <Identifier featureType="CautionArea" rcid="449" rcnm="100" ruin="insert" version="1"/>
             <Foid>1810_602536709_389</Foid>
+            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="13" rrnm="150"/>
             <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="14" rrnm="150"/>
-            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="15" rrnm="150"/>
             <Point rrid="31" saui="insert"/>
         </FeatureRecord>
         <FeatureRecord>
@@ -2796,7 +2786,7 @@
             <ComplexAttribute atin="insert" index="1" type="topmark">
                 <SimpleAttribute atin="insert" index="1" type="topmarkDaymarkShape" value="5"/>
             </ComplexAttribute>
-            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="9" rrnm="150"/>
+            <InformationAssociation code="AdditionalInformation" iuin="insert" role="providesInformation" rrid="8" rrnm="150"/>
             <Point rrid="28" saui="insert"/>
             <FeatureAssociation faui="insert" featureType="LightAllAround" role="supports" rrid="440" type="StructureEquipment"/>
         </FeatureRecord>

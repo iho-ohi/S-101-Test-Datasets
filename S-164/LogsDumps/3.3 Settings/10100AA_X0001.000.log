@@ -1,105 +1,52 @@
-2023-09-06 11:12:11,616 WARN  [S57ToS101Converter] Conversion de GB4X0001
-2023-09-06 11:12:11,621 WARN  [AttributeConverterImpl] Valeur S57 [clearing mark (41)] non convertie(s) pour categoryOfSpecialPurposeMark de BuoySpecialPurposeGeneral 540_396175919_357
-2023-09-06 11:12:11,621 WARN  [AttributeConverterImpl] Valeur S57 [clearing mark (41)] non convertie(s) pour categoryOfSpecialPurposeMark de BuoySpecialPurposeGeneral 540_-548738524_361
-2023-09-06 11:12:11,621 WARN  [AttributeConverterImpl] Valeur S57 [clearing mark (41)] non convertie(s) pour categoryOfSpecialPurposeMark de BuoySpecialPurposeGeneral 540_-1109114829_363
-2023-09-06 11:12:11,628 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type ICNARE
-2023-09-06 11:12:11,628 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PRH
-2023-09-06 11:12:11,628 WARN  [S57ToS101Converter] No S101 feature type for the S57 feature type TS_PNH
-2023-09-06 11:12:11,675 WARN  [GenerateS164TestDataSets] * Checking Signatures ....
-2023-09-06 11:12:11,679 WARN  [GenerateS164TestDataSets] 	 true
-2023-09-06 11:12:11,685 WARN  [CheckS101] * Checking dataSet '10100AA_X0001_1.0'...
-2023-09-06 11:12:11,685 WARN  [CheckS101] Check Dictionnary ...
-2023-09-06 11:12:11,687 WARN  [CheckS101] Dictionnary true
-2023-09-06 11:12:11,687 WARN  [CheckS101] Check Groupe1 ...
-2023-09-06 11:12:11,687 WARN  [CheckS101] Groupe1 true
-2023-09-06 11:12:11,687 WARN  [CheckS101] Check ChainNodeForRings ...
-2023-09-06 11:12:11,687 WARN  [CheckS101] ChainNodeForRings true
-2023-09-06 11:12:11,687 WARN  [CheckS101] * End of dataSet '10100AA_X0001_1.0' check
-2023-09-06 11:12:11,702 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
-2023-09-06 11:12:11,703 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
-2023-09-06 11:12:11,717 WARN  [S57ToS101Converter] Conversion de 1B5X01NE
-2023-09-06 11:12:11,731 WARN  [FeatureS57ToS101Rule] The S57 object 540_2135149389_687 LIGHTS will be not converted.
-2023-09-06 11:12:11,731 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540_2135149412_687
-2023-09-06 11:12:11,732 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540_2135149427_687
-2023-09-06 11:12:11,732 WARN  [AttributeConverterImpl] Valeur S57 [directional function (1)] non convertie(s) pour categoryOfLight de LightSectored 540_2135149438_687
-2023-09-06 11:12:11,813 WARN  [GenerateS164TestDataSets] * Checking Signatures ....
-2023-09-06 11:12:11,817 WARN  [GenerateS164TestDataSets] 	 true
-2023-09-06 11:12:11,832 WARN  [CheckS101] * Checking dataSet '1011B_X01NE_1.0'...
-2023-09-06 11:12:11,832 WARN  [CheckS101] Check Dictionnary ...
-2023-09-06 11:12:11,833 WARN  [CheckS101] Dictionnary true
-2023-09-06 11:12:11,834 WARN  [CheckS101] Check Groupe1 ...
-2023-09-06 11:12:11,834 WARN  [CheckS101] Groupe1 true
-2023-09-06 11:12:11,835 WARN  [CheckS101] Check ChainNodeForRings ...
-2023-09-06 11:12:11,835 WARN  [CheckS101] ChainNodeForRings true
-2023-09-06 11:12:11,835 WARN  [CheckS101] * End of dataSet '1011B_X01NE_1.0' check
-2023-09-06 11:12:11,873 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
-2023-09-06 11:12:11,874 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
-2023-09-06 11:12:11,874 WARN  [S57ToS101Converter] Conversion de IC3NEWPC
-2023-09-06 11:12:11,878 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
-2023-09-06 11:12:11,878 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
-2023-09-06 11:12:11,879 WARN  [S57ToS101Converter] Conversion de IC3NEWCC
-2023-09-06 11:12:11,886 WARN  [GenerateS164TestDataSets] * Checking Signatures ....
-2023-09-06 11:12:11,886 WARN  [GenerateS164TestDataSets] 	 false
-2023-09-06 11:12:11,887 WARN  [CheckS101] * Checking dataSet '101IC_NEWCC_1.0'...
-2023-09-06 11:12:11,887 WARN  [CheckS101] Check Dictionnary ...
-2023-09-06 11:12:11,888 WARN  [CheckS101] Dictionnary true
-2023-09-06 11:12:11,888 WARN  [CheckS101] Check Groupe1 ...
-2023-09-06 11:12:11,888 WARN  [CheckS101] Groupe1 true
-2023-09-06 11:12:11,888 WARN  [CheckS101] Check ChainNodeForRings ...
-2023-09-06 11:12:11,888 WARN  [CheckS101] ChainNodeForRings true
-2023-09-06 11:12:11,888 WARN  [CheckS101] * End of dataSet '101IC_NEWCC_1.0' check
-2023-09-06 11:12:11,889 WARN  [CheckS101] * Checking dataSet '101IC_NEWPC_1.0'...
-2023-09-06 11:12:11,889 WARN  [CheckS101] Check Dictionnary ...
-2023-09-06 11:12:11,889 WARN  [CheckS101] Dictionnary true
-2023-09-06 11:12:11,889 WARN  [CheckS101] Check Groupe1 ...
-2023-09-06 11:12:11,890 WARN  [CheckS101] Groupe1 true
-2023-09-06 11:12:11,890 WARN  [CheckS101] Check ChainNodeForRings ...
-2023-09-06 11:12:11,890 WARN  [CheckS101] ChainNodeForRings true
-2023-09-06 11:12:11,890 WARN  [CheckS101] * End of dataSet '101IC_NEWPC_1.0' check
-2023-09-06 11:12:11,897 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
-2023-09-06 11:12:11,897 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
-2023-09-06 11:12:11,898 ERROR [S57ToS101] Unable to convert 1012J_X0002.000 to ./data-references/dataConverted/s164/V2/TestDataSets/3.6 Display Priorities/S100_ROOT/S-101/DATASET_FILES
-2023-09-06 11:12:11,900 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
-2023-09-06 11:12:11,900 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
-2023-09-06 11:12:11,901 ERROR [S57ToS101] Unable to convert 1012J_X0001.000 to ./data-references/dataConverted/s164/V2/TestDataSets/3.6 Display Priorities/S100_ROOT/S-101/DATASET_FILES
-2023-09-06 11:12:11,903 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
-2023-09-06 11:12:11,903 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
-2023-09-06 11:12:11,912 ERROR [S57ToS101] Unable to convert 1012J_X0001.000 to ./data-references/dataConverted/s164/V2/TestDataSets/3.6 Display Priorities/S100_ROOT/S-101/DATASET_FILES
-2023-09-06 11:12:11,915 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
-2023-09-06 11:12:11,915 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
-2023-09-06 11:12:11,916 WARN  [S57ToS101Converter] Conversion de AA3SCAMN
-2023-09-06 11:12:11,929 WARN  [GenerateS164TestDataSets] * Checking Signatures ....
-2023-09-06 11:12:11,932 WARN  [GenerateS164TestDataSets] 	 true
-2023-09-06 11:12:11,933 WARN  [CheckS101] * Checking dataSet '10100AA_SCAMN_1.0'...
-2023-09-06 11:12:11,933 WARN  [CheckS101] Check Dictionnary ...
-2023-09-06 11:12:11,934 WARN  [CheckS101] Dictionnary true
-2023-09-06 11:12:11,934 WARN  [CheckS101] Check Groupe1 ...
-2023-09-06 11:12:11,934 WARN  [CheckS101] Groupe1 true
-2023-09-06 11:12:11,934 WARN  [CheckS101] Check ChainNodeForRings ...
-2023-09-06 11:12:11,934 WARN  [CheckS101] ChainNodeForRings true
-2023-09-06 11:12:11,934 WARN  [CheckS101] * End of dataSet '10100AA_SCAMN_1.0' check
-2023-09-06 11:12:11,939 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
-2023-09-06 11:12:11,940 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
-2023-09-06 11:12:11,940 WARN  [S57ToS101Converter] Conversion de GB3OVRLP
-2023-09-06 11:12:11,951 WARN  [GenerateS164TestDataSets] * Checking Signatures ....
-2023-09-06 11:12:11,954 WARN  [GenerateS164TestDataSets] 	 true
-2023-09-06 11:12:11,955 WARN  [CheckS101] * Checking dataSet '10100AA_OVRLP_1.0'...
-2023-09-06 11:12:11,955 WARN  [CheckS101] Check Dictionnary ...
-2023-09-06 11:12:11,955 WARN  [CheckS101] Dictionnary true
-2023-09-06 11:12:11,955 WARN  [CheckS101] Check Groupe1 ...
-2023-09-06 11:12:11,955 WARN  [CheckS101] Groupe1 true
-2023-09-06 11:12:11,956 WARN  [CheckS101] Check ChainNodeForRings ...
-2023-09-06 11:12:11,956 WARN  [CheckS101] ChainNodeForRings true
-2023-09-06 11:12:11,956 WARN  [CheckS101] * End of dataSet '10100AA_OVRLP_1.0' check
-2023-09-06 11:12:11,960 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
-2023-09-06 11:12:11,961 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
-2023-09-06 11:12:11,966 ERROR [S57ToS101] Unable to convert 10100AA_NAVHZ.000 to ./data-references/dataConverted/s164/V2/TestDataSets/5.0 Navigational Hazards/S100_ROOT/S-101/DATASET_FILES
-2023-09-06 11:12:11,969 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
-2023-09-06 11:12:11,970 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
-2023-09-06 11:12:11,974 ERROR [S57ToS101] Unable to convert 10100AA_OVRVU.000 to ./data-references/dataConverted/s164/V2/TestDataSets/5.0 Navigational Hazards/Overview/S100_ROOT/S-101/DATASET_FILES
-2023-09-06 11:12:11,977 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
-2023-09-06 11:12:11,977 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
-2023-09-06 11:12:11,978 ERROR [S57ToS101] Unable to convert 10100AA_ARSPC.000 to ./data-references/dataConverted/s164/V2/TestDataSets/6.0 Special Conditions/S100_ROOT/S-101/DATASET_FILES
-2023-09-06 11:12:11,981 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_AGGR
-2023-09-06 11:12:11,982 WARN  [S57toS101MapperImpl] pas de règle spécifique pour C_ASSO
-2023-09-06 11:12:11,983 ERROR [S57ToS101] Unable to convert 10100AA_SAFCO.000 to ./data-references/dataConverted/s164/V2/TestDataSets/7.0 Safety Contour/S100_ROOT/S-101/DATASET_FILES
+2023-10-20 06:50:28,058 WARN  [S57ToS101Converter] Conversion de GB4X0001.000
+2023-10-20 06:50:28,060 INFO  [AttributeConverterImpl] 540_-1387913488_271 : Attribute type MARSYS has been removed from the S101 feature type LocalDirectionOfBuoyage
+2023-10-20 06:50:28,060 INFO  [AttributeConverterImpl] 540_1338130737_295 : Attribute type ORIENT has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:28,061 INFO  [AttributeConverterImpl] 540_-600158792_339 : Attribute type CAT_TS has been removed from the S101 feature type TidalStreamFloodEbb
+2023-10-20 06:50:28,061 INFO  [AttributeConverterImpl] 540_-600158792_339 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-10-20 06:50:28,061 INFO  [AttributeConverterImpl] 540_-600158792_339 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:orientationValue=
+2023-10-20 06:50:28,061 INFO  [AttributeConverterImpl] 540_1077910763_340 : Attribute type CATOBS has been removed from the S101 feature type FoulGround
+2023-10-20 06:50:28,061 INFO  [AttributeConverterImpl] 540_1077910763_340 : Attribute type VALSOU has been removed from the S101 feature type FoulGround
+2023-10-20 06:50:28,061 INFO  [AttributeConverterImpl] 540_1077910763_340 : Attribute type WATLEV has been removed from the S101 feature type FoulGround
+2023-10-20 06:50:28,061 INFO  [AttributeConverterImpl] 540_718040088_341 : Attribute type WATLEV has been removed from the S101 feature type Wreck
+2023-10-20 06:50:28,062 INFO  [AttributeConverterImpl] 540_-631354294_353 : Attribute type DRVAL1 has been removed from the S101 feature type DeepWaterRoutePart
+2023-10-20 06:50:28,062 INFO  [AttributeConverterImpl] 540_-796697907_355 : Cartographic intervention, the mandatory numeric S101 value has an empty value LocalMagneticAnomaly:magneticAnomalyValue=
+2023-10-20 06:50:28,062 INFO  [AttributeConverterImpl] [clearing mark (41)] not converted for categoryOfSpecialPurposeMark of BuoySpecialPurposeGeneral 540_396175919_357
+2023-10-20 06:50:28,062 INFO  [AttributeConverterImpl] 540_396175919_357 : Attribute type CATSPM has been removed from the S101 feature type BuoySpecialPurposeGeneral
+2023-10-20 06:50:28,063 INFO  [AttributeConverterImpl] 540_-1383692511_358 : Attribute type COLPAT has been removed from the S101 feature type BuoyCardinal
+2023-10-20 06:50:28,063 INFO  [AttributeConverterImpl] [clearing mark (41)] not converted for categoryOfSpecialPurposeMark of BuoySpecialPurposeGeneral 540_-548738524_361
+2023-10-20 06:50:28,063 INFO  [AttributeConverterImpl] 540_-548738524_361 : Attribute type CATSPM has been removed from the S101 feature type BuoySpecialPurposeGeneral
+2023-10-20 06:50:28,063 INFO  [AttributeConverterImpl] [clearing mark (41)] not converted for categoryOfSpecialPurposeMark of BuoySpecialPurposeGeneral 540_-1109114829_363
+2023-10-20 06:50:28,063 INFO  [AttributeConverterImpl] 540_-1109114829_363 : Attribute type CATSPM has been removed from the S101 feature type BuoySpecialPurposeGeneral
+2023-10-20 06:50:28,064 INFO  [AttributeConverterImpl] 540_-690681151_378 : Attribute type CATLMK has been removed from the S101 feature type WindTurbine
+2023-10-20 06:50:28,064 INFO  [AttributeConverterImpl] 540_-690681151_378 : Attribute type FUNCTN has been removed from the S101 feature type WindTurbine
+2023-10-20 06:50:28,064 INFO  [AttributeConverterImpl] 540_1300758582_384 : Attribute type COMCHA has been removed from the S101 feature type RadioCallingInPoint
+2023-10-20 06:50:28,065 INFO  [AttributeConverterImpl] 540_474418767_394 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:28,065 INFO  [AttributeConverterImpl] 540_-695464932_368 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_251143772_308 to BuoySafeWater Object 540_1082982549_309
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_38162788_310 to BuoyIsolatedDanger Object 540_-1682538833_311
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_1855689203_312 to BuoyCardinal Object 540_539982343_313
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_1117481747_323 to BuoyCardinal Object 540_-1194440457_324
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-962083328_325 to BuoyCardinal Object 540_589283766_326
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_1099119527_327 to BuoyCardinal Object 540_-1944106170_328
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_646829892_314 to BuoyLateral Object 540_-290451281_315
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_144353748_316 to BuoyLateral Object 540_-1228534134_317
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_111316124_318 to BeaconSafeWater Object 540_-1894623297_319
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-1060360432_320 to BeaconIsolatedDanger Object 540_236788112_321
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_136608442_273 to BeaconCardinal Object 540_1996862882_274
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-1898654419_275 to BeaconCardinal Object 540_1140621261_276
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-1861874810_277 to BeaconCardinal Object 540_-1260452257_278
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-1940671690_330 to BeaconCardinal Object 540_-1345019427_331
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-1455537239_282 to BeaconLateral Object 540_958943158_283
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_1575885715_284 to BeaconLateral Object 540_-290623166_285
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_1331638072_360 to BuoySpecialPurposeGeneral Object 540_-548738524_361
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-517134152_362 to BuoySpecialPurposeGeneral Object 540_-1109114829_363
+2023-10-20 06:50:28,066 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_-2009024594_382 to BeaconLateral Object 540_-242785175_383
+2023-10-20 06:50:28,069 INFO  [S57ToS101Converter] ICNARE-A
+2023-10-20 06:50:28,069 INFO  [S57ToS101Converter] TS_PRH-A
+2023-10-20 06:50:28,069 INFO  [S57ToS101Converter] TS_PNH-A
+2023-10-20 06:50:28,069 INFO  [S57ToS101] Writing 10100AA_X0001.000 to ./data-references/dataConverted/s164/V3/TestDataSets/3.3 Settings/S100_ROOT/S-101/DATASET_FILES
+2023-10-20 06:50:28,076 INFO  [S57ToS101Converter] Copy pointed file GB038_36.TXT to 10100AA038_36.TXT
+2023-10-20 06:50:28,077 INFO  [S57ToS101Converter] Copy pointed file GBBOVSTA.TXT to 10100AABOVSTA.TXT
+2023-10-20 06:50:28,077 INFO  [S57ToS101Converter] Copy pointed file GB0182AE.TIF to 10100AA0182AE.TIF
+2023-10-20 06:50:28,077 INFO  [S57ToS101Converter] Copy pointed file GBA11981.TXT to 10100AAA11981.TXT
+2023-10-20 06:50:28,077 INFO  [S57ToS101Converter] Copy pointed file GB11981A.TXT to 10100AA11981A.TXT

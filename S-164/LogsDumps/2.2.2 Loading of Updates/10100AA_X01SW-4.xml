@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<DataSet>
+<Dataset>
     <DataSetGeneralInformation>
         <DataSetIdentification>
             <!--RecordName-->
@@ -53,7 +53,7 @@
                 <noxn>0</noxn>
                 <!--Number of Surface records-->
                 <nosn>1</nosn>
-                <!--Number of Feature Type records-->
+                <!--Number of Feature records-->
                 <nofr>1</nofr>
             </DataSetStructureInformation>
             <AttributeCodes/>
@@ -90,4 +90,4 @@
             <Foid>1810_584491392_1569</Foid>
         </FeatureRecord>
     </Features>
-</DataSet>
+</Dataset>

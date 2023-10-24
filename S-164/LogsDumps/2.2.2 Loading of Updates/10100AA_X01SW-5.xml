@@ -53,10 +53,12 @@
                 <noxn>0</noxn>
                 <!--Number of Surface records-->
                 <nosn>0</nosn>
-                <!--Number of Feature Type records-->
+                <!--Number of Feature records-->
                 <nofr>1</nofr>
             </DataSetStructureInformation>
-            <AttributeCodes/>
+            <AttributeCodes>
+                <AttributeCode code="qualityOfVerticalMeasurement" numeric="1"/>
+            </AttributeCodes>
             <InformationTypeCodes/>
             <FeatureTypeCodes>
                 <FeatureTypeCode code="Sounding" numeric="1"/>
