@@ -1,0 +1,41 @@
+2023-10-20 06:50:27,627 WARN  [S57ToS101Converter] Conversion de AA5DBASE.000
+2023-10-20 06:50:27,628 INFO  [AttributeConverterImpl] 540_29178716_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:27,628 INFO  [AttributeConverterImpl] 540_29178717_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:27,628 INFO  [AttributeConverterImpl] 540_29178718_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:27,628 INFO  [AttributeConverterImpl] 540_29178719_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:27,628 INFO  [AttributeConverterImpl] 540_29178720_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:27,628 INFO  [AttributeConverterImpl] 540_29178721_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:27,628 INFO  [AttributeConverterImpl] 540_29178723_1 : Attribute type SCAMIN has been removed from the S101 feature type DepthArea
+2023-10-20 06:50:27,629 INFO  [AttributeConverterImpl] 540_29178726_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:27,629 INFO  [AttributeConverterImpl] 540_29178727_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:27,629 INFO  [AttributeConverterImpl] 540_29178728_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:27,629 INFO  [AttributeConverterImpl] 540_29178729_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:27,629 INFO  [AttributeConverterImpl] 540_29178730_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:27,629 INFO  [AttributeConverterImpl] 540_29178731_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:27,629 INFO  [AttributeConverterImpl] 540_29178739_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-10-20 06:50:27,630 INFO  [AttributeConverterImpl] 540_29178752_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-10-20 06:50:27,630 INFO  [AttributeConverterImpl] 540_29178753_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-10-20 06:50:27,630 INFO  [AttributeConverterImpl] 540_29178754_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-10-20 06:50:27,630 INFO  [AttributeConverterImpl] 540_29178755_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-10-20 06:50:27,630 INFO  [AttributeConverterImpl] 540_29178756_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-10-20 06:50:27,630 INFO  [AttributeConverterImpl] 540_29178757_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-10-20 06:50:27,630 INFO  [AttributeConverterImpl] 540_29178758_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-10-20 06:50:27,631 INFO  [AttributeConverterImpl] 540_29178773_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-10-20 06:50:27,631 INFO  [AttributeConverterImpl] 540_29178777_1 : Attribute type CATPYL has been removed from the S101 feature type PylonBridgeSupport
+2023-10-20 06:50:27,632 INFO  [AttributeConverterImpl] 540_29178783_1 : Attribute type CATICE has been removed from the S101 feature type IceArea
+2023-10-20 06:50:27,632 INFO  [AttributeConverterImpl] 540_29178788_1 : Attribute type WATLEV has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:27,632 INFO  [AttributeConverterImpl] 540_29178789_1 : Attribute type WATLEV has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:27,632 INFO  [AttributeConverterImpl] 540_29178792_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:27,632 INFO  [AttributeConverterImpl] 540_29178795_1 : Attribute type CATPYL has been removed from the S101 feature type PylonBridgeSupport
+2023-10-20 06:50:27,633 INFO  [AttributeConverterImpl] 540_29178798_1 : Attribute type CATMOR has been removed from the S101 feature type MooringWarpingFacility
+2023-10-20 06:50:27,633 INFO  [AttributeConverterImpl] 540_29178801_1 : Attribute type WATLEV has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:27,633 INFO  [AttributeConverterImpl] 540_29178802_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:27,633 INFO  [AttributeConverterImpl] [always dry (2)] not converted for waterLevelEffect of UnderwaterAwashRock 540_29178802_1
+2023-10-20 06:50:27,633 INFO  [AttributeConverterImpl] 540_29178802_1 : Attribute type WATLEV has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:27,633 INFO  [AttributeConverterImpl] 540_29178808_1 : Attribute type CATMOR has been removed from the S101 feature type MooringWarpingFacility
+2023-10-20 06:50:27,633 INFO  [AttributeConverterImpl] 540_29178812_1 : Attribute type SCAMIN has been removed from the S101 feature type Coastline
+2023-10-20 06:50:27,633 INFO  [AttributeConverterImpl] 540_29178818_1 : Attribute type WATLEV has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:27,634 INFO  [AttributeConverterImpl] 540_29178826_1 : Attribute type SCAMIN has been removed from the S101 feature type DepthArea
+2023-10-20 06:50:27,634 INFO  [AttributeConverterImpl] 540_29178770_1 : Attribute type SCAMIN has been removed from the S101 feature type DepthArea
+2023-10-20 06:50:27,634 INFO  [AttributeConverterImpl] 540_29178825_1 : Attribute type SCAMIN has been removed from the S101 feature type DepthArea
+2023-10-20 06:50:27,638 INFO  [S57ToS101] Writing 10100AA_DBASE.000 to ./data-references/dataConverted/s164/V3/TestDataSets/3.1 ENC Display/Base/S100_ROOT/S-101/DATASET_FILES

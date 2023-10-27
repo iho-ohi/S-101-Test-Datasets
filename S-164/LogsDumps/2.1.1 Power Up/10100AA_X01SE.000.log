@@ -1,0 +1,2 @@
+2023-10-20 06:50:23,752 WARN  [S57ToS101Converter] Conversion de GB5X01SE.000
+2023-10-20 06:50:23,755 INFO  [S57ToS101] Writing 10100AA_X01SE.000 to ./data-references/dataConverted/s164/V3/TestDataSets/2.1.1 Power Up/S100_ROOT/S-101/DATASET_FILES

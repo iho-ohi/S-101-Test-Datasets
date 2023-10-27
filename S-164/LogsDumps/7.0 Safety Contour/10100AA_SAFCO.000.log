@@ -1,0 +1,6 @@
+2023-10-20 06:50:28,672 WARN  [S57ToS101Converter] Conversion de AA3SAFCO.000
+2023-10-20 06:50:28,672 WARN  [FeatureS57ToS101Rule] The S57 object 1810_1021279923_627 NEWOBJ will be not converted.
+2023-10-20 06:50:28,672 WARN  [FeatureS57ToS101Rule] The S57 object 1810_748196164_628 NEWOBJ will be not converted.
+2023-10-20 06:50:28,672 WARN  [FeatureS57ToS101Rule] The S57 object 1810_672182662_629 NEWOBJ will be not converted.
+2023-10-20 06:50:28,672 WARN  [FeatureS57ToS101Rule] The S57 object 1810_-41745223_634 NEWOBJ will be not converted.
+2023-10-20 06:50:28,674 INFO  [S57ToS101] Writing 10100AA_SAFCO.000 to ./data-references/dataConverted/s164/V3/TestDataSets/7.0 Safety Contour/S100_ROOT/S-101/DATASET_FILES

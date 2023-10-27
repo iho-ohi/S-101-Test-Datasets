@@ -1,0 +1,25 @@
+2023-10-20 06:50:27,805 WARN  [S57ToS101Converter] Conversion de AA5STNDR.000
+2023-10-20 06:50:27,807 INFO  [AttributeConverterImpl] 540_29184937_1 : Attribute type CATLMK has been removed from the S101 feature type WindTurbine
+2023-10-20 06:50:27,808 INFO  [AttributeConverterImpl] 540_29185048_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:27,808 INFO  [AttributeConverterImpl] 540_29185048_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:27,809 ERROR [M_SYS_Rule] LocalDirectionOfBuoyage without MARSYS
+2023-10-20 06:50:27,812 INFO  [AttributeConverterImpl] 540_29185039_1 : Attribute type CATDIS has been removed from the S101 feature type DistanceMark
+2023-10-20 06:50:27,812 INFO  [AttributeConverterImpl] 540_29185040_1 : Attribute type BOYSHP has been removed from the S101 feature type MooringWarpingFacility
+2023-10-20 06:50:27,812 INFO  [AttributeConverterImpl] 540_29185041_1 : Attribute type CLSDEF has been removed from the S101 feature type VirtualAISAidToNavigation
+2023-10-20 06:50:27,812 INFO  [AttributeConverterImpl] 540_29185041_1 : Attribute type CLSNAM has been removed from the S101 feature type VirtualAISAidToNavigation
+2023-10-20 06:50:27,812 INFO  [AttributeConverterImpl] 540_29185041_1 : Attribute type SYMINS has been removed from the S101 feature type VirtualAISAidToNavigation
+2023-10-20 06:50:27,813 INFO  [AttributeConverterImpl] 540_29185001_1 : Attribute type CLSDEF has been removed from the S101 feature type Dam
+2023-10-20 06:50:27,813 INFO  [AttributeConverterImpl] 540_29185001_1 : Attribute type CLSNAM has been removed from the S101 feature type Dam
+2023-10-20 06:50:27,813 INFO  [AttributeConverterImpl] 540_29185001_1 : Attribute type SYMINS has been removed from the S101 feature type Dam
+2023-10-20 06:50:27,815 INFO  [AttributeConverterImpl] 540_29184943_1 : Attribute type CATSIL has been removed from the S101 feature type SiloTank
+2023-10-20 06:50:27,816 INFO  [AttributeConverterImpl] 540_29185045_1 : Attribute type CLSDEF has been removed from the S101 feature type AnchorageArea
+2023-10-20 06:50:27,816 INFO  [AttributeConverterImpl] 540_29185045_1 : Attribute type CLSNAM has been removed from the S101 feature type AnchorageArea
+2023-10-20 06:50:27,816 INFO  [AttributeConverterImpl] 540_29185045_1 : Attribute type SYMINS has been removed from the S101 feature type AnchorageArea
+2023-10-20 06:50:27,816 INFO  [AttributeConverterImpl] 1810_204_1 : Attribute type SORIND has been removed from the S101 feature type DockArea
+2023-10-20 06:50:27,816 INFO  [AttributeConverterImpl] 1810_205_1 : Attribute type SORIND has been removed from the S101 feature type LockBasin
+2023-10-20 06:50:27,816 INFO  [AttributeConverterImpl] 1810_206_1 : Attribute type SORIND has been removed from the S101 feature type DockArea
+2023-10-20 06:50:27,816 ERROR [FeaturesFinalizer] No support has been found for the topmark feature 540_29185037_1
+2023-10-20 06:50:27,821 INFO  [S57ToS101Converter] ICNARE-A
+2023-10-20 06:50:27,821 INFO  [S57ToS101Converter] ICNARE-P
+2023-10-20 06:50:27,821 INFO  [S57ToS101Converter] TOPMAR-P
+2023-10-20 06:50:27,821 INFO  [S57ToS101] Writing 10100AA_STNDR.000 to ./data-references/dataConverted/s164/V3/TestDataSets/3.1 ENC Display/Standard/S100_ROOT/S-101/DATASET_FILES

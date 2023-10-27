@@ -1,0 +1,716 @@
+2023-10-20 06:50:21,831 WARN  [S57ToS101Converter] Conversion de GB4X0000.000
+2023-10-20 06:50:21,880 INFO  [GeometryConverterImpl] QUAPOS value reported (not surveyed) (7)  not found in S101 (replaced by the doubtful value 5) : VN-504
+2023-10-20 06:50:21,881 INFO  [GeometryConverterImpl] QUAPOS value reported (not surveyed) (7)  not found in S101 (replaced by the doubtful value 5) : VN-507
+2023-10-20 06:50:21,881 INFO  [GeometryConverterImpl] QUAPOS value unreliable (6)  not found in S101 (replaced by the doubtful value 5) : VN-508
+2023-10-20 06:50:21,882 INFO  [GeometryConverterImpl] QUAPOS value unreliable (6)  not found in S101 (replaced by the doubtful value 5) : VN-511
+2023-10-20 06:50:22,067 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142467_1
+2023-10-20 06:50:22,067 INFO  [AttributeConverterImpl] 540_29142467_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,068 INFO  [AttributeConverterImpl] 540_29142467_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,069 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142469_1
+2023-10-20 06:50:22,069 INFO  [AttributeConverterImpl] 540_29142469_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,069 INFO  [AttributeConverterImpl] 540_29142469_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,070 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142468_1
+2023-10-20 06:50:22,070 INFO  [AttributeConverterImpl] 540_29142468_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,070 INFO  [AttributeConverterImpl] 540_29142468_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,072 INFO  [AttributeConverterImpl] 540_29142246_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,074 INFO  [AttributeConverterImpl] 540_29142073_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,076 INFO  [AttributeConverterImpl] 540_29141279_1 : Attribute type COLOUR has been removed from the S101 feature type LightFloat
+2023-10-20 06:50:22,077 INFO  [AttributeConverterImpl] 540_29141278_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,088 INFO  [AttributeConverterImpl] 540_29142479_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,090 INFO  [AttributeConverterImpl] 540_29143535_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,092 INFO  [AttributeConverterImpl] 540_29141644_1 : Attribute type COLOUR has been removed from the S101 feature type BuoySpecialPurposeGeneral
+2023-10-20 06:50:22,092 INFO  [AttributeConverterImpl] 540_29141642_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,100 INFO  [AttributeConverterImpl] 540_29144026_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,103 INFO  [AttributeConverterImpl] 540_29141017_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,105 INFO  [AttributeConverterImpl] 540_29142487_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,106 INFO  [AttributeConverterImpl] 540_29142486_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,113 INFO  [AttributeConverterImpl] 540_29141021_1 : Attribute type CATTSS has been removed from the S101 feature type SeparationZoneOrLine
+2023-10-20 06:50:22,114 INFO  [AttributeConverterImpl] 540_29143456_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,116 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142393_1
+2023-10-20 06:50:22,116 INFO  [AttributeConverterImpl] 540_29142393_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,116 INFO  [AttributeConverterImpl] 540_29142393_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,117 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142392_1
+2023-10-20 06:50:22,117 INFO  [AttributeConverterImpl] 540_29142392_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,117 INFO  [AttributeConverterImpl] 540_29142392_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,117 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142391_1
+2023-10-20 06:50:22,117 INFO  [AttributeConverterImpl] 540_29142391_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,117 INFO  [AttributeConverterImpl] 540_29142391_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,118 INFO  [AttributeConverterImpl] 540_29142383_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,118 INFO  [AttributeConverterImpl] 540_29143427_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,134 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142396_1
+2023-10-20 06:50:22,134 INFO  [AttributeConverterImpl] 540_29142396_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,134 INFO  [AttributeConverterImpl] 540_29142396_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,134 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142397_1
+2023-10-20 06:50:22,134 INFO  [AttributeConverterImpl] 540_29142397_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,134 INFO  [AttributeConverterImpl] 540_29142397_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,135 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142398_1
+2023-10-20 06:50:22,135 INFO  [AttributeConverterImpl] 540_29142398_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,135 INFO  [AttributeConverterImpl] 540_29142398_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,135 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142399_1
+2023-10-20 06:50:22,135 INFO  [AttributeConverterImpl] 540_29142399_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,135 INFO  [AttributeConverterImpl] 540_29142399_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,136 INFO  [AttributeConverterImpl] 540_29143422_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,136 INFO  [AttributeConverterImpl] 540_29143422_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,137 INFO  [AttributeConverterImpl] 540_29143422_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,137 INFO  [AttributeConverterImpl] 540_29143423_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,137 INFO  [AttributeConverterImpl] 540_29143423_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,137 INFO  [AttributeConverterImpl] 540_29143423_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,138 INFO  [AttributeConverterImpl] 540_29143424_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,138 INFO  [AttributeConverterImpl] 540_29143424_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,138 INFO  [AttributeConverterImpl] 540_29143424_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,139 INFO  [AttributeConverterImpl] 540_29143425_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconLateral
+2023-10-20 06:50:22,139 INFO  [AttributeConverterImpl] 540_29142367_1 : Attribute type CATLIT has been removed from the S101 feature type LightAirObstruction
+2023-10-20 06:50:22,139 INFO  [AttributeConverterImpl] 540_29141847_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,140 INFO  [AttributeConverterImpl] 540_29141847_1 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,141 INFO  [AttributeConverterImpl] 540_29141879_1 : Attribute type VALSOU has been removed from the S101 feature type MarineFarmCulture
+2023-10-20 06:50:22,141 INFO  [AttributeConverterImpl] 540_29141876_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,141 INFO  [AttributeConverterImpl] 540_29141875_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,142 INFO  [AttributeConverterImpl] 540_29141874_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,148 INFO  [AttributeConverterImpl] 540_29140979_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,148 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141900_1
+2023-10-20 06:50:22,148 INFO  [AttributeConverterImpl] 540_29141900_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,149 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141899_1
+2023-10-20 06:50:22,149 INFO  [AttributeConverterImpl] 540_29141899_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,150 INFO  [AttributeConverterImpl] 540_29140976_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,150 INFO  [AttributeConverterImpl] 540_29140974_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,151 INFO  [AttributeConverterImpl] 540_29140969_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,154 INFO  [AttributeConverterImpl] 540_29141909_1 : Attribute type CATOBS has been removed from the S101 feature type FoulGround
+2023-10-20 06:50:22,154 INFO  [AttributeConverterImpl] 540_29141909_1 : Attribute type VALSOU has been removed from the S101 feature type FoulGround
+2023-10-20 06:50:22,155 INFO  [AttributeConverterImpl] 540_29141910_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,155 INFO  [AttributeConverterImpl] 540_29143953_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,156 INFO  [AttributeConverterImpl] 540_29143955_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,157 INFO  [AttributeConverterImpl] 540_29141129_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,157 INFO  [AttributeConverterImpl] 540_29141129_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,157 INFO  [AttributeConverterImpl] 540_29141129_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,158 INFO  [AttributeConverterImpl] 540_29141130_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,158 INFO  [AttributeConverterImpl] 540_29141130_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,158 INFO  [AttributeConverterImpl] 540_29141130_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,159 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141897_1
+2023-10-20 06:50:22,159 INFO  [AttributeConverterImpl] 540_29141897_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,160 INFO  [AttributeConverterImpl] 540_29141053_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,161 INFO  [AttributeConverterImpl] 540_29141289_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,164 INFO  [AttributeConverterImpl] 540_29141688_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,165 INFO  [AttributeConverterImpl] 540_29141689_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,166 INFO  [AttributeConverterImpl] 540_29141693_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,166 INFO  [AttributeConverterImpl] 540_29141694_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,166 INFO  [AttributeConverterImpl] 540_29141697_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,167 INFO  [AttributeConverterImpl] 540_29141698_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,167 INFO  [AttributeConverterImpl] 540_29141699_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,168 INFO  [AttributeConverterImpl] 540_29143619_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,168 INFO  [AttributeConverterImpl] 540_29143622_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,169 INFO  [AttributeConverterImpl] [circular (non-directional) marine or aero-marine radiobeacon (1)] not converted for categoryOfRadioStation of RadioStation 540_29141665_1
+2023-10-20 06:50:22,169 INFO  [AttributeConverterImpl] 540_29141665_1 : Attribute type CATROS has been removed from the S101 feature type RadioStation
+2023-10-20 06:50:22,170 INFO  [AttributeConverterImpl] 540_29141334_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,171 INFO  [AttributeConverterImpl] 540_29141334_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,172 INFO  [AttributeConverterImpl] 540_29141995_1 : Attribute type CATNAV has been removed from the S101 feature type NavigationLine
+2023-10-20 06:50:22,173 INFO  [AttributeConverterImpl] [fishing prohibited (3)] not converted for restriction of RestrictedAreaNavigational 540_29142005_1
+2023-10-20 06:50:22,174 INFO  [AttributeConverterImpl] [anchoring prohibited (1)] not converted for restriction of RestrictedAreaRegulatory 540_29142005_1
+2023-10-20 06:50:22,174 INFO  [AttributeConverterImpl] 540_29142004_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,174 INFO  [AttributeConverterImpl] 540_29142007_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,175 INFO  [AttributeConverterImpl] 540_29141657_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,176 INFO  [AttributeConverterImpl] 540_29141657_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,176 INFO  [AttributeConverterImpl] 540_29141657_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,176 INFO  [AttributeConverterImpl] 540_29141658_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,177 INFO  [AttributeConverterImpl] 540_29141658_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,177 INFO  [AttributeConverterImpl] 540_29141658_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,177 INFO  [AttributeConverterImpl] 540_29141659_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,178 INFO  [AttributeConverterImpl] 540_29141659_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,178 INFO  [AttributeConverterImpl] 540_29141659_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,179 INFO  [AttributeConverterImpl] [hill (4)] not converted for categoryOfSlope of SlopeTopline 540_29141567_1
+2023-10-20 06:50:22,179 INFO  [AttributeConverterImpl] 540_29141567_1 : Attribute type CATSLO has been removed from the S101 feature type SlopeTopline
+2023-10-20 06:50:22,179 INFO  [AttributeConverterImpl] [hill (4)] not converted for categoryOfSlope of SlopeTopline 540_29141566_1
+2023-10-20 06:50:22,179 INFO  [AttributeConverterImpl] 540_29141566_1 : Attribute type CATSLO has been removed from the S101 feature type SlopeTopline
+2023-10-20 06:50:22,181 INFO  [AttributeConverterImpl] 540_29141332_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,181 INFO  [AttributeConverterImpl] 540_29141332_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,181 INFO  [AttributeConverterImpl] 540_29142185_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,181 INFO  [AttributeConverterImpl] 540_29142185_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,182 INFO  [AttributeConverterImpl] 540_29143629_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,182 INFO  [AttributeConverterImpl] 540_29143629_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,184 INFO  [AttributeConverterImpl] 540_29142296_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,185 INFO  [AttributeConverterImpl] 540_29141096_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,185 INFO  [AttributeConverterImpl] 540_29142549_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,185 INFO  [AttributeConverterImpl] 540_29142549_1 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,185 INFO  [AttributeConverterImpl] 540_29142548_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,185 INFO  [AttributeConverterImpl] 540_29142548_1 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,186 INFO  [AttributeConverterImpl] 540_29142544_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,186 INFO  [AttributeConverterImpl] 540_29142541_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,187 INFO  [AttributeConverterImpl] 540_29142387_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconCardinal
+2023-10-20 06:50:22,187 INFO  [AttributeConverterImpl] 540_29142386_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,188 INFO  [AttributeConverterImpl] [dredging prohibited (9),  | , diving restricted (12),  | , removal of historical artifacts prohibited (22)] not converted for restriction of RestrictedAreaNavigational 540_29141213_1
+2023-10-20 06:50:22,188 INFO  [AttributeConverterImpl] [anchoring prohibited (1)] not converted for restriction of RestrictedAreaRegulatory 540_29141213_1
+2023-10-20 06:50:22,192 INFO  [AttributeConverterImpl] 540_29142550_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,192 INFO  [AttributeConverterImpl] 540_29142550_1 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,192 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29143946_1
+2023-10-20 06:50:22,192 INFO  [AttributeConverterImpl] 540_29143946_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,193 INFO  [AttributeConverterImpl] 540_29143946_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,193 INFO  [AttributeConverterImpl] 540_29143956_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,193 INFO  [AttributeConverterImpl] 540_29143959_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,193 INFO  [AttributeConverterImpl] 540_29143959_1 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,194 INFO  [AttributeConverterImpl] 540_29142374_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconLateral
+2023-10-20 06:50:22,194 INFO  [AttributeConverterImpl] 540_29142372_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,194 INFO  [AttributeConverterImpl] 540_29142372_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,195 INFO  [AttributeConverterImpl] 540_29142372_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,195 INFO  [AttributeConverterImpl] 540_29142373_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,195 INFO  [AttributeConverterImpl] 540_29142373_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,195 INFO  [AttributeConverterImpl] 540_29142373_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,196 INFO  [AttributeConverterImpl] 540_29142371_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,196 INFO  [AttributeConverterImpl] 540_29142371_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,196 INFO  [AttributeConverterImpl] 540_29142371_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,202 INFO  [AttributeConverterImpl] 540_29143966_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,204 INFO  [AttributeConverterImpl] 540_29141110_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,204 INFO  [AttributeConverterImpl] 540_29141113_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,204 INFO  [AttributeS57ToS101Rule] LightAllAround :  Attribute lightCharacteristic for the value interrupted quick-flashing (9) change to [Quick-Flashing (4) de l'objet LightAllAround 540_29141113_1
+2023-10-20 06:50:22,205 INFO  [AttributeConverterImpl] 540_29141117_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,205 INFO  [AttributeConverterImpl] 540_29143417_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,206 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141674_1
+2023-10-20 06:50:22,206 INFO  [AttributeConverterImpl] 540_29141674_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,206 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141673_1
+2023-10-20 06:50:22,206 INFO  [AttributeConverterImpl] 540_29141673_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,206 INFO  [AttributeConverterImpl] 540_29141673_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,206 INFO  [AttributeConverterImpl] 540_29141664_1 : Attribute type CATOBS has been removed from the S101 feature type FoulGround
+2023-10-20 06:50:22,206 INFO  [AttributeConverterImpl] 540_29141664_1 : Attribute type VALSOU has been removed from the S101 feature type FoulGround
+2023-10-20 06:50:22,207 INFO  [AttributeConverterImpl] 540_29141662_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,207 INFO  [AttributeConverterImpl] 540_29141661_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,207 INFO  [AttributeConverterImpl] 540_29141645_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,208 INFO  [AttributeConverterImpl] 540_29142008_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,208 INFO  [AttributeConverterImpl] 540_29142009_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,209 INFO  [AttributeConverterImpl] 540_29142010_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,209 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141672_1
+2023-10-20 06:50:22,209 INFO  [AttributeConverterImpl] 540_29141672_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,210 INFO  [AttributeConverterImpl] 540_29141339_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,211 INFO  [AttributeConverterImpl] 540_29142243_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,211 INFO  [AttributeConverterImpl] 540_29141126_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,212 INFO  [AttributeConverterImpl] 540_29144108_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeBoundary
+2023-10-20 06:50:22,212 INFO  [AttributeConverterImpl] 540_29142249_1 : Attribute type CATTSS has been removed from the S101 feature type SeparationZoneOrLine
+2023-10-20 06:50:22,215 INFO  [AttributeConverterImpl] 540_29141025_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,215 INFO  [AttributeConverterImpl] 540_29142465_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,216 INFO  [AttributeConverterImpl] 540_29143612_1 : Attribute type EXPSOU has been removed from the S101 feature type Sounding
+2023-10-20 06:50:22,217 INFO  [AttributeConverterImpl] 540_29144106_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,218 INFO  [AttributeConverterImpl] 540_29143464_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,218 INFO  [AttributeConverterImpl] 540_29143462_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,219 INFO  [AttributeConverterImpl] 540_29143460_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,219 INFO  [AttributeConverterImpl] 540_29143459_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,219 INFO  [AttributeConverterImpl] 540_29143454_1 : Attribute type CATSPM has been removed from the S101 feature type BuoySpecialPurposeGeneral
+2023-10-20 06:50:22,219 INFO  [AttributeConverterImpl] 540_29143453_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,220 INFO  [AttributeConverterImpl] 540_29143450_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,221 INFO  [AttributeConverterImpl] 540_29143449_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,222 INFO  [AttributeConverterImpl] 540_29141546_1 : Removing a non-mandatory empty numeric value Gate:horizontalClearanceValue=
+2023-10-20 06:50:22,223 INFO  [AttributeConverterImpl] 540_29141545_1 : Removing a non-mandatory empty numeric value Gate:horizontalClearanceValue=
+2023-10-20 06:50:22,225 INFO  [AttributeConverterImpl] 540_29142321_1 : Attribute type CATLIT has been removed from the S101 feature type LightAirObstruction
+2023-10-20 06:50:22,225 INFO  [AttributeConverterImpl] 540_29142334_1 : Attribute type EXPSOU has been removed from the S101 feature type Sounding
+2023-10-20 06:50:22,225 INFO  [AttributeConverterImpl] 540_29143974_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,225 INFO  [AttributeConverterImpl] 540_29143974_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,225 INFO  [AttributeConverterImpl] 540_29143974_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,228 INFO  [AttributeConverterImpl] 540_29143974_1 : Removing a non-mandatory empty numeric value LightSectored:signalPeriod=
+2023-10-20 06:50:22,229 INFO  [AttributeConverterImpl] 540_29143975_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,229 INFO  [AttributeConverterImpl] 540_29143975_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,229 INFO  [AttributeConverterImpl] 540_29143975_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,229 INFO  [AttributeConverterImpl] 540_29143975_1 : Removing a non-mandatory empty numeric value LightSectored:signalPeriod=
+2023-10-20 06:50:22,229 INFO  [AttributeConverterImpl] 540_29143976_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,229 INFO  [AttributeConverterImpl] 540_29143976_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,230 INFO  [AttributeConverterImpl] 540_29143976_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,230 INFO  [AttributeConverterImpl] 540_29143976_1 : Removing a non-mandatory empty numeric value LightSectored:signalPeriod=
+2023-10-20 06:50:22,230 WARN  [LIGHTS_Rule] The S57 Light 540_29142315_1 will be not converted due to its obstruction visibility
+2023-10-20 06:50:22,230 WARN  [FeatureS57ToS101Rule] The S57 object 540_29142315_1 LIGHTS will be not converted.
+2023-10-20 06:50:22,230 INFO  [AttributeConverterImpl] 540_29142317_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,231 INFO  [AttributeConverterImpl] 540_29142317_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,231 INFO  [AttributeConverterImpl] 540_29142317_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,231 INFO  [AttributeConverterImpl] 540_29142316_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,231 INFO  [AttributeConverterImpl] 540_29142316_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,231 INFO  [AttributeConverterImpl] 540_29142316_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,232 INFO  [AttributeConverterImpl] 540_29142318_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,232 INFO  [AttributeConverterImpl] 540_29142318_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,232 INFO  [AttributeConverterImpl] 540_29142318_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,238 INFO  [AttributeConverterImpl] 540_29141049_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,239 INFO  [AttributeConverterImpl] 540_29143625_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,239 INFO  [AttributeConverterImpl] 540_29143627_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,241 INFO  [AttributeConverterImpl] 540_29141752_1 : Attribute type CATLND has been removed from the S101 feature type LandRegion
+2023-10-20 06:50:22,241 INFO  [AttributeConverterImpl] 540_29141505_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,241 INFO  [AttributeConverterImpl] 540_29141505_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,242 INFO  [AttributeConverterImpl] 540_29141738_1 : Attribute type CATSPM has been removed from the S101 feature type BuoySpecialPurposeGeneral
+2023-10-20 06:50:22,243 INFO  [AttributeConverterImpl] 540_29141761_1 : Attribute type CATSPM has been removed from the S101 feature type BuoySpecialPurposeGeneral
+2023-10-20 06:50:22,243 INFO  [AttributeConverterImpl] 540_29141770_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,244 INFO  [AttributeConverterImpl] [aeronautical radiobeacon (7)] not converted for categoryOfRadioStation of RadioStation 540_29142433_1
+2023-10-20 06:50:22,244 INFO  [AttributeConverterImpl] 540_29142433_1 : Attribute type CATROS has been removed from the S101 feature type RadioStation
+2023-10-20 06:50:22,244 INFO  [AttributeConverterImpl] 540_29141839_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,244 INFO  [AttributeConverterImpl] 540_29141840_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,244 INFO  [AttributeConverterImpl] 540_29142494_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,245 INFO  [AttributeConverterImpl] 540_29142519_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,245 INFO  [AttributeConverterImpl] [circular (non-directional) marine or aero-marine radiobeacon (1)] not converted for categoryOfRadioStation of RadioStation 540_29141774_1
+2023-10-20 06:50:22,245 INFO  [AttributeConverterImpl] 540_29141774_1 : Attribute type CATROS has been removed from the S101 feature type RadioStation
+2023-10-20 06:50:22,246 INFO  [AttributeConverterImpl] 540_29141768_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,246 INFO  [AttributeConverterImpl] 540_29141768_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,246 INFO  [AttributeConverterImpl] 540_29142343_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,246 INFO  [AttributeConverterImpl] 540_29142341_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,247 INFO  [AttributeConverterImpl] 540_29142340_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,248 INFO  [AttributeConverterImpl] 540_29142573_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,252 INFO  [AttributeConverterImpl] [permanent (1)] not converted for status of River 540_29141199_1
+2023-10-20 06:50:22,252 INFO  [AttributeConverterImpl] 540_29141199_1 : Attribute type STATUS has been removed from the S101 feature type River
+2023-10-20 06:50:22,252 INFO  [AttributeConverterImpl] 540_29142219_1 : Removing a non-mandatory empty numeric value Gate:horizontalClearanceValue=
+2023-10-20 06:50:22,253 INFO  [AttributeConverterImpl] [directional function (1)] not converted for categoryOfLight of LightSectored 540_29142220_1
+2023-10-20 06:50:22,253 INFO  [AttributeConverterImpl] 540_29142220_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,253 INFO  [AttributeConverterImpl] 540_29142220_1 : Removing a non-mandatory empty numeric value LightSectored:orientationUncertainty=
+2023-10-20 06:50:22,254 INFO  [AttributeConverterImpl] 540_29142222_1 : Attribute type CATLIT has been removed from the S101 feature type LightAirObstruction
+2023-10-20 06:50:22,254 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29143973_1
+2023-10-20 06:50:22,254 INFO  [AttributeConverterImpl] 540_29143973_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,254 INFO  [AttributeConverterImpl] 540_29143973_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,254 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29143997_1
+2023-10-20 06:50:22,255 INFO  [AttributeConverterImpl] 540_29143997_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,255 INFO  [AttributeConverterImpl] [coast radio station providing QTG service (6)] not converted for categoryOfRadioStation of RadioStation 540_29141946_1
+2023-10-20 06:50:22,255 INFO  [AttributeConverterImpl] 540_29141946_1 : Attribute type CATROS has been removed from the S101 feature type RadioStation
+2023-10-20 06:50:22,259 INFO  [AttributeConverterImpl] 540_29143512_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,259 INFO  [AttributeConverterImpl] 540_29143512_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,262 INFO  [AttributeConverterImpl] 540_29142166_1 : Attribute type QUASOU has been removed from the S101 feature type Sounding
+2023-10-20 06:50:22,262 INFO  [AttributeConverterImpl] 540_29142224_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,262 INFO  [AttributeConverterImpl] 540_29142224_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,262 INFO  [AttributeConverterImpl] 540_29142224_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,262 INFO  [AttributeConverterImpl] 540_29142225_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,263 INFO  [AttributeConverterImpl] 540_29142225_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,263 INFO  [AttributeConverterImpl] 540_29142225_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,263 INFO  [SOUNDG_Rule] **** CARTOGRAPHER INTERVENTION *****125 [5, 4] is converted to DepthNoBottomFound
+2023-10-20 06:50:22,263 INFO  [AttributeConverterImpl] 540_29165294_1 : Attribute type QUASOU has been removed from the S101 feature type DepthNoBottomFound
+2023-10-20 06:50:22,264 INFO  [AttributeConverterImpl] [directional function (1)] not converted for categoryOfLight of LightSectored 540_29142223_1
+2023-10-20 06:50:22,264 INFO  [AttributeConverterImpl] 540_29142223_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,264 INFO  [AttributeConverterImpl] 540_29142223_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,264 INFO  [AttributeConverterImpl] 540_29142223_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,264 INFO  [AttributeConverterImpl] [permanent (1)] not converted for status of River 540_29141270_1
+2023-10-20 06:50:22,264 INFO  [AttributeConverterImpl] 540_29141270_1 : Attribute type STATUS has been removed from the S101 feature type River
+2023-10-20 06:50:22,265 INFO  [AttributeConverterImpl] 540_29141329_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,265 INFO  [AttributeConverterImpl] 540_29141329_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,265 INFO  [AttributeConverterImpl] 540_29141330_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,265 INFO  [AttributeConverterImpl] 540_29141330_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,265 INFO  [AttributeConverterImpl] 540_29141331_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,266 INFO  [AttributeConverterImpl] 540_29141331_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,266 INFO  [AttributeConverterImpl] 540_29141333_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,266 INFO  [AttributeConverterImpl] 540_29141333_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,270 INFO  [AttributeConverterImpl] 540_29141846_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,270 INFO  [AttributeConverterImpl] 540_29141846_1 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,273 INFO  [AttributeConverterImpl] 540_29141477_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,274 INFO  [AttributeConverterImpl] 540_29141720_1 : Attribute type CATOBS has been removed from the S101 feature type FoulGround
+2023-10-20 06:50:22,274 INFO  [AttributeConverterImpl] 540_29141720_1 : Attribute type VALSOU has been removed from the S101 feature type FoulGround
+2023-10-20 06:50:22,274 INFO  [AttributeConverterImpl] 540_29142342_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,274 INFO  [AttributeConverterImpl] 540_29144086_1 : Attribute type COLOUR has been removed from the S101 feature type BuoyInstallation
+2023-10-20 06:50:22,274 INFO  [AttributeConverterImpl] 540_29141173_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,274 INFO  [AttributeConverterImpl] 540_29141173_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,275 INFO  [AttributeConverterImpl] 540_29141172_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,280 INFO  [AttributeConverterImpl] [permanent (1)] not converted for status of River 540_29142100_1
+2023-10-20 06:50:22,280 INFO  [AttributeConverterImpl] 540_29142100_1 : Attribute type STATUS has been removed from the S101 feature type River
+2023-10-20 06:50:22,281 INFO  [AttributeConverterImpl] 540_29144068_1 : Attribute type COLOUR has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,281 INFO  [AttributeConverterImpl] 540_29144067_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,281 INFO  [AttributeConverterImpl] 540_29144067_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,281 INFO  [AttributeConverterImpl] 540_29144067_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,281 INFO  [AttributeConverterImpl] 540_29144066_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,281 INFO  [AttributeConverterImpl] 540_29144066_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,282 INFO  [AttributeConverterImpl] 540_29144066_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,282 INFO  [AttributeConverterImpl] 540_29144064_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,282 INFO  [AttributeConverterImpl] 540_29144061_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,282 INFO  [AttributeConverterImpl] 540_29144058_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,282 INFO  [AttributeConverterImpl] 540_29144054_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,283 INFO  [AttributeConverterImpl] 540_29144054_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,283 INFO  [AttributeConverterImpl] 540_29144054_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,283 INFO  [AttributeConverterImpl] 540_29144053_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,283 INFO  [AttributeConverterImpl] 540_29144052_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,283 INFO  [AttributeConverterImpl] 540_29144052_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,284 INFO  [AttributeConverterImpl] 540_29144052_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,284 INFO  [AttributeConverterImpl] 540_29142552_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconCardinal
+2023-10-20 06:50:22,285 INFO  [AttributeConverterImpl] 540_29144084_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,285 INFO  [AttributeConverterImpl] 540_29144082_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,285 INFO  [AttributeConverterImpl] 540_29143487_1 : Attribute type CATOBS has been removed from the S101 feature type FoulGround
+2023-10-20 06:50:22,285 INFO  [AttributeConverterImpl] 540_29143487_1 : Attribute type VALSOU has been removed from the S101 feature type FoulGround
+2023-10-20 06:50:22,289 INFO  [AttributeConverterImpl] 540_29142570_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,289 INFO  [AttributeConverterImpl] 540_29142568_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,290 INFO  [AttributeConverterImpl] [permanent (1)] not converted for status of River 540_29142101_1
+2023-10-20 06:50:22,290 INFO  [AttributeConverterImpl] 540_29142101_1 : Attribute type STATUS has been removed from the S101 feature type River
+2023-10-20 06:50:22,297 INFO  [AttributeConverterImpl] 540_29141780_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,297 INFO  [AttributeConverterImpl] 540_29142539_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,298 INFO  [AttributeConverterImpl] 540_29142539_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,298 INFO  [AttributeConverterImpl] 540_29142539_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,298 INFO  [AttributeConverterImpl] 540_29142538_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,298 INFO  [AttributeConverterImpl] 540_29142538_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,298 INFO  [AttributeConverterImpl] 540_29142538_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,298 INFO  [AttributeConverterImpl] 540_29142537_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,298 INFO  [AttributeConverterImpl] 540_29142537_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,299 INFO  [AttributeConverterImpl] 540_29142537_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,299 INFO  [AttributeConverterImpl] 540_29142536_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,299 INFO  [AttributeConverterImpl] 540_29142536_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,299 INFO  [AttributeConverterImpl] 540_29142536_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,299 INFO  [AttributeConverterImpl] 540_29142535_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,299 INFO  [AttributeConverterImpl] 540_29142535_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,300 INFO  [AttributeConverterImpl] 540_29142535_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,300 INFO  [AttributeConverterImpl] 540_29142534_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,300 INFO  [AttributeConverterImpl] 540_29142534_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,300 INFO  [AttributeConverterImpl] 540_29142534_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,300 INFO  [AttributeConverterImpl] [directional radiobeacon (2)] not converted for categoryOfRadioStation of RadioStation 540_29142533_1
+2023-10-20 06:50:22,300 INFO  [AttributeConverterImpl] 540_29142533_1 : Attribute type CATROS has been removed from the S101 feature type RadioStation
+2023-10-20 06:50:22,300 INFO  [AttributeConverterImpl] 540_29142533_1 : Attribute type ORIENT has been removed from the S101 feature type RadioStation
+2023-10-20 06:50:22,300 INFO  [AttributeConverterImpl] 540_29142532_1 : Attribute type COLPAT has been removed from the S101 feature type Landmark
+2023-10-20 06:50:22,302 INFO  [AttributeConverterImpl] 540_29143491_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,303 INFO  [AttributeConverterImpl] 540_29142560_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,303 INFO  [AttributeConverterImpl] 540_29149471_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,303 INFO  [AttributeConverterImpl] 540_29149471_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,303 INFO  [AttributeConverterImpl] 540_29142562_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,304 INFO  [AttributeConverterImpl] 540_29142564_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,304 INFO  [AttributeConverterImpl] 540_29142566_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,305 INFO  [AttributeConverterImpl] Coastline :  Attribute CATCOA with values [3] change to attribute type natureOfSurface with value [4]
+2023-10-20 06:50:22,306 INFO  [AttributeConverterImpl] 540_29141618_1 : Attribute type CATPRA has been removed from the S101 feature type ProductionStorageArea
+2023-10-20 06:50:22,306 INFO  [AttributeConverterImpl] 540_29141616_1 : Attribute type CATPRA has been removed from the S101 feature type ProductionStorageArea
+2023-10-20 06:50:22,307 INFO  [AttributeConverterImpl] 540_29141615_1 : Attribute type CATPRA has been removed from the S101 feature type ProductionStorageArea
+2023-10-20 06:50:22,308 INFO  [AttributeConverterImpl] 540_29141604_1 : Removing a non-mandatory empty numeric value Gate:horizontalClearanceValue=
+2023-10-20 06:50:22,309 INFO  [AttributeConverterImpl] 540_29141603_1 : Removing a non-mandatory empty numeric value Gate:horizontalClearanceValue=
+2023-10-20 06:50:22,309 INFO  [AttributeConverterImpl] 540_29141602_1 : Removing a non-mandatory empty numeric value Gate:horizontalClearanceValue=
+2023-10-20 06:50:22,309 INFO  [AttributeConverterImpl] 540_29141601_1 : Removing a non-mandatory empty numeric value Gate:horizontalClearanceValue=
+2023-10-20 06:50:22,311 INFO  [AttributeConverterImpl] 540_29142498_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,311 INFO  [AttributeConverterImpl] 540_29141795_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,314 INFO  [AttributeConverterImpl] 540_29141056_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,315 INFO  [AttributeConverterImpl] 540_29141819_1 : Removing a non-mandatory empty numeric value Gate:horizontalClearanceValue=
+2023-10-20 06:50:22,315 INFO  [AttributeConverterImpl] 540_29141818_1 : Removing a non-mandatory empty numeric value Gate:horizontalClearanceValue=
+2023-10-20 06:50:22,316 INFO  [AttributeConverterImpl] 540_29141767_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,316 INFO  [AttributeConverterImpl] 540_29141767_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,317 INFO  [AttributeConverterImpl] 540_29141769_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,317 INFO  [AttributeConverterImpl] 540_29141845_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,318 INFO  [AttributeConverterImpl] 540_29142158_1 : Attribute type CATTSS has been removed from the S101 feature type SeparationZoneOrLine
+2023-10-20 06:50:22,318 INFO  [AttributeConverterImpl] 540_29142422_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,319 INFO  [AttributeConverterImpl] 540_29142421_1 : Attribute type CATTSS has been removed from the S101 feature type SeparationZoneOrLine
+2023-10-20 06:50:22,319 INFO  [AttributeConverterImpl] 540_29144121_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,319 INFO  [AttributeConverterImpl] 540_29141034_1 : Attribute type CATTSS has been removed from the S101 feature type InshoreTrafficZone
+2023-10-20 06:50:22,321 INFO  [AttributeConverterImpl] 540_29141024_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,322 INFO  [AttributeConverterImpl] 540_29143506_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeBoundary
+2023-10-20 06:50:22,322 INFO  [AttributeConverterImpl] 540_29141316_1 : Attribute type CATTSS has been removed from the S101 feature type SeparationZoneOrLine
+2023-10-20 06:50:22,323 INFO  [AttributeConverterImpl] 540_29141310_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,323 INFO  [AttributeConverterImpl] 540_29144119_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,323 INFO  [AttributeConverterImpl] 540_29144118_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,323 INFO  [AttributeConverterImpl] 540_29144115_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeRoundabout
+2023-10-20 06:50:22,323 INFO  [AttributeConverterImpl] 540_29144114_1 : Attribute type CATTSS has been removed from the S101 feature type SeparationZoneOrLine
+2023-10-20 06:50:22,326 INFO  [AttributeConverterImpl] 540_29142140_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamPanelData:orientationValue=
+2023-10-20 06:50:22,327 INFO  [AttributeConverterImpl] 540_29142140_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamPanelData:speedMaximum=
+2023-10-20 06:50:22,328 INFO  [AttributeConverterImpl] [circular (non-directional) marine or aero-marine radiobeacon (1)] not converted for categoryOfRadioStation of RadioStation 540_29142152_1
+2023-10-20 06:50:22,328 INFO  [AttributeConverterImpl] 540_29142152_1 : Attribute type CATROS has been removed from the S101 feature type RadioStation
+2023-10-20 06:50:22,328 INFO  [AttributeConverterImpl] 540_29142154_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,328 INFO  [AttributeConverterImpl] 540_29142157_1 : Attribute type COLOUR has been removed from the S101 feature type BuoySpecialPurposeGeneral
+2023-10-20 06:50:22,330 INFO  [AttributeConverterImpl] 540_29141174_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,331 INFO  [AttributeConverterImpl] 540_29141174_1 : Attribute type OBJNAM has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,332 INFO  [AttributeConverterImpl] 540_29142069_1 : Attribute type CATLIT has been removed from the S101 feature type LightAirObstruction
+2023-10-20 06:50:22,333 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142331_1
+2023-10-20 06:50:22,333 INFO  [AttributeConverterImpl] 540_29142331_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,333 INFO  [AttributeConverterImpl] 540_29142331_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,335 INFO  [AttributeConverterImpl] 540_29143631_1 : Attribute type CATTSS has been removed from the S101 feature type SeparationZoneOrLine
+2023-10-20 06:50:22,335 INFO  [AttributeConverterImpl] 540_29143630_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,337 INFO  [AttributeConverterImpl] 540_29140829_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,337 INFO  [AttributeConverterImpl] 540_29140828_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,337 INFO  [AttributeConverterImpl] 540_29140883_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,338 INFO  [AttributeConverterImpl] 540_29141296_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeBoundary
+2023-10-20 06:50:22,339 INFO  [AttributeConverterImpl] 540_29141414_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:22,339 INFO  [AttributeConverterImpl] [fishing prohibited (3)] not converted for restriction of RestrictedAreaNavigational 540_29140887_1
+2023-10-20 06:50:22,341 INFO  [AttributeConverterImpl] [anchoring prohibited (1)] not converted for restriction of RestrictedAreaRegulatory 540_29140887_1
+2023-10-20 06:50:22,342 INFO  [AttributeConverterImpl] [dredging prohibited (9),  | , diving restricted (12)] not converted for restriction of RestrictedAreaNavigational 540_29143985_1
+2023-10-20 06:50:22,342 INFO  [AttributeConverterImpl] [anchoring prohibited (1)] not converted for restriction of RestrictedAreaRegulatory 540_29143985_1
+2023-10-20 06:50:22,344 INFO  [AttributeConverterImpl] 540_29140808_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,344 INFO  [AttributeConverterImpl] 540_29140808_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,346 INFO  [AttributeConverterImpl] 540_29140954_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,348 INFO  [AttributeConverterImpl] 540_29141792_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,348 INFO  [AttributeConverterImpl] 540_29142426_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,348 INFO  [AttributeConverterImpl] 540_29141022_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,391 INFO  [AttributeConverterImpl] 540_29144117_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,392 INFO  [AttributeConverterImpl] 540_29144116_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,392 INFO  [AttributeConverterImpl] 540_29144113_1 : Attribute type CATTSS has been removed from the S101 feature type SeparationZoneOrLine
+2023-10-20 06:50:22,392 INFO  [AttributeConverterImpl] 540_29142252_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,392 INFO  [AttributeConverterImpl] 540_29142252_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,393 INFO  [AttributeConverterImpl] 540_29142123_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,393 INFO  [AttributeConverterImpl] 540_29142123_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,421 INFO  [AttributeConverterImpl] 540_29141297_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeBoundary
+2023-10-20 06:50:22,422 INFO  [AttributeConverterImpl] 540_29141328_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,422 INFO  [AttributeConverterImpl] 540_29141328_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,423 INFO  [AttributeConverterImpl] 540_29141327_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,423 INFO  [AttributeConverterImpl] 540_29141327_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,424 INFO  [AttributeConverterImpl] 540_29141326_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:22,424 INFO  [AttributeConverterImpl] 540_29141325_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:22,424 INFO  [AttributeConverterImpl] 540_29141324_1 : Attribute type CATBRG has been removed from the S101 feature type SpanOpening
+2023-10-20 06:50:22,427 INFO  [AttributeConverterImpl] 540_29141153_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,427 INFO  [AttributeConverterImpl] 540_29142027_1 : Attribute type CATLND has been removed from the S101 feature type LandRegion
+2023-10-20 06:50:22,428 INFO  [AttributeConverterImpl] 540_29140964_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,428 INFO  [AttributeConverterImpl] 540_29141097_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,429 INFO  [AttributeConverterImpl] 540_29141105_1 : Attribute type TECSOU has been removed from the S101 feature type SweptArea
+2023-10-20 06:50:22,429 INFO  [AttributeConverterImpl] 540_29141154_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,429 INFO  [AttributeConverterImpl] 540_29141155_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,430 INFO  [AttributeConverterImpl] 540_29141798_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,432 INFO  [AttributeConverterImpl] 540_29141898_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,433 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141896_1
+2023-10-20 06:50:22,433 INFO  [AttributeConverterImpl] 540_29141896_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,433 INFO  [AttributeConverterImpl] 540_29141896_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,433 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141895_1
+2023-10-20 06:50:22,433 INFO  [AttributeConverterImpl] 540_29141895_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,433 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141894_1
+2023-10-20 06:50:22,433 INFO  [AttributeConverterImpl] 540_29141894_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,433 INFO  [AttributeConverterImpl] 540_29141894_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,433 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141893_1
+2023-10-20 06:50:22,433 INFO  [AttributeConverterImpl] 540_29141893_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,433 INFO  [AttributeConverterImpl] 540_29141893_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,433 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141892_1
+2023-10-20 06:50:22,433 INFO  [AttributeConverterImpl] 540_29141892_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,433 INFO  [AttributeConverterImpl] 540_29141892_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,433 INFO  [AttributeConverterImpl] 540_29141891_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,434 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141890_1
+2023-10-20 06:50:22,434 INFO  [AttributeConverterImpl] 540_29141890_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,434 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141889_1
+2023-10-20 06:50:22,434 INFO  [AttributeConverterImpl] 540_29141889_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,434 INFO  [AttributeConverterImpl] 540_29141889_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,434 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141888_1
+2023-10-20 06:50:22,434 INFO  [AttributeConverterImpl] 540_29141888_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,434 INFO  [AttributeConverterImpl] 540_29141888_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,434 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141887_1
+2023-10-20 06:50:22,434 INFO  [AttributeConverterImpl] 540_29141887_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,434 INFO  [AttributeConverterImpl] 540_29141887_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,434 INFO  [AttributeConverterImpl] 540_29141122_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,434 INFO  [AttributeS57ToS101Rule] LightAllAround :  Attribute lightCharacteristic for the value interrupted quick-flashing (9) change to [Quick-Flashing (4) de l'objet LightAllAround 540_29141122_1
+2023-10-20 06:50:22,435 INFO  [AttributeConverterImpl] 540_29141107_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,435 INFO  [AttributeConverterImpl] [rotating-pattern radiobeacon (3)] not converted for categoryOfRadioStation of RadioStation 540_29141906_1
+2023-10-20 06:50:22,435 INFO  [AttributeConverterImpl] 540_29141906_1 : Attribute type CATROS has been removed from the S101 feature type RadioStation
+2023-10-20 06:50:22,435 INFO  [AttributeConverterImpl] 540_29141908_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,436 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141912_1
+2023-10-20 06:50:22,436 INFO  [AttributeConverterImpl] 540_29141912_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,436 INFO  [AttributeConverterImpl] 540_29141912_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,436 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141913_1
+2023-10-20 06:50:22,436 INFO  [AttributeConverterImpl] 540_29141913_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,436 INFO  [AttributeConverterImpl] 540_29141913_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,436 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29141914_1
+2023-10-20 06:50:22,436 INFO  [AttributeConverterImpl] 540_29141914_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,436 INFO  [AttributeConverterImpl] 540_29141914_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,436 INFO  [AttributeConverterImpl] 540_29140982_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,436 INFO  [AttributeConverterImpl] 540_29140971_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,437 INFO  [AttributeConverterImpl] 540_29143968_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,437 INFO  [AttributeConverterImpl] 540_29143967_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,438 INFO  [AttributeConverterImpl] 540_29141558_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,439 INFO  [AttributeConverterImpl] 540_29142365_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,439 INFO  [AttributeConverterImpl] 540_29142366_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,439 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142394_1
+2023-10-20 06:50:22,439 INFO  [AttributeConverterImpl] 540_29142394_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,439 INFO  [AttributeConverterImpl] 540_29142394_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,439 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142395_1
+2023-10-20 06:50:22,439 INFO  [AttributeConverterImpl] 540_29142395_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,439 INFO  [AttributeConverterImpl] 540_29142395_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,440 INFO  [AttributeConverterImpl] 540_29141617_1 : Attribute type CATPRA has been removed from the S101 feature type ProductionStorageArea
+2023-10-20 06:50:22,440 INFO  [AttributeConverterImpl] 540_29141610_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,440 INFO  [AttributeConverterImpl] 540_29141610_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,441 INFO  [AttributeConverterImpl] 540_29141397_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,441 INFO  [AttributeConverterImpl] 540_29141397_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,441 INFO  [AttributeConverterImpl] 540_29141396_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,441 INFO  [AttributeConverterImpl] 540_29141396_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,441 INFO  [AttributeConverterImpl] 540_29141395_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,441 INFO  [AttributeConverterImpl] 540_29141395_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,441 INFO  [AttributeConverterImpl] 540_29141394_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,441 INFO  [AttributeConverterImpl] 540_29141394_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,441 INFO  [AttributeConverterImpl] 540_29141393_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,441 INFO  [AttributeConverterImpl] 540_29141393_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,441 INFO  [AttributeConverterImpl] 540_29141392_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,442 INFO  [AttributeConverterImpl] 540_29141392_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,442 INFO  [AttributeConverterImpl] 540_29141382_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,442 INFO  [AttributeConverterImpl] 540_29141382_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,443 INFO  [AttributeConverterImpl] [fishing prohibited (3)] not converted for restriction of RestrictedAreaNavigational 540_29141214_1
+2023-10-20 06:50:22,443 INFO  [AttributeConverterImpl] [anchoring prohibited (1)] not converted for restriction of RestrictedAreaRegulatory 540_29141214_1
+2023-10-20 06:50:22,444 INFO  [AttributeConverterImpl] 540_29143986_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,447 INFO  [AttributeConverterImpl] 540_29140864_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,448 INFO  [AttributeConverterImpl] 540_29144120_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,448 INFO  [AttributeConverterImpl] 540_29144120_1 : Attribute type ORIENT has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,450 INFO  [AttributeConverterImpl] 540_29141317_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,452 INFO  [AttributeConverterImpl] 540_29141337_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeBoundary
+2023-10-20 06:50:22,452 INFO  [AttributeConverterImpl] 540_29141023_1 : Attribute type CATTSS has been removed from the S101 feature type TrafficSeparationSchemeLanePart
+2023-10-20 06:50:22,453 INFO  [AttributeConverterImpl] 540_29140992_1 : Attribute type VALSOU has been removed from the S101 feature type Obstruction
+2023-10-20 06:50:22,453 INFO  [AttributeConverterImpl] 540_29140890_1 : Attribute type CATOBS has been removed from the S101 feature type FoulGround
+2023-10-20 06:50:22,455 INFO  [AttributeConverterImpl] [aeronautical radiobeacon (7)] not converted for categoryOfRadioStation of RadioStation 540_29142232_1
+2023-10-20 06:50:22,455 INFO  [AttributeConverterImpl] 540_29142232_1 : Attribute type CATROS has been removed from the S101 feature type RadioStation
+2023-10-20 06:50:22,456 INFO  [AttributeConverterImpl] 540_29141590_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,456 INFO  [AttributeConverterImpl] 540_29141587_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,456 INFO  [AttributeConverterImpl] 540_29141565_1 : Attribute type BCNSHP has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,456 INFO  [AttributeConverterImpl] 540_29141565_1 : Attribute type CATSPM has been removed from the S101 feature type BeaconSpecialPurposeGeneral
+2023-10-20 06:50:22,458 INFO  [AttributeConverterImpl] 540_29142294_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,458 INFO  [AttributeConverterImpl] 540_29142295_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,458 INFO  [AttributeConverterImpl] 540_29142297_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,459 INFO  [AttributeConverterImpl] 540_29142297_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,459 INFO  [AttributeConverterImpl] 540_29142297_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,462 INFO  [AttributeConverterImpl] 540_29140751_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,462 INFO  [AttributeConverterImpl] 540_29141709_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,463 INFO  [AttributeConverterImpl] 540_29141725_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,463 INFO  [AttributeConverterImpl] 540_29141281_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,463 INFO  [AttributeConverterImpl] 540_29141293_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,463 INFO  [AttributeConverterImpl] 540_29141285_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,464 INFO  [AttributeConverterImpl] 540_29141283_1 : Attribute type COLOUR has been removed from the S101 feature type BuoySpecialPurposeGeneral
+2023-10-20 06:50:22,466 INFO  [AttributeConverterImpl] Coastline :  Attribute CATCOA with values [4] change to attribute type natureOfSurface with value [5]
+2023-10-20 06:50:22,466 INFO  [AttributeConverterImpl] 540_29142508_1 : Attribute type TRAFIC has been removed from the S101 feature type RecommendedTrack
+2023-10-20 06:50:22,467 INFO  [AttributeConverterImpl] 540_29142509_1 : Attribute type TRAFIC has been removed from the S101 feature type RecommendedTrack
+2023-10-20 06:50:22,467 INFO  [AttributeConverterImpl] 540_29141228_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,467 INFO  [AttributeConverterImpl] 540_29141442_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,467 INFO  [AttributeConverterImpl] 540_29141785_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,468 INFO  [AttributeConverterImpl] 540_29141787_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,468 INFO  [AttributeConverterImpl] 540_29141790_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,469 INFO  [AttributeConverterImpl] 540_29141958_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,470 INFO  [AttributeConverterImpl] 540_29141958_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,470 INFO  [AttributeConverterImpl] 540_29141958_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,470 INFO  [AttributeConverterImpl] 540_29141958_1 : Removing a non-mandatory empty numeric value LightSectored:signalPeriod=
+2023-10-20 06:50:22,470 INFO  [AttributeConverterImpl] 540_29141959_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,470 INFO  [AttributeConverterImpl] 540_29141959_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,470 INFO  [AttributeConverterImpl] 540_29141959_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,470 INFO  [AttributeConverterImpl] 540_29141959_1 : Removing a non-mandatory empty numeric value LightSectored:signalPeriod=
+2023-10-20 06:50:22,470 INFO  [AttributeConverterImpl] 540_29141957_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,470 INFO  [AttributeConverterImpl] 540_29141957_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,470 INFO  [AttributeConverterImpl] 540_29141957_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,470 INFO  [AttributeConverterImpl] 540_29141957_1 : Removing a non-mandatory empty numeric value LightSectored:signalPeriod=
+2023-10-20 06:50:22,470 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142229_1
+2023-10-20 06:50:22,470 INFO  [AttributeConverterImpl] 540_29142229_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,470 INFO  [AttributeConverterImpl] 540_29142229_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142230_1
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] 540_29142230_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142305_1
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] 540_29142305_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] 540_29142305_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142306_1
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] 540_29142306_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] 540_29142306_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142307_1
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] 540_29142307_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] 540_29142307_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142308_1
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] 540_29142308_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] 540_29142308_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142309_1
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] 540_29142309_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] 540_29142309_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142310_1
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] 540_29142310_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] 540_29142310_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142311_1
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] 540_29142311_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,471 INFO  [AttributeConverterImpl] 540_29142311_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,472 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142312_1
+2023-10-20 06:50:22,472 INFO  [AttributeConverterImpl] 540_29142312_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,472 INFO  [AttributeConverterImpl] 540_29142319_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,472 INFO  [AttributeConverterImpl] 540_29142319_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,472 INFO  [AttributeConverterImpl] 540_29142319_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,472 INFO  [AttributeConverterImpl] 540_29142320_1 : Attribute type CATLIT has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,472 INFO  [AttributeConverterImpl] 540_29142320_1 : Attribute type SECTR1 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,472 INFO  [AttributeConverterImpl] 540_29142320_1 : Attribute type SECTR2 has been removed from the S101 feature type LightSectored
+2023-10-20 06:50:22,473 INFO  [AttributeConverterImpl] [rock (9)] not converted for natureOfSurface of UnderwaterAwashRock 540_29142332_1
+2023-10-20 06:50:22,473 INFO  [AttributeConverterImpl] 540_29142332_1 : Attribute type NATSUR has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,473 INFO  [AttributeConverterImpl] 540_29142332_1 : Attribute type VALSOU has been removed from the S101 feature type UnderwaterAwashRock
+2023-10-20 06:50:22,474 INFO  [AttributeConverterImpl] 540_29141341_1 : Attribute type CATBRG has been removed from the S101 feature type SpanFixed
+2023-10-20 06:50:22,475 INFO  [AttributeConverterImpl] 540_29141341_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value SpanFixed:verticalClearanceValue=
+2023-10-20 06:50:22,477 INFO  [AttributeConverterImpl] 540_29141837_1 : Attribute type CATLIT has been removed from the S101 feature type LightAllAround
+2023-10-20 06:50:22,510 INFO  [S57ToS101Converter] SignalStationTraffic and RadioStation-540_29141775_1 to 45540_29141774_1
+2023-10-20 06:50:22,510 INFO  [S57ToS101Converter] Landmark and RadioStation-540_29141945_1 to 45540_29141946_1
+2023-10-20 06:50:22,510 INFO  [S57ToS101Converter] Landmark and RadioStation-540_29142532_1 to 45540_29142533_1
+2023-10-20 06:50:22,510 INFO  [S57ToS101Converter] BuoySpecialPurposeGeneral and RadioStation-540_29142157_1 to 45540_29142152_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29142245_1 to BuoyCardinal Object 540_29142248_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29142072_1 to BuoyCardinal Object 540_29142075_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29144025_1 to BuoyCardinal Object 540_29144027_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141018_1 to BuoyCardinal Object 540_29141015_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29143455_1 to BuoySafeWater Object 540_29143457_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29142382_1 to BeaconCardinal Object 540_29142384_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29143426_1 to BeaconCardinal Object 540_29142381_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29143421_1 to BeaconLateral Object 540_29143425_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29140980_1 to BuoySafeWater Object 540_29140977_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29140944_1 to BeaconCardinal Object 540_29140945_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141054_1 to BuoySpecialPurposeGeneral Object 540_29141051_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141288_1 to BuoySpecialPurposeGeneral Object 540_29141291_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29142543_1 to BuoyLateral Object 540_29142545_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29142385_1 to BeaconCardinal Object 540_29142387_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141124_1 to BuoySpecialPurposeGeneral Object 540_29141123_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29143957_1 to BuoySpecialPurposeGeneral Object 540_29143958_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29142370_1 to BeaconLateral Object 540_29142374_1
+2023-10-20 06:50:22,512 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141111_1 to BuoyIsolatedDanger Object 540_29141109_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141114_1 to BuoyLateral Object 540_29141112_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141118_1 to BuoyLateral Object 540_29141116_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141127_1 to BuoySpecialPurposeGeneral Object 540_29141125_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29143458_1 to BuoySafeWater Object 540_29143442_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29143452_1 to BuoySpecialPurposeGeneral Object 540_29143454_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141050_1 to BuoySpecialPurposeGeneral Object 540_29141047_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141737_1 to BuoySpecialPurposeGeneral Object 540_29141738_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141479_1 to BuoySpecialPurposeGeneral Object 540_29141475_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29142551_1 to BeaconCardinal Object 540_29142552_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29144065_1 to BeaconSpecialPurposeGeneral Object 540_29144068_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29144063_1 to BuoyCardinal Object 540_29144048_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29144060_1 to BuoyCardinal Object 540_29144062_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29144057_1 to BuoyCardinal Object 540_29144059_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29142495_1 to BuoySpecialPurposeGeneral Object 540_29142496_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29142497_1 to BuoySafeWater Object 540_29142499_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141794_1 to BuoyCardinal Object 540_29141796_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141779_1 to BuoyCardinal Object 540_29141793_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141797_1 to BeaconCardinal Object 540_29141799_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141108_1 to BeaconSpecialPurposeGeneral Object 540_29141107_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29140983_1 to BuoySpecialPurposeGeneral Object 540_29140981_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29140972_1 to BuoyLateral Object 540_29140970_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141559_1 to BeaconSpecialPurposeGeneral Object 540_29141558_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141592_1 to BuoySpecialPurposeGeneral Object 540_29141591_1
+2023-10-20 06:50:22,513 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141588_1 to BuoyCardinal Object 540_29141564_1
+2023-10-20 06:50:22,514 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29140750_1 to BuoySpecialPurposeGeneral Object 540_29140753_1
+2023-10-20 06:50:22,514 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141292_1 to BuoySpecialPurposeGeneral Object 540_29141295_1
+2023-10-20 06:50:22,514 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141284_1 to BuoySpecialPurposeGeneral Object 540_29141287_1
+2023-10-20 06:50:22,514 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141229_1 to BuoyLateral Object 540_29141227_1
+2023-10-20 06:50:22,514 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141784_1 to BuoyLateral Object 540_29141783_1
+2023-10-20 06:50:22,514 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141786_1 to BuoyLateral Object 540_29141788_1
+2023-10-20 06:50:22,514 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29141789_1 to BuoyLateral Object 540_29141791_1
+2023-10-20 06:50:22,514 INFO  [FeaturesFinalizer] Adding feature TOPMAR 540_29140879_1 to BuoyCardinal Object 540_29140878_1
+2023-10-20 06:50:22,514 INFO  [FeaturesFinalizer] Adding feature LIGHTS 540_29143424_1 to LightSectored Object 540_29143423_1
+2023-10-20 06:50:22,515 INFO  [FeaturesFinalizer] Adding feature LIGHTS 540_29141129_1 to LightSectored Object 540_29141130_1
+2023-10-20 06:50:22,515 INFO  [FeaturesFinalizer] Adding feature LIGHTS 540_29141659_1 to LightSectored Object 540_29141657_1
+2023-10-20 06:50:22,516 INFO  [FeaturesFinalizer] Adding feature LIGHTS 540_29142373_1 to LightSectored Object 540_29142372_1
+2023-10-20 06:50:22,516 INFO  [FeaturesFinalizer] Adding feature LIGHTS 540_29143975_1 to LightSectored Object 540_29143974_1
+2023-10-20 06:50:22,517 INFO  [FeaturesFinalizer] Adding feature LIGHTS 540_29142319_1 to LightSectored Object 540_29142318_1
+2023-10-20 06:50:22,517 INFO  [FeaturesFinalizer] Adding feature LIGHTS 540_29142225_1 to LightSectored Object 540_29142224_1
+2023-10-20 06:50:22,518 INFO  [FeaturesFinalizer] Adding feature LIGHTS 540_29144066_1 to LightSectored Object 540_29144067_1
+2023-10-20 06:50:22,518 INFO  [FeaturesFinalizer] Adding feature LIGHTS 540_29142537_1 to LightSectored Object 540_29142536_1
+2023-10-20 06:50:22,520 INFO  [FeaturesFinalizer] Adding feature LIGHTS 540_29141959_1 to LightSectored Object 540_29141958_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29143424_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29143422_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29141129_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29141659_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29142373_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29142371_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29143975_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29143976_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29142316_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29142319_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29142225_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29142223_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29144066_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29142537_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29142538_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29142535_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29142539_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29142534_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29141959_1
+2023-10-20 06:50:22,521 INFO  [FeaturesFinalizer] LIGHTS : removing feature LIGHTS 540_29141957_1
+2023-10-20 06:50:22,522 INFO  [AttributeConverterImpl] 1810_112524125_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,522 INFO  [AttributeConverterImpl] 1810_112524126_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,522 INFO  [AttributeConverterImpl] 1810_112524127_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,522 INFO  [AttributeConverterImpl] 1810_112524129_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,522 INFO  [AttributeConverterImpl] 1810_112524130_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,522 INFO  [AttributeConverterImpl] 1810_112524131_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,522 INFO  [AttributeConverterImpl] 1810_112524132_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,522 INFO  [AttributeConverterImpl] 1810_112524133_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,523 INFO  [AttributeConverterImpl] 1810_112524134_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,523 INFO  [AttributeConverterImpl] 1810_112524135_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,523 INFO  [AttributeConverterImpl] [foot bridge (9)] not converted for categoryOfBridge of Bridge 540_29149471_1
+2023-10-20 06:50:22,523 INFO  [AttributeConverterImpl] 1810_112524139_2 : Attribute type VERCCL has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,523 INFO  [AttributeConverterImpl] 1810_112524140_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,523 INFO  [AttributeConverterImpl] 1810_112524141_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,523 INFO  [AttributeConverterImpl] 1810_112524142_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,523 INFO  [AttributeConverterImpl] 1810_112524143_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,523 INFO  [AttributeConverterImpl] 1810_112524144_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,523 INFO  [AttributeConverterImpl] 1810_112524145_2 : Attribute type VERCCL has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,523 INFO  [AttributeConverterImpl] 1810_112524146_2 : Attribute type VERCCL has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,524 INFO  [AttributeConverterImpl] 1810_112524147_2 : Attribute type VERCCL has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,524 INFO  [AttributeConverterImpl] 1810_112524149_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,524 INFO  [AttributeConverterImpl] 1810_112524150_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,524 INFO  [AttributeConverterImpl] 1810_112524151_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,524 INFO  [AttributeConverterImpl] 1810_112524152_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,524 INFO  [AttributeConverterImpl] 1810_112524153_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,524 INFO  [AttributeConverterImpl] 1810_112524154_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,524 INFO  [AttributeConverterImpl] 1810_112524155_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:22,524 INFO  [AttributeConverterImpl] 1810_112524156_2 : Attribute type CATBRG has been removed from the S101 feature type Bridge
+2023-10-20 06:50:23,096 INFO  [S57ToS101Converter] ICNARE-A
+2023-10-20 06:50:23,096 INFO  [S57ToS101Converter] CTRPNT-P
+2023-10-20 06:50:23,098 INFO  [S57ToS101] Writing 10100AA_X0000.000 to ./data-references/dataConverted/s164/V3/TestDataSets/2.1.1 Power Up/S100_ROOT/S-101/DATASET_FILES
+2023-10-20 06:50:23,372 INFO  [S57ToS101Converter] Copy pointed file GBX4000T.TIF to 10100AAX4000T.TIF
+2023-10-20 06:50:23,372 INFO  [S57ToS101Converter] Copy pointed file GBTESTPC.TIF to 10100AATESTPC.TIF
+2023-10-20 06:50:23,385 INFO  [S57ToS101Converter] Copy pointed file GBCHAINS.TXT to 10100AACHAINS.TXT
+2023-10-20 06:50:23,386 INFO  [S57ToS101Converter] Copy pointed file GBDEVARE.TXT to 10100AADEVARE.TXT
+2023-10-20 06:50:23,386 INFO  [S57ToS101Converter] Copy pointed file GBIECTMP.TXT to 10100AAIECTMP.TXT
