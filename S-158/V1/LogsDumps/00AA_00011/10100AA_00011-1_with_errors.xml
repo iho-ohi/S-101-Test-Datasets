@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Dataset>
+    <DataSetGeneralInformation>
+        <DataSetIdentification>
+            <!--RecordName-->
+            <rcnm>10</rcnm>
+            <!--RecordIdentifier-->
+            <rcid>1</rcid>
+            <!--Encoding Specification-->
+            <ensp>S-100 Part 10a</ensp>
+            <!--Encoding Specification Edition-->
+            <ened>1.1</ened>
+            <!--Product Identifier-->
+            <prsp>INT.IHO.S-101.1.1.0</prsp>
+            <!--Product Edition-->
+            <pred>1.1.0</pred>
+            <!--Application Profile-->
+            <prof>2</prof>
+            <!--Dataset File Identifier-->
+            <dsnm>10100AA_00011.001</dsnm>
+            <!--Dataset Title-->
+            <dstl> (Converted using GEOMOD Converter)</dstl>
+            <!--Dataset Reference Date-->
+            <dsrd>20180208</dsrd>
+            <!--Dataset Language-->
+            <dslg>EN</dslg>
+            <!--Dataset Edition-->
+            <dsed>2.1</dsed>
+            <!--Dataset Topic Category-->
+            <dstc>14 18</dstc>
+            <DataSetStructureInformation>
+                <!--Dataset Coordinate Origin X-->
+                <dcox>0.0</dcox>
+                <!--Dataset Coordinate Origin Y-->
+                <dcoy>0.0</dcoy>
+                <!--Dataset Coordinate Origin Z-->
+                <dcoz>0.0</dcoz>
+                <!--Coordinate Multiplication Factor for X-->
+                <cmfx>10000000</cmfx>
+                <!--Coordinate Multiplication Factor for Y-->
+                <cmfy>10000000</cmfy>
+                <!--Coordinate Multiplication Factor for Z-->
+                <cmfz>100</cmfz>
+                <!--Number of Information Type records-->
+                <noir>0</noir>
+                <!--Number of Point records-->
+                <nopn>0</nopn>
+                <!--Number of Multi Point records-->
+                <nomn>0</nomn>
+                <!--Number of Curve records-->
+                <nocn>3</nocn>
+                <!--Number of Composite Curve records : On ajoute la composite curve-->
+                <noxn>1</noxn>
+                <!--Number of Surface records-->
+                <nosn>0</nosn>
+                <!--Number of Feature records-->
+                <nofr>4</nofr>
+            </DataSetStructureInformation>
+            <AttributeCodes>
+                <AttributeCode code="status" numeric="1"/>
+                <AttributeCode code="visualProminence" numeric="2"/>
+            </AttributeCodes>
+            <InformationTypeCodes/>
+            <FeatureTypeCodes>
+                <FeatureTypeCode code="Landmark" numeric="3"/>
+                <FeatureTypeCode code="River" numeric="2"/>
+                <FeatureTypeCode code="SlopeTopline" numeric="1"/>
+            </FeatureTypeCodes>
+            <InformationAssociationCodes/>
+            <FeatureAssociationCodes/>
+            <AssociationRoleCodes/>
+        </DataSetIdentification>
+    </DataSetGeneralInformation>
+    <Informations/>
+    <Points/>
+    <MultiPoints/>
+    <Curves>
+        <CurveRecord>
+            <Identifier rcid="173" rcnm="120" ruin="delete" version="2"/>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="174" rcnm="120" ruin="delete" version="2"/>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="175" rcnm="120" ruin="delete" version="2"/>
+        </CurveRecord>
+    </Curves>
+    <CompositeCurves>
+        <CompositeCurveRecord>
+            <Identifier rcid="99" rcnm="125" ruin="delete" version="2"/>
+        </CompositeCurveRecord>
+    </CompositeCurves>
+    <Surfaces/>
+    <Features>
+        <FeatureRecord>
+            <Identifier featureType="SlopeTopline" rcid="53" rcnm="100" ruin="delete" version="2"/>
+            <!-- FOID Empty => require by spec -->
+            <Foid/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="River" rcid="99" rcnm="100" ruin="modify" version="2"/>
+            <!-- Error N° 10a_096 <Foid>1810_36_1</Foid> -->
+            <Foid>1554_36_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="status" value="5"/>
+            <!-- Error delete attribut that doesn't exist -->
+            <SimpleAttribute atin="delete" index="1" type="agency" value=""/>
+            <CompositeCurve ornt="forward" rrid="99" saui="delete"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="River" rcid="99" rcnm="100" ruin="modify" version="3"/>
+            <Foid>1810_36_1</Foid>
+            <!-- on ajoute la relation avec une seule curve-->
+            <Curve ornt="forward" rrid="91" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Landmark" rcid="110" rcnm="100" ruin="modify" version="2"/>
+            <Foid>1810_67_2</Foid>
+            <SimpleAttribute atin="insert" index="1" type="visualProminence" value="1"/>
+        </FeatureRecord>
+    </Features>
+</Dataset>

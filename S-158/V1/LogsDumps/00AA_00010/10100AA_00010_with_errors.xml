@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Dataset>
+    <DataSetGeneralInformation>
+        <DataSetIdentification>
+            <!--RecordName-->
+            <rcnm>10</rcnm>
+            <!--RecordIdentifier-->
+            <rcid>1</rcid>
+            <!--Encoding Specification-->
+            <ensp>S-100 Part 10a</ensp>
+            <!--Encoding Specification Edition-->
+            <ened>1.1</ened>
+            <!--Product Identifier-->
+            <prsp>INT.IHO.S-101.1.1.0</prsp>
+            <!--Product Edition-->
+            <pred>1.1.0</pred>
+            <!--Application Profile-->
+            <prof>1</prof>
+            <!--Dataset File Identifier-->
+            <dsnm>10100AA_00010.000</dsnm>
+            <!--Dataset Title-->
+            <dstl>THIS CELL IS CREATED BY IIC TECHNOLOGIES Pvt. Ltd., HYDERABAD, INDIA FOR UK HYDROGRAPHIC OFFICE. (Converted using GEOMOD Converter)</dstl>
+            <!--Dataset Reference Date-->
+            <dsrd>20180306</dsrd>
+            <!--Dataset Language-->
+            <dslg>EN</dslg>
+            <!--Dataset Edition-->
+            <dsed>2.0</dsed>
+            <!--Dataset Topic Category-->
+            <dstc>14 18</dstc>
+            <DataSetStructureInformation>
+                <!--Dataset Coordinate Origin X-->
+                <dcox>0.0</dcox>
+                <!--Dataset Coordinate Origin Y-->
+                <dcoy>0.0</dcoy>
+                <!--Dataset Coordinate Origin Z-->
+                <dcoz>0.0</dcoz>
+                <!--Coordinate Multiplication Factor for X-->
+                <cmfx>10000000</cmfx>
+                <!--Coordinate Multiplication Factor for Y-->
+                <cmfy>10000000</cmfy>
+                <!--Coordinate Multiplication Factor for Z-->
+                <cmfz>100</cmfz>
+                <!--Number of Information Type records-->
+                <noir>0</noir>
+                <!--Number of Point records-->
+                <nopn>18</nopn>
+                <!--Number of Multi Point records-->
+                <nomn>35</nomn>
+                <!--Number of Curve records-->
+                <nocn>18</nocn>
+                <!--Number of Composite Curve records-->
+                <noxn>6</noxn>
+                <!--Number of Surface records-->
+                <nosn>12</nosn>
+                <!--Number of Feature records-->
+                <nofr>57</nofr>
+            </DataSetStructureInformation>
+            <AttributeCodes>
+                <AttributeCode code="maximumDisplayScale" numeric="1"/>
+                <AttributeCode code="minimumDisplayScale" numeric="2"/>
+                <AttributeCode code="depthRangeMinimumValue" numeric="3"/>
+                <AttributeCode code="depthRangeMaximumValue" numeric="4"/>
+                <AttributeCode code="qualityOfVerticalMeasurement" numeric="5"/>
+                <AttributeCode code="valueOfSounding" numeric="6"/>
+                <AttributeCode code="waterLevelEffect" numeric="7"/>
+                <AttributeCode code="surroundingDepth" numeric="8"/>
+                <AttributeCode code="defaultClearanceDepth" numeric="9"/>
+                <AttributeCode code="categoryOfTemporalVariation" numeric="10"/>
+                <AttributeCode code="dataAssessment" numeric="11"/>
+                <AttributeCode code="featuresDetected" numeric="12"/>
+                <AttributeCode code="leastDepthOfDetectedFeaturesMeasured" numeric="13"/>
+                <AttributeCode code="significantFeaturesDetected" numeric="14"/>
+                <AttributeCode code="fullSeafloorCoverageAchieved" numeric="15"/>
+                <AttributeCode code="zoneOfConfidence" numeric="16"/>
+                <AttributeCode code="categoryOfZoneOfConfidenceInData" numeric="17"/>
+                <AttributeCode code="surveyDateRange" numeric="18"/>
+                <AttributeCode code="dateEnd" numeric="19"/>
+                <AttributeCode code="marksNavigationalSystemOf" numeric="20"/>
+                <AttributeCode code="valueOfDepthContour" numeric="21"/>
+                <AttributeCode code="surfaceCharacteristics" numeric="22"/>
+                <AttributeCode code="natureOfSurface" numeric="23"/>
+                <AttributeCode code="underlyingLayer" numeric="24"/>
+                <AttributeCode code="categoryOfShorelineConstruction" numeric="25"/>
+                <AttributeCode code="restriction" numeric="26"/>
+            </AttributeCodes>
+            <InformationTypeCodes/>
+            <FeatureTypeCodes>
+                <FeatureTypeCode code="DataCoverage" numeric="1"/>
+                <FeatureTypeCode code="DepthArea" numeric="2"/>
+                <FeatureTypeCode code="Obstruction" numeric="3"/>
+                <FeatureTypeCode code="QualityOfBathymetricData" numeric="4"/>
+                <FeatureTypeCode code="NavigationalSystemOfMarks" numeric="5"/>
+                <FeatureTypeCode code="River" numeric="6"/>
+                <FeatureTypeCode code="DepthContour" numeric="7"/>
+                <FeatureTypeCode code="SeabedArea" numeric="8"/>
+                <FeatureTypeCode code="ShorelineConstruction" numeric="9"/>
+                <FeatureTypeCode code="Sounding" numeric="10"/>
+                <FeatureTypeCode code="Coastline" numeric="11"/>
+                <FeatureTypeCode code="AnchorageArea" numeric="12"/>
+                <FeatureTypeCode code="RestrictedAreaNavigational" numeric="13"/>
+                <FeatureTypeCode code="LandArea" numeric="14"/>
+            </FeatureTypeCodes>
+            <InformationAssociationCodes/>
+            <FeatureAssociationCodes/>
+            <AssociationRoleCodes/>
+        </DataSetIdentification>
+    </DataSetGeneralInformation>
+    <DataSetCoordinateReferenceSystems>
+        <CoordinateReferenceSystemRecordIdentifier NumberOfCRSComponents="3" rcid="1" rcnm="15">
+            <CoordinateReferenceSystemHeader crsIdentifier="4326" ellipsoidal="true" horizontal="true" identifier="1" name="WGS84" source="EPSG" sourceInfo=""/>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" horizontal="false" identifier="2" name="Depth - approximate lowest astronomical tide" source="Not Applicable" sourceInfo="">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Meter"/>
+                <VerticalDatum identifier="10" name="approximate lowest astronomical tide" source="2"/>
+            </CoordinateReferenceSystemHeader>
+            <CoordinateReferenceSystemHeader crsIdentifier="" ellipsoidal="false" horizontal="false" identifier="3" name="Heights - mean sea level" source="Not Applicable" sourceInfo="">
+                <CoordinateSystemAxes axisType="Gravity related depth (orientation down)" unit="Meter"/>
+                <VerticalDatum identifier="3" name="mean sea level" source="2"/>
+            </CoordinateReferenceSystemHeader>
+        </CoordinateReferenceSystemRecordIdentifier>
+    </DataSetCoordinateReferenceSystems>
+    <Informations/>
+    <Points>
+        <PointRecord>
+            <Identifier rcid="1" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.4898264,61.2473972)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="2" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.475627,61.2127179)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="3" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.428188,61.2104742)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="4" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.4988551,61.2438651)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="5" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.4978288,61.25)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="6" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.4958863,61.25)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="7" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.5,61.2355498)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="8" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.4677064,61.25)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="9" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.5,61.1815347)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="10" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.4265737,61.25)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="11" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.4971459,61.2450892)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="12" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.488535,61.2456048)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="13" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.4946801,61.243359)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="14" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.4871713,61.2465528)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="15" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.4935185,61.2448641)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="16" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.4806786,61.2452679)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="17" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.4711573,61.236568)</C2IT>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="18" rcnm="110" ruin="insert" version="1"/>
+            <C2IT>(-32.4803672,61.2375958)</C2IT>
+        </PointRecord>
+    </Points>
+    <MultiPoints>
+        <MultiPointRecord>
+            <Identifier rcid="4" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4372492,61.1878698,147.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="5" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4501741,61.1764191,154.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="6" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4329508,61.1694666,174.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="7" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.420277,61.1746101,162.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="8" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4324864,61.2285561,110.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="9" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4225369,61.2277704,116.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="10" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.437476,61.2132444,122.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="11" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4471987,61.1992503,136.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="12" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4271701,61.2104877,127.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="13" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4241407,61.1921655,135.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="14" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4245133,61.2417348,96.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="15" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4174069,61.2480879,112.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="16" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4335178,61.2496188,87.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="17" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4990954,61.2447723,29.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="18" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4963495,61.2125694,54.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="19" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4929799,61.2396693,44.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="20" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4929988,61.1975196,72.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="21" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4861678,61.1804124,108.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="22" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4794556,61.1999901,92.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="23" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4714636,61.1891388,119.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="24" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4669573,61.1738973,145.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="25" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4594837,61.1975574,127.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="26" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.442201,61.2400041,76.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="27" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.451813,61.2423612,68.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="28" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4487782,61.2238446,102.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="29" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4598941,61.2309591,84.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="30" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4620379,61.2135819,116.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="31" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4909252,61.2273492,63.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="32" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4848664,61.2158202,82.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="33" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4841455,61.2479097,38.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="34" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4726165,61.2278325,72.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="35" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4739179,61.2486063,32.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="36" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4799794,61.2352791,61.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="37" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4677862,61.2407844,58.0)</C3IL>
+        </MultiPointRecord>
+        <MultiPointRecord>
+            <Identifier rcid="38" rcnm="115" ruin="insert" version="1"/>
+            <C3IL crsid="2">(-32.4747657,61.2131121,104.0)</C3IL>
+        </MultiPointRecord>
+    </MultiPoints>
+    <Curves>
+        <CurveRecord>
+            <Identifier rcid="1" rcnm="120" ruin="insert" version="1"/>
+            <StartEndPoint rrid="4"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.4988551,61.2438651)(-32.4986472,61.2440973)(-32.4984501,61.244397)(-32.498334,61.2448425)(-32.498334,61.245126)(-32.4984123,61.2454095)(-32.4985365,61.2455877)(-32.498847,61.245747)(-32.4991008,61.2457632)(-32.4993681,61.2457713)(-32.4995706,61.2456633)(-32.4997515,61.2454257)(-32.4998487,61.2451341)(-32.4998892,61.2446967)(-32.4998622,61.2444267)(-32.4997191,61.2441351)(-32.499549,61.2439353)(-32.4993357,61.2437976)(-32.4991332,61.2437733)(-32.4989712,61.2437895)(-32.4988551,61.2438651)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="2" rcnm="120" ruin="insert" version="1"/>
+            <StartEndPoint rrid="16"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.4806786,61.2452679)(-32.4788116,61.2452312)(-32.47765,61.2455249)(-32.4767787,61.2460755)(-32.4769447,61.2467729)(-32.47765,61.2472135)(-32.4790191,61.2472135)(-32.4807616,61.2468464)(-32.4812595,61.2462958)(-32.481384,61.2457084)(-32.4806786,61.2452679)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="3" rcnm="120" ruin="insert" version="1"/>
+            <StartPoint rrid="5"/>
+            <EndPoint rrid="6"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.4978288,61.25)(-32.4975456,61.2497646)(-32.496768,61.24896)(-32.4961524,61.2485307)(-32.4957258,61.2482877)(-32.495499,61.2482202)(-32.4953343,61.2482418)(-32.4951858,61.2484335)(-32.4951615,61.2486657)(-32.4951939,61.2489168)(-32.4955233,61.2494973)(-32.4958863,61.25)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="4" rcnm="120" ruin="insert" version="1"/>
+            <StartPoint rrid="5"/>
+            <EndPoint rrid="6"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.4978288,61.25)(-32.4958863,61.25)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="5" rcnm="120" ruin="insert" version="1"/>
+            <StartPoint rrid="9"/>
+            <EndPoint rrid="10"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.5,61.1815347)(-32.4989955,61.1820162)(-32.4986256,61.1821701)(-32.4972216,61.1828073)(-32.4956043,61.1836929)(-32.4949563,61.1839872)(-32.4939789,61.1844543)(-32.4934605,61.1846649)(-32.492853,61.184943)(-32.4916245,61.1854614)(-32.4901962,61.1861472)(-32.4895374,61.1865171)(-32.4884466,61.1871138)(-32.4880524,61.1873433)(-32.4867942,61.1881344)(-32.4851553,61.1891901)(-32.4835758,61.1902161)(-32.4832248,61.1904753)(-32.48235,61.1910504)(-32.4818613,61.191423)(-32.4812943,61.1918577)(-32.4806814,61.1924112)(-32.480082,61.1930025)(-32.4793854,61.1937693)(-32.4788832,61.1944848)(-32.4785835,61.1949303)(-32.4781947,61.1955648)(-32.4778815,61.1962587)(-32.4776952,61.1967717)(-32.4774576,61.1976195)(-32.4772524,61.1984727)(-32.4771039,61.1991882)(-32.477004,61.1999334)(-32.4769095,61.2010053)(-32.4768852,61.2012699)(-32.4769338,61.2019962)(-32.4771741,61.2035028)(-32.4776655,61.2059949)(-32.4781758,61.2081009)(-32.4784377,61.2093186)(-32.4785673,61.210161)(-32.4786726,61.2108117)(-32.4786969,61.2113139)(-32.4786888,61.2123588)(-32.4786267,61.2130743)(-32.4785052,61.2137277)(-32.4782595,61.2146079)(-32.4780138,61.2152775)(-32.4776871,61.2159552)(-32.477247,61.2167571)(-32.4766557,61.2176616)(-32.476167,61.218342)(-32.475789,61.2187713)(-32.4753597,61.2191952)(-32.4748872,61.2196002)(-32.4745335,61.2198675)(-32.4741582,61.2201078)(-32.473413,61.2205857)(-32.4728298,61.2209178)(-32.4722547,61.2211878)(-32.471523,61.2215037)(-32.47128,61.22169)(-32.4708723,61.2219951)(-32.4705429,61.22223)(-32.4697491,61.2227052)(-32.4681021,61.2236367)(-32.4676809,61.2238905)(-32.4670491,61.2242307)(-32.4661527,61.2246519)(-32.465394,61.2249165)(-32.464692,61.2251595)(-32.4645192,61.2252243)(-32.4637713,61.2254484)(-32.4629046,61.2256806)(-32.4624537,61.2257697)(-32.4611361,61.2260019)(-32.4601182,61.226172)(-32.4593919,61.2262611)(-32.4586467,61.2263961)(-32.4577692,61.2265635)(-32.4568026,61.2268794)(-32.4560736,61.2271602)(-32.4555417,61.2273843)(-32.4544104,61.2278622)(-32.4537975,61.2281079)(-32.4530901,61.2284103)(-32.4523773,61.2286884)(-32.451624,61.2289719)(-32.4511164,61.2291393)(-32.4506034,61.2293094)(-32.450004,61.229439)(-32.4496557,61.2294795)(-32.4491427,61.2295389)(-32.4484191,61.2295794)(-32.4474471,61.2296253)(-32.4468909,61.2296253)(-32.4460917,61.2296901)(-32.4454869,61.2297495)(-32.4445392,61.2299223)(-32.4436617,61.2301113)(-32.4428895,61.2303651)(-32.4421227,61.2306621)(-32.4417042,61.2308322)(-32.4408861,61.2311913)(-32.4403488,61.231464)(-32.4397494,61.2317529)(-32.4387288,61.232355)(-32.4383562,61.2325602)(-32.4371979,61.2332892)(-32.4368388,61.2334998)(-32.4361071,61.2339507)(-32.4354483,61.2343152)(-32.4347598,61.2346608)(-32.4343116,61.2348849)(-32.4338337,61.2350388)(-32.433399,61.2351738)(-32.4322245,61.2354762)(-32.4313929,61.2356706)(-32.4297486,61.236027)(-32.429349,61.236108)(-32.4279639,61.2364347)(-32.4276102,61.2365589)(-32.4266328,61.2369315)(-32.4261495,61.2372177)(-32.425596,61.2375255)(-32.4252315,61.2377631)(-32.4245457,61.2382167)(-32.4242514,61.2384354)(-32.4237573,61.2388566)(-32.4234252,61.2391887)(-32.4229932,61.2396153)(-32.4227232,61.239942)(-32.4224721,61.2402822)(-32.4223641,61.2405198)(-32.4222588,61.2407601)(-32.4221913,61.2410058)(-32.4221076,61.2414324)(-32.4220725,61.2418671)(-32.4220509,61.2423153)(-32.4220563,61.2425367)(-32.4221778,61.2430254)(-32.4223506,61.24356)(-32.4228501,61.2445752)(-32.4237114,61.245882)(-32.4252396,61.2481014)(-32.4262008,61.2494406)(-32.4265737,61.25)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="6" rcnm="120" ruin="insert" version="1"/>
+            <StartPoint rrid="9"/>
+            <EndPoint rrid="10"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.5,61.1815347)(-32.5,61.1666667)(-32.4166667,61.1666667)(-32.4166667,61.25)(-32.4265737,61.25)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="7" rcnm="120" ruin="insert" version="1"/>
+            <StartPoint rrid="8"/>
+            <EndPoint rrid="10"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.4677064,61.25)(-32.4265737,61.25)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="8" rcnm="120" ruin="insert" version="1"/>
+            <StartPoint rrid="7"/>
+            <EndPoint rrid="8"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.5,61.2355498)(-32.4992979,61.2359028)(-32.4986931,61.2362538)(-32.49828,61.2364401)(-32.4979992,61.2365589)(-32.4977994,61.2366183)(-32.4971919,61.2367695)(-32.4966357,61.2368289)(-32.4959958,61.2369072)(-32.495337,61.2369369)(-32.4948564,61.2369828)(-32.4939708,61.2370287)(-32.4934713,61.2370989)(-32.4927828,61.2372285)(-32.4925047,61.2373311)(-32.4919782,61.237566)(-32.4915246,61.2378009)(-32.4911601,61.2380358)(-32.4907875,61.2382896)(-32.4906741,61.2383949)(-32.4899802,61.2390402)(-32.4896427,61.2393858)(-32.4889866,61.2400122)(-32.4886005,61.2403659)(-32.4880281,61.2409248)(-32.4875934,61.2413298)(-32.4870021,61.2418509)(-32.4867348,61.2420075)(-32.4863433,61.2422559)(-32.4856656,61.2426177)(-32.4850068,61.2428742)(-32.4846099,61.242966)(-32.4840429,61.2430686)(-32.4828738,61.2431712)(-32.4819882,61.2432306)(-32.4812916,61.2433251)(-32.4793746,61.2435843)(-32.4784242,61.2436869)(-32.4771417,61.2438813)(-32.4760887,61.2440136)(-32.475843,61.2440811)(-32.4745227,61.2445455)(-32.4731781,61.2450477)(-32.4727542,61.2451989)(-32.4717552,61.2455715)(-32.4710235,61.245909)(-32.4705267,61.2462222)(-32.4696897,61.2468972)(-32.4692901,61.2473049)(-32.4689769,61.2476532)(-32.4685881,61.2481608)(-32.4684234,61.2484281)(-32.4681912,61.2488007)(-32.4680346,61.2491409)(-32.4678726,61.2495621)(-32.4677064,61.25)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="9" rcnm="120" ruin="insert" version="1"/>
+            <StartPoint rrid="9"/>
+            <EndPoint rrid="7"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.5,61.1815347)(-32.5,61.2355498)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="10" rcnm="120" ruin="insert" version="1"/>
+            <StartPoint rrid="6"/>
+            <EndPoint rrid="8"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.4958863,61.25)(-32.4677064,61.25)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="11" rcnm="120" ruin="insert" version="1"/>
+            <StartPoint rrid="5"/>
+            <EndPoint rrid="7"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.4978288,61.25)(-32.5,61.25)(-32.5,61.2355498)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="12" rcnm="120" ruin="insert" version="1"/>
+            <StartPoint rrid="11"/>
+            <EndPoint rrid="15"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.4971459,61.2450892)(-32.4964224,61.2451945)(-32.4958001,61.2452313)(-32.4953438,61.2448641)(-32.4948875,61.2446071)(-32.4943068,61.2446071)(-32.4935185,61.2448641)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="13" rcnm="120" ruin="insert" version="1"/>
+            <StartPoint rrid="12"/>
+            <EndPoint rrid="14"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.488535,61.2456048)(-32.4871713,61.2465528)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="14" rcnm="120" ruin="insert" version="1"/>
+            <StartPoint rrid="13"/>
+            <EndPoint rrid="12"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.4946801,61.243359)(-32.4928963,61.2430653)(-32.4911124,61.2428817)(-32.4892456,61.2430286)(-32.4881254,61.2434324)(-32.4877521,61.2443134)(-32.4880425,61.2452313)(-32.488535,61.2456048)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="15" rcnm="120" ruin="insert" version="1"/>
+            <StartPoint rrid="12"/>
+            <EndPoint rrid="11"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.488535,61.2456048)(-32.4889137,61.2458921)(-32.4908221,61.2462225)(-32.4923985,61.2462225)(-32.4937675,61.2464428)(-32.4946386,61.2469934)(-32.4955927,61.2472137)(-32.4964224,61.2468832)(-32.497086,61.2461491)(-32.4971459,61.2450892)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="16" rcnm="120" ruin="insert" version="1"/>
+            <StartPoint rrid="11"/>
+            <EndPoint rrid="13"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.4971459,61.2450892)(-32.497169,61.2446806)(-32.4966297,61.243873)(-32.4957586,61.2435426)(-32.4946801,61.243359)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="17" rcnm="120" ruin="insert" version="1"/>
+            <StartEndPoint rrid="17"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.4711573,61.236568)(-32.476509,61.2366414)(-32.476509,61.2413398)(-32.4709913,61.2411929)(-32.4711573,61.236568)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="18" rcnm="120" ruin="insert" version="1"/>
+            <StartEndPoint rrid="18"/>
+            <Segment intp="loxodromic">
+                <Coordinate2D>(-32.4803672,61.2375958)(-32.4800352,61.23844)(-32.4804915,61.2395412)(-32.4820264,61.2400184)(-32.4834783,61.2394678)(-32.4839347,61.2383666)(-32.4833539,61.2371186)(-32.4819435,61.2366414)(-32.4811553,61.2367515)(-32.4803672,61.2375958)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+    </Curves>
+    <CompositeCurves>
+        <CompositeCurveRecord>
+            <Identifier rcid="3" rcnm="125" ruin="insert" version="1"/>
+            <Curve ornt="forward" rrid="3"/>
+            <Curve ornt="reverse" rrid="4"/>
+        </CompositeCurveRecord>
+        <CompositeCurveRecord>
+            <Identifier rcid="5" rcnm="125" ruin="insert" version="1"/>
+            <Curve ornt="reverse" rrid="5"/>
+            <Curve ornt="forward" rrid="6"/>
+        </CompositeCurveRecord>
+        <CompositeCurveRecord>
+            <Identifier rcid="6" rcnm="125" ruin="insert" version="1"/>
+            <Curve ornt="forward" rrid="5"/>
+            <Curve ornt="reverse" rrid="7"/>
+            <Curve ornt="reverse" rrid="8"/>
+            <Curve ornt="reverse" rrid="9"/>
+        </CompositeCurveRecord>
+        <CompositeCurveRecord>
+            <Identifier rcid="7" rcnm="125" ruin="insert" version="1"/>
+            <Curve ornt="reverse" rrid="7"/>
+            <Curve ornt="reverse" rrid="10"/>
+            <Curve ornt="reverse" rrid="4"/>
+            <Curve ornt="forward" rrid="11"/>
+            <Curve ornt="reverse" rrid="9"/>
+            <Curve ornt="forward" rrid="6"/>
+        </CompositeCurveRecord>
+        <CompositeCurveRecord>
+            <Identifier rcid="56" rcnm="125" ruin="insert" version="1"/>
+            <Curve ornt="reverse" rrid="10"/>
+            <Curve ornt="reverse" rrid="3"/>
+            <Curve ornt="forward" rrid="11"/>
+            <Curve ornt="forward" rrid="8"/>
+        </CompositeCurveRecord>
+        <CompositeCurveRecord>
+            <Identifier rcid="57" rcnm="125" ruin="insert" version="1"/>
+            <!-- Erreur 9a ORNT -->
+            <Curve ornt="255" rrid="15"/>
+            <Curve ornt="forward" rrid="16"/>
+            <Curve ornt="forward" rrid="14"/>
+        </CompositeCurveRecord>
+    </CompositeCurves>
+    <Surfaces>
+        <SurfaceRecord>
+            <Identifier rcid="1" rcnm="130" ruin="insert" version="1"/>
+            <Curve ornt="forward" raui="insert" rrid="1" usage="exterior"/>
+        </SurfaceRecord>
+        <SurfaceRecord>
+            <Identifier rcid="2" rcnm="130" ruin="insert" version="1"/>
+            <!-- Error 88a -->
+            <Curve ornt="255" raui="insert" rrid="2" usage="exterior"/>
+        </SurfaceRecord>
+        <SurfaceRecord>
+            <Identifier rcid="3" rcnm="130" ruin="insert" version="1"/>
+            <CompositeCurve ornt="forward" raui="insert" rrid="3" usage="exterior"/>
+        </SurfaceRecord>
+        <SurfaceRecord>
+            <Identifier rcid="5" rcnm="130" ruin="insert" version="1"/>
+            <CompositeCurve ornt="forward" raui="insert" rrid="5" usage="exterior"/>
+        </SurfaceRecord>
+        <SurfaceRecord>
+            <Identifier rcid="6" rcnm="130" ruin="insert" version="1"/>
+            <CompositeCurve ornt="forward" raui="insert" rrid="6" usage="exterior"/>
+        </SurfaceRecord>
+        <SurfaceRecord>
+            <Identifier rcid="7" rcnm="130" ruin="insert" version="1"/>
+            <CompositeCurve ornt="forward" raui="insert" rrid="7" usage="exterior"/>
+        </SurfaceRecord>
+        <SurfaceRecord>
+            <Identifier rcid="8" rcnm="130" ruin="insert" version="1"/>
+            <CompositeCurve ornt="forward" raui="insert" rrid="7" usage="exterior"/>
+        </SurfaceRecord>
+        <SurfaceRecord>
+            <Identifier rcid="9" rcnm="130" ruin="insert" version="1"/>
+            <CompositeCurve ornt="forward" raui="insert" rrid="7" usage="exterior"/>
+        </SurfaceRecord>
+        <SurfaceRecord>
+            <Identifier rcid="54" rcnm="130" ruin="insert" version="1"/>
+            <!-- error 88b -->
+            <Curve ornt="forward" raui="insert" rrid="17" usage="255"/>
+        </SurfaceRecord>
+        <SurfaceRecord>
+            <Identifier rcid="55" rcnm="130" ruin="insert" version="1"/>
+            <Curve ornt="forward" raui="insert" rrid="18" usage="exterior"/>
+        </SurfaceRecord>
+        <SurfaceRecord>
+            <Identifier rcid="56" rcnm="130" ruin="insert" version="1"/>
+            <CompositeCurve ornt="forward" raui="insert" rrid="56" usage="exterior"/>
+            <Curve ornt="reverse" raui="insert" rrid="1" usage="interior"/>
+            <CompositeCurve ornt="reverse" raui="insert" rrid="57" usage="interior"/>
+        </SurfaceRecord>
+        <SurfaceRecord>
+            <Identifier rcid="57" rcnm="130" ruin="insert" version="1"/>
+            <CompositeCurve ornt="forward" raui="insert" rrid="57" usage="exterior"/>
+        </SurfaceRecord>
+    </Surfaces>
+    <Features>
+        <FeatureRecord>
+            <Identifier featureType="DepthArea" rcid="1" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_666_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value="20"/>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMaximumValue" value="30"/>
+            <Surface ornt="forward" rrid="1" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Obstruction" rcid="2" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_144_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="6"/>
+            <SimpleAttribute atin="insert" index="1" type="valueOfSounding" value="34"/>
+            <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="3"/>
+            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="30"/>
+            <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="34"/>
+            <Surface ornt="forward" rrid="2" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthArea" rcid="3" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_668_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value="20"/>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMaximumValue" value="30"/>
+            <Surface ornt="forward" rrid="3" saui="insert"/>
+            <Masks>
+                <Curve indicator="truncated" muin="insert" rrid="4"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Obstruction" rcid="4" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_143_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="6"/>
+            <SimpleAttribute atin="insert" index="1" type="valueOfSounding" value="32"/>
+            <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="3"/>
+            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="30"/>
+            <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="32"/>
+            <Point rrid="1" saui="insert"/>
+            <!-- Error 10c mask sur Point-->
+            <Masks>
+                <Point indicator="suppress" muin="insert" rrid="1"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthArea" rcid="5" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_670_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value="100"/>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMaximumValue" value="200"/>
+            <Surface ornt="forward" rrid="5" saui="insert"/>
+            <Masks>
+                <Curve indicator="truncated" muin="insert" rrid="6"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthArea" rcid="6" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_671_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value="50"/>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMaximumValue" value="100"/>
+            <Surface ornt="forward" rrid="6" saui="insert"/>
+            <Masks>
+                <Curve indicator="truncated" muin="insert" rrid="7"/>
+                <Curve indicator="truncated" muin="insert" rrid="9"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="QualityOfBathymetricData" rcid="7" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_672_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfTemporalVariation" value="6"/>
+            <SimpleAttribute atin="insert" index="1" type="dataAssessment" value="3"/>
+            <ComplexAttribute atin="insert" index="1" type="featuresDetected">
+                <SimpleAttribute atin="insert" index="1" type="leastDepthOfDetectedFeaturesMeasured" value="false"/>
+                <SimpleAttribute atin="insert" index="1" type="significantFeaturesDetected" value=""/>
+            </ComplexAttribute>
+            <SimpleAttribute atin="insert" index="1" type="fullSeafloorCoverageAchieved" value="false"/>
+            <ComplexAttribute atin="insert" index="1" type="zoneOfConfidence">
+                <SimpleAttribute atin="insert" index="1" type="categoryOfZoneOfConfidenceInData" value="6"/>
+            </ComplexAttribute>
+            <ComplexAttribute atin="insert" index="1" type="surveyDateRange">
+                <SimpleAttribute atin="insert" index="1" type="dateEnd" value=""/>
+            </ComplexAttribute>
+            <Surface ornt="forward" rrid="7" saui="insert"/>
+            <Masks>
+                <Curve indicator="truncated" muin="insert" rrid="4"/>
+                <Curve indicator="truncated" muin="insert" rrid="6"/>
+                <Curve indicator="truncated" muin="insert" rrid="7"/>
+                <Curve indicator="truncated" muin="insert" rrid="9"/>
+                <Curve indicator="truncated" muin="insert" rrid="10"/>
+                <Curve indicator="truncated" muin="insert" rrid="11"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="NavigationalSystemOfMarks" rcid="8" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_673_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="marksNavigationalSystemOf" value="1"/>
+            <Surface ornt="forward" rrid="8" saui="insert"/>
+            <Masks>
+                <Curve indicator="truncated" muin="insert" rrid="4"/>
+                <Curve indicator="truncated" muin="insert" rrid="6"/>
+                <Curve indicator="truncated" muin="insert" rrid="7"/>
+                <Curve indicator="truncated" muin="insert" rrid="9"/>
+                <Curve indicator="truncated" muin="insert" rrid="10"/>
+                <Curve indicator="truncated" muin="insert" rrid="11"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DataCoverage" rcid="9" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_674_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="maximumDisplayScale" value="22000"/>
+            <SimpleAttribute atin="insert" index="1" type="minimumDisplayScale" value="90000"/>
+            <Surface ornt="forward" rrid="9" saui="insert"/>
+            <Masks>
+                <Curve indicator="truncated" muin="insert" rrid="4"/>
+                <Curve indicator="truncated" muin="insert" rrid="6"/>
+                <Curve indicator="truncated" muin="insert" rrid="7"/>
+                <Curve indicator="truncated" muin="insert" rrid="9"/>
+                <Curve indicator="truncated" muin="insert" rrid="10"/>
+                <Curve indicator="truncated" muin="insert" rrid="11"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="River" rcid="10" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_142_1</Foid>
+            <Curve ornt="forward" rrid="12" saui="insert"/>
+            <!-- Error 9c truncated on line -->
+            <Masks>
+                <Curve indicator="truncated" muin="insert" rrid="12"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthContour" rcid="11" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_676_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="valueOfDepthContour" value="30"/>
+            <Curve ornt="reverse" rrid="1" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthContour" rcid="12" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_677_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="valueOfDepthContour" value="100"/>
+            <Curve ornt="forward" rrid="5" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthContour" rcid="13" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_678_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="valueOfDepthContour" value="50"/>
+            <Curve ornt="forward" rrid="8" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthContour" rcid="14" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_679_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="valueOfDepthContour" value="30"/>
+            <Curve ornt="forward" rrid="3" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="SeabedArea" rcid="15" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_680_1</Foid>
+            <ComplexAttribute atin="insert" index="1" type="surfaceCharacteristics">
+                <SimpleAttribute atin="insert" index="1" type="natureOfSurface" value="4"/>
+                <SimpleAttribute atin="insert" index="1" type="underlyingLayer" value="0"/>
+            </ComplexAttribute>
+            <Point rrid="2" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="SeabedArea" rcid="16" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_681_1</Foid>
+            <ComplexAttribute atin="insert" index="1" type="surfaceCharacteristics">
+                <SimpleAttribute atin="insert" index="1" type="natureOfSurface" value="1"/>
+                <SimpleAttribute atin="insert" index="1" type="underlyingLayer" value="0"/>
+            </ComplexAttribute>
+            <ComplexAttribute atin="insert" index="2" type="surfaceCharacteristics">
+                <SimpleAttribute atin="insert" index="1" type="natureOfSurface" value="4"/>
+                <SimpleAttribute atin="insert" index="1" type="underlyingLayer" value="0"/>
+            </ComplexAttribute>
+            <Point rrid="3" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="ShorelineConstruction" rcid="17" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_141_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="categoryOfShorelineConstruction" value="4"/>
+            <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="2"/>
+            <Curve ornt="forward" rrid="13" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="18" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_103_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="4" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="19" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_104_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="5" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="20" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_105_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="6" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="21" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_106_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="7" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="22" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_107_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="8" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="23" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_108_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="9" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="24" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_109_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="10" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="25" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_110_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="11" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="26" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_111_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="12" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="27" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_112_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="13" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="28" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_113_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="14" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="29" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_114_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="15" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="30" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_115_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="16" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="31" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_116_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="17" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="32" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_117_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="18" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="33" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_118_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="19" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Coastline" rcid="34" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_140_1</Foid>
+            <CompositeCurve ornt="forward" rrid="57" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="35" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_120_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="20" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="36" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_121_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="21" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="37" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_122_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="22" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="38" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_123_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="23" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="39" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_124_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="24" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="40" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_125_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="25" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="41" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_126_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="26" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="42" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_127_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="27" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="43" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_128_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="28" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="44" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_129_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="29" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="45" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_130_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="30" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="46" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_131_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="31" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="47" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_132_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="32" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="48" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_133_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="33" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="49" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_134_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="34" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="50" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_135_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="35" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="51" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_136_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="36" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="52" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_137_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="37" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="Sounding" rcid="53" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_138_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="1"/>
+            <MultiPoint rrid="38" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="AnchorageArea" rcid="54" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_145_1</Foid>
+            <Surface ornt="forward" rrid="54" saui="insert"/>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="RestrictedAreaNavigational" rcid="55" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_146_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="restriction" value="2"/>
+            <Surface ornt="forward" rrid="55" saui="insert"/>
+            <!-- Error 88c-->
+            <Masks>
+                <Curve indicator="255" muin="insert" rrid="18"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="DepthArea" rcid="56" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_669_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMinimumValue" value="30"/>
+            <SimpleAttribute atin="insert" index="1" type="depthRangeMaximumValue" value="50"/>
+            <Surface ornt="forward" rrid="56" saui="insert"/>
+            <Masks>
+                <Curve indicator="truncated" muin="insert" rrid="10"/>
+                <Curve indicator="truncated" muin="insert" rrid="11"/>
+            </Masks>
+        </FeatureRecord>
+        <FeatureRecord>
+            <Identifier featureType="LandArea" rcid="57" rcnm="100" ruin="insert" version="1"/>
+            <Foid>1810_147_1</Foid>
+            <Surface ornt="forward" rrid="57" saui="insert"/>
+        </FeatureRecord>
+    </Features>
+</Dataset>

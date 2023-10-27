@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Dataset>
+    <DataSetGeneralInformation>
+        <DataSetIdentification>
+            <!--RecordName-->
+            <rcnm>10</rcnm>
+            <!--RecordIdentifier-->
+            <rcid>1</rcid>
+            <!--Encoding Specification-->
+            <ensp>S-100 Part 10a</ensp>
+            <!--Encoding Specification Edition-->
+            <ened>1.1</ened>
+            <!--Product Identifier-->
+            <prsp>INT.IHO.S-101.1.1.0</prsp>
+            <!--Product Edition-->
+            <pred>1.1.0</pred>
+            <!--Application Profile-->
+            <prof>2</prof>
+            <!--Dataset File Identifier-->
+            <dsnm>10100AA_00010.001</dsnm>
+            <!--Dataset Title-->
+            <dstl>THIS CELL IS CREATED BY IIC TECHNOLOGIES Pvt. Ltd., HYDERABAD, INDIA FOR UK HYDROGRAPHIC OFFICE. (Converted using GEOMOD Converter)</dstl>
+            <!--Dataset Reference Date-->
+            <dsrd>20180306</dsrd>
+            <!--Dataset Language-->
+            <dslg>EN</dslg>
+            <!--Dataset Edition-->
+            <dsed>2.1</dsed>
+            <!--Dataset Topic Category-->
+            <dstc>14 18</dstc>
+            <DataSetStructureInformation>
+                <!--Dataset Coordinate Origin X-->
+                <dcox>0.0</dcox>
+                <!--Dataset Coordinate Origin Y-->
+                <dcoy>0.0</dcoy>
+                <!--Dataset Coordinate Origin Z-->
+                <dcoz>0.0</dcoz>
+                <!--Coordinate Multiplication Factor for X-->
+                <cmfx>10000000</cmfx>
+                <!--Coordinate Multiplication Factor for Y-->
+                <cmfy>10000000</cmfy>
+                <!--Coordinate Multiplication Factor for Z-->
+                <cmfz>100</cmfz>
+                <!--Number of Information Type records-->
+                <noir>0</noir>
+                <!--Number of Point records-->
+                <nopn>4</nopn>
+                <!--Number of Multi Point records-->
+                <nomn>1</nomn>
+                <!--Number of Curve records-->
+                <nocn>4</nocn>
+                <!--Number of Composite Curve records-->
+                <noxn>0</noxn>
+                <!--Number of Surface records-->
+                <nosn>0</nosn>
+                <!--Number of Feature records-->
+                <nofr>1</nofr>
+            </DataSetStructureInformation>
+            <AttributeCodes>
+                <AttributeCode code="status" numeric="1"/>
+            </AttributeCodes>
+            <InformationTypeCodes/>
+            <FeatureTypeCodes>
+                <FeatureTypeCode code="River" numeric="1"/>
+            </FeatureTypeCodes>
+            <InformationAssociationCodes/>
+            <FeatureAssociationCodes/>
+            <AssociationRoleCodes/>
+        </DataSetIdentification>
+    </DataSetGeneralInformation>
+    <Informations/>
+    <Points>
+        <PointRecord>
+            <Identifier rcid="1" rcnm="110" ruin="delete" version="2"/>
+        </PointRecord>
+        <!-- VC -->
+        <PointRecord>
+            <Identifier rcid="16" rcnm="110" ruin="delete" version="2"/>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="17" rcnm="110" ruin="delete" version="2"/>
+        </PointRecord>
+        <PointRecord>
+            <Identifier rcid="18" rcnm="110" ruin="delete" version="2"/>
+        </PointRecord>
+    </Points>
+    <MultiPoints>
+        <MultiPointRecord>
+            <Identifier rcid="20" rcnm="115" ruin="delete" version="2"/>
+        </MultiPointRecord>
+    </MultiPoints>
+    <Curves>
+        <CurveRecord>
+            <Identifier rcid="2" rcnm="120" ruin="delete" version="2"/>
+        </CurveRecord>
+        <CurveRecord>
+            <!-- erreur 10a_003 (35) version 0 -->
+            <Identifier rcid="8" rcnm="120" ruin="modify" version="0"/>
+            <Segment intp="loxodromic">
+                <COCC index="20" number="3" ruin="modify"/>
+                <Coordinate2D>(-32.4904689,61.2385207)(-32.4899034,61.2390382)(-32.4895649,61.2393812)</Coordinate2D>
+            </Segment>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="17" rcnm="120" ruin="delete" version="2"/>
+        </CurveRecord>
+        <CurveRecord>
+            <Identifier rcid="18" rcnm="120" ruin="delete" version="2"/>
+        </CurveRecord>
+    </Curves>
+    <CompositeCurves/>
+    <Surfaces/>
+    <Features>
+        <FeatureRecord>
+            <!-- erreur 10a_003 (35) version 0 -->
+            <Identifier featureType="River" rcid="10" rcnm="100" ruin="modify" version="0"/>
+            <Foid>1810_142_1</Foid>
+            <SimpleAttribute atin="insert" index="1" type="status" value="5"/>
+        </FeatureRecord>
+    </Features>
+</Dataset>
