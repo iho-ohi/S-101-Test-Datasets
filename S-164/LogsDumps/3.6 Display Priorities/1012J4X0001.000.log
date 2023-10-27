@@ -1,4 +1,0 @@
-2023-10-20 06:50:28,325 WARN  [S57ToS101Converter] Conversion de 2J4X0001.000
-2023-10-20 06:50:28,326 INFO  [AttributeConverterImpl] 12083_1622292336_259 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,326 INFO  [AttributeConverterImpl] 12083_2043998811_260 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,326 INFO  [S57ToS101] Writing 1012J4X0001.000 to ./data-references/dataConverted/s164/V3/TestDataSets/3.6 Display Priorities/S100_ROOT/S-101/DATASET_FILES

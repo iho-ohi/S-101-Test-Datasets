@@ -55,16 +55,16 @@
             <S100XC:issueDate>2005-10-06</S100XC:issueDate>
             <S100XC:boundingBox>
                 <gex:westBoundLongitude>
-                    <gco:Decimal>0.0</gco:Decimal>
+                    <gco:Decimal>60.8733138</gco:Decimal>
                 </gex:westBoundLongitude>
                 <gex:eastBoundLongitude>
-                    <gco:Decimal>0.0</gco:Decimal>
+                    <gco:Decimal>60.9666667</gco:Decimal>
                 </gex:eastBoundLongitude>
                 <gex:southBoundLatitude>
-                    <gco:Decimal>0.0</gco:Decimal>
+                    <gco:Decimal>-32.55235</gco:Decimal>
                 </gex:southBoundLatitude>
                 <gex:northBoundLatitude>
-                    <gco:Decimal>0.0</gco:Decimal>
+                    <gco:Decimal>-32.5</gco:Decimal>
                 </gex:northBoundLatitude>
             </S100XC:boundingBox>
             <S100XC:productSpecification>
@@ -87,7 +87,17 @@
             </S100XC:producingAgency>
             <S100XC:producerCode>00AA</S100XC:producerCode>
             <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
-            <S100XC:dataCoverage/>
+            <S100XC:dataCoverage>
+                <S100XC:boundingPolygon gco:isoType="gex:EX_BoundingPolygon">
+                    <gex:polygon>
+                        <gml:LineString>
+                            <gml:posList>60.9833333 -32.5666667 60.9833333 -32.5523427 60.9838772 -32.5523432 60.984005 -32.5523432 60.9843137 -32.5523307 60.9877495 -32.5497629 60.9881742 -32.549194 60.9884192 -32.5488572 60.9895407 -32.5472853 60.9925075 -32.5432348 60.9938784 -32.5421464 60.9940106 -32.5420646 60.9940581 -32.5420371 60.9941907 -32.5419536 60.9947998 -32.5414748 60.9954362 -32.5409795 60.9961922 -32.5399429 60.996227 -32.5398668 60.9962482 -32.5398156 60.9962797 -32.5397616 60.9972746 -32.5384401 60.9974077 -32.5383333 61.0 -32.5383333 61.0083333 -32.5383333 61.0083333 -32.5425475 61.0083333 -32.5467408 61.0083333 -32.5578733 61.0083333 -32.5666667 61.0 -32.5666667 60.9833333 -32.5666667 </gml:posList>
+                        </gml:LineString>
+                    </gex:polygon>
+                </S100XC:boundingPolygon>
+                <S100XC:maximumDisplayScale>12000</S100XC:maximumDisplayScale>
+                <S100XC:minimumDisplayScale>22000</S100XC:minimumDisplayScale>
+            </S100XC:dataCoverage>
             <S100XC:navigationPurpose>port</S100XC:navigationPurpose>
         </S100XC:S100_DatasetDiscoveryMetadata>
     </S100XC:datasetDiscoveryMetadata>

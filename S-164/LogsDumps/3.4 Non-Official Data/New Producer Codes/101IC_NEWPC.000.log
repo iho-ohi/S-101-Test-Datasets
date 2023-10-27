@@ -1,4 +1,0 @@
-2023-10-20 06:50:28,301 WARN  [S57ToS101Converter] Conversion de IC3NEWPC.000
-2023-10-20 06:50:28,301 INFO  [AttributeConverterImpl] [other system (10)] not converted for marksNavigationalSystemOf of NavigationalSystemOfMarks 1810_1386862823_1
-2023-10-20 06:50:28,301 INFO  [AttributeConverterImpl] 1810_1386862823_1 : Attribute type MARSYS has been removed from the S101 feature type NavigationalSystemOfMarks
-2023-10-20 06:50:28,302 INFO  [S57ToS101] Writing 101IC_NEWPC.000 to ./data-references/dataConverted/s164/V3/TestDataSets/3.4 Non-Official Data/New Producer Codes/S100_ROOT/S-101/DATASET_FILES
