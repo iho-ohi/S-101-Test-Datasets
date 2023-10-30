@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><S100XC:S100_ExchangeCatalogue xmlns:S100CI="http://www.iho.int/S100CI/5.0" xmlns:S100SE="http://www.iho.int/s100/se/5.0" xmlns:S100XC="http://www.iho.int/s100/xc/5.0" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gcx="http://standards.iso.org/iso/19115/-3/gcx/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.iho.int/s100/xc/5.0       https://schemas.s100dev.net/schemas/S100/5.0.0/S100Catalog/20220705/S100_ExchangeCatalogue.xsd">
 	<S100XC:identifier>
 	<S100XC:identifier>Other</S100XC:identifier>
-        <S100XC:dateTime>2023-10-19T16:53:39Z</S100XC:dateTime>
+        <S100XC:dateTime>2023-10-28T07:49:46Z</S100XC:dateTime>
     </S100XC:identifier>
 	<S100XC:contact>
 		<S100XC:organization>
@@ -45,14 +45,14 @@
             <S100XC:dataProtection>false</S100XC:dataProtection>
             <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
             <S100XC:digitalSignatureValue>
-                <S100SE:S100_SE_SignatureOnData certificateRef="urn:mrn:iho:org:00" id="00AA_OTHER">MEYCIQCMevMml407GOcFg5o6cNFAzBx419L9M9pVW1yT7m25xQIhAM9pesF/iuHUMU8uZzYwu1lg1ofaDpS5Xy8Pd6yd1N1W</S100SE:S100_SE_SignatureOnData>
+                <S100SE:S100_SE_SignatureOnData certificateRef="urn:mrn:iho:org:00" id="00AA_OTHER">MEUCIQC9QFA4X44j9bpe4x4sQG2vzeQP/7Kz+kCY8r63q8gMRQIgN9wJT2i4u03L9cOxK7NkwepylnzkMWaJrl0f0VzTvms=</S100SE:S100_SE_SignatureOnData>
             </S100XC:digitalSignatureValue>
             <S100XC:copyright>false</S100XC:copyright>
             <S100XC:purpose>newDataset</S100XC:purpose>
             <S100XC:notForNavigation>true</S100XC:notForNavigation>
-            <S100XC:editionNumber>3</S100XC:editionNumber>
+            <S100XC:editionNumber>6</S100XC:editionNumber>
             <S100XC:updateNumber>0</S100XC:updateNumber>
-            <S100XC:issueDate>2023-10-02</S100XC:issueDate>
+            <S100XC:issueDate>2023-10-28</S100XC:issueDate>
             <S100XC:boundingBox>
                 <gex:westBoundLongitude>
                     <gco:Decimal>10.1666667</gco:Decimal>
