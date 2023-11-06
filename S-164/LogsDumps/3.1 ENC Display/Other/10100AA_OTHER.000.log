@@ -1,89 +1,87 @@
-2023-10-28 07:49:46,823 WARN  [S57ToS101Converter] Conversion de AA5OTHER.000
-2023-10-28 07:49:46,833 INFO  [AttributeConverterImpl] 540_29187658_1 : Attribute type CATSCF has been removed from the S101 feature type SmallCraftFacility
-2023-10-28 07:49:46,834 INFO  [AttributeConverterImpl] 540_29187611_1 : Attribute type CATSCF has been removed from the S101 feature type SmallCraftFacility
-2023-10-28 07:49:46,850 INFO  [AttributeConverterImpl] 540_29187751_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
-2023-10-28 07:49:46,852 INFO  [AttributeConverterImpl] 540_29187681_1 : Attribute type CATVEG has been removed from the S101 feature type Obstruction
-2023-10-28 07:49:46,854 INFO  [AttributeConverterImpl] [grass (1)] not converted for categoryOfVegetation of Vegetation 540_29187673_1
-2023-10-28 07:49:46,855 INFO  [AttributeConverterImpl] 540_29187673_1 : Attribute type CATVEG has been removed from the S101 feature type Vegetation
-2023-10-28 07:49:46,858 ERROR [S57ToS101Converter] 540_29187535_1 : S100 Specification - the geometric primitive P is not allowed for the feature type Rapids
-2023-10-28 07:49:46,859 INFO  [AttributeConverterImpl] 540_29187589_1 : Attribute type CATWAT has been removed from the S101 feature type WaterTurbulence
-2023-10-28 07:49:46,860 INFO  [AttributeConverterImpl] 540_29187608_1 : Attribute type VALSOU has been removed from the S101 feature type Wreck
-2023-10-28 07:49:46,860 INFO  [AttributeConverterImpl] 540_29187608_1 : Attribute type WATLEV has been removed from the S101 feature type Wreck
-2023-10-28 07:49:46,860 INFO  [AttributeConverterImpl] 540_29187607_1 : Attribute type CATWRK has been removed from the S101 feature type Wreck
-2023-10-28 07:49:46,860 INFO  [AttributeConverterImpl] 540_29187607_1 : Attribute type VALSOU has been removed from the S101 feature type Wreck
-2023-10-28 07:49:46,860 INFO  [AttributeConverterImpl] 540_29187607_1 : Attribute type WATLEV has been removed from the S101 feature type Wreck
-2023-10-28 07:49:46,862 INFO  [AttributeConverterImpl] 540_29187587_1 : Attribute type CATWRK has been removed from the S101 feature type Wreck
-2023-10-28 07:49:46,862 INFO  [AttributeConverterImpl] 540_29187587_1 : Attribute type VALSOU has been removed from the S101 feature type Wreck
-2023-10-28 07:49:46,862 INFO  [AttributeConverterImpl] 540_29187587_1 : Attribute type WATLEV has been removed from the S101 feature type Wreck
-2023-10-28 07:49:46,862 INFO  [AttributeConverterImpl] 540_29187586_1 : Attribute type VALSOU has been removed from the S101 feature type Wreck
-2023-10-28 07:49:46,862 INFO  [AttributeConverterImpl] 540_29187586_1 : Attribute type WATLEV has been removed from the S101 feature type Wreck
-2023-10-28 07:49:46,863 INFO  [AttributeConverterImpl] 540_29187584_1 : Attribute type JRSDTN has been removed from the S101 feature type AdministrationArea
-2023-10-28 07:49:46,863 INFO  [AttributeConverterImpl] 540_29187571_1 : Attribute type CATWAT has been removed from the S101 feature type WaterTurbulence
-2023-10-28 07:49:46,864 INFO  [AttributeConverterImpl] 540_29187737_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
-2023-10-28 07:49:46,864 INFO  [AttributeConverterImpl] 540_29187738_1 : Attribute type TS_TSP has been removed from the S101 feature type TidalStreamPanelData
-2023-10-28 07:49:46,865 INFO  [AttributeConverterImpl] 540_29187752_1 : Attribute type TS_TSP has been removed from the S101 feature type TidalStreamPanelData
-2023-10-28 07:49:46,865 INFO  [AttributeConverterImpl] 540_29187757_1 : Attribute type CATWAT has been removed from the S101 feature type WaterTurbulence
-2023-10-28 07:49:46,866 INFO  [AttributeConverterImpl] 540_29187651_1 : Attribute type CATHAF has been removed from the S101 feature type HarbourFacility
-2023-10-28 07:49:46,869 INFO  [AttributeConverterImpl] 540_29187622_1 : Attribute type CATHAF has been removed from the S101 feature type HarbourFacility
-2023-10-28 07:49:46,870 INFO  [AttributeConverterImpl] 540_29187615_1 : Attribute type CATPRA has been removed from the S101 feature type ProductionStorageArea
-2023-10-28 07:49:46,871 INFO  [AttributeConverterImpl] 540_29187612_1 : Attribute type WATLEV has been removed from the S101 feature type Wreck
-2023-10-28 07:49:46,876 INFO  [AttributeConverterImpl] 540_29187566_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,876 INFO  [AttributeConverterImpl] 540_29187565_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,877 INFO  [AttributeConverterImpl] 540_29187564_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,877 INFO  [AttributeConverterImpl] 540_29187563_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,877 INFO  [AttributeConverterImpl] 540_29187562_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,877 INFO  [AttributeConverterImpl] 540_29187561_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,878 INFO  [AttributeConverterImpl] 540_29187560_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,879 INFO  [AttributeConverterImpl] 540_29187550_1 : Attribute type CATLMK has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,880 INFO  [AttributeConverterImpl] 540_29187550_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,880 INFO  [AttributeConverterImpl] 540_29187548_1 : Attribute type CATVEG has been removed from the S101 feature type Obstruction
-2023-10-28 07:49:46,880 INFO  [AttributeConverterImpl] 540_29187547_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,881 INFO  [AttributeConverterImpl] 540_29187541_1 : Attribute type CATLMK has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,881 INFO  [AttributeConverterImpl] 540_29187541_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,882 INFO  [AttributeConverterImpl] 540_29187559_1 : Attribute type CATLMK has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,882 INFO  [AttributeConverterImpl] 540_29187559_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,882 INFO  [AttributeConverterImpl] 540_29187720_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,883 INFO  [AttributeConverterImpl] 540_29187719_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,883 INFO  [AttributeConverterImpl] 540_29187718_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,883 INFO  [AttributeConverterImpl] 540_29187717_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,883 INFO  [AttributeConverterImpl] 540_29187716_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,883 INFO  [AttributeConverterImpl] 540_29187715_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,884 INFO  [AttributeConverterImpl] 540_29187714_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,884 INFO  [AttributeConverterImpl] 540_29187713_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,884 INFO  [AttributeConverterImpl] 540_29187712_1 : Attribute type CATLMK has been removed from the S101 feature type WindTurbine
-2023-10-28 07:49:46,884 INFO  [AttributeConverterImpl] 540_29187712_1 : Attribute type CONVIS has been removed from the S101 feature type WindTurbine
-2023-10-28 07:49:46,885 INFO  [AttributeConverterImpl] 540_29187711_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,887 INFO  [AttributeConverterImpl] 540_29187721_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,887 INFO  [AttributeConverterImpl] 540_29187722_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,888 INFO  [AttributeConverterImpl] 540_29187736_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
-2023-10-28 07:49:46,888 INFO  [AttributeConverterImpl] 540_29187735_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
-2023-10-28 07:49:46,889 INFO  [AttributeConverterImpl] 540_29187734_1 : Attribute type CAT_TS has been removed from the S101 feature type TidalStreamFloodEbb
-2023-10-28 07:49:46,889 INFO  [AttributeConverterImpl] 540_29187734_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
-2023-10-28 07:49:46,889 INFO  [AttributeConverterImpl] 540_29187734_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:orientationValue=
-2023-10-28 07:49:46,889 INFO  [AttributeConverterImpl] 540_29187725_1 : Attribute type CAT_TS has been removed from the S101 feature type TidalStreamFloodEbb
-2023-10-28 07:49:46,890 INFO  [AttributeConverterImpl] 540_29187725_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
-2023-10-28 07:49:46,890 INFO  [AttributeConverterImpl] 540_29187725_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:orientationValue=
-2023-10-28 07:49:46,890 INFO  [AttributeConverterImpl] 540_29187648_1 : Attribute type CATOBS has been removed from the S101 feature type FoulGround
-2023-10-28 07:49:46,892 INFO  [AttributeConverterImpl] 540_29187616_1 : Attribute type CATOBS has been removed from the S101 feature type FoulGround
-2023-10-28 07:49:46,893 INFO  [AttributeConverterImpl] 540_29187583_1 : Attribute type WATLEV has been removed from the S101 feature type Wreck
-2023-10-28 07:49:46,894 INFO  [AttributeConverterImpl] 540_29187749_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
-2023-10-28 07:49:46,895 INFO  [AttributeConverterImpl] 540_29187750_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
-2023-10-28 07:49:46,897 INFO  [AttributeConverterImpl] 1810_216_1 : Attribute type CATBRG has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,897 INFO  [AttributeConverterImpl] 1810_216_1 : Attribute type SORIND has been removed from the S101 feature type Landmark
-2023-10-28 07:49:46,898 INFO  [AttributeConverterImpl] 1810_219_1 : Attribute type CATVEG has been removed from the S101 feature type Obstruction
-2023-10-28 07:49:46,898 INFO  [AttributeConverterImpl] 1810_29187826_2 : Attribute type SORIND has been removed from the S101 feature type Bridge
-2023-10-28 07:49:46,916 WARN  [ECDISPortrayalAttributeSetterImpl] Attention no Depth areas Dredged Areas 540_29187548_1
-2023-10-28 07:49:46,925 INFO  [S57ToS101Converter] T_TIMS-A
-2023-10-28 07:49:46,925 INFO  [S57ToS101Converter] T_NHMN-A
-2023-10-28 07:49:46,925 INFO  [S57ToS101Converter] T_HMON-A
-2023-10-28 07:49:46,925 INFO  [S57ToS101Converter] T_TIMS-P
-2023-10-28 07:49:46,925 INFO  [S57ToS101Converter] T_NHMN-P
-2023-10-28 07:49:46,925 INFO  [S57ToS101Converter] T_HMON-P
-2023-10-28 07:49:46,925 INFO  [S57ToS101Converter] TS_PNH-A
-2023-10-28 07:49:46,925 INFO  [S57ToS101Converter] TS_PRH-A
-2023-10-28 07:49:46,925 INFO  [S57ToS101Converter] TS_PNH-P
-2023-10-28 07:49:46,925 INFO  [S57ToS101Converter] TS_PRH-P
-2023-10-28 07:49:46,925 INFO  [S57ToS101Converter] CTRPNT-P
-2023-10-28 07:49:46,926 INFO  [S57ToS101Converter] TS_TIS-A
-2023-10-28 07:49:46,926 INFO  [S57ToS101Converter] TS_TIS-P
-2023-10-28 07:49:46,926 INFO  [S57ToS101] Writing 10100AA_OTHER.000 to ./data-references/dataConverted/s164/V4/TestDataSets/3.1 ENC Display/Other/S100_ROOT/S-101/DATASET_FILES
+2023-11-06 07:54:06,243 WARN  [S57ToS101Converter] Conversion de AA5OTHER.000
+2023-11-06 07:54:06,435 INFO  [AttributeConverterImpl] 540_29187658_1 : Attribute type CATSCF has been removed from the S101 feature type SmallCraftFacility
+2023-11-06 07:54:06,437 INFO  [AttributeConverterImpl] 540_29187611_1 : Attribute type CATSCF has been removed from the S101 feature type SmallCraftFacility
+2023-11-06 07:54:06,448 INFO  [AttributeConverterImpl] 540_29187751_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-11-06 07:54:06,451 INFO  [AttributeConverterImpl] 540_29187681_1 : Attribute type CATVEG has been removed from the S101 feature type Obstruction
+2023-11-06 07:54:06,455 INFO  [AttributeConverterImpl] [grass (1)] not converted for categoryOfVegetation of Vegetation 540_29187673_1
+2023-11-06 07:54:06,455 INFO  [AttributeConverterImpl] 540_29187673_1 : Attribute type CATVEG has been removed from the S101 feature type Vegetation
+2023-11-06 07:54:06,494 ERROR [S57ToS101Converter] 540_29187535_1 : S100 Specification - the geometric primitive P is not allowed for the feature type Rapids
+2023-11-06 07:54:06,506 INFO  [AttributeConverterImpl] 540_29187589_1 : Attribute type CATWAT has been removed from the S101 feature type WaterTurbulence
+2023-11-06 07:54:06,508 INFO  [AttributeConverterImpl] 540_29187608_1 : Attribute type VALSOU has been removed from the S101 feature type Wreck
+2023-11-06 07:54:06,509 INFO  [AttributeConverterImpl] 540_29187608_1 : Attribute type WATLEV has been removed from the S101 feature type Wreck
+2023-11-06 07:54:06,510 INFO  [AttributeConverterImpl] 540_29187607_1 : Attribute type CATWRK has been removed from the S101 feature type Wreck
+2023-11-06 07:54:06,511 INFO  [AttributeConverterImpl] 540_29187607_1 : Attribute type VALSOU has been removed from the S101 feature type Wreck
+2023-11-06 07:54:06,512 INFO  [AttributeConverterImpl] 540_29187607_1 : Attribute type WATLEV has been removed from the S101 feature type Wreck
+2023-11-06 07:54:06,518 INFO  [AttributeConverterImpl] 540_29187587_1 : Attribute type CATWRK has been removed from the S101 feature type Wreck
+2023-11-06 07:54:06,519 INFO  [AttributeConverterImpl] 540_29187587_1 : Attribute type VALSOU has been removed from the S101 feature type Wreck
+2023-11-06 07:54:06,519 INFO  [AttributeConverterImpl] 540_29187587_1 : Attribute type WATLEV has been removed from the S101 feature type Wreck
+2023-11-06 07:54:06,521 INFO  [AttributeConverterImpl] 540_29187586_1 : Attribute type VALSOU has been removed from the S101 feature type Wreck
+2023-11-06 07:54:06,521 INFO  [AttributeConverterImpl] 540_29187586_1 : Attribute type WATLEV has been removed from the S101 feature type Wreck
+2023-11-06 07:54:06,523 INFO  [AttributeConverterImpl] 540_29187584_1 : Attribute type JRSDTN has been removed from the S101 feature type AdministrationArea
+2023-11-06 07:54:06,524 INFO  [AttributeConverterImpl] 540_29187571_1 : Attribute type CATWAT has been removed from the S101 feature type WaterTurbulence
+2023-11-06 07:54:06,526 INFO  [AttributeConverterImpl] 540_29187737_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-11-06 07:54:06,527 INFO  [AttributeConverterImpl] 540_29187738_1 : Attribute type TS_TSP has been removed from the S101 feature type TidalStreamPanelData
+2023-11-06 07:54:06,528 INFO  [AttributeConverterImpl] 540_29187752_1 : Attribute type TS_TSP has been removed from the S101 feature type TidalStreamPanelData
+2023-11-06 07:54:06,529 INFO  [AttributeConverterImpl] 540_29187757_1 : Attribute type CATWAT has been removed from the S101 feature type WaterTurbulence
+2023-11-06 07:54:06,531 INFO  [AttributeConverterImpl] 540_29187651_1 : Attribute type CATHAF has been removed from the S101 feature type HarbourFacility
+2023-11-06 07:54:06,538 INFO  [AttributeConverterImpl] 540_29187622_1 : Attribute type CATHAF has been removed from the S101 feature type HarbourFacility
+2023-11-06 07:54:06,540 INFO  [AttributeConverterImpl] 540_29187615_1 : Attribute type CATPRA has been removed from the S101 feature type ProductionStorageArea
+2023-11-06 07:54:06,542 INFO  [AttributeConverterImpl] 540_29187612_1 : Attribute type WATLEV has been removed from the S101 feature type Wreck
+2023-11-06 07:54:06,549 INFO  [AttributeConverterImpl] 540_29187566_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,549 INFO  [AttributeConverterImpl] 540_29187565_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,549 INFO  [AttributeConverterImpl] 540_29187564_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,550 INFO  [AttributeConverterImpl] 540_29187563_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,550 INFO  [AttributeConverterImpl] 540_29187562_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,551 INFO  [AttributeConverterImpl] 540_29187561_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,551 INFO  [AttributeConverterImpl] 540_29187560_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,555 INFO  [AttributeConverterImpl] 540_29187550_1 : Attribute type CATLMK has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,555 INFO  [AttributeConverterImpl] 540_29187550_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,556 INFO  [AttributeConverterImpl] 540_29187547_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,557 INFO  [AttributeConverterImpl] 540_29187541_1 : Attribute type CATLMK has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,557 INFO  [AttributeConverterImpl] 540_29187541_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,558 INFO  [AttributeConverterImpl] 540_29187559_1 : Attribute type CATLMK has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,558 INFO  [AttributeConverterImpl] 540_29187559_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,559 INFO  [AttributeConverterImpl] 540_29187720_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,559 INFO  [AttributeConverterImpl] 540_29187719_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,560 INFO  [AttributeConverterImpl] 540_29187718_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,560 INFO  [AttributeConverterImpl] 540_29187717_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,560 INFO  [AttributeConverterImpl] 540_29187716_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,561 INFO  [AttributeConverterImpl] 540_29187715_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,561 INFO  [AttributeConverterImpl] 540_29187714_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,562 INFO  [AttributeConverterImpl] 540_29187713_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,562 INFO  [AttributeConverterImpl] 540_29187712_1 : Attribute type CATLMK has been removed from the S101 feature type WindTurbine
+2023-11-06 07:54:06,562 INFO  [AttributeConverterImpl] 540_29187712_1 : Attribute type CONVIS has been removed from the S101 feature type WindTurbine
+2023-11-06 07:54:06,563 INFO  [AttributeConverterImpl] 540_29187711_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,566 INFO  [AttributeConverterImpl] 540_29187721_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,566 INFO  [AttributeConverterImpl] 540_29187722_1 : Attribute type CONVIS has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,567 INFO  [AttributeConverterImpl] 540_29187736_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-11-06 07:54:06,567 INFO  [AttributeConverterImpl] 540_29187735_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-11-06 07:54:06,568 INFO  [AttributeConverterImpl] 540_29187734_1 : Attribute type CAT_TS has been removed from the S101 feature type TidalStreamFloodEbb
+2023-11-06 07:54:06,568 INFO  [AttributeConverterImpl] 540_29187734_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-11-06 07:54:06,568 INFO  [AttributeConverterImpl] 540_29187734_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:orientationValue=
+2023-11-06 07:54:06,569 INFO  [AttributeConverterImpl] 540_29187725_1 : Attribute type CAT_TS has been removed from the S101 feature type TidalStreamFloodEbb
+2023-11-06 07:54:06,569 INFO  [AttributeConverterImpl] 540_29187725_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-11-06 07:54:06,569 INFO  [AttributeConverterImpl] 540_29187725_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:orientationValue=
+2023-11-06 07:54:06,571 INFO  [AttributeConverterImpl] 540_29187648_1 : Attribute type CATOBS has been removed from the S101 feature type FoulGround
+2023-11-06 07:54:06,573 INFO  [AttributeConverterImpl] 540_29187616_1 : Attribute type CATOBS has been removed from the S101 feature type FoulGround
+2023-11-06 07:54:06,574 INFO  [AttributeConverterImpl] 540_29187583_1 : Attribute type WATLEV has been removed from the S101 feature type Wreck
+2023-11-06 07:54:06,576 INFO  [AttributeConverterImpl] 540_29187749_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-11-06 07:54:06,576 INFO  [AttributeConverterImpl] 540_29187750_1 : Cartographic intervention, the mandatory numeric S101 value has an empty value TidalStreamFloodEbb:speedMaximum=
+2023-11-06 07:54:06,579 INFO  [AttributeConverterImpl] 1810_216_1 : Attribute type CATBRG has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,579 INFO  [AttributeConverterImpl] 1810_216_1 : Attribute type SORIND has been removed from the S101 feature type Landmark
+2023-11-06 07:54:06,580 INFO  [AttributeConverterImpl] 1810_219_1 : Attribute type CATVEG has been removed from the S101 feature type Obstruction
+2023-11-06 07:54:06,597 INFO  [AttributeConverterImpl] 1810_29187826_2 : Attribute type SORIND has been removed from the S101 feature type Bridge
+2023-11-06 07:54:06,660 INFO  [S57ToS101Converter] T_TIMS-A
+2023-11-06 07:54:06,660 INFO  [S57ToS101Converter] T_NHMN-A
+2023-11-06 07:54:06,660 INFO  [S57ToS101Converter] T_HMON-A
+2023-11-06 07:54:06,660 INFO  [S57ToS101Converter] T_TIMS-P
+2023-11-06 07:54:06,660 INFO  [S57ToS101Converter] T_NHMN-P
+2023-11-06 07:54:06,660 INFO  [S57ToS101Converter] T_HMON-P
+2023-11-06 07:54:06,660 INFO  [S57ToS101Converter] TS_PNH-A
+2023-11-06 07:54:06,660 INFO  [S57ToS101Converter] TS_PRH-A
+2023-11-06 07:54:06,661 INFO  [S57ToS101Converter] TS_PNH-P
+2023-11-06 07:54:06,661 INFO  [S57ToS101Converter] TS_PRH-P
+2023-11-06 07:54:06,661 INFO  [S57ToS101Converter] CTRPNT-P
+2023-11-06 07:54:06,661 INFO  [S57ToS101Converter] TS_TIS-A
+2023-11-06 07:54:06,661 INFO  [S57ToS101Converter] TS_TIS-P
+2023-11-06 07:54:06,663 INFO  [S57ToS101] Writing 10100AA_OTHER.000 to ./data-references/dataConverted/s164/V4/TestDataSets/3.1 ENC Display/Other/S100_ROOT/S-101/DATASET_FILES
