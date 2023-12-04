@@ -48053,7 +48053,7 @@
             <Foid>1810_29142391_1</Foid>
             <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="-15"/>
             <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="2"/>
-            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="0"/>
+            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="-2"/>
             <SimpleAttribute atin="insert" index="1" type="valueOfSounding" value=""/>
             <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="4"/>
             <Point rrid="52" saui="insert"/>
@@ -48231,7 +48231,7 @@
             <Foid>1810_29142396_1</Foid>
             <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="-15"/>
             <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="2"/>
-            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="0"/>
+            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="-2"/>
             <SimpleAttribute atin="insert" index="1" type="valueOfSounding" value=""/>
             <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="4"/>
             <Point rrid="61" saui="insert"/>
@@ -48251,7 +48251,7 @@
             <Foid>1810_29142398_1</Foid>
             <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="-15"/>
             <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="2"/>
-            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="0"/>
+            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="-2"/>
             <SimpleAttribute atin="insert" index="1" type="valueOfSounding" value=""/>
             <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="4"/>
             <Point rrid="63" saui="insert"/>
@@ -48261,7 +48261,7 @@
             <Foid>1810_29142399_1</Foid>
             <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="-15"/>
             <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="2"/>
-            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="0"/>
+            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="-2"/>
             <SimpleAttribute atin="insert" index="1" type="valueOfSounding" value=""/>
             <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="4"/>
             <Point rrid="64" saui="insert"/>
@@ -50559,7 +50559,7 @@
             <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="-2"/>
             <SimpleAttribute atin="insert" index="1" type="expositionOfSounding" value="2"/>
             <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="6"/>
-            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="0"/>
+            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="-2"/>
             <SimpleAttribute atin="insert" index="1" type="valueOfSounding" value="-2"/>
             <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="4"/>
             <Point rrid="163" saui="insert"/>
@@ -60164,7 +60164,7 @@
             <Foid>1810_29141907_1</Foid>
             <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="-1.2"/>
             <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="6"/>
-            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="0"/>
+            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="-2"/>
             <SimpleAttribute atin="insert" index="1" type="valueOfSounding" value="-1.2"/>
             <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="4"/>
             <Point rrid="425" saui="insert"/>
