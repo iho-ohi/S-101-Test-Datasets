@@ -1633,7 +1633,6 @@
             <Identifier featureType="UnderwaterAwashRock" rcid="23" rcnm="100" ruin="insert" version="1"/>
             <Foid>1810_1386848269_22</Foid>
             <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="0"/>
-            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="0"/>
             <SimpleAttribute atin="insert" index="1" type="valueOfSounding" value="0"/>
             <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="5"/>
             <Point rrid="7" saui="insert"/>
@@ -1684,7 +1683,6 @@
             <Foid>1810_1386848269_28</Foid>
             <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="0.1"/>
             <SimpleAttribute atin="insert" index="1" type="expositionOfSounding" value="3"/>
-            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="0"/>
             <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="3"/>
             <Surface ornt="forward" rrid="29" saui="insert"/>
         </FeatureRecord>
@@ -1702,7 +1700,6 @@
             <Identifier featureType="Obstruction" rcid="31" rcnm="100" ruin="insert" version="1"/>
             <Foid>1810_1386848269_30</Foid>
             <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="0"/>
-            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="0"/>
             <SimpleAttribute atin="insert" index="1" type="valueOfSounding" value="0"/>
             <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="5"/>
             <Surface ornt="forward" rrid="31" saui="insert"/>
@@ -1712,7 +1709,6 @@
             <Foid>1810_1386848269_31</Foid>
             <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="0.1"/>
             <SimpleAttribute atin="insert" index="1" type="expositionOfSounding" value="1"/>
-            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="0"/>
             <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="3"/>
             <Point rrid="10" saui="insert"/>
         </FeatureRecord>
@@ -1729,7 +1725,6 @@
             <Identifier featureType="Wreck" rcid="34" rcnm="100" ruin="insert" version="1"/>
             <Foid>1810_1386848269_33</Foid>
             <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="-15"/>
-            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="0"/>
             <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="4"/>
             <Surface ornt="forward" rrid="34" saui="insert"/>
         </FeatureRecord>
@@ -1737,7 +1732,6 @@
             <Identifier featureType="Wreck" rcid="35" rcnm="100" ruin="insert" version="1"/>
             <Foid>1810_1386848269_34</Foid>
             <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="0"/>
-            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="0"/>
             <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="3"/>
             <Point rrid="11" saui="insert"/>
         </FeatureRecord>
