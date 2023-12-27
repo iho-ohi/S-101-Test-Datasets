@@ -10,4 +10,13 @@ The following issues have been solved in the V3
 - 2.2.2 Loading of Updates - invalid exchange catalog #68
 - 2.1.1 Support file names missing character #69
 
+---27-12-2023---------------------
+- Display/Other/Mangrove #64
+- Surrounding Depth On Dangers #74
+- Dataset scales overlap #56 
+- Iso8211 Header #52
+- DDR format controls for concatenated+repeated fields #78 => need confirmation between {} vs () 
+----------------
+
+
 
