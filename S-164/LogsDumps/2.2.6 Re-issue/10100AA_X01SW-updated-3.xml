@@ -28382,7 +28382,7 @@
             <SimpleAttribute atin="insert" index="1" type="categoryOfWreck" value="2"/>
             <SimpleAttribute atin="insert" index="1" type="defaultClearanceDepth" value="-3"/>
             <SimpleAttribute atin="insert" index="1" type="qualityOfVerticalMeasurement" value="6"/>
-            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="0"/>
+            <SimpleAttribute atin="insert" index="1" type="surroundingDepth" value="-5"/>
             <SimpleAttribute atin="insert" index="1" type="valueOfSounding" value="-3"/>
             <SimpleAttribute atin="insert" index="1" type="waterLevelEffect" value="4"/>
             <Surface ornt="forward" rrid="905" saui="insert"/>
