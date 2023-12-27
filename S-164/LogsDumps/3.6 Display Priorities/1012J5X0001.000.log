@@ -1,67 +1,7 @@
-2023-10-20 06:50:28,339 WARN  [S57ToS101Converter] Conversion de 2J5X0001.000
-2023-10-20 06:50:28,341 INFO  [AttributeConverterImpl] 12083_884663301_120 : Attribute type SYMINS has been removed from the S101 feature type DepthContour
-2023-10-20 06:50:28,341 INFO  [AttributeConverterImpl] 12083_-302482801_119 : Attribute type SYMINS has been removed from the S101 feature type DepthContour
-2023-10-20 06:50:28,341 INFO  [AttributeConverterImpl] 12083_-1965455175_109 : Attribute type SYMINS has been removed from the S101 feature type DepthContour
-2023-10-20 06:50:28,341 INFO  [AttributeConverterImpl] 12083_182103546_67 : Attribute type CATZOC has been removed from the S101 feature type QualityOfBathymetricData
-2023-10-20 06:50:28,342 INFO  [AttributeConverterImpl] 12083_-2064752883_110 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,342 INFO  [AttributeConverterImpl] 12083_1120757999_121 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,342 INFO  [AttributeConverterImpl] 12083_-1214552538_176 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,342 INFO  [AttributeConverterImpl] 12083_-1882575369_150 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,342 INFO  [AttributeConverterImpl] 12083_288010113_210 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,342 INFO  [AttributeConverterImpl] 12083_-86761819_211 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,342 INFO  [AttributeConverterImpl] 12083_-2041241867_212 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,342 INFO  [AttributeConverterImpl] 12083_-1212202630_213 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,342 INFO  [AttributeConverterImpl] 12083_2134293615_214 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,342 INFO  [AttributeConverterImpl] 12083_-234026578_215 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,342 INFO  [AttributeConverterImpl] 12083_431387176_219 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,342 INFO  [AttributeConverterImpl] 12083_-1929785658_220 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,342 INFO  [AttributeConverterImpl] 12083_-534611697_221 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,342 INFO  [AttributeConverterImpl] 12083_2104448712_249 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,343 INFO  [AttributeConverterImpl] 12083_-1858708402_216 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,343 INFO  [AttributeConverterImpl] 12083_1556675220_118 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,343 INFO  [AttributeConverterImpl] 12083_1019977436_116 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,343 INFO  [AttributeConverterImpl] 12083_474029967_105 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,343 INFO  [AttributeConverterImpl] 12083_1643022147_102 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,343 INFO  [AttributeConverterImpl] 12083_813307365_217 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,343 INFO  [AttributeConverterImpl] 12083_-986338416_237 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,343 INFO  [AttributeConverterImpl] 12083_-442233182_136 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,345 INFO  [AttributeConverterImpl] 12083_787406186_207 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,345 INFO  [AttributeConverterImpl] 12083_-657624594_208 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,345 INFO  [AttributeConverterImpl] 12083_572144578_227 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,345 INFO  [AttributeConverterImpl] 12083_-1309458369_228 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,345 INFO  [AttributeConverterImpl] 12083_-412266580_124 : Attribute type SYMINS has been removed from the S101 feature type DepthContour
-2023-10-20 06:50:28,345 INFO  [AttributeConverterImpl] 12083_668105369_122 : Attribute type SYMINS has been removed from the S101 feature type DepthContour
-2023-10-20 06:50:28,345 INFO  [AttributeConverterImpl] 12083_727343539_117 : Attribute type SYMINS has been removed from the S101 feature type DepthContour
-2023-10-20 06:50:28,345 INFO  [AttributeConverterImpl] 12083_1437675479_115 : Attribute type SYMINS has been removed from the S101 feature type DepthContour
-2023-10-20 06:50:28,345 INFO  [AttributeConverterImpl] 12083_1889188665_112 : Attribute type SYMINS has been removed from the S101 feature type UpdateInformation
-2023-10-20 06:50:28,345 INFO  [AttributeConverterImpl] 12083_895173592_111 : Attribute type SYMINS has been removed from the S101 feature type UpdateInformation
-2023-10-20 06:50:28,345 INFO  [AttributeConverterImpl] 12083_255852697_104 : Attribute type SYMINS has been removed from the S101 feature type DepthContour
-2023-10-20 06:50:28,345 INFO  [AttributeConverterImpl] 12083_895523685_101 : Attribute type SYMINS has been removed from the S101 feature type DepthContour
-2023-10-20 06:50:28,346 INFO  [AttributeConverterImpl] 12083_2007046034_166 : Attribute type OBJNAM has been removed from the S101 feature type SpanFixed
-2023-10-20 06:50:28,346 INFO  [AttributeConverterImpl] 12083_-878450300_235 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,346 INFO  [AttributeConverterImpl] 12083_-1952596401_236 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,346 INFO  [AttributeConverterImpl] 12083_1960251257_244 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,346 INFO  [AttributeConverterImpl] 12083_2097205018_123 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,346 INFO  [AttributeConverterImpl] 12083_-1311641353_209 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,346 INFO  [AttributeConverterImpl] 12083_1196689674_125 : Attribute type SYMINS has been removed from the S101 feature type SeaAreaNamedWaterArea
-2023-10-20 06:50:28,346 INFO  [AttributeConverterImpl] 12083_-601306293_165 : Attribute type OBJNAM has been removed from the S101 feature type SpanFixed
-2023-10-20 06:50:28,346 INFO  [AttributeConverterImpl] 12083_-34733467_114 : Attribute type SYMINS has been removed from the S101 feature type UpdateInformation
-2023-10-20 06:50:28,346 INFO  [AttributeConverterImpl] 12083_-484858010_113 : Attribute type SYMINS has been removed from the S101 feature type UpdateInformation
-2023-10-20 06:50:28,347 INFO  [AttributeConverterImpl] 12083_-731040948_168 : Attribute type CONVIS has been removed from the S101 feature type AirportAirfield
-2023-10-20 06:50:28,347 INFO  [AttributeConverterImpl] 12083_-1834116367_169 : Attribute type CONVIS has been removed from the S101 feature type AirportAirfield
-2023-10-20 06:50:28,347 ERROR [AttributeConverterImpl] S57 attribute unknown : 1003 de la classe LNDARE de l'objet 12083_11017_1
-2023-10-20 06:50:28,347 ERROR [AttributeConverterImpl] S57 attribute unknown : 1003 de la classe LNDARE de l'objet 12083_11018_1
-2023-10-20 06:50:28,347 ERROR [AttributeConverterImpl] S57 attribute unknown : 1003 de la classe LNDARE de l'objet 12083_11019_1
-2023-10-20 06:50:28,347 ERROR [AttributeConverterImpl] S57 attribute unknown : 1003 de la classe LNDARE de l'objet 12083_11020_1
-2023-10-20 06:50:28,347 ERROR [AttributeConverterImpl] S57 attribute unknown : 1003 de la classe LNDARE de l'objet 12083_11021_1
-2023-10-20 06:50:28,347 ERROR [AttributeConverterImpl] S57 attribute unknown : 1003 de la classe LNDARE de l'objet 12083_11022_1
-2023-10-20 06:50:28,348 INFO  [S57ToS101Converter]  ASLXIS HULKES  from the S57 association object 12083_-1166627266_251
-2023-10-20 06:50:28,348 INFO  [S57ToS101Converter]  LNDMRK ASLXIS  from the S57 association object 12083_1538330316_252
-2023-10-20 06:50:28,348 INFO  [S57ToS101Converter]  ASLXIS LNDMRK  from the S57 association object 12083_1679013938_253
-2023-10-20 06:50:28,349 INFO  [FeaturesFinalizer] Adding feature TOPMAR 12083_-1068539894_238 to BeaconCardinal Object 12083_-1722517604_239
-2023-10-20 06:50:28,349 INFO  [FeaturesFinalizer] Adding feature TOPMAR 12083_-1911718051_242 to BeaconCardinal Object 12083_1630589096_243
-2023-10-20 06:50:28,349 INFO  [FeaturesFinalizer] Adding feature TOPMAR 12083_-1070720050_240 to BeaconCardinal Object 12083_113229422_241
-2023-10-20 06:50:28,355 INFO  [S57ToS101Converter] C_AGGR-unknown
-2023-10-20 06:50:28,355 INFO  [S57ToS101Converter] C_AGGR-unknown
-2023-10-20 06:50:28,355 INFO  [S57ToS101Converter] C_ASSO-unknown
-2023-10-20 06:50:28,355 INFO  [S57ToS101] Writing 1012J5X0001.000 to ./data-references/dataConverted/s164/V3/TestDataSets/3.6 Display Priorities/S100_ROOT/S-101/DATASET_FILES
+2023-12-27 14:53:51,599 WARN  [S57ToS101Converter] Conversion de 2J5X0001.000
+2023-12-27 14:53:51,606 ERROR [AttributeConverterImpl] S57 attribute unknown : 1003 de la classe LNDARE de l'objet 12083_11017_1
+2023-12-27 14:53:51,606 ERROR [AttributeConverterImpl] S57 attribute unknown : 1003 de la classe LNDARE de l'objet 12083_11018_1
+2023-12-27 14:53:51,606 ERROR [AttributeConverterImpl] S57 attribute unknown : 1003 de la classe LNDARE de l'objet 12083_11019_1
+2023-12-27 14:53:51,606 ERROR [AttributeConverterImpl] S57 attribute unknown : 1003 de la classe LNDARE de l'objet 12083_11020_1
+2023-12-27 14:53:51,607 ERROR [AttributeConverterImpl] S57 attribute unknown : 1003 de la classe LNDARE de l'objet 12083_11021_1
+2023-12-27 14:53:51,607 ERROR [AttributeConverterImpl] S57 attribute unknown : 1003 de la classe LNDARE de l'objet 12083_11022_1
