@@ -24,6 +24,36 @@ InformationTypes:
       #   parent: 11
       #   Value: 0.05
 
+## TODO: And these...
+  - Name: SpatialQuality
+    ID: 150/214
+    Attributes:
+      - Name: qualityOfHorizontalMeasurement
+        Value: 4
+      # - Name: horizontalPositionUncertainty
+      #   parent: 9
+      #   id: 11
+      # - Name: uncertaintyFixed
+      #   parent: 11
+      #   Value: 5
+      # - Name: uncertaintyVariableFactor
+      #   parent: 11
+      #   Value: 0.05
+      # - Name: fixedDateRange
+      #   parent: 11
+      #   id: 14
+      # - Name: dateEnd
+      #   parent: 14
+      #   Value: 20251113
+
+## TODO: And these...
+  - Name: SpatialQuality
+    ID: 150/215
+    Attributes:
+      - Name: qualityOfHorizontalMeasurement
+        Value: 4
+
+
   - Name: SpatialQuality
     ID: 150/212
     Attributes:
@@ -648,6 +678,10 @@ Features:
       - Name: categoryOfZoneOfConfidenceInData
         parent: 9
         Value: 6
+    Association:
+      - To: 150/214
+        Name: QualityOfBathymetricDataComposition
+        Role: defines        
     Geometry: S13016
 
   - Name: QualityOfBathymetricData
@@ -678,29 +712,35 @@ Features:
       - Name: categoryOfZoneOfConfidenceInData
         parent: 9
         Value: 1
-      - Name: horizontalPositionUncertainty
-        parent: 9
-        id: 11
-      - Name: uncertaintyFixed
-        parent: 11
-        Value: 5
-      - Name: uncertaintyVariableFactor
-        parent: 11
-        Value: 0.05
-      - Name: fixedDateRange
-        parent: 11
-        id: 14
-      - Name: dateEnd
-        parent: 14
-        Value: 20251113
+      # - Name: horizontalPositionUncertainty
+      #   parent: 9
+      #   id: 11
+      # - Name: uncertaintyFixed
+      #   parent: 11
+      #   Value: 5
+      # - Name: uncertaintyVariableFactor
+      #   parent: 11
+      #   Value: 0.05
+      # - Name: fixedDateRange
+      #   parent: 11
+      #   id: 14
+      # - Name: dateEnd
+      #   parent: 14
+      #   Value: 20251113
+    Association:
+      - To: 150/215
+        Name: QualityOfBathymetricDataComposition
+        Role: defines      
     Geometry: S13018
 
   - Name: DataCoverage
     Foid: 1810:1:2
     Prim: Surface
     Attributes:
+      - Name: optimumDisplayScale
+        Value: 22000      
       - Name: maximumDisplayScale
-        Value: 22000
+        Value: 12000
       - Name: minimumDisplayScale
         Value: 90000
     Geometry: S13019
@@ -739,6 +779,10 @@ Features:
       - Name: dateEnd
         parent: 11
         Value: 20251113
+    Association:
+      - To: 150/211
+        Name: QualityOfBathymetricDataComposition
+        Role: defines        
     Geometry: S13021
 
   - Name: QualityOfNonBathymetricData
