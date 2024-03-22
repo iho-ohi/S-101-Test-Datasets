@@ -1057,6 +1057,22 @@ Features:
         Value: 45000        
     Geometry: S13047
 
+  - Name: SoundingDatum
+    Foid: 1810:3877773491:4
+    Prim: Surface
+    Attributes:
+      - Name: verticalDatum
+        Value: 23
+    Geometry: S13047
+  - Name: VerticalDatumOfData
+    Foid: 1810:3877745791:4
+    Prim: Surface
+    Attributes:
+      - Name: verticalDatum
+        Value: 17
+    Geometry: S13047
+
+
   - Name: Coastline
     Foid: 1810:813:1
     Prim: Curve
