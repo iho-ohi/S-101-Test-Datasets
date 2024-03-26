@@ -156,7 +156,7 @@ Features:
       - Name: optimumDisplayScale
         Value: 45000
       - Name: minimumDisplayScale
-        Value: 90000
+        Value: 180000
     Geometry: S1301
 
   - Name: SoundingDatum

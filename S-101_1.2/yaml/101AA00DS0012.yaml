@@ -535,7 +535,7 @@ Features:
       - Name: maximumDisplayScale
         Value: 22000
       - Name: minimumDisplayScale
-        Value: 90000
+        Value: 180000
       - Name: optimumDisplayScale
         Value: 22000        
     Geometry: S13018
