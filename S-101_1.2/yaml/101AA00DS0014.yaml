@@ -378,43 +378,43 @@ CompositeCurves:
 Depths:
 Surfaces:
   - Name: S1303
-    Exterior: RC1201
+    Exterior: C1201
   - Name: S13015
-    Exterior: RC12040
+    Exterior: C12040
   - Name: S13017
-    Exterior: RC12042
+    Exterior: C12042
   - Name: S13018
-    Exterior: RC12043
+    Exterior: C12043
   - Name: S13019
-    Exterior: RC12512
+    Exterior: C12512
   - Name: S1309
-    Exterior: RC12031
+    Exterior: C12031
   - Name: S13022
-    Exterior: RC12046
+    Exterior: C12046
   - Name: S13016
-    Exterior: RC12041
+    Exterior: C12041
   - Name: S1306
-    Exterior: RC1258
+    Exterior: C1258
   - Name: S13020
-    Exterior: RC12044
+    Exterior: C12044
   - Name: S13010
-    Exterior: RC12032
+    Exterior: C12032
   - Name: S1301
-    Exterior: RC1201
+    Exterior: C1201
   - Name: S13012
-    Exterior: RC12038
+    Exterior: C12038
   - Name: S13013
-    Exterior: RC12511
+    Exterior: C12511
   - Name: S13021
-    Exterior: RC12045
+    Exterior: C12045
   - Name: S13011
-    Exterior: RC12510
+    Exterior: C12510
   - Name: S13014
-    Exterior: RC12039
+    Exterior: C12039
   - Name: S1302
-    Exterior: RC1201
+    Exterior: C1201
   - Name: S1304
-    Exterior: RC1201
+    Exterior: C1201
     Interior:
     - Hole: C1251
     - Hole: C1252
@@ -423,11 +423,11 @@ Surfaces:
     - Hole: C1255
     - Hole: C1256
   - Name: S1305
-    Exterior: RC1257
+    Exterior: C1257
   - Name: S1307
-    Exterior: RC12030
+    Exterior: C12030
   - Name: S1308
-    Exterior: RC1259
+    Exterior: C1259
 Features:
 
   - Name: QualityOfBathymetricData
