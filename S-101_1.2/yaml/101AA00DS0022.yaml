@@ -97,7 +97,7 @@ Surfaces:
   - Name: S1309
     Exterior: C1206
   - Name: S13013
-    Exterior: C12010
+    Exterior: RC12010
   - Name: S1301
     Exterior: C1201
   - Name: S1305
@@ -105,7 +105,7 @@ Surfaces:
   - Name: S13010
     Exterior: C1207
   - Name: S13014
-    Exterior: C12011
+    Exterior: RC12011
   - Name: S1302
     Exterior: C1201
   - Name: S1306
@@ -117,7 +117,7 @@ Surfaces:
   - Name: S1307
     Exterior: C1201
   - Name: S13012
-    Exterior: C1209
+    Exterior: RC1209
   - Name: S1304
     Exterior: C1203
   - Name: S1308
