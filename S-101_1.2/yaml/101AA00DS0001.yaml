@@ -297,7 +297,7 @@ Features:
         id: 5
       - Name: nameUsage
         parent: 5
-        Value: 1
+        Value: 2
       - Name: language
         parent: 5
         Value: swe
@@ -308,7 +308,7 @@ Features:
         id: 9
       - Name: nameUsage
         parent: 9
-        Value: 1
+        Value: 2
       - Name: language
         parent: 9
         Value: smn
@@ -319,7 +319,7 @@ Features:
         id: 13
       - Name: nameUsage
         parent: 13
-        Value: 1
+        Value: 2
       - Name: language
         parent: 13
         Value: sme
@@ -330,7 +330,7 @@ Features:
         id: 17
       - Name: nameUsage
         parent: 17
-        Value: 1
+        Value: 2
       - Name: language
         parent: 17
         Value: sms
