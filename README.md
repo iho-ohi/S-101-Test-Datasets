@@ -2,6 +2,15 @@
 
 ## Activities
 
+2025-02-26
+==========
+Currently work to update the Test Datasets to Edition 2.0.0 of S-101 is in progress. Work will then move to upgrading the S-164 cells.
+
+So far the following datasets have been committed as Edition 2.0.0 cells.
+1,2,3,5,19,20,21,22,23
+
+Some known errors are present in these cells primairly in relation to PRED/PRSP values but also some associations. These will be resolved in a further commit once tools allow these issues to be fixed. 
+
 2023-10-27
 ==========
 Third commit of the S-164 test datasets. This third version includes the S-101 updates as well as XML versions of each dataset encoded ina way that respects the S-101 1.1.0 encoding structure.
