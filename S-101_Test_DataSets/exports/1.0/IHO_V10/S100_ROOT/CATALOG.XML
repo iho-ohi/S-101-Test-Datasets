@@ -1009,7 +1009,7 @@
             </S100XC:producingAgency>
             <S100XC:producerCode>4</S100XC:producerCode>
             <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
-            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="S100XC:S100_PT_Locale_PropertyType" gco:isoType="ENG"/>
+            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="lan:PT_Locale_PropertyType" gco:isoType="ENG"/>
             <S100XC:metadataPointOfContact>
                 <cit:CI_Responsibility>
                     <cit:role>
@@ -1062,7 +1062,7 @@
             </S100XC:producingAgency>
             <S100XC:producerCode>4</S100XC:producerCode>
             <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
-            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="S100XC:S100_PT_Locale_PropertyType" gco:isoType="ENG"/>
+            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="lan:PT_Locale_PropertyType" gco:isoType="ENG"/>
             <S100XC:metadataPointOfContact>
                 <cit:CI_Responsibility>
                     <cit:role>
@@ -1115,7 +1115,7 @@
             </S100XC:producingAgency>
             <S100XC:producerCode>4</S100XC:producerCode>
             <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
-            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="S100XC:S100_PT_Locale_PropertyType" gco:isoType="ENG"/>
+            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="lan:PT_Locale_PropertyType" gco:isoType="ENG"/>
             <S100XC:metadataPointOfContact>
                 <cit:CI_Responsibility>
                     <cit:role>
@@ -1168,7 +1168,7 @@
             </S100XC:producingAgency>
             <S100XC:producerCode>4</S100XC:producerCode>
             <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
-            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="S100XC:S100_PT_Locale_PropertyType" gco:isoType="ENG"/>
+            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="lan:PT_Locale_PropertyType" gco:isoType="ENG"/>
             <S100XC:metadataPointOfContact>
                 <cit:CI_Responsibility>
                     <cit:role>
@@ -1221,7 +1221,7 @@
             </S100XC:producingAgency>
             <S100XC:producerCode>4</S100XC:producerCode>
             <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
-            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="S100XC:S100_PT_Locale_PropertyType" gco:isoType="ENG"/>
+            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="lan:PT_Locale_PropertyType" gco:isoType="ENG"/>
             <S100XC:metadataPointOfContact>
                 <cit:CI_Responsibility>
                     <cit:role>
@@ -1274,7 +1274,7 @@
             </S100XC:producingAgency>
             <S100XC:producerCode>4</S100XC:producerCode>
             <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
-            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="S100XC:S100_PT_Locale_PropertyType" gco:isoType="ENG"/>
+            <S100XC:defaultLocale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="lan:PT_Locale_PropertyType" gco:isoType="ENG"/>
             <S100XC:metadataPointOfContact>
                 <cit:CI_Responsibility>
                     <cit:role>
