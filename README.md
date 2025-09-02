@@ -9,7 +9,7 @@ Currently work to update the Test Datasets to Edition 2.0.0 of S-101 is in progr
 So far the following datasets have been committed as Edition 2.0.0 cells.
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
 
-Some known errors are present in these cells primairly in relation to PRED/PRSP values but also some associations. These will be resolved in a further commit once tools allow these issues to be fixed. 
+Some known errors are present in these cells primarily in relation to PRED/PRSP values but also some associations. These will be resolved in a further commit once tools allow these issues to be fixed. 
 
 2023-10-27
 ==========
